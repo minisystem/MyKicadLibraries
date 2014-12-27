@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:07
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: TPS77633
+# Package Name: R-PDSO-G08
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TPS77633 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TPS77633D
+DRAW
+P 2 1 0 0 -300 400 400 400
+P 2 1 0 0 400 400 400 -400
+P 2 1 0 0 400 -400 -300 -400
+P 2 1 0 0 -300 -400 -300 400
+X 1_GND 1 -400 300 100 R 40 40 1 1 W 
+X 2_EN 2 -400 100 100 R 40 40 1 1 I 
+X 3_IN 3 -400 -100 100 R 40 40 1 1 I 
+X 4_IN 4 -400 -300 100 R 40 40 1 1 W 
+X 5_OUT 5 500 300 100 L 40 40 1 1 C 
+X 6_OUT 6 500 100 100 L 40 40 1 1 C 
+X 7_FB/NC 7 500 -100 100 L 40 40 1 1 I 
+X 8_PG 8 500 -300 100 L 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#End Library

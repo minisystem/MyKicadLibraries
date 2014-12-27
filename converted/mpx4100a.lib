@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:14
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: MPX4100A
+# Package Name: MPX4100A
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF MPX4100A ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: MPX4100A
+DRAW
+P 2 1 0 0 -300 300 -300 -300
+P 2 1 0 0 -300 -300 300 -300
+P 2 1 0 0 300 -300 300 300
+P 2 1 0 0 300 300 -300 300
+X GND 2 -100 -500 200 U 40 40 1 1 W 
+X V1 4 300 200 0 L 40 40 1 1 U 
+X V2 5 300 -200 0 L 40 40 1 1 U 
+X VEX 6 -300 0 0 R 40 40 1 1 U 
+X VOUT 1 500 0 200 L 40 40 1 1 O 
+X VS 3 -100 500 200 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

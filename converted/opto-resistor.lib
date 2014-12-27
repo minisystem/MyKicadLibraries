@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:17
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: OPTO_RES
+# Package Name: OPTO_RES
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF OPTO_RES R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: OPTO_RES
+F0 "R" -550 -200 50 H V L B
+F1 "OPTO_RES" -500 -300 50 H V L B
+F2 "opto-resistor-OPTO_RES" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -600 0 -500 100
+P 2 1 0 0 -500 100 -400 -100
+P 2 1 0 0 -400 -100 -300 100
+P 2 1 0 0 -300 100 -200 -100
+P 2 1 0 0 -200 -100 -100 0
+P 2 1 0 0 -225 325 -325 225
+P 2 1 0 0 -325 225 -225 225
+P 2 1 0 0 -225 225 -325 125
+P 2 1 0 0 -325 125 -325 175
+P 2 1 0 0 -325 125 -275 125
+X P1 1 -800 0 200 R 40 40 1 1 B 
+X P2 2 100 0 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

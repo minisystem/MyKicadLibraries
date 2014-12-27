@@ -1,0 +1,92 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:00
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 4
+#
+# Dev Name: RIACON-2
+# Package Name: RIACON-2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RIACON-2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RIACON-2
+DRAW
+P 2 1 0 0 100 0 200 0
+P 2 1 0 0 100 -100 200 -100
+X P$1 P$1 -100 0 300 R 40 40 1 1 B 
+X P$2 P$2 -100 -100 300 R 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIACON-3
+# Package Name: RIACON-3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RIACON-3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RIACON-3
+DRAW
+P 2 1 0 0 100 100 200 100
+P 2 1 0 0 100 0 200 0
+P 2 1 0 0 100 -100 200 -100
+X P$1 P$1 -100 100 300 R 40 40 1 1 B 
+X P$2 P$2 -100 0 300 R 40 40 1 1 B 
+X P$3 P$3 -100 -100 300 R 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIACON-5
+# Package Name: RIACON-5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RIACON-5 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RIACON-5
+DRAW
+P 2 1 0 0 100 200 200 200
+P 2 1 0 0 100 100 200 100
+P 2 1 0 0 100 0 200 0
+P 2 1 0 0 100 -100 200 -100
+P 2 1 0 0 100 -200 200 -200
+X P$1 P$1 -100 200 300 R 40 40 1 1 B 
+X P$2 P$2 -100 100 300 R 40 40 1 1 B 
+X P$3 P$3 -100 0 300 R 40 40 1 1 B 
+X P$4 P$4 -100 -100 300 R 40 40 1 1 B 
+X P$5 P$5 -100 -200 300 R 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIACON-6
+# Package Name: RIACON-6
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RIACON-6 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RIACON-6
+DRAW
+P 2 1 0 0 100 300 200 300
+P 2 1 0 0 100 200 200 200
+P 2 1 0 0 100 100 200 100
+P 2 1 0 0 100 0 200 0
+P 2 1 0 0 100 -100 200 -100
+P 2 1 0 0 100 -200 200 -200
+X P$1 P$1 -100 300 300 R 40 40 1 1 B 
+X P$2 P$2 -100 200 300 R 40 40 1 1 B 
+X P$3 P$3 -100 100 300 R 40 40 1 1 B 
+X P$4 P$4 -100 0 300 R 40 40 1 1 B 
+X P$5 P$5 -100 -100 300 R 40 40 1 1 B 
+X P$6 P$6 -100 -200 300 R 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

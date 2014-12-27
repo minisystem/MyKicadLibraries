@@ -1,0 +1,223 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:17
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 7
+#
+# Dev Name: CARBON_KEY
+# Package Name: CARBON_KEY
+# Dev Tech: ''
+# Dev Prefix: S
+# Gate count = 1
+#
+DEF CARBON_KEY S 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CARBON_FINGER_KEY
+F0 "S" 75 -170 50 V V L B
+F1 "CARBON_KEY" 0 0 50 V V L B
+F2 "dome-key-CARBON_KEY" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -105 -100 -35 -100
+P 2 1 0 0 -35 -100 -35 50
+P 2 1 0 0 0 -50 0 100
+P 2 1 0 0 0 100 -70 100
+P 2 1 0 0 -70 100 -100 100
+P 2 1 0 0 -105 50 -105 -100
+P 2 1 0 0 -70 100 -70 -50
+P 2 1 0 0 -35 -100 0 -100
+X 1 1 -100 200 100 D 40 40 1 1 I 
+X 1@1 1@1 -100 100 100 R 40 40 1 1 I 
+X 1@2 1@2 0 100 100 D 40 40 1 1 I 
+X 2 2 0 -200 100 U 40 40 1 1 I 
+X 2@1 2@1 0 -100 100 L 40 40 1 1 I 
+X 2@2 2@2 -100 -100 100 U 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DOME-KEY0
+# Package Name: DOME0
+# Dev Tech: ''
+# Dev Prefix: DOME
+# Gate count = 1
+#
+DEF DOME-KEY0 DOME 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DOME-KEY
+F0 "DOME" 0 100 50 H V L B
+F1 "DOME-KEY0" 0 0 50 H V L B
+F2 "dome-key-DOME0" 0 150 50 H I C C
+DRAW
+C 0 0 35 1 1 0 N
+C 0 0 145 1 1 0 N
+C 0 0 135 1 1 0 N
+X C C 0 0 0 R 40 40 1 1 P 
+X D@1 D@1 -375 0 100 R 40 40 1 1 I 
+X D@2 D@2 -350 0 0 R 40 40 1 1 I 
+X D@3 D@3 -325 0 0 R 40 40 1 1 I 
+X D@4 D@4 -300 0 100 R 40 40 1 1 I 
+X D@5 D@5 -275 0 100 R 40 40 1 1 I 
+X D@6 D@6 -250 0 100 R 40 40 1 1 I 
+X D@7 D@7 -225 0 100 L 40 40 1 1 I 
+X D@8 D@8 -400 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DOME-KEY1
+# Package Name: DOME2
+# Dev Tech: ''
+# Dev Prefix: DOME
+# Gate count = 1
+#
+DEF DOME-KEY1 DOME 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DOME-KEY
+F0 "DOME" 0 100 50 H V L B
+F1 "DOME-KEY1" 0 0 50 H V L B
+F2 "dome-key-DOME2" 0 150 50 H I C C
+DRAW
+C 0 0 35 1 1 0 N
+C 0 0 145 1 1 0 N
+C 0 0 135 1 1 0 N
+X C C 0 0 0 R 40 40 1 1 P 
+X D@1 D@1 -375 0 100 R 40 40 1 1 I 
+X D@2 D@2 -350 0 0 R 40 40 1 1 I 
+X D@3 D@3 -325 0 0 R 40 40 1 1 I 
+X D@4 D@4 -300 0 100 R 40 40 1 1 I 
+X D@5 D@5 -275 0 100 R 40 40 1 1 I 
+X D@6 D@6 -250 0 100 R 40 40 1 1 I 
+X D@7 D@7 -225 0 100 L 40 40 1 1 I 
+X D@8 D@8 -400 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DOME_BD3_CLOSED
+# Package Name: DOME_BD3_CLOSED
+# Dev Tech: ''
+# Dev Prefix: K
+# Gate count = 1
+#
+DEF DOME_BD3_CLOSED K 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DOME_KEY_CLOSED
+F0 "K" 0 100 50 H V L B
+F1 "DOME_BD3_CLOSED" 0 -160 50 H V L B
+F2 "dome-key-DOME_BD3_CLOSED" 0 150 50 H I C C
+DRAW
+A 0 0 71 -3258 -341 1 1 0 N 60 40 60 -40
+P 2 1 0 0 -200 0 -80 0
+C 0 0 35 1 1 0 N
+X C C 200 0 200 L 40 40 1 1 I 
+X D@1 D@1 -375 0 100 R 40 40 1 1 I 
+X D@2 D@2 -350 0 100 R 40 40 1 1 I 
+X D@3 D@3 -325 0 100 R 40 40 1 1 I 
+X D@4 D@4 -300 0 100 R 40 40 1 1 I 
+X D@5 D@5 -275 0 100 L 40 40 1 1 I 
+X D@6 D@6 -250 0 100 L 40 40 1 1 I 
+X D@7 D@7 -225 0 100 L 40 40 1 1 I 
+X D@8 D@8 -400 0 100 R 40 40 1 1 I 
+X D@9 D@9 -200 0 100 L 40 40 1 1 I 
+X D@10 D@10 -175 0 100 L 40 40 1 1 I 
+X D@11 D@11 -150 0 100 L 40 40 1 1 I 
+X D@12 D@12 -125 0 100 L 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DOME_BD3_OPEN
+# Package Name: DOME_BD3_OPEN
+# Dev Tech: ''
+# Dev Prefix: K
+# Gate count = 1
+#
+DEF DOME_BD3_OPEN K 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DOME_BD3_OPEN
+F0 "K" 0 100 50 H V L B
+F1 "DOME_BD3_OPEN" 0 -160 50 H V L B
+F2 "dome-key-DOME_BD3_OPEN" 0 150 50 H I C C
+DRAW
+A 0 0 71 -3258 -341 1 1 0 N 60 40 60 -40
+P 2 1 0 0 -100 0 -80 0
+C 0 0 35 1 1 0 N
+X C C 200 0 200 L 40 40 1 1 I 
+X D@1 D@1 -275 0 100 R 40 40 1 1 I 
+X D@2 D@2 -250 0 100 R 40 40 1 1 I 
+X D@3 D@3 -225 0 100 R 40 40 1 1 I 
+X D@4 D@4 -200 0 100 R 40 40 1 1 I 
+X D@5 D@5 -175 0 100 L 40 40 1 1 I 
+X D@6 D@6 -150 0 100 L 40 40 1 1 I 
+X D@7 D@7 -125 0 100 L 40 40 1 1 I 
+X D@8 D@8 -300 0 100 R 40 40 1 1 I 
+X D@9 D@9 -100 0 100 L 40 40 1 1 I 
+X D@10 D@10 -75 0 100 L 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TA_DK
+# Package Name: TA_DK
+# Dev Tech: ''
+# Dev Prefix: SW
+# Gate count = 1
+#
+DEF TA_DK SW 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TA-DK
+F0 "SW" -100 100 50 H V R T
+F1 "TA_DK" 0 0 50 H V R T
+F2 "dome-key-TA_DK" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 50
+P 2 1 0 0 0 30 0 100
+P 2 1 0 0 0 100 -50 100
+P 2 1 0 0 0 100 50 100
+P 2 1 0 0 200 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 100 -100 200 -100
+X 1 1 -200 0 100 R 40 40 1 1 I 
+X 2 2 300 0 100 L 40 40 1 1 I 
+X 2@1 2@1 280 0 100 L 40 40 1 1 I 
+X 2@2 2@2 260 0 100 L 40 40 1 1 I 
+X 2@3 2@3 240 0 100 L 40 40 1 1 I 
+X 2@4 2@4 300 -100 100 L 40 40 1 1 I 
+X 2@5 2@5 280 -100 100 L 40 40 1 1 I 
+X 2@6 2@6 260 -100 100 L 40 40 1 1 I 
+X 2@7 2@7 240 -100 100 L 40 40 1 1 I 
+X 2@8 2@8 220 -100 100 L 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TA_NDK
+# Package Name: TA_NDK
+# Dev Tech: ''
+# Dev Prefix: SW
+# Gate count = 1
+#
+DEF TA_NDK SW 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TA-NDK
+F0 "SW" -100 100 50 H V R T
+F1 "TA_NDK" 0 0 50 H V R T
+F2 "dome-key-TA_NDK" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 200 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 100 -100 200 -100
+P 2 1 0 0 -100 0 100 50
+P 2 1 0 0 0 30 0 100
+P 2 1 0 0 0 100 -50 100
+P 2 1 0 0 0 100 50 100
+X 1 1 -200 0 100 R 40 40 1 1 I 
+X 2 2 300 0 100 L 40 40 1 1 I 
+X 2@1 2@1 280 0 100 L 40 40 1 1 I 
+X 2@2 2@2 260 0 100 L 40 40 1 1 I 
+X 2@3 2@3 240 0 100 L 40 40 1 1 I 
+X 2@4 2@4 300 -100 100 L 40 40 1 1 I 
+X 2@5 2@5 280 -100 100 L 40 40 1 1 I 
+X 2@6 2@6 260 -100 100 L 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#End Library

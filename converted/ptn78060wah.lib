@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:28
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: PTN78060WAH
+# Package Name: PTN78060WAH
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PTN78060WAH ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PTN78060WAH
+DRAW
+P 2 1 0 0 -500 300 500 300
+P 2 1 0 0 500 300 500 -600
+P 2 1 0 0 500 -600 -500 -600
+P 2 1 0 0 -500 -600 -500 300
+T 0 -565 -65 70 0 1 0 2
+T 0 -65 435 70 0 1 0 5
+T 0 635 -65 70 0 1 0 6
+T 0 235 -665 70 0 1 0 4
+T 0 35 -665 70 0 1 0 7
+T 0 -165 -665 70 0 1 0 1
+T 0 -365 -665 70 0 1 0 3
+X ADJUST 4 300 -800 200 U 40 40 1 1 B 
+X GND_1 1 -100 -800 200 U 40 40 1 1 B 
+X GND_2 7 100 -800 200 U 40 40 1 1 B 
+X INHIBIT 3 -300 -800 200 U 40 40 1 1 B I
+X SENSE 5 0 500 200 D 40 40 1 1 B 
+X VI 2 -700 0 200 R 40 40 1 1 B 
+X VO 6 700 0 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

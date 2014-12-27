@@ -1,0 +1,52 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:06
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: TMP100
+# Package Name: SOT23-6
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TMP100 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMP100
+DRAW
+P 2 1 0 0 -400 0 400 0
+P 2 1 0 0 400 0 400 900
+P 2 1 0 0 400 900 -400 900
+P 2 1 0 0 -400 900 -400 0
+X ADR0 P$5 500 300 100 L 40 40 1 1 B 
+X ADR1 P$3 500 600 100 L 40 40 1 1 B 
+X GND P$2 0 -100 100 U 40 40 1 1 W 
+X SCL P$1 -500 600 100 R 40 40 1 1 B 
+X SDA P$6 -500 300 100 R 40 40 1 1 B 
+X VCC P$4 0 1000 100 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TMP101
+# Package Name: SOT23-6
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TMP101 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMP101
+DRAW
+P 2 1 0 0 -200 1300 600 1300
+P 2 1 0 0 600 1300 600 400
+P 2 1 0 0 600 400 -200 400
+P 2 1 0 0 -200 400 -200 1300
+X ADR0 P$5 700 700 100 L 40 40 1 1 B 
+X ALM P$3 700 1000 100 L 40 40 1 1 B 
+X GND P$2 200 300 100 U 40 40 1 1 W 
+X SCL P$1 -300 1000 100 R 40 40 1 1 B 
+X SDA P$6 -300 700 100 R 40 40 1 1 B 
+X VCC P$4 200 1400 100 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

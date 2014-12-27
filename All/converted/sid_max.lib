@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:01
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: MAX2606
+# Package Name: SOT23
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF MAX2606 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: MAX2606
+DRAW
+P 2 1 0 0 -700 1100 -100 1100
+P 2 1 0 0 -100 1100 -100 -300
+P 2 1 0 0 -100 -300 -700 -300
+P 2 1 0 0 -700 -300 -700 1100
+T 0 -80 -365 70 0 1 0 MAX~2606~VCO
+X GND GND -900 700 200 R 40 40 1 1 W 
+X IND IND -900 900 200 R 40 40 1 1 B 
+X OUT+ O+ -900 -100 200 R 40 40 1 1 O 
+X OUT- O- -900 300 200 R 40 40 1 1 O 
+X TUNE T -900 500 200 R 40 40 1 1 I 
+X VCC VCC -900 100 200 R 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,82 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:21
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: BPW85C
+# Package Name: LED3MM
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF BPW85C T 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IR-TRANSISTOR
+F0 "T" -400 300 50 H V L B
+F1 "BPW85C" -400 200 50 H V L B
+F2 "vishay_tsal4400_bpw85c-LED3MM" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 100 20 60
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 60 -95 90 -95
+P 2 1 0 0 90 -95 70 -70
+P 2 1 0 0 70 -70 60 -90
+P 2 1 0 0 60 -90 75 -90
+P 2 1 0 0 75 -90 70 -80
+P 2 1 0 0 -80 -10 -50 -50
+P 2 1 0 0 -50 -50 -100 -50
+P 2 1 0 0 -100 -50 -80 -10
+P 2 1 0 0 -89 -30 -137 -6
+P 2 1 0 0 -90 -45 -60 -45
+P 2 1 0 0 -60 -45 -80 -20
+P 2 1 0 0 -80 -20 -90 -40
+P 2 1 0 0 -90 -40 -75 -40
+P 2 1 0 0 -75 -40 -80 -30
+P 2 1 0 0 -80 40 -50 0
+P 2 1 0 0 -50 0 -100 0
+P 2 1 0 0 -100 0 -80 40
+P 2 1 0 0 -89 19 -137 43
+P 2 1 0 0 -90 5 -60 5
+P 2 1 0 0 -60 5 -80 30
+P 2 1 0 0 -80 30 -90 10
+P 2 1 0 0 -90 10 -75 10
+P 2 1 0 0 -75 10 -80 20
+S -10 -100 20 100 1 1 0 F
+X C K 100 200 100 D 40 40 1 1 P 
+X E A 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TSAL4400
+# Package Name: LED3MM
+# Dev Tech: ''
+# Dev Prefix: LED
+# Gate count = 1
+#
+DEF TSAL4400 LED 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IR-LED
+F0 "LED" 105 -70 50 V V L B
+F1 "TSAL4400" 190 -70 50 V V L B
+F2 "vishay_tsal4400_bpw85c-LED3MM" 0 150 50 H I C C
+DRAW
+P 6 1 1 0     -135 15 -120 50 -120 50 -100 30 -100 30 -135 15 F
+P 6 1 1 0     -130 -30 -115 5 -115 5 -95 -15 -95 -15 -130 -30 F
+P 2 1 0 0 50 100 0 0
+P 2 1 0 0 0 0 -50 100
+P 2 1 0 0 50 0 0 0
+P 2 1 0 0 0 0 -50 0
+P 2 1 0 0 50 100 0 100
+P 2 1 0 0 0 100 -50 100
+P 2 1 0 0 0 100 0 0
+P 2 1 0 0 -80 70 -135 15
+P 2 1 0 0 -75 25 -130 -30
+X A@1 A 0 200 100 D 40 40 1 1 P 
+X C@2 K 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

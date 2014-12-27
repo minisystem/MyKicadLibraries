@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:23
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: ICS512
+# Package Name: ICS512
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICS512 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICS512
+DRAW
+P 2 1 0 0 400 600 400 -600
+P 2 1 0 0 400 -600 -400 -600
+P 2 1 0 0 -400 -600 -400 600
+P 2 1 0 0 -400 600 400 600
+T 0 273 667 60 0 1 0 ICS512
+X CLK 5 -600 -100 200 R 40 40 1 1 B 
+X GND 3 600 -500 200 L 40 40 1 1 B 
+X REF 4 -600 -500 200 R 40 40 1 1 B 
+X S0 6 -600 500 200 R 40 40 1 1 B 
+X S1 7 -600 300 200 R 40 40 1 1 B 
+X VDD 2 600 -300 200 L 40 40 1 1 B 
+X X1/ICLK 1 600 500 200 L 40 40 1 1 B 
+X X2 8 600 300 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

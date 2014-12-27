@@ -1,0 +1,2974 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:19
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 44
+#
+# Dev Name: GICV2.5-2-G
+# Package Name: GICV2.5-2-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF GICV2.5-2-G X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-2-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-2-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKV+VD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-2-GF
+# Package Name: GICV2.5-2-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF GICV2.5-2-GF X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-2-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-2-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKV+VD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-3-G
+# Package Name: GICV2.5-3-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF GICV2.5-3-G X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-3-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-3-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKV+VD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-3-GF
+# Package Name: GICV2.5-3-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF GICV2.5-3-GF X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-3-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-3-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKV+VD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-4-G
+# Package Name: GICV2.5-4-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF GICV2.5-4-G X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-4-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-4-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKV+VD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-4-GF
+# Package Name: GICV2.5-4-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF GICV2.5-4-GF X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-4-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-4-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKV+VD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-5-G
+# Package Name: GICV2.5-5-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF GICV2.5-5-G X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-5-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-5-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKV+VD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-5-GF
+# Package Name: GICV2.5-5-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF GICV2.5-5-GF X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-5-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-5-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKV+VD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-6-G
+# Package Name: GICV2.5-6-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF GICV2.5-6-G X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-6-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-6-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKV+VD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-6-GF
+# Package Name: GICV2.5-6-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF GICV2.5-6-GF X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-6-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-6-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKV+VD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-7-G
+# Package Name: GICV2.5-7-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF GICV2.5-7-G X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-7-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-7-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKV+VD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-7-GF
+# Package Name: GICV2.5-7-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF GICV2.5-7-GF X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-7-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-7-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKV+VD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-8-G
+# Package Name: GICV2.5-8-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF GICV2.5-8-G X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-8-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-8-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKBD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SKV+VD
+P 2 8 0 0 -350 0 -250 0
+P 2 8 0 0 -250 0 -150 0
+A -150 0 50 -899 899 8 1 0 N -150 -50 -150 50
+C -400 0 50 8 1 0 N
+X 1 8 0 0 100 L 40 40 8 1 P 
+X 1A 8A 100 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-8-GF
+# Package Name: GICV2.5-8-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF GICV2.5-8-GF X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-8-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-8-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKBD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SKV+VD
+P 2 8 0 0 -350 0 -250 0
+P 2 8 0 0 -250 0 -150 0
+A -150 0 50 -899 899 8 1 0 N -150 -50 -150 50
+C -400 0 50 8 1 0 N
+X 1 8 0 0 100 L 40 40 8 1 P 
+X 1A 8A 100 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-9-G
+# Package Name: GICV2.5-9-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF GICV2.5-9-G X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-9-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-9-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKBD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SKBD
+P 2 8 0 0 -350 0 -250 0
+P 2 8 0 0 -250 0 -150 0
+A -150 0 50 -899 899 8 1 0 N -150 -50 -150 50
+C -400 0 50 8 1 0 N
+X 1 8 0 0 100 L 40 40 8 1 P 
+X 1A 8A 100 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SKV+VD
+P 2 9 0 0 -350 0 -250 0
+P 2 9 0 0 -250 0 -150 0
+A -150 0 50 -899 899 9 1 0 N -150 -50 -150 50
+C -400 0 50 9 1 0 N
+X 1 9 0 0 100 L 40 40 9 1 P 
+X 1A 9A 100 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-9-GF
+# Package Name: GICV2.5-9-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF GICV2.5-9-GF X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-9-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-9-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKBD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SKBD
+P 2 8 0 0 -350 0 -250 0
+P 2 8 0 0 -250 0 -150 0
+A -150 0 50 -899 899 8 1 0 N -150 -50 -150 50
+C -400 0 50 8 1 0 N
+X 1 8 0 0 100 L 40 40 8 1 P 
+X 1A 8A 100 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SKV+VD
+P 2 9 0 0 -350 0 -250 0
+P 2 9 0 0 -250 0 -150 0
+A -150 0 50 -899 899 9 1 0 N -150 -50 -150 50
+C -400 0 50 9 1 0 N
+X 1 9 0 0 100 L 40 40 9 1 P 
+X 1A 9A 100 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-10-G
+# Package Name: GICV2.5-10-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF GICV2.5-10-G X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-10-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-10-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKBD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SKBD
+P 2 8 0 0 -350 0 -250 0
+P 2 8 0 0 -250 0 -150 0
+A -150 0 50 -899 899 8 1 0 N -150 -50 -150 50
+C -400 0 50 8 1 0 N
+X 1 8 0 0 100 L 40 40 8 1 P 
+X 1A 8A 100 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SKBD
+P 2 9 0 0 -350 0 -250 0
+P 2 9 0 0 -250 0 -150 0
+A -150 0 50 -899 899 9 1 0 N -150 -50 -150 50
+C -400 0 50 9 1 0 N
+X 1 9 0 0 100 L 40 40 9 1 P 
+X 1A 9A 100 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SKV+VD
+P 2 10 0 0 -350 0 -250 0
+P 2 10 0 0 -250 0 -150 0
+A -150 0 50 -899 899 10 1 0 N -150 -50 -150 50
+C -400 0 50 10 1 0 N
+X 1 10 0 0 100 L 40 40 10 1 P 
+X 1A 10A 100 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-10-GF
+# Package Name: GICV2.5-10-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF GICV2.5-10-GF X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-10-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-10-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKBD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SKBD
+P 2 8 0 0 -350 0 -250 0
+P 2 8 0 0 -250 0 -150 0
+A -150 0 50 -899 899 8 1 0 N -150 -50 -150 50
+C -400 0 50 8 1 0 N
+X 1 8 0 0 100 L 40 40 8 1 P 
+X 1A 8A 100 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SKBD
+P 2 9 0 0 -350 0 -250 0
+P 2 9 0 0 -250 0 -150 0
+A -150 0 50 -899 899 9 1 0 N -150 -50 -150 50
+C -400 0 50 9 1 0 N
+X 1 9 0 0 100 L 40 40 9 1 P 
+X 1A 9A 100 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SKV+VD
+P 2 10 0 0 -350 0 -250 0
+P 2 10 0 0 -250 0 -150 0
+A -150 0 50 -899 899 10 1 0 N -150 -50 -150 50
+C -400 0 50 10 1 0 N
+X 1 10 0 0 100 L 40 40 10 1 P 
+X 1A 10A 100 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-11-G
+# Package Name: GICV2.5-11-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF GICV2.5-11-G X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-11-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-11-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKBD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SKBD
+P 2 8 0 0 -350 0 -250 0
+P 2 8 0 0 -250 0 -150 0
+A -150 0 50 -899 899 8 1 0 N -150 -50 -150 50
+C -400 0 50 8 1 0 N
+X 1 8 0 0 100 L 40 40 8 1 P 
+X 1A 8A 100 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SKBD
+P 2 9 0 0 -350 0 -250 0
+P 2 9 0 0 -250 0 -150 0
+A -150 0 50 -899 899 9 1 0 N -150 -50 -150 50
+C -400 0 50 9 1 0 N
+X 1 9 0 0 100 L 40 40 9 1 P 
+X 1A 9A 100 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SKBD
+P 2 10 0 0 -350 0 -250 0
+P 2 10 0 0 -250 0 -150 0
+A -150 0 50 -899 899 10 1 0 N -150 -50 -150 50
+C -400 0 50 10 1 0 N
+X 1 10 0 0 100 L 40 40 10 1 P 
+X 1A 10A 100 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SKV+VD
+P 2 11 0 0 -350 0 -250 0
+P 2 11 0 0 -250 0 -150 0
+A -150 0 50 -899 899 11 1 0 N -150 -50 -150 50
+C -400 0 50 11 1 0 N
+X 1 11 0 0 100 L 40 40 11 1 P 
+X 1A 11A 100 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-11-GF
+# Package Name: GICV2.5-11-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF GICV2.5-11-GF X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-11-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-11-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKBD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SKBD
+P 2 8 0 0 -350 0 -250 0
+P 2 8 0 0 -250 0 -150 0
+A -150 0 50 -899 899 8 1 0 N -150 -50 -150 50
+C -400 0 50 8 1 0 N
+X 1 8 0 0 100 L 40 40 8 1 P 
+X 1A 8A 100 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SKBD
+P 2 9 0 0 -350 0 -250 0
+P 2 9 0 0 -250 0 -150 0
+A -150 0 50 -899 899 9 1 0 N -150 -50 -150 50
+C -400 0 50 9 1 0 N
+X 1 9 0 0 100 L 40 40 9 1 P 
+X 1A 9A 100 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SKBD
+P 2 10 0 0 -350 0 -250 0
+P 2 10 0 0 -250 0 -150 0
+A -150 0 50 -899 899 10 1 0 N -150 -50 -150 50
+C -400 0 50 10 1 0 N
+X 1 10 0 0 100 L 40 40 10 1 P 
+X 1A 10A 100 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SKV+VD
+P 2 11 0 0 -350 0 -250 0
+P 2 11 0 0 -250 0 -150 0
+A -150 0 50 -899 899 11 1 0 N -150 -50 -150 50
+C -400 0 50 11 1 0 N
+X 1 11 0 0 100 L 40 40 11 1 P 
+X 1A 11A 100 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-12-G
+# Package Name: GICV2.5-12-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF GICV2.5-12-G X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-12-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-12-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKBD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SKBD
+P 2 8 0 0 -350 0 -250 0
+P 2 8 0 0 -250 0 -150 0
+A -150 0 50 -899 899 8 1 0 N -150 -50 -150 50
+C -400 0 50 8 1 0 N
+X 1 8 0 0 100 L 40 40 8 1 P 
+X 1A 8A 100 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SKBD
+P 2 9 0 0 -350 0 -250 0
+P 2 9 0 0 -250 0 -150 0
+A -150 0 50 -899 899 9 1 0 N -150 -50 -150 50
+C -400 0 50 9 1 0 N
+X 1 9 0 0 100 L 40 40 9 1 P 
+X 1A 9A 100 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SKBD
+P 2 10 0 0 -350 0 -250 0
+P 2 10 0 0 -250 0 -150 0
+A -150 0 50 -899 899 10 1 0 N -150 -50 -150 50
+C -400 0 50 10 1 0 N
+X 1 10 0 0 100 L 40 40 10 1 P 
+X 1A 10A 100 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SKBD
+P 2 11 0 0 -350 0 -250 0
+P 2 11 0 0 -250 0 -150 0
+A -150 0 50 -899 899 11 1 0 N -150 -50 -150 50
+C -400 0 50 11 1 0 N
+X 1 11 0 0 100 L 40 40 11 1 P 
+X 1A 11A 100 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SKV+VD
+P 2 12 0 0 -350 0 -250 0
+P 2 12 0 0 -250 0 -150 0
+A -150 0 50 -899 899 12 1 0 N -150 -50 -150 50
+C -400 0 50 12 1 0 N
+X 1 12 0 0 100 L 40 40 12 1 P 
+X 1A 12A 100 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GICV2.5-12-GF
+# Package Name: GICV2.5-12-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF GICV2.5-12-GF X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: SKBD
+F0 "X" -450 75 50 H V L B
+F1 "GICV2.5-12-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GICV2.5-12-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+P 2 1 0 0 -250 0 -150 0
+A -150 0 50 -899 899 1 1 0 N -150 -50 -150 50
+C -400 0 50 1 1 0 N
+X 1 1 0 0 100 L 40 40 1 1 P 
+X 1A 1A 100 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SKBD
+P 2 2 0 0 -350 0 -250 0
+P 2 2 0 0 -250 0 -150 0
+A -150 0 50 -899 899 2 1 0 N -150 -50 -150 50
+C -400 0 50 2 1 0 N
+X 1 2 0 0 100 L 40 40 2 1 P 
+X 1A 2A 100 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SKBD
+P 2 3 0 0 -350 0 -250 0
+P 2 3 0 0 -250 0 -150 0
+A -150 0 50 -899 899 3 1 0 N -150 -50 -150 50
+C -400 0 50 3 1 0 N
+X 1 3 0 0 100 L 40 40 3 1 P 
+X 1A 3A 100 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SKBD
+P 2 4 0 0 -350 0 -250 0
+P 2 4 0 0 -250 0 -150 0
+A -150 0 50 -899 899 4 1 0 N -150 -50 -150 50
+C -400 0 50 4 1 0 N
+X 1 4 0 0 100 L 40 40 4 1 P 
+X 1A 4A 100 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SKBD
+P 2 5 0 0 -350 0 -250 0
+P 2 5 0 0 -250 0 -150 0
+A -150 0 50 -899 899 5 1 0 N -150 -50 -150 50
+C -400 0 50 5 1 0 N
+X 1 5 0 0 100 L 40 40 5 1 P 
+X 1A 5A 100 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SKBD
+P 2 6 0 0 -350 0 -250 0
+P 2 6 0 0 -250 0 -150 0
+A -150 0 50 -899 899 6 1 0 N -150 -50 -150 50
+C -400 0 50 6 1 0 N
+X 1 6 0 0 100 L 40 40 6 1 P 
+X 1A 6A 100 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SKBD
+P 2 7 0 0 -350 0 -250 0
+P 2 7 0 0 -250 0 -150 0
+A -150 0 50 -899 899 7 1 0 N -150 -50 -150 50
+C -400 0 50 7 1 0 N
+X 1 7 0 0 100 L 40 40 7 1 P 
+X 1A 7A 100 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SKBD
+P 2 8 0 0 -350 0 -250 0
+P 2 8 0 0 -250 0 -150 0
+A -150 0 50 -899 899 8 1 0 N -150 -50 -150 50
+C -400 0 50 8 1 0 N
+X 1 8 0 0 100 L 40 40 8 1 P 
+X 1A 8A 100 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SKBD
+P 2 9 0 0 -350 0 -250 0
+P 2 9 0 0 -250 0 -150 0
+A -150 0 50 -899 899 9 1 0 N -150 -50 -150 50
+C -400 0 50 9 1 0 N
+X 1 9 0 0 100 L 40 40 9 1 P 
+X 1A 9A 100 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SKBD
+P 2 10 0 0 -350 0 -250 0
+P 2 10 0 0 -250 0 -150 0
+A -150 0 50 -899 899 10 1 0 N -150 -50 -150 50
+C -400 0 50 10 1 0 N
+X 1 10 0 0 100 L 40 40 10 1 P 
+X 1A 10A 100 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SKBD
+P 2 11 0 0 -350 0 -250 0
+P 2 11 0 0 -250 0 -150 0
+A -150 0 50 -899 899 11 1 0 N -150 -50 -150 50
+C -400 0 50 11 1 0 N
+X 1 11 0 0 100 L 40 40 11 1 P 
+X 1A 11A 100 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SKV+VD
+P 2 12 0 0 -350 0 -250 0
+P 2 12 0 0 -250 0 -150 0
+A -150 0 50 -899 899 12 1 0 N -150 -50 -150 50
+C -400 0 50 12 1 0 N
+X 1 12 0 0 100 L 40 40 12 1 P 
+X 1A 12A 100 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-2-G
+# Package Name: GMSTBV2.5-2-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF GMSTBV2.5-2-G X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-2-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-2-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK+V
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-2-GF
+# Package Name: GMSTBV2.5-2-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF GMSTBV2.5-2-GF X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-2-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-2-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK+V
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-3-G
+# Package Name: GMSTBV2.5-3-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF GMSTBV2.5-3-G X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-3-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-3-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK+V
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-3-GF
+# Package Name: GMSTBV2.5-3-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF GMSTBV2.5-3-GF X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-3-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-3-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK+V
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-4-G
+# Package Name: GMSTBV2.5-4-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF GMSTBV2.5-4-G X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-4-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-4-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK+V
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-4-GF
+# Package Name: GMSTBV2.5-4-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF GMSTBV2.5-4-GF X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-4-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-4-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK+V
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-5-G
+# Package Name: GMSTBV2.5-6-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF GMSTBV2.5-5-G X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-5-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-6-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK+V
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-5-GF
+# Package Name: GMSTBV2.5-5-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF GMSTBV2.5-5-GF X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-5-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-5-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK+V
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-6-G
+# Package Name: GMSTBV2.5-6-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF GMSTBV2.5-6-G X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-6-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-6-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK+V
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-6-GF
+# Package Name: GMSTBV2.5-6-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF GMSTBV2.5-6-GF X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-6-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-6-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK+V
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-7-G
+# Package Name: GMSTBV2.5-7-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF GMSTBV2.5-7-G X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-7-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-7-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK+V
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-7-GF
+# Package Name: GMSTBV2.5-7-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF GMSTBV2.5-7-GF X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-7-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-7-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK+V
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-8-G
+# Package Name: GMSTBV2.5-8-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF GMSTBV2.5-8-G X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-8-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-8-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK+V
+P 2 8 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 8 1 0 N -200 50 -200 -50
+P 2 8 0 0 -200 0 -100 0
+C -400 0 50 8 1 0 N
+X SK 8 0 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-8-GF
+# Package Name: GMSTBV2.5-8-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF GMSTBV2.5-8-GF X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-8-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-8-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK+V
+P 2 8 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 8 1 0 N -200 50 -200 -50
+P 2 8 0 0 -200 0 -100 0
+C -400 0 50 8 1 0 N
+X SK 8 0 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-9-G
+# Package Name: GMSTBV2.5-9-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF GMSTBV2.5-9-G X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-9-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-9-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 8 1 0 N -200 50 -200 -50
+P 2 8 0 0 -200 0 -100 0
+C -400 0 50 8 1 0 N
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK+V
+P 2 9 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 9 1 0 N -200 50 -200 -50
+P 2 9 0 0 -200 0 -100 0
+C -400 0 50 9 1 0 N
+X SK 9 0 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-9-GF
+# Package Name: GMSTBV2.5-9-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF GMSTBV2.5-9-GF X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-9-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-9-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 8 1 0 N -200 50 -200 -50
+P 2 8 0 0 -200 0 -100 0
+C -400 0 50 8 1 0 N
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK+V
+P 2 9 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 9 1 0 N -200 50 -200 -50
+P 2 9 0 0 -200 0 -100 0
+C -400 0 50 9 1 0 N
+X SK 9 0 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-10-G
+# Package Name: GMSTBV2.5-10-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF GMSTBV2.5-10-G X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-10-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-10-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 8 1 0 N -200 50 -200 -50
+P 2 8 0 0 -200 0 -100 0
+C -400 0 50 8 1 0 N
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 9 1 0 N -200 50 -200 -50
+P 2 9 0 0 -200 0 -100 0
+C -400 0 50 9 1 0 N
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK+V
+P 2 10 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 10 1 0 N -200 50 -200 -50
+P 2 10 0 0 -200 0 -100 0
+C -400 0 50 10 1 0 N
+X SK 10 0 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-10-GF
+# Package Name: GMSTBV2.5-10-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF GMSTBV2.5-10-GF X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-10-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-10-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 8 1 0 N -200 50 -200 -50
+P 2 8 0 0 -200 0 -100 0
+C -400 0 50 8 1 0 N
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 9 1 0 N -200 50 -200 -50
+P 2 9 0 0 -200 0 -100 0
+C -400 0 50 9 1 0 N
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK+V
+P 2 10 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 10 1 0 N -200 50 -200 -50
+P 2 10 0 0 -200 0 -100 0
+C -400 0 50 10 1 0 N
+X SK 10 0 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-11-G
+# Package Name: GMSTBV2.5-11-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF GMSTBV2.5-11-G X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-11-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-11-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 8 1 0 N -200 50 -200 -50
+P 2 8 0 0 -200 0 -100 0
+C -400 0 50 8 1 0 N
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 9 1 0 N -200 50 -200 -50
+P 2 9 0 0 -200 0 -100 0
+C -400 0 50 9 1 0 N
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 10 1 0 N -200 50 -200 -50
+P 2 10 0 0 -200 0 -100 0
+C -400 0 50 10 1 0 N
+X SK 10 0 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK+V
+P 2 11 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 11 1 0 N -200 50 -200 -50
+P 2 11 0 0 -200 0 -100 0
+C -400 0 50 11 1 0 N
+X SK 11 0 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-11-GF
+# Package Name: GMSTBV2.5-11-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF GMSTBV2.5-11-GF X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-11-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-11-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 8 1 0 N -200 50 -200 -50
+P 2 8 0 0 -200 0 -100 0
+C -400 0 50 8 1 0 N
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 9 1 0 N -200 50 -200 -50
+P 2 9 0 0 -200 0 -100 0
+C -400 0 50 9 1 0 N
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 10 1 0 N -200 50 -200 -50
+P 2 10 0 0 -200 0 -100 0
+C -400 0 50 10 1 0 N
+X SK 10 0 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK+V
+P 2 11 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 11 1 0 N -200 50 -200 -50
+P 2 11 0 0 -200 0 -100 0
+C -400 0 50 11 1 0 N
+X SK 11 0 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-12-G
+# Package Name: GMSTBV2.5-12-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF GMSTBV2.5-12-G X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-12-G" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-12-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 8 1 0 N -200 50 -200 -50
+P 2 8 0 0 -200 0 -100 0
+C -400 0 50 8 1 0 N
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 9 1 0 N -200 50 -200 -50
+P 2 9 0 0 -200 0 -100 0
+C -400 0 50 9 1 0 N
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 10 1 0 N -200 50 -200 -50
+P 2 10 0 0 -200 0 -100 0
+C -400 0 50 10 1 0 N
+X SK 10 0 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 11 1 0 N -200 50 -200 -50
+P 2 11 0 0 -200 0 -100 0
+C -400 0 50 11 1 0 N
+X SK 11 0 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK+V
+P 2 12 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 12 1 0 N -200 50 -200 -50
+P 2 12 0 0 -200 0 -100 0
+C -400 0 50 12 1 0 N
+X SK 12 0 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GMSTBV2.5-12-GF
+# Package Name: GMSTBV2.5-12-GF
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF GMSTBV2.5-12-GF X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -750 -25 50 H V L B
+F1 "GMSTBV2.5-12-GF" 0 0 50 H V L B
+F2 "phoenix_gicv-gf-GMSTBV2.5-12-GF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+P 2 1 0 0 -200 0 -100 0
+C -400 0 50 1 1 0 N
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 2 1 0 N -200 50 -200 -50
+P 2 2 0 0 -200 0 -100 0
+C -400 0 50 2 1 0 N
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 3 1 0 N -200 50 -200 -50
+P 2 3 0 0 -200 0 -100 0
+C -400 0 50 3 1 0 N
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 4 1 0 N -200 50 -200 -50
+P 2 4 0 0 -200 0 -100 0
+C -400 0 50 4 1 0 N
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 5 1 0 N -200 50 -200 -50
+P 2 5 0 0 -200 0 -100 0
+C -400 0 50 5 1 0 N
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 6 1 0 N -200 50 -200 -50
+P 2 6 0 0 -200 0 -100 0
+C -400 0 50 6 1 0 N
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 7 1 0 N -200 50 -200 -50
+P 2 7 0 0 -200 0 -100 0
+C -400 0 50 7 1 0 N
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 8 1 0 N -200 50 -200 -50
+P 2 8 0 0 -200 0 -100 0
+C -400 0 50 8 1 0 N
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 9 1 0 N -200 50 -200 -50
+P 2 9 0 0 -200 0 -100 0
+C -400 0 50 9 1 0 N
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 10 1 0 N -200 50 -200 -50
+P 2 10 0 0 -200 0 -100 0
+C -400 0 50 10 1 0 N
+X SK 10 0 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 11 1 0 N -200 50 -200 -50
+P 2 11 0 0 -200 0 -100 0
+C -400 0 50 11 1 0 N
+X SK 11 0 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK+V
+P 2 12 0 0 -350 0 -250 0
+A -200 0 50 -2699 -901 12 1 0 N -200 50 -200 -50
+P 2 12 0 0 -200 0 -100 0
+C -400 0 50 12 1 0 N
+X SK 12 0 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

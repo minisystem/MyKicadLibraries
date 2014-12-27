@@ -1,0 +1,78 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:27
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 3
+#
+# Dev Name: PCB-LARGE-25-HOLE
+# Package Name: LARGE_25_HOLE
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PCB-LARGE-25-HOLE ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: LARGE_25_HOLE_67MM
+DRAW
+P 2 1 0 0 -800 1000 800 1000
+P 2 1 0 0 800 1000 800 900
+P 2 1 0 0 800 900 800 -1000
+P 2 1 0 0 800 -1000 -800 -1000
+P 2 1 0 0 -800 -1000 -800 -900
+P 2 1 0 0 -800 -900 -800 1000
+C -740 940 44 1 1 0 N
+C 750 950 44 1 1 0 N
+T 0 5 935 50 0 1 0 Top
+T 0 110 -915 50 0 1 0 Bottom
+T 0 85 125 50 0 1 0 25-hole~PCB
+T 0 155 -115 50 0 1 0 Conrad~#~52~11~92
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PCB-MEDIUM
+# Package Name: MEDIUM_30_MM
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PCB-MEDIUM ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: MEDIUM_30_MM
+DRAW
+P 2 1 0 0 -400 800 400 800
+P 2 1 0 0 400 800 400 -900
+P 2 1 0 0 400 -900 -400 -900
+P 2 1 0 0 -400 -900 -400 800
+A -350 500 50 -3599 -1801 1 1 0 N -300 500 -400 500
+A -350 500 50 -1799 -1 1 1 0 N -400 500 -300 500
+T 0 -25 725 50 0 1 0 Top
+T 0 50 -775 50 0 1 0 Bottom
+T 0 50 125 50 0 1 0 PCB-Medium
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PCB-SMALL
+# Package Name: SMALL_17.5_MM
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PCB-SMALL ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SMALL_14_MM
+DRAW
+P 2 1 0 0 -200 800 200 800
+P 2 1 0 0 200 800 200 -900
+P 2 1 0 0 200 -900 -200 -900
+P 2 1 0 0 -200 -900 -200 800
+A -150 400 50 -3599 -1801 1 1 0 N -100 400 -200 400
+A -150 400 50 -3599 -1801 1 1 0 N -100 400 -200 400
+A -150 400 50 -1799 -1 1 1 0 N -200 400 -100 400
+T 0 -25 725 50 0 1 0 Top
+T 0 50 -775 50 0 1 0 Bottom
+T 0 -25 125 50 0 1 0 PCB
+T 0 25 -75 50 0 1 0 small
+ENDDRAW
+ENDDEF
+
+#End Library

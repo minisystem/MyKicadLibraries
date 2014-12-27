@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:20
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: UICC_TYPE1
+# Package Name: UICC_READER_I
+# Dev Tech: ''
+# Dev Prefix: UICC_
+# Gate count = 1
+#
+DEF UICC_TYPE1 UICC_ 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: UICC_TYPE1
+F0 "UICC_" -400 400 50 H V L B
+F1 "UICC_TYPE1" -400 300 50 H V L B
+F2 "uicc_card_reader-UICC_READER_I" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -400 300 -400 -300
+P 2 1 0 0 -400 -300 200 -300
+P 2 1 0 0 200 -300 200 300
+P 2 1 0 0 200 300 -400 300
+X CLK C3 -600 -200 200 R 40 40 1 1 I C
+X GND C5 400 200 200 L 40 40 1 1 w 
+X I/O C7 400 -200 200 L 40 40 1 1 B 
+X RST C2 -600 0 200 R 40 40 1 1 I 
+X VCC C1 -600 200 200 R 40 40 1 1 W 
+X VPP C6 400 0 200 L 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,4618 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:23
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 184
+#
+# Dev Name: WE-3-WAY_MULTILINE_74273001
+# Package Name: WE-3WAY_74273001
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-3-WAY_MULTILINE_74273001 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: 3L
+F0 "L" -150 300 50 H V L B
+F1 "WE-3-WAY_MULTILINE_74273001" -150 -350 50 H V L B
+F2 "wuerth_elektronik_v5-WE-3WAY_74273001" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 125 100 125
+P 2 1 0 0 100 125 100 75
+P 2 1 0 0 100 75 -100 75
+P 2 1 0 0 -100 -75 100 -75
+P 2 1 0 0 100 -75 100 -125
+P 2 1 0 0 100 -125 -100 -125
+S -100 -50 100 50 1 1 0 F
+S -100 150 100 250 1 1 0 F
+S -100 -250 100 -150 1 1 0 F
+X P$1 1 -300 0 200 R 40 40 1 1 P 
+X P$2 2 300 0 200 L 40 40 1 1 P 
+X P$3 3 300 200 200 L 40 40 1 1 P 
+X P$4 4 -300 200 200 R 40 40 1 1 P 
+X P$5 5 -300 -200 200 R 40 40 1 1 P 
+X P$6 6 300 -200 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-4-WAY_MULTILINE_74273002
+# Package Name: WE-4WAY_74273002
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-4-WAY_MULTILINE_74273002 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: 4-L
+F0 "L" -150 400 50 H V L B
+F1 "WE-4-WAY_MULTILINE_74273002" -150 -450 50 H V L B
+F2 "wuerth_elektronik_v5-WE-4WAY_74273002" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -225 100 -225
+P 2 1 0 0 100 -225 100 -175
+P 2 1 0 0 100 -175 -100 -175
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+P 2 1 0 0 -100 175 100 175
+P 2 1 0 0 100 175 100 225
+P 2 1 0 0 100 225 -100 225
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+S -50 200 50 400 1 1 0 F
+S -50 -400 50 -200 1 1 0 F
+X P$1 1 -300 -300 200 R 40 40 1 1 P 
+X P$2 2 300 -300 200 L 40 40 1 1 P 
+X P$3 3 -300 -100 200 R 40 40 1 1 P 
+X P$4 4 300 -100 200 L 40 40 1 1 P 
+X P$5 5 -300 100 200 R 40 40 1 1 P 
+X P$6 6 300 100 200 L 40 40 1 1 P 
+X P$7 7 -300 300 200 R 40 40 1 1 P 
+X P$8 8 300 300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-4-WAY_MULTILINE_742730021
+# Package Name: WE-4WAY_742730021
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-4-WAY_MULTILINE_742730021 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: 4-L
+F0 "L" -150 400 50 H V L B
+F1 "WE-4-WAY_MULTILINE_742730021" -150 -450 50 H V L B
+F2 "wuerth_elektronik_v5-WE-4WAY_742730021" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -225 100 -225
+P 2 1 0 0 100 -225 100 -175
+P 2 1 0 0 100 -175 -100 -175
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+P 2 1 0 0 -100 175 100 175
+P 2 1 0 0 100 175 100 225
+P 2 1 0 0 100 225 -100 225
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+S -50 200 50 400 1 1 0 F
+S -50 -400 50 -200 1 1 0 F
+X P$1 1 -300 -300 200 R 40 40 1 1 P 
+X P$2 2 300 -300 200 L 40 40 1 1 P 
+X P$3 3 -300 -100 200 R 40 40 1 1 P 
+X P$4 4 300 -100 200 L 40 40 1 1 P 
+X P$5 5 -300 100 200 R 40 40 1 1 P 
+X P$6 6 300 100 200 L 40 40 1 1 P 
+X P$7 7 -300 300 200 R 40 40 1 1 P 
+X P$8 8 300 300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-4-WAY_MULTILINE_742730022
+# Package Name: WE-4WAY_742730022
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-4-WAY_MULTILINE_742730022 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: 4-L
+F0 "L" -150 400 50 H V L B
+F1 "WE-4-WAY_MULTILINE_742730022" -150 -450 50 H V L B
+F2 "wuerth_elektronik_v5-WE-4WAY_742730022" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -225 100 -225
+P 2 1 0 0 100 -225 100 -175
+P 2 1 0 0 100 -175 -100 -175
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+P 2 1 0 0 -100 175 100 175
+P 2 1 0 0 100 175 100 225
+P 2 1 0 0 100 225 -100 225
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+S -50 200 50 400 1 1 0 F
+S -50 -400 50 -200 1 1 0 F
+X P$1 1 -300 -300 200 R 40 40 1 1 P 
+X P$2 2 300 -300 200 L 40 40 1 1 P 
+X P$3 3 -300 -100 200 R 40 40 1 1 P 
+X P$4 4 300 -100 200 L 40 40 1 1 P 
+X P$5 5 -300 100 200 R 40 40 1 1 P 
+X P$6 6 300 100 200 L 40 40 1 1 P 
+X P$7 7 -300 300 200 R 40 40 1 1 P 
+X P$8 8 300 300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-4-WAY_MULTILINE_742730023
+# Package Name: WE-4WAY_742730023
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-4-WAY_MULTILINE_742730023 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: 4-L
+F0 "L" -150 400 50 H V L B
+F1 "WE-4-WAY_MULTILINE_742730023" -150 -450 50 H V L B
+F2 "wuerth_elektronik_v5-WE-4WAY_742730023" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -225 100 -225
+P 2 1 0 0 100 -225 100 -175
+P 2 1 0 0 100 -175 -100 -175
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+P 2 1 0 0 -100 175 100 175
+P 2 1 0 0 100 175 100 225
+P 2 1 0 0 100 225 -100 225
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+S -50 200 50 400 1 1 0 F
+S -50 -400 50 -200 1 1 0 F
+X P$1 1 -300 -300 200 R 40 40 1 1 P 
+X P$2 2 300 -300 200 L 40 40 1 1 P 
+X P$3 3 -300 -100 200 R 40 40 1 1 P 
+X P$4 4 300 -100 200 L 40 40 1 1 P 
+X P$5 5 -300 100 200 R 40 40 1 1 P 
+X P$6 6 300 100 200 L 40 40 1 1 P 
+X P$7 7 -300 300 200 R 40 40 1 1 P 
+X P$8 8 300 300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-5HOLE-SMD_7427511
+# Package Name: WE-5HOLE-SMD_7427511
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-5HOLE-SMD_7427511 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-5HOLE-SMD_7427511" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-5HOLE-SMD_7427511" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-5HOLE-SMD_7427512
+# Package Name: WE-5HOLE-SMD_7427512
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-5HOLE-SMD_7427512 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-5HOLE-SMD_7427512" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-5HOLE-SMD_7427512" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-ASI_L
+# Package Name: WE-ASI_L
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-ASI_L L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-ASI_L" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-ASI_L" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-ASI_M
+# Package Name: WE-ASI_M
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-ASI_M L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-ASI_M" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-ASI_M" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 2 -200 0 100 R 40 40 1 1 P 
+X 2 1 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-ASI_SENSOR
+# Package Name: WE-ASI_SENSOR
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-ASI_SENSOR L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-ASI_SENSOR" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-ASI_SENSOR" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 2 -200 0 100 R 40 40 1 1 P 
+X 2 1 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-BAL0603
+# Package Name: WE-BAL_0603
+# Dev Tech: ''
+# Dev Prefix: BAL
+# Gate count = 1
+#
+DEF WE-BAL0603 BAL 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-BAL
+F0 "BAL" 0 0 50 H V C C
+F1 "WE-BAL0603" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-BAL_0603" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -200 -100
+P 2 1 0 0 -200 -100 200 -100
+P 2 1 0 0 200 -100 200 200
+P 2 1 0 0 200 200 -200 200
+T 1 -325 25 50 0 1 0 >Name
+T 1 275 50 50 0 1 0 >Value
+X 1 1 100 400 200 D 40 40 1 1 P 
+X 2 2 0 400 200 D 40 40 1 1 P 
+X 3 3 -100 400 200 D 40 40 1 1 P 
+X 4 4 -100 -300 200 U 40 40 1 1 P 
+X 5 5 0 -300 200 U 40 40 1 1 P 
+X 6 6 100 -300 200 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-BAL0805
+# Package Name: WE-BAL_0805
+# Dev Tech: ''
+# Dev Prefix: BAL
+# Gate count = 1
+#
+DEF WE-BAL0805 BAL 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-BAL
+F0 "BAL" 0 0 50 H V C C
+F1 "WE-BAL0805" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-BAL_0805" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -200 -100
+P 2 1 0 0 -200 -100 200 -100
+P 2 1 0 0 200 -100 200 200
+P 2 1 0 0 200 200 -200 200
+T 1 -325 25 50 0 1 0 >Name
+T 1 275 50 50 0 1 0 >Value
+X 1 1 100 400 200 D 40 40 1 1 P 
+X 2 2 0 400 200 D 40 40 1 1 P 
+X 3 3 -100 400 200 D 40 40 1 1 P 
+X 4 4 -100 -300 200 U 40 40 1 1 P 
+X 5 5 0 -300 200 U 40 40 1 1 P 
+X 6 6 100 -300 200 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-BAL1206
+# Package Name: WE-BAL_1206
+# Dev Tech: ''
+# Dev Prefix: BAL
+# Gate count = 1
+#
+DEF WE-BAL1206 BAL 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-BAL
+F0 "BAL" 0 0 50 H V C C
+F1 "WE-BAL1206" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-BAL_1206" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -200 -100
+P 2 1 0 0 -200 -100 200 -100
+P 2 1 0 0 200 -100 200 200
+P 2 1 0 0 200 200 -200 200
+T 1 -325 25 50 0 1 0 >Name
+T 1 275 50 50 0 1 0 >Value
+X 1 1 100 400 200 D 40 40 1 1 P 
+X 2 2 0 400 200 D 40 40 1 1 P 
+X 3 3 -100 400 200 D 40 40 1 1 P 
+X 4 4 -100 -300 200 U 40 40 1 1 P 
+X 5 5 0 -300 200 U 40 40 1 1 P 
+X 6 6 100 -300 200 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-BPF_T1/5_0805
+# Package Name: WE-BPF_0805_T1
+# Dev Tech: ''
+# Dev Prefix: WE-BPF
+# Gate count = 1
+#
+DEF WE-BPF_T1/5_0805 WE-BPF 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: BPF_T1
+F0 "WE-BPF" 0 0 50 H V C C
+F1 "WE-BPF_T1/5_0805" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-BPF_0805_T1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -200 -200
+P 2 1 0 0 -200 -200 400 -200
+P 2 1 0 0 400 -200 400 200
+P 2 1 0 0 400 200 -200 200
+X GND@1 1 600 100 200 L 40 40 1 1 P 
+X GND@2 3 -400 -100 200 R 40 40 1 1 P 
+X IN 4 -400 100 200 R 40 40 1 1 P 
+X OUT 2 600 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-BPF_T1/5_1008
+# Package Name: WE-BPF_1008_T5
+# Dev Tech: ''
+# Dev Prefix: WE-BPF
+# Gate count = 1
+#
+DEF WE-BPF_T1/5_1008 WE-BPF 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: BPF_T1
+F0 "WE-BPF" 0 0 50 H V C C
+F1 "WE-BPF_T1/5_1008" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-BPF_1008_T5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -200 -200
+P 2 1 0 0 -200 -200 400 -200
+P 2 1 0 0 400 -200 400 200
+P 2 1 0 0 400 200 -200 200
+X GND@1 1 600 100 200 L 40 40 1 1 P 
+X GND@2 3 -400 -100 200 R 40 40 1 1 P 
+X IN 4 -400 100 200 R 40 40 1 1 P 
+X OUT 2 600 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-BPF_T1/5_1206
+# Package Name: WE-BPF_1206_T1
+# Dev Tech: ''
+# Dev Prefix: WE-BPF
+# Gate count = 1
+#
+DEF WE-BPF_T1/5_1206 WE-BPF 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: BPF_T1
+F0 "WE-BPF" 0 0 50 H V C C
+F1 "WE-BPF_T1/5_1206" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-BPF_1206_T1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -200 -200
+P 2 1 0 0 -200 -200 400 -200
+P 2 1 0 0 400 -200 400 200
+P 2 1 0 0 400 200 -200 200
+X GND@1 1 600 100 200 L 40 40 1 1 P 
+X GND@2 2 -400 -100 200 R 40 40 1 1 P 
+X IN 3 -400 100 200 R 40 40 1 1 P 
+X OUT 4 600 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-BPF_T2_0805
+# Package Name: WE-BPF_0805_T2
+# Dev Tech: ''
+# Dev Prefix: BPF
+# Gate count = 1
+#
+DEF WE-BPF_T2_0805 BPF 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: BPF-T2
+F0 "BPF" 0 0 50 H V C C
+F1 "WE-BPF_T2_0805" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-BPF_0805_T2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 300 0 700
+P 2 1 0 0 0 700 600 700
+P 2 1 0 0 600 700 600 300
+P 2 1 0 0 600 300 0 300
+X GND@1 1 800 400 200 L 40 40 1 1 P 
+X GND@2 2 800 500 200 L 40 40 1 1 P 
+X GND@3 4 -200 600 200 R 40 40 1 1 P 
+X GND@4 5 -200 500 200 R 40 40 1 1 P 
+X I/O@1 3 800 600 200 L 40 40 1 1 P 
+X I/O@2 6 -200 400 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-BPF_T3_1206_T3
+# Package Name: WE-BPF_1206_T3
+# Dev Tech: ''
+# Dev Prefix: BPF
+# Gate count = 1
+#
+DEF WE-BPF_T3_1206_T3 BPF 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: BPF-T2
+F0 "BPF" 0 0 50 H V C C
+F1 "WE-BPF_T3_1206_T3" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-BPF_1206_T3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 300 0 700
+P 2 1 0 0 0 700 600 700
+P 2 1 0 0 600 700 600 300
+P 2 1 0 0 600 300 0 300
+X GND@1 4 800 400 200 L 40 40 1 1 P 
+X GND@2 3 800 500 200 L 40 40 1 1 P 
+X GND@3 2 -200 600 200 R 40 40 1 1 P 
+X GND@4 1 -200 500 200 R 40 40 1 1 P 
+X I/O@1 I/O@1 800 600 200 L 40 40 1 1 P 
+X I/O@2 I/O@2 -200 400 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CBF_0402
+# Package Name: 0402
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CBF_0402 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-CBF_0402" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-0402" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CBF_0603
+# Package Name: 0603
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CBF_0603 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-CBF_0603" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-0603" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CBF_0805
+# Package Name: 0805
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CBF_0805 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-CBF_0805" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-0805" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CBF_1206
+# Package Name: 1206
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CBF_1206 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-CBF_1206" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-1206" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CBF_1210
+# Package Name: 1210
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CBF_1210 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-CBF_1210" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-1210" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CBF_1806
+# Package Name: 1806
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CBF_1806 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-CBF_1806" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-1806" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CBF_1812
+# Package Name: 1812
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CBF_1812 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-CBF_1812" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-1812" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CMB_L
+# Package Name: WE-CMB_L
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CMB_L L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-CMB_L" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CMB_L" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 2 -300 -100 200 R 40 40 1 1 P 
+X 2 9 300 -100 200 L 40 40 1 1 P 
+X 3 4 -300 100 200 R 40 40 1 1 P 
+X 4 7 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CMB_M
+# Package Name: WE-CMB_M
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CMB_M L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-CMB_M" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CMB_M" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 2 300 -100 200 L 40 40 1 1 P 
+X 3 4 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CMB_S
+# Package Name: WE-CMB_S
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CMB_S L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-CMB_S" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CMB_S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 2 300 -100 200 L 40 40 1 1 P 
+X 3 4 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CMB_XL
+# Package Name: WE-CMB_XL
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CMB_XL L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-CMB_XL" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CMB_XL" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 12 300 -100 200 L 40 40 1 1 P 
+X 3 6 -300 100 200 R 40 40 1 1 P 
+X 4 7 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CMB_XS
+# Package Name: WE-CMB_XS
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CMB_XS L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-CMB_XS" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CMB_XS" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 2 300 -100 200 L 40 40 1 1 P 
+X 3 4 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CMB-NIZN_XS
+# Package Name: WE-CMB-NIZN_XS
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF WE-CMB-NIZN_XS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 2 300 -100 200 L 40 40 1 1 P 
+X 3 4 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CMS
+# Package Name: WE-CMS_7427521
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CMS L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-CMS" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CMS_7427521" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 2 -300 -100 200 R 40 40 1 1 P 
+X 2 3 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 4 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CNS_0805
+# Package Name: WE-CNS_0805
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CNS_0805 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-CNS_0805" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CNS_0805" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 2 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CNS_1206
+# Package Name: WE-CNS_1206
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CNS_1206 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-CNS_1206" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CNS_1206" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 2 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CNSW_0805
+# Package Name: WE-CNSW_0805
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CNSW_0805 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-CNSW_0805" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CNSW_0805" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 2 300 -100 200 L 40 40 1 1 P 
+X 3 4 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CNSW_1206
+# Package Name: WE-CNSW_1206
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CNSW_1206 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-CNSW_1206" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CNSW_1206" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 2 300 -100 200 L 40 40 1 1 P 
+X 3 4 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-CPI
+# Package Name: WE-CPI_744011...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-CPI L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-CPI" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-CPI_744011..." 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-DD_L/XL/XXL
+# Package Name: WE-DD_L/XL/XXL
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-DD_L/XL/XXL L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-DD_L/XL/XXL" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-DD_L/XL/XXL" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 2 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-DD_M/S
+# Package Name: WE-DD_M/S
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-DD_M/S L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-DD_M/S" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-DD_M/S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 2 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-DDF
+# Package Name: WE-DDF_744876...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-DDF L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-DDF" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-DDF_744876..." 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 2 -300 -100 200 R 40 40 1 1 P 
+X 2 3 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 4 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-FA
+# Package Name: WE-FA_S_1206
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-FA L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-4
+F0 "L" -150 400 50 H V L B
+F1 "WE-FA" -150 -450 50 H V L B
+F2 "wuerth_elektronik_v5-WE-FA_S_1206" 0 150 50 H I C C
+DRAW
+S -50 0 50 200 1 1 0 F
+S -50 -200 50 0 1 1 0 F
+S -50 -400 50 -200 1 1 0 F
+S -50 200 50 400 1 1 0 F
+X P$1 4 300 300 200 L 40 40 1 1 P 
+X P$2 5 -300 300 200 R 40 40 1 1 P 
+X P$3 1 300 100 200 L 40 40 1 1 P 
+X P$4 6 -300 100 200 R 40 40 1 1 P 
+X P$5 2 300 -100 200 L 40 40 1 1 P 
+X P$6 7 -300 -100 200 R 40 40 1 1 P 
+X P$7 3 300 -300 200 L 40 40 1 1 P 
+X P$8 8 -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-FLEX_EFD15
+# Package Name: WE-FLEX_EFD15
+# Dev Tech: ''
+# Dev Prefix: WE-FLEX
+# Gate count = 1
+#
+DEF WE-FLEX_EFD15 WE-FLEX 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TRANSFORMER
+F0 "WE-FLEX" 0 0 50 H V C C
+F1 "WE-FLEX_EFD15" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-FLEX_EFD15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 200 500 200 -300
+S 298 -303 398 -96 1 1 0 F
+S -1 -303 98 -97 1 1 0 F
+S 1 -3 101 202 1 1 0 F
+S -1 296 98 503 1 1 0 F
+S 300 296 400 503 1 1 0 F
+S 301 -3 401 202 1 1 0 F
+C -27 472 0 1 1 0 N
+C -25 477 5 1 1 0 F
+C -24 174 5 1 1 0 F
+C -28 -127 5 1 1 0 F
+C 425 -126 5 1 1 0 F
+C 425 175 5 1 1 0 F
+C 423 475 5 1 1 0 F
+T 0 -80 385 70 0 1 0 N1
+T 0 -80 85 70 0 1 0 N2
+T 0 -80 -215 70 0 1 0 N3
+T 0 520 385 70 0 1 0 N4
+T 0 520 85 70 0 1 0 N5
+T 0 520 -215 70 0 1 0 N6
+T 0 -25 575 50 0 1 0 >Name
+X 1 1 -200 500 200 R 40 40 1 1 P 
+X 2 12 -200 300 200 R 40 40 1 1 P 
+X 3 2 -200 200 200 R 40 40 1 1 P 
+X 4 11 -200 0 200 R 40 40 1 1 P 
+X 5 3 -200 -100 200 R 40 40 1 1 P 
+X 6 10 -200 -300 200 R 40 40 1 1 P 
+X 7 4 600 500 200 L 40 40 1 1 P 
+X 8 9 600 300 200 L 40 40 1 1 P 
+X 9 5 600 200 200 L 40 40 1 1 P 
+X 10 8 600 0 200 L 40 40 1 1 P 
+X 11 6 600 -100 200 L 40 40 1 1 P 
+X 12 7 600 -300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-FLEX_EFD20
+# Package Name: WE-FLEX_EFD20
+# Dev Tech: ''
+# Dev Prefix: WE-FLEX
+# Gate count = 1
+#
+DEF WE-FLEX_EFD20 WE-FLEX 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TRANSFORMER
+F0 "WE-FLEX" 0 0 50 H V C C
+F1 "WE-FLEX_EFD20" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-FLEX_EFD20" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 200 500 200 -300
+S 298 -303 398 -96 1 1 0 F
+S -1 -303 98 -97 1 1 0 F
+S 1 -3 101 202 1 1 0 F
+S -1 296 98 503 1 1 0 F
+S 300 296 400 503 1 1 0 F
+S 301 -3 401 202 1 1 0 F
+C -27 472 0 1 1 0 N
+C -25 477 5 1 1 0 F
+C -24 174 5 1 1 0 F
+C -28 -127 5 1 1 0 F
+C 425 -126 5 1 1 0 F
+C 425 175 5 1 1 0 F
+C 423 475 5 1 1 0 F
+T 0 -80 385 70 0 1 0 N1
+T 0 -80 85 70 0 1 0 N2
+T 0 -80 -215 70 0 1 0 N3
+T 0 520 385 70 0 1 0 N4
+T 0 520 85 70 0 1 0 N5
+T 0 520 -215 70 0 1 0 N6
+T 0 -25 575 50 0 1 0 >Name
+X 1 1 -200 500 200 R 40 40 1 1 P 
+X 2 12 -200 300 200 R 40 40 1 1 P 
+X 3 2 -200 200 200 R 40 40 1 1 P 
+X 4 11 -200 0 200 R 40 40 1 1 P 
+X 5 3 -200 -100 200 R 40 40 1 1 P 
+X 6 10 -200 -300 200 R 40 40 1 1 P 
+X 7 7 600 500 200 L 40 40 1 1 P 
+X 8 6 600 300 200 L 40 40 1 1 P 
+X 9 8 600 200 200 L 40 40 1 1 P 
+X 10 5 600 0 200 L 40 40 1 1 P 
+X 11 9 600 -100 200 L 40 40 1 1 P 
+X 12 4 600 -300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-FLEX_ER11/5
+# Package Name: WE-FLEX_ER11/5
+# Dev Tech: ''
+# Dev Prefix: WE-FLEX
+# Gate count = 1
+#
+DEF WE-FLEX_ER11/5 WE-FLEX 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TRANSFORMER
+F0 "WE-FLEX" 0 0 50 H V C C
+F1 "WE-FLEX_ER11/5" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-FLEX_ER11/5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 200 500 200 -300
+S 298 -303 398 -96 1 1 0 F
+S -1 -303 98 -97 1 1 0 F
+S 1 -3 101 202 1 1 0 F
+S -1 296 98 503 1 1 0 F
+S 300 296 400 503 1 1 0 F
+S 301 -3 401 202 1 1 0 F
+C -27 472 0 1 1 0 N
+C -25 477 5 1 1 0 F
+C -24 174 5 1 1 0 F
+C -28 -127 5 1 1 0 F
+C 425 -126 5 1 1 0 F
+C 425 175 5 1 1 0 F
+C 423 475 5 1 1 0 F
+T 0 -80 385 70 0 1 0 N1
+T 0 -80 85 70 0 1 0 N2
+T 0 -80 -215 70 0 1 0 N3
+T 0 520 385 70 0 1 0 N4
+T 0 520 85 70 0 1 0 N5
+T 0 520 -215 70 0 1 0 N6
+T 0 -25 575 50 0 1 0 >Name
+X 1 1 -200 500 200 R 40 40 1 1 P 
+X 2 4 -200 300 200 R 40 40 1 1 P 
+X 3 2 -200 200 200 R 40 40 1 1 P 
+X 4 5 -200 0 200 R 40 40 1 1 P 
+X 5 3 -200 -100 200 R 40 40 1 1 P 
+X 6 6 -200 -300 200 R 40 40 1 1 P 
+X 7 12 600 500 200 L 40 40 1 1 P 
+X 8 9 600 300 200 L 40 40 1 1 P 
+X 9 11 600 200 200 L 40 40 1 1 P 
+X 10 8 600 0 200 L 40 40 1 1 P 
+X 11 10 600 -100 200 L 40 40 1 1 P 
+X 12 7 600 -300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-FLEX_ER14.5/6
+# Package Name: WE-FLEX_ER14.5/6
+# Dev Tech: ''
+# Dev Prefix: WE-FLEX
+# Gate count = 1
+#
+DEF WE-FLEX_ER14.5/6 WE-FLEX 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TRANSFORMER
+F0 "WE-FLEX" 0 0 50 H V C C
+F1 "WE-FLEX_ER14.5/6" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-FLEX_ER14.5/6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 200 500 200 -300
+S 298 -303 398 -96 1 1 0 F
+S -1 -303 98 -97 1 1 0 F
+S 1 -3 101 202 1 1 0 F
+S -1 296 98 503 1 1 0 F
+S 300 296 400 503 1 1 0 F
+S 301 -3 401 202 1 1 0 F
+C -27 472 0 1 1 0 N
+C -25 477 5 1 1 0 F
+C -24 174 5 1 1 0 F
+C -28 -127 5 1 1 0 F
+C 425 -126 5 1 1 0 F
+C 425 175 5 1 1 0 F
+C 423 475 5 1 1 0 F
+T 0 -80 385 70 0 1 0 N1
+T 0 -80 85 70 0 1 0 N2
+T 0 -80 -215 70 0 1 0 N3
+T 0 520 385 70 0 1 0 N4
+T 0 520 85 70 0 1 0 N5
+T 0 520 -215 70 0 1 0 N6
+T 0 -25 575 50 0 1 0 >Name
+X 1 1 -200 500 200 R 40 40 1 1 P 
+X 2 4 -200 300 200 R 40 40 1 1 P 
+X 3 2 -200 200 200 R 40 40 1 1 P 
+X 4 5 -200 0 200 R 40 40 1 1 P 
+X 5 3 -200 -100 200 R 40 40 1 1 P 
+X 6 6 -200 -300 200 R 40 40 1 1 P 
+X 7 12 600 500 200 L 40 40 1 1 P 
+X 8 9 600 300 200 L 40 40 1 1 P 
+X 9 11 600 200 200 L 40 40 1 1 P 
+X 10 8 600 0 200 L 40 40 1 1 P 
+X 11 10 600 -100 200 L 40 40 1 1 P 
+X 12 7 600 -300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-FPI
+# Package Name: WE-FPI_744010...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-FPI L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-FPI" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-FPI_744010..." 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GF_L
+# Package Name: WE-GF_L
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GF_L L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GF_L" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-GF_L" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GF_M
+# Package Name: WE-GF_M
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GF_M L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GF_M" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-GF_M" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GFH_L
+# Package Name: WE-GFH_L
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GFH_L L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GFH_L" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-GFH_L" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GFH_M
+# Package Name: WE-GFH_M
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GFH_M L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GFH_M" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-GFH_M" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GI_LH
+# Package Name: LH
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GI_LH L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GI_LH" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-LH" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GI_LV
+# Package Name: LV
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GI_LV L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GI_LV" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-LV" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GI_MV
+# Package Name: MV
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GI_MV L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GI_MV" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-MV" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GI_SH
+# Package Name: SH
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GI_SH L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GI_SH" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-SH" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GI_SV
+# Package Name: SV
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GI_SV L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GI_SV" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-SV" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GI_XH
+# Package Name: XH
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GI_XH L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GI_XH" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-XH" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-GI_XV
+# Package Name: XV
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-GI_XV L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-GI_XV" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-XV" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-HC
+# Package Name: WE-HC_744324...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-HC L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-HC" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-HC_744324..." 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-HC_744310.../744311
+# Package Name: WE-HC_744310.../744311...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-HC_744310.../744311 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-HC_744310.../744311" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-HC_744310.../744311..." 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-HC_744312...
+# Package Name: WE-HC_744312...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-HC_744312... L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-HC_744312..." -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-HC_744312..." 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-HC_744313...
+# Package Name: WE-HC_744313
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-HC_744313... L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-HC_744313..." -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-HC_744313" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-HC_744315.../744318
+# Package Name: WE-HC_744315/18...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-HC_744315.../744318 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-HC_744315.../744318" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-HC_744315/18..." 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-HCA
+# Package Name: WE-HCA_7443552X
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF WE-HCA ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-HCA.
+# Package Name: WE-HCA_7443550X/7443551X
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF WE-HCA. ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-HCF
+# Package Name: WE-HCF_74436/38/39...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-HCF L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-HCF" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-HCF_74436/38/39..." 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-HCM
+# Package Name: WE-HCM_744300022
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-HCM L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-HCM" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-HCM_744300022" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-HCT
+# Package Name: WE-HCT_744349...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-HCT L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: HCT
+F0 "L" 50 400 50 H V L B
+F1 "WE-HCT" 50 150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-HCT_744349..." 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 400 0 300
+P 2 1 0 0 100 300 0 300
+P 2 1 0 0 0 300 0 200
+S 100 250 300 350 1 1 0 F
+X 1 1 -100 400 100 R 40 40 1 1 P 
+X 2 2 -100 200 100 R 40 40 1 1 P 
+X 3 3 400 300 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-KI_0402_B
+# Package Name: WE-KI_0402_B
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-KI_0402_B L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-KI_0402_B" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-KI_0402_B" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-KI_0603_B
+# Package Name: WE-KI_0603_B
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-KI_0603_B L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-KI_0603_B" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-KI_0603_B" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-KI_0805_B
+# Package Name: WE-KI_0805_B
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-KI_0805_B L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-KI_0805_B" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-KI_0805_B" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-KI_1008_B
+# Package Name: WE-KI_1008_B
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-KI_1008_B L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-KI_1008_B" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-KI_1008_B" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-KIHC_0603
+# Package Name: WE-KI_0603_B
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-KIHC_0603 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-KIHC_0603" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-KI_0603_B" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-KIHQ_0805
+# Package Name: WE-KI_0805_B
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-KIHQ_0805 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-KIHQ_0805" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-KI_0805_B" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-KIHQ_1008
+# Package Name: WE-KI_1008_B
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-KIHQ_1008 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-KIHQ_1008" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-KI_1008_B" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-KIL_0805
+# Package Name: WE-KI_0805_B
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-KIL_0805 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-KIL_0805" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-KI_0805_B" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN-16PIN_749010010
+# Package Name: WE-LAN_749010010
+# Dev Tech: ''
+# Dev Prefix: WE-LAN
+# Gate count = 1
+#
+DEF WE-LAN-16PIN_749010010 WE-LAN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LAN_16PIN
+F0 "WE-LAN" 0 0 50 H V C C
+F1 "WE-LAN-16PIN_749010010" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LAN_749010010" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -400 400 -400 -300
+P 2 1 0 0 -400 -300 500 -300
+P 2 1 0 0 500 -300 500 400
+P 2 1 0 0 500 400 -400 400
+T 1 -475 -175 50 0 1 0 >Name
+X NC@1 4 0 -500 200 U 40 40 1 1 P 
+X NC@2 5 100 -500 200 U 40 40 1 1 P 
+X NC@3 12 100 600 200 D 40 40 1 1 P 
+X NC@4 13 0 600 200 D 40 40 1 1 P 
+X RCT 2 -200 -500 200 U 40 40 1 1 P 
+X RD+ 1 -300 -500 200 U 40 40 1 1 P 
+X RD- 3 -100 -500 200 U 40 40 1 1 P 
+X RX+ 16 -300 600 200 D 40 40 1 1 P 
+X RX- 14 -100 600 200 D 40 40 1 1 P 
+X RXCT 15 -200 600 200 D 40 40 1 1 P 
+X TCT 7 300 -500 200 U 40 40 1 1 P 
+X TD+ 6 200 -500 200 U 40 40 1 1 P 
+X TD- 8 400 -500 200 U 40 40 1 1 P 
+X TX+ 11 200 600 200 D 40 40 1 1 P 
+X TX- 9 400 600 200 D 40 40 1 1 P 
+X TXCT 10 300 600 200 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN-16PIN_749010011
+# Package Name: WE-LAN_7491010/3
+# Dev Tech: ''
+# Dev Prefix: WE-LAN
+# Gate count = 1
+#
+DEF WE-LAN-16PIN_749010011 WE-LAN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LAN_16PIN
+F0 "WE-LAN" 0 0 50 H V C C
+F1 "WE-LAN-16PIN_749010011" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LAN_7491010/3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -400 400 -400 -300
+P 2 1 0 0 -400 -300 500 -300
+P 2 1 0 0 500 -300 500 400
+P 2 1 0 0 500 400 -400 400
+T 1 -475 -175 50 0 1 0 >Name
+X NC@1 4 0 -500 200 U 40 40 1 1 P 
+X NC@2 5 100 -500 200 U 40 40 1 1 P 
+X NC@3 12 100 600 200 D 40 40 1 1 P 
+X NC@4 13 0 600 200 D 40 40 1 1 P 
+X RCT 2 -200 -500 200 U 40 40 1 1 P 
+X RD+ 1 -300 -500 200 U 40 40 1 1 P 
+X RD- 3 -100 -500 200 U 40 40 1 1 P 
+X RX+ 16 -300 600 200 D 40 40 1 1 P 
+X RX- 14 -100 600 200 D 40 40 1 1 P 
+X RXCT 15 -200 600 200 D 40 40 1 1 P 
+X TCT 7 300 -500 200 U 40 40 1 1 P 
+X TD+ 6 200 -500 200 U 40 40 1 1 P 
+X TD- 8 400 -500 200 U 40 40 1 1 P 
+X TX+ 11 200 600 200 D 40 40 1 1 P 
+X TX- 9 400 600 200 D 40 40 1 1 P 
+X TXCT 10 300 600 200 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN-16PIN_749013010
+# Package Name: WE-LAN_7491010/3
+# Dev Tech: ''
+# Dev Prefix: WE-LAN
+# Gate count = 1
+#
+DEF WE-LAN-16PIN_749013010 WE-LAN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LAN_16PIN
+F0 "WE-LAN" 0 0 50 H V C C
+F1 "WE-LAN-16PIN_749013010" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LAN_7491010/3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -400 400 -400 -300
+P 2 1 0 0 -400 -300 500 -300
+P 2 1 0 0 500 -300 500 400
+P 2 1 0 0 500 400 -400 400
+T 1 -475 -175 50 0 1 0 >Name
+X NC@1 4 0 -500 200 U 40 40 1 1 P 
+X NC@2 5 100 -500 200 U 40 40 1 1 P 
+X NC@3 12 100 600 200 D 40 40 1 1 P 
+X NC@4 13 0 600 200 D 40 40 1 1 P 
+X RCT 2 -200 -500 200 U 40 40 1 1 P 
+X RD+ 1 -300 -500 200 U 40 40 1 1 P 
+X RD- 3 -100 -500 200 U 40 40 1 1 P 
+X RX+ 16 -300 600 200 D 40 40 1 1 P 
+X RX- 14 -100 600 200 D 40 40 1 1 P 
+X RXCT 15 -200 600 200 D 40 40 1 1 P 
+X TCT 7 300 -500 200 U 40 40 1 1 P 
+X TD+ 6 200 -500 200 U 40 40 1 1 P 
+X TD- 8 400 -500 200 U 40 40 1 1 P 
+X TX+ 11 200 600 200 D 40 40 1 1 P 
+X TX- 9 400 600 200 D 40 40 1 1 P 
+X TXCT 10 300 600 200 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN-24PIN_749013020
+# Package Name: WE-LAN_749013020
+# Dev Tech: ''
+# Dev Prefix: WE-LAN
+# Gate count = 1
+#
+DEF WE-LAN-24PIN_749013020 WE-LAN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LAN_24PIN
+F0 "WE-LAN" 0 0 50 H V C C
+F1 "WE-LAN-24PIN_749013020" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LAN_749013020" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -800 500 500 500
+P 2 1 0 0 500 500 500 -300
+P 2 1 0 0 500 -300 -800 -300
+P 2 1 0 0 -800 -300 -800 500
+T 1 -875 -175 50 0 1 0 >Name
+X RCT1 P$2 -600 -500 200 U 40 40 1 1 P 
+X RCT2 P$11 300 -500 200 U 40 40 1 1 P 
+X RD1+ P$1 -700 -500 200 U 40 40 1 1 P 
+X RD1- P$3 -500 -500 200 U 40 40 1 1 P 
+X RD2+ P$10 200 -500 200 U 40 40 1 1 P 
+X RD2- P$12 400 -500 200 U 40 40 1 1 P 
+X RX1+ P$24 -700 700 200 D 40 40 1 1 P 
+X RX1- P$22 -500 700 200 D 40 40 1 1 P 
+X RX2+ P$15 200 700 200 D 40 40 1 1 P 
+X RX2- P$13 400 700 200 D 40 40 1 1 P 
+X RXCT1 P$23 -600 700 200 D 40 40 1 1 P 
+X RXCT2 P$14 300 700 200 D 40 40 1 1 P 
+X TCT1 P$5 -300 -500 200 U 40 40 1 1 P 
+X TCT2 P$8 0 -500 200 U 40 40 1 1 P 
+X TD1+ P$4 -400 -500 200 U 40 40 1 1 P 
+X TD1- P$6 -200 -500 200 U 40 40 1 1 P 
+X TD2+ P$7 -100 -500 200 U 40 40 1 1 P 
+X TD2- P$9 100 -500 200 U 40 40 1 1 P 
+X TX1+ P$21 -400 700 200 D 40 40 1 1 P 
+X TX1- P$19 -200 700 200 D 40 40 1 1 P 
+X TX2+ P$18 -100 700 200 D 40 40 1 1 P 
+X TX2- P$16 100 700 200 D 40 40 1 1 P 
+X TXCT1 P$20 -300 700 200 D 40 40 1 1 P 
+X TXCT2 P$17 0 700 200 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN-24PIN_749013021
+# Package Name: WE-LAN_749013021
+# Dev Tech: ''
+# Dev Prefix: WE-LAN
+# Gate count = 1
+#
+DEF WE-LAN-24PIN_749013021 WE-LAN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LAN_24PIN
+F0 "WE-LAN" 0 0 50 H V C C
+F1 "WE-LAN-24PIN_749013021" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LAN_749013021" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -800 500 500 500
+P 2 1 0 0 500 500 500 -300
+P 2 1 0 0 500 -300 -800 -300
+P 2 1 0 0 -800 -300 -800 500
+T 1 -875 -175 50 0 1 0 >Name
+X RCT1 P$2 -600 -500 200 U 40 40 1 1 P 
+X RCT2 P$11 300 -500 200 U 40 40 1 1 P 
+X RD1+ P$1 -700 -500 200 U 40 40 1 1 P 
+X RD1- P$3 -500 -500 200 U 40 40 1 1 P 
+X RD2+ P$10 200 -500 200 U 40 40 1 1 P 
+X RD2- P$12 400 -500 200 U 40 40 1 1 P 
+X RX1+ P$24 -700 700 200 D 40 40 1 1 P 
+X RX1- P$22 -500 700 200 D 40 40 1 1 P 
+X RX2+ P$15 200 700 200 D 40 40 1 1 P 
+X RX2- P$13 400 700 200 D 40 40 1 1 P 
+X RXCT1 P$23 -600 700 200 D 40 40 1 1 P 
+X RXCT2 P$14 300 700 200 D 40 40 1 1 P 
+X TCT1 P$5 -300 -500 200 U 40 40 1 1 P 
+X TCT2 P$8 0 -500 200 U 40 40 1 1 P 
+X TD1+ P$4 -400 -500 200 U 40 40 1 1 P 
+X TD1- P$6 -200 -500 200 U 40 40 1 1 P 
+X TD2+ P$7 -100 -500 200 U 40 40 1 1 P 
+X TD2- P$9 100 -500 200 U 40 40 1 1 P 
+X TX1+ P$21 -400 700 200 D 40 40 1 1 P 
+X TX1- P$19 -200 700 200 D 40 40 1 1 P 
+X TX2+ P$18 -100 700 200 D 40 40 1 1 P 
+X TX2- P$16 100 700 200 D 40 40 1 1 P 
+X TXCT1 P$20 -300 700 200 D 40 40 1 1 P 
+X TXCT2 P$17 0 700 200 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN-24PIN_749013022
+# Package Name: WE-LAN_749013022
+# Dev Tech: ''
+# Dev Prefix: WE-LAN
+# Gate count = 1
+#
+DEF WE-LAN-24PIN_749013022 WE-LAN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LAN_24PIN
+F0 "WE-LAN" 0 0 50 H V C C
+F1 "WE-LAN-24PIN_749013022" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LAN_749013022" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -800 500 500 500
+P 2 1 0 0 500 500 500 -300
+P 2 1 0 0 500 -300 -800 -300
+P 2 1 0 0 -800 -300 -800 500
+T 1 -875 -175 50 0 1 0 >Name
+X RCT1 P$2 -600 -500 200 U 40 40 1 1 P 
+X RCT2 P$11 300 -500 200 U 40 40 1 1 P 
+X RD1+ P$1 -700 -500 200 U 40 40 1 1 P 
+X RD1- P$3 -500 -500 200 U 40 40 1 1 P 
+X RD2+ P$10 200 -500 200 U 40 40 1 1 P 
+X RD2- P$12 400 -500 200 U 40 40 1 1 P 
+X RX1+ P$24 -700 700 200 D 40 40 1 1 P 
+X RX1- P$22 -500 700 200 D 40 40 1 1 P 
+X RX2+ P$15 200 700 200 D 40 40 1 1 P 
+X RX2- P$13 400 700 200 D 40 40 1 1 P 
+X RXCT1 P$23 -600 700 200 D 40 40 1 1 P 
+X RXCT2 P$14 300 700 200 D 40 40 1 1 P 
+X TCT1 P$5 -300 -500 200 U 40 40 1 1 P 
+X TCT2 P$8 0 -500 200 U 40 40 1 1 P 
+X TD1+ P$4 -400 -500 200 U 40 40 1 1 P 
+X TD1- P$6 -200 -500 200 U 40 40 1 1 P 
+X TD2+ P$7 -100 -500 200 U 40 40 1 1 P 
+X TD2- P$9 100 -500 200 U 40 40 1 1 P 
+X TX1+ P$21 -400 700 200 D 40 40 1 1 P 
+X TX1- P$19 -200 700 200 D 40 40 1 1 P 
+X TX2+ P$18 -100 700 200 D 40 40 1 1 P 
+X TX2- P$16 100 700 200 D 40 40 1 1 P 
+X TXCT1 P$20 -300 700 200 D 40 40 1 1 P 
+X TXCT2 P$17 0 700 200 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN-24PIN-2_749020010
+# Package Name: WE-LAN_749020010
+# Dev Tech: ''
+# Dev Prefix: WE-LAN
+# Gate count = 1
+#
+DEF WE-LAN-24PIN-2_749020010 WE-LAN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LAN_24PIN/2
+F0 "WE-LAN" 0 0 50 H V C C
+F1 "WE-LAN-24PIN-2_749020010" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LAN_749020010" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -800 300 -800 -500
+P 2 1 0 0 -800 -500 500 -500
+P 2 1 0 0 500 -500 500 300
+P 2 1 0 0 500 300 -800 300
+T 1 -925 -375 50 0 1 0 >Name
+X MCT1 P$24 -700 500 200 D 40 40 1 1 P 
+X MCT2 P$21 -400 500 200 D 40 40 1 1 P 
+X MCT3 P$18 -100 500 200 D 40 40 1 1 P 
+X MCT4 P$15 200 500 200 D 40 40 1 1 P 
+X MX1+ P$23 -600 500 200 D 40 40 1 1 P 
+X MX1- P$22 -500 500 200 D 40 40 1 1 P 
+X MX2+ P$20 -300 500 200 D 40 40 1 1 P 
+X MX2- P$19 -200 500 200 D 40 40 1 1 P 
+X MX3+ P$17 0 500 200 D 40 40 1 1 P 
+X MX3- P$16 100 500 200 D 40 40 1 1 P 
+X MX4+ P$14 300 500 200 D 40 40 1 1 P 
+X MX4- P$13 400 500 200 D 40 40 1 1 P 
+X TCT1 P$1 -700 -700 200 U 40 40 1 1 P 
+X TCT2 P$4 -400 -700 200 U 40 40 1 1 P 
+X TCT3 P$7 -100 -700 200 U 40 40 1 1 P 
+X TCT4 P$10 200 -700 200 U 40 40 1 1 P 
+X TD1+ P$2 -600 -700 200 U 40 40 1 1 P 
+X TD1- P$3 -500 -700 200 U 40 40 1 1 P 
+X TD2+ P$5 -300 -700 200 U 40 40 1 1 P 
+X TD2- P$6 -200 -700 200 U 40 40 1 1 P 
+X TD3+ P$8 0 -700 200 U 40 40 1 1 P 
+X TD3- P$9 100 -700 200 U 40 40 1 1 P 
+X TD4+ P$11 300 -700 200 U 40 40 1 1 P 
+X TD4- P$12 400 -700 200 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN-24PIN-2_749020011
+# Package Name: WE-LAN_749020011
+# Dev Tech: ''
+# Dev Prefix: WE-LAN
+# Gate count = 1
+#
+DEF WE-LAN-24PIN-2_749020011 WE-LAN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LAN_24PIN/2
+F0 "WE-LAN" 0 0 50 H V C C
+F1 "WE-LAN-24PIN-2_749020011" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LAN_749020011" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -800 300 -800 -500
+P 2 1 0 0 -800 -500 500 -500
+P 2 1 0 0 500 -500 500 300
+P 2 1 0 0 500 300 -800 300
+T 1 -925 -375 50 0 1 0 >Name
+X MCT1 P$24 -700 500 200 D 40 40 1 1 P 
+X MCT2 P$21 -400 500 200 D 40 40 1 1 P 
+X MCT3 P$18 -100 500 200 D 40 40 1 1 P 
+X MCT4 P$15 200 500 200 D 40 40 1 1 P 
+X MX1+ P$23 -600 500 200 D 40 40 1 1 P 
+X MX1- P$22 -500 500 200 D 40 40 1 1 P 
+X MX2+ P$20 -300 500 200 D 40 40 1 1 P 
+X MX2- P$19 -200 500 200 D 40 40 1 1 P 
+X MX3+ P$17 0 500 200 D 40 40 1 1 P 
+X MX3- P$16 100 500 200 D 40 40 1 1 P 
+X MX4+ P$14 300 500 200 D 40 40 1 1 P 
+X MX4- P$13 400 500 200 D 40 40 1 1 P 
+X TCT1 P$1 -700 -700 200 U 40 40 1 1 P 
+X TCT2 P$4 -400 -700 200 U 40 40 1 1 P 
+X TCT3 P$7 -100 -700 200 U 40 40 1 1 P 
+X TCT4 P$10 200 -700 200 U 40 40 1 1 P 
+X TD1+ P$2 -600 -700 200 U 40 40 1 1 P 
+X TD1- P$3 -500 -700 200 U 40 40 1 1 P 
+X TD2+ P$5 -300 -700 200 U 40 40 1 1 P 
+X TD2- P$6 -200 -700 200 U 40 40 1 1 P 
+X TD3+ P$8 0 -700 200 U 40 40 1 1 P 
+X TD3- P$9 100 -700 200 U 40 40 1 1 P 
+X TD4+ P$11 300 -700 200 U 40 40 1 1 P 
+X TD4- P$12 400 -700 200 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN-40PIN_749010040
+# Package Name: WE-LAN_749010040
+# Dev Tech: ''
+# Dev Prefix: WE-LAN
+# Gate count = 1
+#
+DEF WE-LAN-40PIN_749010040 WE-LAN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LAN_40PIN
+F0 "WE-LAN" 0 0 50 H V C C
+F1 "WE-LAN-40PIN_749010040" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LAN_749010040" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -1300 900 -1300 -100
+P 2 1 0 0 -1300 -100 800 -100
+P 2 1 0 0 800 -100 800 900
+P 2 1 0 0 800 900 -1300 900
+T 1 -1375 25 50 0 1 0 >Name
+X CMGND@1 P$23 500 1100 200 D 40 40 1 1 P 
+X CMGND@2 P$28 0 1100 200 D 40 40 1 1 P 
+X CMGND@3 P$33 -500 1100 200 D 40 40 1 1 P 
+X CMGND@4 P$38 -1000 1100 200 D 40 40 1 1 P 
+X CRVDD1 P$18 500 -300 200 U 40 40 1 1 P 
+X CTVDD2 P$13 0 -300 200 U 40 40 1 1 P 
+X CTVDD3 P$8 -500 -300 200 U 40 40 1 1 P 
+X CTVDD4 P$3 -1000 -300 200 U 40 40 1 1 P 
+X RD1+ P$17 400 -300 200 U 40 40 1 1 P 
+X RD1- P$16 300 -300 200 U 40 40 1 1 P 
+X RD2+ P$14 100 -300 200 U 40 40 1 1 P 
+X RD2- P$15 200 -300 200 U 40 40 1 1 P 
+X RD3+ P$7 -600 -300 200 U 40 40 1 1 P 
+X RD3- P$6 -700 -300 200 U 40 40 1 1 P 
+X RD4+ P$4 -900 -300 200 U 40 40 1 1 P 
+X RD4- P$5 -800 -300 200 U 40 40 1 1 P 
+X RX1+ P$24 400 1100 200 D 40 40 1 1 P 
+X RX1- P$25 300 1100 200 D 40 40 1 1 P 
+X RX2+ P$27 100 1100 200 D 40 40 1 1 P 
+X RX2- P$26 200 1100 200 D 40 40 1 1 P 
+X RX3+ P$34 -600 1100 200 D 40 40 1 1 P 
+X RX3- P$35 -700 1100 200 D 40 40 1 1 P 
+X RX4+ P$37 -900 1100 200 D 40 40 1 1 P 
+X RX4- P$36 -800 1100 200 D 40 40 1 1 P 
+X TD1+ P$20 700 -300 200 U 40 40 1 1 P 
+X TD1- P$19 600 -300 200 U 40 40 1 1 P 
+X TD2+ P$11 -200 -300 200 U 40 40 1 1 P 
+X TD2- P$12 -100 -300 200 U 40 40 1 1 P 
+X TD3+ P$10 -300 -300 200 U 40 40 1 1 P 
+X TD3- P$9 -400 -300 200 U 40 40 1 1 P 
+X TD4+ P$1 -1200 -300 200 U 40 40 1 1 P 
+X TD4- P$2 -1100 -300 200 U 40 40 1 1 P 
+X TX1+ P$21 700 1100 200 D 40 40 1 1 P 
+X TX1- P$22 600 1100 200 D 40 40 1 1 P 
+X TX2+ P$30 -200 1100 200 D 40 40 1 1 P 
+X TX2- P$29 -100 1100 200 D 40 40 1 1 P 
+X TX3+ P$31 -300 1100 200 D 40 40 1 1 P 
+X TX3- P$32 -400 1100 200 D 40 40 1 1 P 
+X TX4+ P$40 -1200 1100 200 D 40 40 1 1 P 
+X TX4- P$39 -1100 1100 200 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN-48PIN_749013040
+# Package Name: WE-LAN_749013040
+# Dev Tech: ''
+# Dev Prefix: WE-LAN
+# Gate count = 1
+#
+DEF WE-LAN-48PIN_749013040 WE-LAN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE_LAN_48PIN
+F0 "WE-LAN" 0 0 50 H V C C
+F1 "WE-LAN-48PIN_749013040" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LAN_749013040" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -2000 400 500 400
+P 2 1 0 0 500 400 500 -300
+P 2 1 0 0 500 -300 -2000 -300
+P 2 1 0 0 -2000 -300 -2000 400
+T 1 -2075 -125 50 0 1 0 >Name
+X CMR1 P$47 -1800 600 200 D 40 40 1 1 P 
+X CMR2 P$38 -900 600 200 D 40 40 1 1 P 
+X CMR3 P$35 -600 600 200 D 40 40 1 1 P 
+X CMR4 P$26 300 600 200 D 40 40 1 1 P 
+X CMT1 P$44 -1500 600 200 D 40 40 1 1 P 
+X CMT2 P$41 -1200 600 200 D 40 40 1 1 P 
+X CMT3 P$32 -300 600 200 D 40 40 1 1 P 
+X CMT4 P$29 0 600 200 D 40 40 1 1 P 
+X RCT1 P$2 -1800 -500 200 U 40 40 1 1 P 
+X RCT2 P$11 -900 -500 200 U 40 40 1 1 P 
+X RCT3 P$14 -600 -500 200 U 40 40 1 1 P 
+X RCT4 P$23 300 -500 200 U 40 40 1 1 P 
+X RD1+ P$1 -1900 -500 200 U 40 40 1 1 P 
+X RD1- P$3 -1700 -500 200 U 40 40 1 1 P 
+X RD2+ P$12 -800 -500 200 U 40 40 1 1 P 
+X RD2- P$10 -1000 -500 200 U 40 40 1 1 P 
+X RD3+ P$13 -700 -500 200 U 40 40 1 1 P 
+X RD3- P$15 -500 -500 200 U 40 40 1 1 P 
+X RD4+ P$24 400 -500 200 U 40 40 1 1 P 
+X RD4- P$22 200 -500 200 U 40 40 1 1 P 
+X RX1+ P$48 -1900 600 200 D 40 40 1 1 P 
+X RX1- P$46 -1700 600 200 D 40 40 1 1 P 
+X RX2+ P$37 -800 600 200 D 40 40 1 1 P 
+X RX2- P$39 -1000 600 200 D 40 40 1 1 P 
+X RX3+ P$36 -700 600 200 D 40 40 1 1 P 
+X RX3- P$34 -500 600 200 D 40 40 1 1 P 
+X RX4+ P$25 400 600 200 D 40 40 1 1 P 
+X RX4- P$27 200 600 200 D 40 40 1 1 P 
+X TCT1 P$5 -1500 -500 200 U 40 40 1 1 P 
+X TCT2 P$8 -1200 -500 200 U 40 40 1 1 P 
+X TCT3 P$17 -300 -500 200 U 40 40 1 1 P 
+X TCT4 P$20 0 -500 200 U 40 40 1 1 P 
+X TD1+ P$4 -1600 -500 200 U 40 40 1 1 P 
+X TD1- P$6 -1400 -500 200 U 40 40 1 1 P 
+X TD2+ P$9 -1100 -500 200 U 40 40 1 1 P 
+X TD2- P$7 -1300 -500 200 U 40 40 1 1 P 
+X TD3+ P$16 -400 -500 200 U 40 40 1 1 P 
+X TD3- P$18 -200 -500 200 U 40 40 1 1 P 
+X TD4+ P$21 100 -500 200 U 40 40 1 1 P 
+X TD4- P$19 -100 -500 200 U 40 40 1 1 P 
+X TX1+ P$45 -1600 600 200 D 40 40 1 1 P 
+X TX1- P$43 -1400 600 200 D 40 40 1 1 P 
+X TX2+ P$40 -1100 600 200 D 40 40 1 1 P 
+X TX2- P$42 -1300 600 200 D 40 40 1 1 P 
+X TX3+ P$33 -400 600 200 D 40 40 1 1 P 
+X TX3- P$31 -200 600 200 D 40 40 1 1 P 
+X TX4+ P$28 100 600 200 D 40 40 1 1 P 
+X TX4- P$30 -100 600 200 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LAN749023020
+# Package Name: WE-LAN_749013040
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF WE-LAN749023020 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: 749023020
+DRAW
+P 2 1 0 0 -400 1400 400 1400
+P 2 1 0 0 400 1400 400 -1100
+P 2 1 0 0 400 -1100 -400 -1100
+P 2 1 0 0 -400 -1100 -400 1400
+X CMT1 P$48 600 1300 200 L 40 40 1 1 B 
+X CMT2 P$45 600 1000 200 L 40 40 1 1 B 
+X CMT3 P$42 600 700 200 L 40 40 1 1 B 
+X CMT4 P$39 600 400 200 L 40 40 1 1 B 
+X CMT5 P$36 600 100 200 L 40 40 1 1 B 
+X CMT6 P$33 600 -200 200 L 40 40 1 1 B 
+X CMT7 P$30 600 -500 200 L 40 40 1 1 B 
+X CMT8 P$27 600 -800 200 L 40 40 1 1 B 
+X MX1+ P$47 600 1200 200 L 40 40 1 1 B 
+X MX1- P$46 600 1100 200 L 40 40 1 1 B 
+X MX2+ P$44 600 900 200 L 40 40 1 1 B 
+X MX2- P$43 600 800 200 L 40 40 1 1 B 
+X MX3+ P$41 600 600 200 L 40 40 1 1 B 
+X MX3- P$40 600 500 200 L 40 40 1 1 B 
+X MX4+ P$38 600 300 200 L 40 40 1 1 B 
+X MX4- P$37 600 200 200 L 40 40 1 1 B 
+X MX5+ P$35 600 0 200 L 40 40 1 1 B 
+X MX5- P$34 600 -100 200 L 40 40 1 1 B 
+X MX6+ P$32 600 -300 200 L 40 40 1 1 B 
+X MX6- P$31 600 -400 200 L 40 40 1 1 B 
+X MX7+ P$29 600 -600 200 L 40 40 1 1 B 
+X MX7- P$28 600 -700 200 L 40 40 1 1 B 
+X MX8+ P$26 600 -900 200 L 40 40 1 1 B 
+X MX8- P$25 600 -1000 200 L 40 40 1 1 B 
+X TCT1 P$1 -600 1300 200 R 40 40 1 1 B 
+X TCT2 P$4 -600 1000 200 R 40 40 1 1 B 
+X TCT3 P$7 -600 700 200 R 40 40 1 1 B 
+X TCT4 P$10 -600 400 200 R 40 40 1 1 B 
+X TCT5 P$13 -600 100 200 R 40 40 1 1 B 
+X TCT6 P$16 -600 -200 200 R 40 40 1 1 B 
+X TCT7 P$19 -600 -500 200 R 40 40 1 1 B 
+X TCT8 P$22 -600 -800 200 R 40 40 1 1 B 
+X TD1+ P$2 -600 1200 200 R 40 40 1 1 B 
+X TD1- P$3 -600 1100 200 R 40 40 1 1 B 
+X TD2+ P$5 -600 900 200 R 40 40 1 1 B 
+X TD2- P$6 -600 800 200 R 40 40 1 1 B 
+X TD3+ P$8 -600 600 200 R 40 40 1 1 B 
+X TD3- P$9 -600 500 200 R 40 40 1 1 B 
+X TD4+ P$11 -600 300 200 R 40 40 1 1 B 
+X TD4- P$12 -600 200 200 R 40 40 1 1 B 
+X TD5+ P$14 -600 0 200 R 40 40 1 1 B 
+X TD5- P$15 -600 -100 200 R 40 40 1 1 B 
+X TD6+ P$17 -600 -300 200 R 40 40 1 1 B 
+X TD6- P$18 -600 -400 200 R 40 40 1 1 B 
+X TD7+ P$20 -600 -600 200 R 40 40 1 1 B 
+X TD7- P$21 -600 -700 200 R 40 40 1 1 B 
+X TD8+ P$23 -600 -900 200 R 40 40 1 1 B 
+X TD8- P$24 -600 -1000 200 R 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LCB
+# Package Name: WE-LCB_7448146300
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LCB L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-LCB" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-LCB_7448146300" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LF_612/SV
+# Package Name: 612/SV
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LF_612/SV L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-LF_612/SV" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-612/SV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 2 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LF_622/MV
+# Package Name: 622/MV
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LF_622/MV L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-LF_622/MV" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-622/MV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 2 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LF_632/LV
+# Package Name: 632/LV
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LF_632/LV L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-LF_632/LV" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-632/LV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 2 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LF_642/XV
+# Package Name: 642/XV
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LF_642/XV L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-LF_642/XV" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-642/XV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 2 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LF_662/SH
+# Package Name: 662/SH
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LF_662/SH L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-LF_662/SH" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-662/SH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 2 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LF_672/MH
+# Package Name: 672/MH
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LF_672/MH L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-LF_672/MH" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-672/MH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 2 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LF_682/LH
+# Package Name: 682/LH
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LF_682/LH L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-LF_682/LH" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-682/LH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 2 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LF_692/XH
+# Package Name: 692/XH
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LF_692/XH L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-LF_692/XH" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-692/XH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 2 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LPF_0603_LPF
+# Package Name: WE-LPF_603
+# Dev Tech: ''
+# Dev Prefix: LPF
+# Gate count = 1
+#
+DEF WE-LPF_0603_LPF LPF 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LPF_0603
+F0 "LPF" 0 0 50 H V C C
+F1 "WE-LPF_0603_LPF" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LPF_603" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 300 300 300 -300
+P 2 1 0 0 300 -300 -300 -300
+P 2 1 0 0 -300 -300 -300 300
+P 2 1 0 0 -300 300 300 300
+T 0 -175 425 50 0 1 0 >name
+T 0 -150 -375 50 0 1 0 >Value
+X GND 5 -500 0 200 R 40 40 1 1 P 
+X GND@1 1 500 -200 200 L 40 40 1 1 P 
+X GND@2 3 500 200 200 L 40 40 1 1 P 
+X IN 6 -500 -200 200 R 40 40 1 1 P 
+X NC 2 500 0 200 L 40 40 1 1 P 
+X OUT 4 -500 200 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LPF_0805
+# Package Name: WE-LPF_0805
+# Dev Tech: ''
+# Dev Prefix: LPF
+# Gate count = 1
+#
+DEF WE-LPF_0805 LPF 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-LPF_0805
+F0 "LPF" 0 0 50 H V C C
+F1 "WE-LPF_0805" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-LPF_0805" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -400 300 -400 -300
+P 2 1 0 0 -400 -300 200 -300
+P 2 1 0 0 200 -300 200 300
+P 2 1 0 0 200 300 -400 300
+X GND@1 5 -300 -500 200 U 40 40 1 1 P 
+X GND@2 7 100 -500 200 U 40 40 1 1 P 
+X GND@3 1 100 500 200 D 40 40 1 1 P 
+X GND@4 3 -300 500 200 D 40 40 1 1 P 
+X IN 8 400 0 200 L 40 40 1 1 P 
+X NC 6 -100 -500 200 U 40 40 1 1 P 
+X NC@1 2 -100 500 200 D 40 40 1 1 P 
+X OUT 4 -600 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LQ_L
+# Package Name: WE-LQ_L
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LQ_L L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-LQ_L" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-LQ_L" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-LQ_M
+# Package Name: WE-LQ_M
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-LQ_M L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-LQ_M" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-LQ_M" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MCA7488105XX/7488940245
+# Package Name: WE-MCA_7488105XX/7488940245
+# Dev Tech: ''
+# Dev Prefix: ANT
+# Gate count = 1
+#
+DEF WE-MCA7488105XX/7488940245 ANT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-MCA
+F0 "ANT" 0 0 50 H V C C
+F1 "WE-MCA7488105XX/7488940245" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-MCA_7488105XX/7488940245" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 50 0
+P 2 1 0 0 50 0 50 250
+P 2 1 0 0 50 250 0 300
+P 2 1 0 0 50 250 50 300
+P 2 1 0 0 50 250 100 300
+X FP 1 0 -100 100 U 40 40 1 1 P 
+X NC 2 100 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MCA748891057
+# Package Name: WE-MCA_748891057
+# Dev Tech: ''
+# Dev Prefix: ANT
+# Gate count = 1
+#
+DEF WE-MCA748891057 ANT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-MCA
+F0 "ANT" 0 0 50 H V C C
+F1 "WE-MCA748891057" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-MCA_748891057" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 50 0
+P 2 1 0 0 50 0 50 250
+P 2 1 0 0 50 250 0 300
+P 2 1 0 0 50 250 50 300
+P 2 1 0 0 50 250 100 300
+X FP 1 0 -100 100 U 40 40 1 1 P 
+X NC 2 100 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MCA7488910245
+# Package Name: WE-MCA_7488910245
+# Dev Tech: ''
+# Dev Prefix: ANT
+# Gate count = 1
+#
+DEF WE-MCA7488910245 ANT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-MCA
+F0 "ANT" 0 0 50 H V C C
+F1 "WE-MCA7488910245" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-MCA_7488910245" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 50 0
+P 2 1 0 0 50 0 50 250
+P 2 1 0 0 50 250 0 300
+P 2 1 0 0 50 250 50 300
+P 2 1 0 0 50 250 100 300
+X FP 1 0 -100 100 U 40 40 1 1 P 
+X NC 2 100 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MCA7488930245
+# Package Name: WE-MCA_7488930245
+# Dev Tech: ''
+# Dev Prefix: ANT
+# Gate count = 1
+#
+DEF WE-MCA7488930245 ANT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-MCA
+F0 "ANT" 0 0 50 H V C C
+F1 "WE-MCA7488930245" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-MCA_7488930245" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 50 0
+P 2 1 0 0 50 0 50 250
+P 2 1 0 0 50 250 0 300
+P 2 1 0 0 50 250 50 300
+P 2 1 0 0 50 250 100 300
+X FP 1 0 -100 100 U 40 40 1 1 P 
+X NC 2 100 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MCA_74889202457488920245
+# Package Name: WE-MCA_7488920245
+# Dev Tech: ''
+# Dev Prefix: ANT
+# Gate count = 1
+#
+DEF WE-MCA_74889202457488920245 ANT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-MCA_7488920245
+F0 "ANT" 0 0 50 H V C C
+F1 "WE-MCA_74889202457488920245" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-MCA_7488920245" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 500 300 500
+P 2 1 0 0 300 500 300 0
+P 2 1 0 0 300 0 -100 0
+P 2 1 0 0 -100 0 -100 500
+T 1 -225 125 50 0 1 0 >Name
+T 1 375 150 50 0 1 0 >Value
+X FD 1 100 -100 100 U 40 40 1 1 P 
+X GND 2 0 -100 100 U 40 40 1 1 P 
+X GND@2 3 200 -100 100 U 40 40 1 1 P 
+X NC 4 200 600 100 D 40 40 1 1 P 
+X NC@2 5 100 600 100 D 40 40 1 1 P 
+X NC@3 6 0 600 100 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MI_0603
+# Package Name: 0603
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-MI_0603 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-MI_0603" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-0603" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MI_0805
+# Package Name: 0805
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-MI_0805 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-MI_0805" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-0805" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MI_1206
+# Package Name: 1206
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-MI_1206 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-MI_1206" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-1206" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MK_0201
+# Package Name: 0201
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-MK_0201 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-MK_0201" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-0201" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MK_0402
+# Package Name: 0402
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-MK_0402 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-MK_0402" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-0402" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MK_0603
+# Package Name: 0603
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-MK_0603 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-MK_0603" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-0603" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MK_0805
+# Package Name: 0805
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-MK_0805 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-MK_0805" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-0805" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MLS-3WAY_74273001
+# Package Name: WE-MLS_74273001
+# Dev Tech: ''
+# Dev Prefix: MLS
+# Gate count = 1
+#
+DEF WE-MLS-3WAY_74273001 MLS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-MLS_TYP1
+F0 "MLS" 0 0 50 H V C C
+F1 "WE-MLS-3WAY_74273001" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-MLS_74273001" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 -200 -300
+P 2 1 0 0 -200 -300 100 -300
+P 2 1 0 0 100 -300 100 100
+P 2 1 0 0 100 100 -200 100
+P 2 1 0 0 -100 0 0 0
+P 2 1 0 0 -100 -100 0 -100
+P 2 1 0 0 -100 -200 0 -200
+T 0 -75 225 50 0 1 0 >Name
+T 0 -50 -375 50 0 1 0 >Value
+X P$1 3 -400 0 200 R 40 40 1 1 P 
+X P$2 4 -400 -100 200 R 40 40 1 1 P 
+X P$3 5 -400 -200 200 R 40 40 1 1 P 
+X P$4 6 300 -200 200 L 40 40 1 1 P 
+X P$5 1 300 -100 200 L 40 40 1 1 P 
+X P$6 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MLS-4WAY_74273002
+# Package Name: WE-MLS-74273002
+# Dev Tech: ''
+# Dev Prefix: MLS
+# Gate count = 1
+#
+DEF WE-MLS-4WAY_74273002 MLS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-MLS
+F0 "MLS" 0 0 50 H V C C
+F1 "WE-MLS-4WAY_74273002" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-MLS-74273002" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 400 -200 -100
+P 2 1 0 0 -200 -100 100 -100
+P 2 1 0 0 100 -100 100 400
+P 2 1 0 0 100 400 -200 400
+P 2 1 0 0 -100 300 0 300
+P 2 1 0 0 -100 200 0 200
+P 2 1 0 0 -100 100 0 100
+P 2 1 0 0 -100 0 0 0
+T 0 -75 475 50 0 1 0 >Name
+T 0 -50 -175 50 0 1 0 >Value
+X P$1 1 -400 300 200 R 40 40 1 1 P 
+X P$2 2 -400 200 200 R 40 40 1 1 P 
+X P$3 3 -400 100 200 R 40 40 1 1 P 
+X P$4 4 -400 0 200 R 40 40 1 1 P 
+X P$5 5 300 0 200 L 40 40 1 1 P 
+X P$6 6 300 100 200 L 40 40 1 1 P 
+X P$7 7 300 200 200 L 40 40 1 1 P 
+X P$8 8 300 300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-MLS-4WAY_74273002X
+# Package Name: WE-MLS_74273002X
+# Dev Tech: ''
+# Dev Prefix: MLS
+# Gate count = 1
+#
+DEF WE-MLS-4WAY_74273002X MLS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: WE-MLS
+F0 "MLS" 0 0 50 H V C C
+F1 "WE-MLS-4WAY_74273002X" 0 0 50 H V C C
+F2 "wuerth_elektronik_v5-WE-MLS_74273002X" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 400 -200 -100
+P 2 1 0 0 -200 -100 100 -100
+P 2 1 0 0 100 -100 100 400
+P 2 1 0 0 100 400 -200 400
+P 2 1 0 0 -100 300 0 300
+P 2 1 0 0 -100 200 0 200
+P 2 1 0 0 -100 100 0 100
+P 2 1 0 0 -100 0 0 0
+T 0 -75 475 50 0 1 0 >Name
+T 0 -50 -175 50 0 1 0 >Value
+X P$1 1 -400 300 200 R 40 40 1 1 P 
+X P$2 2 -400 200 200 R 40 40 1 1 P 
+X P$3 3 -400 100 200 R 40 40 1 1 P 
+X P$4 4 -400 0 200 R 40 40 1 1 P 
+X P$5 5 300 0 200 L 40 40 1 1 P 
+X P$6 6 300 100 200 L 40 40 1 1 P 
+X P$7 7 300 200 200 L 40 40 1 1 P 
+X P$8 8 300 300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PBF_7427930
+# Package Name: WE-PBF_7427930
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PBF_7427930 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PBF_7427930" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PBF_7427930" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PBF_7427931
+# Package Name: WE-PBF_7427931
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PBF_7427931 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PBF_7427931" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PBF_7427931" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PBF_7427932
+# Package Name: WE-PBF_7427932
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PBF_7427932 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PBF_7427932" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PBF_7427932" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD_L/XL/XXL
+# Package Name: WE-PD_L/XL/XXL
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD_L/XL/XXL L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD_L/XL/XXL" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PD_L/XL/XXL" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD_S(NEU)/M(NEU)
+# Package Name: WE-PD_S(NEU)/M(NEU)
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD_S(NEU)/M(NEU) L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD_S(NEU)/M(NEU)" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PD_S(NEU)/M(NEU)" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD_S/M
+# Package Name: WE-PD_S/M
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD_S/M L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD_S/M" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PD_S/M" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD_XS
+# Package Name: WE-PD_XS
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD_XS L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD_XS" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PD_XS" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD2_L
+# Package Name: WE-PD2_L
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD2_L L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD2_L" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PD2_L" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD2_M
+# Package Name: WE-PD2_M
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD2_M L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD2_M" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PD2_M" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD2_S
+# Package Name: WE-PD2_S
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD2_S L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD2_S" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PD2_S" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD2_XL
+# Package Name: WE-PD2_XL
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD2_XL L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD2_XL" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PD2_XL" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD3_L
+# Package Name: L
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD3_L L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD3_L" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-L" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD3_M
+# Package Name: M
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD3_M L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD3_M" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-M" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD3_S
+# Package Name: S
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD3_S L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD3_S" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-S" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD3_X
+# Package Name: X
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD3_X L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD3_X" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-X" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD4_L
+# Package Name: L
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD4_L L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD4_L" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-L" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD4_S
+# Package Name: S
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD4_S L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD4_S" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-S" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD4_X
+# Package Name: X
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD4_X L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD4_X" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-X" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PD4_XL
+# Package Name: XL
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PD4_XL L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-PD4_XL" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-XL" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-PF
+# Package Name: WE-PF_7427929...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-PF L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-PF" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-PF_7427929..." 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-POE_EFD15
+# Package Name: WE-POE_EFD15
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF WE-POE_EFD15 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POE
+DRAW
+P 2 1 0 0 0 400 0 -400
+P 2 1 0 0 -228 283 -224 283
+P 2 1 0 0 -232 -118 -228 -118
+P 2 1 0 0 212 -216 216 -216
+P 2 1 0 0 220 82 224 82
+P 2 1 0 0 216 381 220 381
+S 100 200 200 400 1 1 0 F
+S 100 -100 200 100 1 1 0 F
+S 100 -400 200 -200 1 1 0 F
+S -200 100 -100 300 1 1 0 F
+S -200 -300 -100 -100 1 1 0 F
+T 0 -284 202 50 0 1 0 N1
+T 0 -284 -211 50 0 1 0 N2
+T 0 305 300 50 0 1 0 N3
+T 0 325 6 50 0 1 0 N4
+T 0 305 -309 50 0 1 0 N5
+X 1 1 -400 300 200 R 40 40 1 1 B 
+X 3 3 -400 100 200 R 40 40 1 1 B 
+X 5 5 -400 -100 200 R 40 40 1 1 B 
+X 6 6 -400 -300 200 R 40 40 1 1 B 
+X 7 7 400 200 200 L 40 40 1 1 B 
+X 8 8 400 -100 200 L 40 40 1 1 B 
+X 9 9 400 -400 200 L 40 40 1 1 B 
+X 10 10 400 -200 200 L 40 40 1 1 B 
+X 11 11 400 100 200 L 40 40 1 1 B 
+X 12 12 400 400 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-POE_ER11/5
+# Package Name: WE-POE_ER11/5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF WE-POE_ER11/5 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POE
+DRAW
+P 2 1 0 0 0 400 0 -400
+P 2 1 0 0 -228 283 -224 283
+P 2 1 0 0 -232 -118 -228 -118
+P 2 1 0 0 212 -216 216 -216
+P 2 1 0 0 220 82 224 82
+P 2 1 0 0 216 381 220 381
+S 100 200 200 400 1 1 0 F
+S 100 -100 200 100 1 1 0 F
+S 100 -400 200 -200 1 1 0 F
+S -200 100 -100 300 1 1 0 F
+S -200 -300 -100 -100 1 1 0 F
+T 0 -284 202 50 0 1 0 N1
+T 0 -284 -211 50 0 1 0 N2
+T 0 305 300 50 0 1 0 N3
+T 0 325 6 50 0 1 0 N4
+T 0 305 -309 50 0 1 0 N5
+X 1 1 -400 300 200 R 40 40 1 1 B 
+X 3 3 -400 100 200 R 40 40 1 1 B 
+X 5 5 -400 -100 200 R 40 40 1 1 B 
+X 6 6 -400 -300 200 R 40 40 1 1 B 
+X 7 7 400 200 200 L 40 40 1 1 B 
+X 8 8 400 -100 200 L 40 40 1 1 B 
+X 9 9 400 -400 200 L 40 40 1 1 B 
+X 10 10 400 -200 200 L 40 40 1 1 B 
+X 11 11 400 100 200 L 40 40 1 1 B 
+X 12 12 400 400 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-POE_ER14.5/6
+# Package Name: WE-POE_ER14.5/6
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF WE-POE_ER14.5/6 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POE
+DRAW
+P 2 1 0 0 0 400 0 -400
+P 2 1 0 0 -228 283 -224 283
+P 2 1 0 0 -232 -118 -228 -118
+P 2 1 0 0 212 -216 216 -216
+P 2 1 0 0 220 82 224 82
+P 2 1 0 0 216 381 220 381
+S 100 200 200 400 1 1 0 F
+S 100 -100 200 100 1 1 0 F
+S 100 -400 200 -200 1 1 0 F
+S -200 100 -100 300 1 1 0 F
+S -200 -300 -100 -100 1 1 0 F
+T 0 -284 202 50 0 1 0 N1
+T 0 -284 -211 50 0 1 0 N2
+T 0 305 300 50 0 1 0 N3
+T 0 325 6 50 0 1 0 N4
+T 0 305 -309 50 0 1 0 N5
+X 1 1 -400 300 200 R 40 40 1 1 B 
+X 3 3 -400 100 200 R 40 40 1 1 B 
+X 5 5 -400 -100 200 R 40 40 1 1 B 
+X 6 6 -400 -300 200 R 40 40 1 1 B 
+X 7 7 400 200 200 L 40 40 1 1 B 
+X 8 8 400 -100 200 L 40 40 1 1 B 
+X 9 9 400 -400 200 L 40 40 1 1 B 
+X 10 10 400 -200 200 L 40 40 1 1 B 
+X 11 11 400 100 200 L 40 40 1 1 B 
+X 12 12 400 400 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_7447101
+# Package Name: WE-SD_7447101
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_7447101 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_7447101" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_7447101" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_7447110
+# Package Name: WE-SD_7447110
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_7447110 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_7447110" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_7447110" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_7447111
+# Package Name: WE-SD_7447111
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_7447111 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_7447111" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_7447111" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_7447120
+# Package Name: WE-SD_7447120
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_7447120 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_7447120" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_7447120" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_7447121
+# Package Name: WE-SD_7447121
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_7447121 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_7447121" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_7447121" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_7447122
+# Package Name: WE-SD_7447122
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_7447122 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_7447122" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_7447122" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_7447130
+# Package Name: WE-SD_7447130
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_7447130 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_7447130" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_7447130" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_7447140
+# Package Name: WE-SD_7447140
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_7447140 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_7447140" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_7447140" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_7447150
+# Package Name: WE-SD_7447150
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_7447150 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_7447150" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_7447150" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_7447180
+# Package Name: WE-SD_7447180
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_7447180 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_7447180" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_7447180" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744710203
+# Package Name: WE-SD_744710203
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744710203 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744710203" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744710203" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744710205
+# Package Name: WE-SD_744710205
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744710205 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744710205" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744710205" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744710210
+# Package Name: WE-SD_744710210
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744710210 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744710210" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744710210" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744710215
+# Package Name: WE-SD_744710215
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744710215 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744710215" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744710215" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744710603
+# Package Name: WE-SD_744710603
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744710603 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744710603" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744710603" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744710605
+# Package Name: WE-SD_744710605
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744710605 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744710605" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744710605" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744710610
+# Package Name: WE-SD_744710610
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744710610 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744710610" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744710610" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744710615
+# Package Name: WE-SD_744710615
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744710615 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744710615" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744710615" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744711003
+# Package Name: WE-SD_744711003
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744711003 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744711003" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744711003" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744711005
+# Package Name: WE-SD_744711005
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744711005 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744711005" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744711005" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744711010
+# Package Name: WE-SD_744711010
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744711010 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744711010" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744711010" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SD_744711015
+# Package Name: WE-SD_744711015
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SD_744711015 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SD_744711015" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SD_744711015" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SL1
+# Package Name: WE_SL1
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SL1 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-SL1" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE_SL1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 5 300 -100 200 L 40 40 1 1 P 
+X 3 3 -300 100 200 R 40 40 1 1 P 
+X 4 4 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SL2
+# Package Name: WE-SL2_74422...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SL2 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-SL2" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SL2_74422..." 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 2 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SL3
+# Package Name: WE-SL3
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SL3 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: 3L
+F0 "L" -150 300 50 H V L B
+F1 "WE-SL3" -150 -350 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SL3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 125 100 125
+P 2 1 0 0 100 125 100 75
+P 2 1 0 0 100 75 -100 75
+P 2 1 0 0 -100 -75 100 -75
+P 2 1 0 0 100 -75 100 -125
+P 2 1 0 0 100 -125 -100 -125
+S -100 -50 100 50 1 1 0 F
+S -100 150 100 250 1 1 0 F
+S -100 -250 100 -150 1 1 0 F
+X P$1 2 -300 0 200 R 40 40 1 1 P 
+X P$2 5 300 0 200 L 40 40 1 1 P 
+X P$3 6 300 200 200 L 40 40 1 1 P 
+X P$4 1 -300 200 200 R 40 40 1 1 P 
+X P$5 3 -300 -200 200 R 40 40 1 1 P 
+X P$6 4 300 -200 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SL3_2WINDING
+# Package Name: WE-SL3_2WINDING
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF WE-SL3_2WINDING ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 6 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SL5
+# Package Name: WE-SL5
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SL5 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-SL5" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SL5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 3 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 2 -300 100 200 R 40 40 1 1 P 
+X 4 1 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SLM
+# Package Name: WE-SLM
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF WE-SLM ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 2 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SL_2WINDING
+# Package Name: WE-SL_2WINDING
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SL_2WINDING L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-SL_2WINDING" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SL_2WINDING" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 8 300 -100 200 L 40 40 1 1 P 
+X 3 4 -300 100 200 R 40 40 1 1 P 
+X 4 5 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SL_4WINDING
+# Package Name: WE-SL_4WINDING
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SL_4WINDING L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L4
+F0 "L" -150 375 50 H V L B
+F1 "WE-SL_4WINDING" -150 -450 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SL_4WINDING" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 225 100 225
+P 2 1 0 0 100 225 100 175
+P 2 1 0 0 100 175 -100 175
+P 2 1 0 0 -100 -175 100 -175
+P 2 1 0 0 100 -175 100 -225
+P 2 1 0 0 100 -225 -100 -225
+S -100 50 100 150 1 1 0 F
+S -100 -150 100 -50 1 1 0 F
+S -100 -350 100 -250 1 1 0 F
+S -100 250 100 350 1 1 0 F
+T 0 150 200 50 0 1 0 T
+T 0 150 -200 50 0 1 0 T
+X P$1 4 -300 300 200 R 40 40 1 1 P 
+X P$2 5 300 300 200 L 40 40 1 1 P 
+X P$3 3 -300 100 200 R 40 40 1 1 P 
+X P$4 6 300 100 200 L 40 40 1 1 P 
+X P$5 2 -300 -100 200 R 40 40 1 1 P 
+X P$6 7 300 -100 200 L 40 40 1 1 P 
+X P$7 1 -300 -300 200 R 40 40 1 1 P 
+X P$8 8 300 -300 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SMD_7427930
+# Package Name: WE-SMD_7427930
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SMD_7427930 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SMD_7427930" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SMD_7427930" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SMD_7427931
+# Package Name: WE-SMD_7427931
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SMD_7427931 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SMD_7427931" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SMD_7427931" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-SMD_7427932
+# Package Name: WE-SMD_7427932
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-SMD_7427932 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L
+F0 "L" -150 200 50 H V L B
+F1 "WE-SMD_7427932" -150 -50 50 H V L B
+F2 "wuerth_elektronik_v5-WE-SMD_7427932" 0 150 50 H I C C
+DRAW
+S -100 50 100 150 1 1 0 F
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TCI_0402
+# Package Name: WE-TCI_0402
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TCI_0402 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TCI_0402" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TCI_0402" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TCI_0603
+# Package Name: WE-TCI_0603
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TCI_0603 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TCI_0603" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TCI_0603" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TI_L
+# Package Name: WE-TI_L
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TI_L L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TI_L" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TI_L" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TI_S/M
+# Package Name: WE-TI_S/M
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TI_S/M L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TI_S/M" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TI_S/M" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TI_XL
+# Package Name: WE-TI_XL
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TI_XL L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TI_XL" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TI_XL" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TPC_L/LH
+# Package Name: WE-TPC_L/LH
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TPC_L/LH L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TPC_L/LH" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TPC_L/LH" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TPC_M/MH
+# Package Name: WE-TPC_M/MH
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TPC_M/MH L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TPC_M/MH" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TPC_M/MH" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TPC_S
+# Package Name: WE-TPC_S
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TPC_S L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TPC_S" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TPC_S" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TPC_X
+# Package Name: WE-TPC_X
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TPC_X L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TPC_X" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TPC_X" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TPC_XL/XLH
+# Package Name: WE-TPC_XL/XLH
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TPC_XL/XLH L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TPC_XL/XLH" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TPC_XL/XLH" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-TPC_XS
+# Package Name: WE-TPC_XS
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-TPC_XS L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-TPC_XS" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-TPC_XS" 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-VB
+# Package Name: WE-VB_7427945...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-VB L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-VB" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-VB_7427945..." 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 2 -300 -100 200 R 40 40 1 1 P 
+X 2 3 300 -100 200 L 40 40 1 1 P 
+X 3 1 -300 100 200 R 40 40 1 1 P 
+X 4 4 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-VB2
+# Package Name: WE-VB2_7447950...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-VB2 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L2
+F0 "L" -150 200 50 H V L B
+F1 "WE-VB2" -150 -250 50 H V L B
+F2 "wuerth_elektronik_v5-WE-VB2_7447950..." 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -25 100 -25
+P 2 1 0 0 100 -25 100 25
+P 2 1 0 0 100 25 -100 25
+S -50 -200 50 0 1 1 0 F
+S -50 0 50 200 1 1 0 F
+X 1 1 -300 -100 200 R 40 40 1 1 P 
+X 2 4 300 -100 200 L 40 40 1 1 P 
+X 3 2 -300 100 200 R 40 40 1 1 P 
+X 4 3 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: WE-ZB
+# Package Name: WE-ZB_7427940...
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF WE-ZB L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: -L
+F0 "L" -150 100 50 H V L B
+F1 "WE-ZB" -150 -150 50 H V L B
+F2 "wuerth_elektronik_v5-WE-ZB_7427940..." 0 150 50 H I C C
+DRAW
+S -50 -100 50 100 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

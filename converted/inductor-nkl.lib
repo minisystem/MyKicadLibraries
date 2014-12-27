@@ -1,0 +1,4177 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:23
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 194
+#
+# Dev Name: R1003D-SMD
+# Package Name: SMD
+# Dev Tech: ''
+# Dev Prefix: B6
+# Gate count = 1
+#
+DEF R1003D-SMD B6 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "B6" -150 90 50 H V L B
+F1 "R1003D-SMD" -155 -120 50 H V L B
+F2 "inductor-nkl-SMD" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$4 -300 0 200 R 40 40 1 1 P 
+X 2 P$8 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003DB5
+# Package Name: B5
+# Dev Tech: ''
+# Dev Prefix: B6
+# Gate count = 1
+#
+DEF R1003DB5 B6 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "B6" -150 90 50 H V L B
+F1 "R1003DB5" -155 -120 50 H V L B
+F2 "inductor-nkl-B5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003DB6
+# Package Name: B6
+# Dev Tech: ''
+# Dev Prefix: B6
+# Gate count = 1
+#
+DEF R1003DB6 B6 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "B6" -150 90 50 H V L B
+F1 "R1003DB6" -155 -120 50 H V L B
+F2 "inductor-nkl-B6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 2 -300 0 200 R 40 40 1 1 P 
+X 2 3 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003DS11
+# Package Name: S11-10
+# Dev Tech: ''
+# Dev Prefix: B6
+# Gate count = 1
+#
+DEF R1003DS11 B6 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "B6" -150 90 50 H V L B
+F1 "R1003DS11" -155 -120 50 H V L B
+F2 "inductor-nkl-S11-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003F-SMD
+# Package Name: SMD
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003F-SMD ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$4 -300 0 200 R 40 40 1 1 P 
+X 2 P$8 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003FB5
+# Package Name: B5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003FB5 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003FB6
+# Package Name: B6
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003FB6 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 2 -300 0 200 R 40 40 1 1 P 
+X 2 3 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003FS11
+# Package Name: S11-10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003FS11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003U-SMD
+# Package Name: SMD
+# Dev Tech: ''
+# Dev Prefix: SMD
+# Gate count = 1
+#
+DEF R1003U-SMD SMD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+F0 "SMD" -150 160 50 H V L B
+F1 "R1003U-SMD" -150 -220 50 H V L B
+F2 "inductor-nkl-SMD" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 P$1 -300 100 200 R 40 40 1 1 P 
+X 2 P$4 300 100 200 L 40 40 1 1 P 
+X 3 P$8 -300 -100 200 R 40 40 1 1 P 
+X 4 P$5 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003UB5
+# Package Name: B5
+# Dev Tech: ''
+# Dev Prefix: SMD
+# Gate count = 1
+#
+DEF R1003UB5 SMD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+F0 "SMD" -150 160 50 H V L B
+F1 "R1003UB5" -150 -220 50 H V L B
+F2 "inductor-nkl-B5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003UB6
+# Package Name: B6
+# Dev Tech: ''
+# Dev Prefix: SMD
+# Gate count = 1
+#
+DEF R1003UB6 SMD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+F0 "SMD" -150 160 50 H V L B
+F1 "R1003UB6" -150 -220 50 H V L B
+F2 "inductor-nkl-B6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003UKS
+# Package Name: KS1003
+# Dev Tech: ''
+# Dev Prefix: SMD
+# Gate count = 1
+#
+DEF R1003UKS SMD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+F0 "SMD" -150 160 50 H V L B
+F1 "R1003UKS" -150 -220 50 H V L B
+F2 "inductor-nkl-KS1003" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003V-SMD
+# Package Name: SMD
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003V-SMD ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 P$1 -300 100 200 R 40 40 1 1 P 
+X 2 P$4 300 100 200 L 40 40 1 1 P 
+X 3 P$8 -300 -100 200 R 40 40 1 1 P 
+X 4 P$5 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003VB5
+# Package Name: B5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003VB5 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003VB6
+# Package Name: B6
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003VB6 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003VKS
+# Package Name: KS1003
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003VKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003X-SMD
+# Package Name: SMD
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003X-SMD ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 P$1 -300 100 200 R 40 40 1 1 P 
+X 2 P$4 300 100 200 L 40 40 1 1 P 
+X 3 P$8 -300 -100 200 R 40 40 1 1 P 
+X 4 P$5 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003XB5
+# Package Name: B5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003XB5 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003XB6
+# Package Name: B6
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003XB6 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1003XKS
+# Package Name: KS1003
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1003XKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1303UKS
+# Package Name: KS1303
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1303UKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1303VKS
+# Package Name: KS1303
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1303VKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1303XKS
+# Package Name: KS1303
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1303XKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305D11
+# Package Name: 11-13
+# Dev Tech: ''
+# Dev Prefix: S10
+# Gate count = 1
+#
+DEF R1305D11 S10 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "S10" -150 90 50 H V L B
+F1 "R1305D11" -155 -120 50 H V L B
+F2 "inductor-nkl-11-13" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305DB1
+# Package Name: B1
+# Dev Tech: ''
+# Dev Prefix: S10
+# Gate count = 1
+#
+DEF R1305DB1 S10 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "S10" -150 90 50 H V L B
+F1 "R1305DB1" -155 -120 50 H V L B
+F2 "inductor-nkl-B1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305DB1/2
+# Package Name: B1/2
+# Dev Tech: ''
+# Dev Prefix: S10
+# Gate count = 1
+#
+DEF R1305DB1/2 S10 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "S10" -150 90 50 H V L B
+F1 "R1305DB1/2" -155 -120 50 H V L B
+F2 "inductor-nkl-B1/2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305DB8
+# Package Name: B8
+# Dev Tech: ''
+# Dev Prefix: S10
+# Gate count = 1
+#
+DEF R1305DB8 S10 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "S10" -150 90 50 H V L B
+F1 "R1305DB8" -155 -120 50 H V L B
+F2 "inductor-nkl-B8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305DB9
+# Package Name: B9
+# Dev Tech: ''
+# Dev Prefix: S10
+# Gate count = 1
+#
+DEF R1305DB9 S10 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "S10" -150 90 50 H V L B
+F1 "R1305DB9" -155 -120 50 H V L B
+F2 "inductor-nkl-B9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305DB10
+# Package Name: B10
+# Dev Tech: ''
+# Dev Prefix: S10
+# Gate count = 1
+#
+DEF R1305DB10 S10 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "S10" -150 90 50 H V L B
+F1 "R1305DB10" -155 -120 50 H V L B
+F2 "inductor-nkl-B10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305DB71
+# Package Name: B71
+# Dev Tech: ''
+# Dev Prefix: S10
+# Gate count = 1
+#
+DEF R1305DB71 S10 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "S10" -150 90 50 H V L B
+F1 "R1305DB71" -155 -120 50 H V L B
+F2 "inductor-nkl-B71" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305DS10
+# Package Name: S10
+# Dev Tech: ''
+# Dev Prefix: S10
+# Gate count = 1
+#
+DEF R1305DS10 S10 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "S10" -150 90 50 H V L B
+F1 "R1305DS10" -155 -120 50 H V L B
+F2 "inductor-nkl-S10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305DS11
+# Package Name: S11-13
+# Dev Tech: ''
+# Dev Prefix: S10
+# Gate count = 1
+#
+DEF R1305DS11 S10 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+F0 "S10" -150 90 50 H V L B
+F1 "R1305DS11" -155 -120 50 H V L B
+F2 "inductor-nkl-S11-13" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305F11
+# Package Name: 11-13
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1305F11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305FB1
+# Package Name: B1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1305FB1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305FB1/2
+# Package Name: B1/2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1305FB1/2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305FB8
+# Package Name: B8
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1305FB8 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305FB9
+# Package Name: B9
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1305FB9 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305FB10
+# Package Name: B10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1305FB10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305FB71
+# Package Name: B71
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1305FB71 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305FS10
+# Package Name: S10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1305FS10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1305FS11
+# Package Name: S11-13
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1305FS11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405UB1
+# Package Name: B1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405UB1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405UB1/2
+# Package Name: B1/2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405UB1/2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405UB2
+# Package Name: B2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405UB2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405UB9
+# Package Name: B9
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405UB9 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405UB10
+# Package Name: B10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405UB10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405UB19
+# Package Name: B19
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405UB19 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 8 300 100 200 L 40 40 1 1 P 
+X 3 4 -300 -100 200 R 40 40 1 1 P 
+X 4 5 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405UB71
+# Package Name: B71
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405UB71 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405UKS
+# Package Name: KS1405
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405UKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405US10
+# Package Name: S10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405US10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405VB1
+# Package Name: B1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405VB1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405VB1/2
+# Package Name: B1/2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405VB1/2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405VB2
+# Package Name: B2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405VB2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405VB9
+# Package Name: B9
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405VB9 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405VB10
+# Package Name: B10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405VB10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405VB19
+# Package Name: B19
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405VB19 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 8 300 100 200 L 40 40 1 1 P 
+X 3 4 -300 -100 200 R 40 40 1 1 P 
+X 4 5 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405VB71
+# Package Name: B71
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405VB71 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405VKS
+# Package Name: KS1405
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405VKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405VS10
+# Package Name: S10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405VS10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405XB1
+# Package Name: B1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405XB1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405XB1/2
+# Package Name: B1/2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405XB1/2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405XB2
+# Package Name: B2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405XB2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405XB9
+# Package Name: B9
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405XB9 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405XB10
+# Package Name: B10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405XB10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405XB19
+# Package Name: B19
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405XB19 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 8 300 100 200 L 40 40 1 1 P 
+X 3 4 -300 -100 200 R 40 40 1 1 P 
+X 4 5 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405XB71
+# Package Name: B71
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405XB71 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405XKS
+# Package Name: KS1405
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405XKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1405XS10
+# Package Name: S10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1405XS10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1607XB23
+# Package Name: B23
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1607XB23 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 2 -300 100 200 R 40 40 1 1 P 
+X 2 9 300 100 200 L 40 40 1 1 P 
+X 3 4 -300 -100 200 R 40 40 1 1 P 
+X 4 7 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1607XS30
+# Package Name: S30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1607XS30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705D10
+# Package Name: 10-17
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705D10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705D11
+# Package Name: 11-17
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705D11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705DB2
+# Package Name: B2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705DB2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705DB23
+# Package Name: B23
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705DB23 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 2 -300 0 200 R 40 40 1 1 P 
+X 2 7 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705DS11
+# Package Name: S11-17
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705DS11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705DS30
+# Package Name: S30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705DS30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705F10
+# Package Name: 10-17
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705F10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705F11
+# Package Name: 11-17
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705F11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705FB2
+# Package Name: B2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705FB2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705FB23
+# Package Name: B23
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705FB23 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 2 -300 0 200 R 40 40 1 1 P 
+X 2 7 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705FS11
+# Package Name: S11-17
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705FS11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1705FS30
+# Package Name: S30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1705FS30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908U11
+# Package Name: 11-19
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908U11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908UB3
+# Package Name: B3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908UB3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908UB30
+# Package Name: B30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908UB30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908UB2814
+# Package Name: B2814
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908UB2814 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 P$4 -300 100 200 R 40 40 1 1 P 
+X 2 P$3 300 100 200 L 40 40 1 1 P 
+X 3 P$2 -300 -100 200 R 40 40 1 1 P 
+X 4 P$1 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908UKS
+# Package Name: KS1908
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908UKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908US30
+# Package Name: S30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908US30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908X11
+# Package Name: 11-19
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908X11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908XB3
+# Package Name: B3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908XB3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908XB30
+# Package Name: B30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908XB30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908XB2814
+# Package Name: B2814
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908XB2814 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 P$4 -300 100 200 R 40 40 1 1 P 
+X 2 P$3 300 100 200 L 40 40 1 1 P 
+X 3 P$2 -300 -100 200 R 40 40 1 1 P 
+X 4 P$1 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908XKS
+# Package Name: KS1908
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908XKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R1908XS30
+# Package Name: S30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R1908XS30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006D10
+# Package Name: 10-20
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006D10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006D11
+# Package Name: 11-20
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006D11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006DB3
+# Package Name: B3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006DB3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006DB30
+# Package Name: B30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006DB30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006DB2814
+# Package Name: B2814
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006DB2814 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$5 -300 0 200 R 40 40 1 1 P 
+X 2 P$6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006DS11
+# Package Name: S11-20
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006DS11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006DS30
+# Package Name: S30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006DS30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006F10
+# Package Name: 10-20
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006F10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006F11
+# Package Name: 11-20
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006F11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006FB3
+# Package Name: B3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006FB3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006FB30
+# Package Name: B30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006FB30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006FB2814
+# Package Name: B2814
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006FB2814 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$5 -300 0 200 R 40 40 1 1 P 
+X 2 P$6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006FS11
+# Package Name: S11-20
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006FS11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2006FS30
+# Package Name: S30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2006FS30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2408D10
+# Package Name: 10-24
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2408D10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2408D11
+# Package Name: 11-24
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2408D11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2408DB4
+# Package Name: B4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2408DB4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2408DB40
+# Package Name: B40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2408DB40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2408DS30
+# Package Name: S30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2408DS30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2408F10
+# Package Name: 10-24
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2408F10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2408F11
+# Package Name: 11-24
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2408F11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2408FB4
+# Package Name: B4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2408FB4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2408FB40
+# Package Name: B40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2408FB40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2408FS30
+# Package Name: S30
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2408FS30 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610U11
+# Package Name: 11-26
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610U11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610UB4
+# Package Name: B4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610UB4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610UB34
+# Package Name: B34
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610UB34 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610UB40
+# Package Name: B40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610UB40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610UKS
+# Package Name: KS2610
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610UKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610US40
+# Package Name: S40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610US40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610X11
+# Package Name: 11-26
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610X11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610XB4
+# Package Name: B4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610XB4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610XB34
+# Package Name: B34
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610XB34 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610XB40
+# Package Name: B40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610XB40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610XKS
+# Package Name: KS2610
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610XKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2610XS40
+# Package Name: S40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2610XS40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711D10
+# Package Name: 10-27
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711D10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711D11
+# Package Name: 11-27
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711D11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711DB4
+# Package Name: B4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711DB4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711DB34
+# Package Name: B34
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711DB34 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711DB40
+# Package Name: B40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711DB40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711DS40
+# Package Name: S40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711DS40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711F10
+# Package Name: 10-27
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711F10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711F11
+# Package Name: 11-27
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711F11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711FB4
+# Package Name: B4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711FB4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711FB34
+# Package Name: B34
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711FB34 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711FB40
+# Package Name: B40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711FB40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R2711FS40
+# Package Name: S40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R2711FS40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3213UB44
+# Package Name: B44(ST)
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3213UB44 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 P$1 -300 100 200 R 40 40 1 1 P 
+X 2 P$2 300 100 200 L 40 40 1 1 P 
+X 3 P$3 -300 -100 200 R 40 40 1 1 P 
+X 4 P$4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3213UB50
+# Package Name: B50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3213UB50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3213UKS
+# Package Name: KS3213
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3213UKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3213US40
+# Package Name: S40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3213US40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3213US50
+# Package Name: S50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3213US50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3213XB44
+# Package Name: B44(ST)
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3213XB44 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 P$1 -300 100 200 R 40 40 1 1 P 
+X 2 P$2 300 100 200 L 40 40 1 1 P 
+X 3 P$3 -300 -100 200 R 40 40 1 1 P 
+X 4 P$4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3213XB50
+# Package Name: B50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3213XB50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3213XKS
+# Package Name: KS3213
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3213XKS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3213XS40
+# Package Name: S40
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3213XS40 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3213XS50
+# Package Name: S50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3213XS50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311D10
+# Package Name: 10-33
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311D10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311D11
+# Package Name: 11-33
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311D11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311DB42
+# Package Name: B42
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311DB42 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$5 -300 0 200 R 40 40 1 1 P 
+X 2 P$6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311DB44
+# Package Name: B44
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311DB44 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 2 -300 0 200 R 40 40 1 1 P 
+X 2 3 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311DB50
+# Package Name: B50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311DB50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311DS50
+# Package Name: S50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311DS50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311F10
+# Package Name: 10-33
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311F10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311F11
+# Package Name: 11-33
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311F11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311FB42
+# Package Name: B42
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311FB42 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$5 -300 0 200 R 40 40 1 1 P 
+X 2 P$6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311FB44
+# Package Name: B44
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311FB44 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 2 -300 0 200 R 40 40 1 1 P 
+X 2 3 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311FB50
+# Package Name: B50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311FB50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 1 -300 0 200 R 40 40 1 1 P 
+X 2 4 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3311FS50
+# Package Name: S50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3311FS50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3615UB50
+# Package Name: B5Ø
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3615UB50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 11 300 100 200 L 40 40 1 1 P 
+X 3 6 -300 -100 200 R 40 40 1 1 P 
+X 4 12 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3615UB60
+# Package Name: B60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3615UB60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3615US50
+# Package Name: S50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3615US50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3615XB50
+# Package Name: B5Ø
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3615XB50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 5 -300 100 200 R 40 40 1 1 P 
+X 2 11 300 100 200 L 40 40 1 1 P 
+X 3 6 -300 -100 200 R 40 40 1 1 P 
+X 4 12 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3615XB60
+# Package Name: B60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3615XB60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R3615XS50
+# Package Name: S50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R3615XS50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4014DB60
+# Package Name: B60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4014DB60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4014DS50
+# Package Name: S50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4014DS50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4014DS60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4014DS60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4014FB60
+# Package Name: B60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4014FB60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4014FS50
+# Package Name: S50
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4014FS50 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4014FS60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4014FS60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4218XB60
+# Package Name: B60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4218XB60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4218XS60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4218XS60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4718DB60
+# Package Name: B6Ø
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4718DB60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4718DS60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4718DS60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4718FB60
+# Package Name: B6Ø
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4718FB60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R4718FS60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R4718FS60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5114DB60
+# Package Name: B6Ø
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5114DB60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5114DS60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5114DS60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5114FB60
+# Package Name: B6Ø
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5114FB60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5114FS60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5114FS60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5618UB70
+# Package Name: B70
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5618UB70 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 P$1 -300 100 200 R 40 40 1 1 P 
+X 2 P$2 300 100 200 L 40 40 1 1 P 
+X 3 P$3 -300 -100 200 R 40 40 1 1 P 
+X 4 P$4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5618US60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5618US60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5618XB70
+# Package Name: B70
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5618XB70 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 P$1 -300 100 200 R 40 40 1 1 P 
+X 2 P$2 300 100 200 L 40 40 1 1 P 
+X 3 P$3 -300 -100 200 R 40 40 1 1 P 
+X 4 P$4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5618XS60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5618XS60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: STROKO
+DRAW
+P 2 1 0 0 150 40 -150 40
+P 2 1 0 0 -150 -40 -150 40
+P 2 1 0 0 -150 -40 150 -40
+S -150 65 150 135 1 1 0 F
+S -150 -135 150 -65 1 1 0 F
+C -180 -130 5 1 1 0 F
+C -180 70 5 1 1 0 F
+X 1 1 -300 100 200 R 40 40 1 1 P 
+X 2 2 300 100 200 L 40 40 1 1 P 
+X 3 3 -300 -100 200 R 40 40 1 1 P 
+X 4 4 300 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5814DB70
+# Package Name: B70
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5814DB70 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5814DS60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5814DS60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5814FB70
+# Package Name: B70
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5814FB70 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 P$1 -300 0 200 R 40 40 1 1 P 
+X 2 P$2 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R5814FS60
+# Package Name: S60
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF R5814FS60 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SINGLE
+DRAW
+P 2 1 0 0 -150 65 150 65
+S -150 -35 150 35 1 1 0 F
+X 1 5 -300 0 200 R 40 40 1 1 P 
+X 2 6 300 0 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

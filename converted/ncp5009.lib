@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:15
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: NCP5009
+# Package Name: MICRO-10
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF NCP5009 IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NCP5009
+F0 "IC" 0 0 50 H V C C
+F1 "NCP5009" 0 0 50 H V C C
+F2 "ncp5009-MICRO-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -500 700 -500 -300
+P 2 1 0 0 -500 -300 500 -300
+P 2 1 0 0 500 -300 500 700
+P 2 1 0 0 500 700 -500 700
+T 0 -225 935 70 0 1 0 >name
+T 0 -190 835 70 0 1 0 >value
+X CLOCK 5 -700 -200 200 R 40 40 1 1 B 
+X CS 3 -700 200 200 R 40 40 1 1 B 
+X GND 7 700 0 200 L 40 40 1 1 B 
+X IREF 1 -700 600 200 R 40 40 1 1 B 
+X L1 9 700 400 200 L 40 40 1 1 B 
+X L2_IOUT 8 700 200 200 L 40 40 1 1 B 
+X LOCAL 6 700 -200 200 L 40 40 1 1 B 
+X PHOTO 2 -700 400 200 R 40 40 1 1 B 
+X VBAT 10 700 600 200 L 40 40 1 1 B 
+X VBIAS 4 -700 0 200 R 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

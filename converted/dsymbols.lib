@@ -1,0 +1,745 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:17
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 38
+#
+# Dev Name: ICON_AC
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_AC ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_AC
+DRAW
+P 2 1 0 0 -62 -12 -37 12
+A -25 0 17 -3149 -2250 1 1 0 N -12 12 -37 12
+P 2 1 0 0 -12 12 12 -12
+A 25 0 17 -1349 -450 1 1 0 N 12 -12 37 -12
+P 2 1 0 0 37 -12 62 12
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_ANT
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_ANT ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_ANT
+DRAW
+P 2 1 0 0 0 100 -75 100
+P 2 1 0 0 0 -100 0 0
+P 2 1 0 0 0 0 0 100
+P 2 1 0 0 0 100 75 100
+P 2 1 0 0 -75 100 0 0
+P 2 1 0 0 0 0 75 100
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_ARROW-H
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_ARROW-H ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_ARROW-H
+DRAW
+P 6 1 1 0     -62 25 -62 -25 -62 -25 0 0 0 0 -62 25 F
+P 2 1 0 0 -362 0 -50 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_ARROW-L
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_ARROW-L ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_ARROW-L
+DRAW
+P 18 1 1 0           181 0 6 125 6 125 6 56 6 56 -168 56 -168 56 -168 -56 -168 -56 6 -56 6 -56 6 -118 6 -118 168 0 168 0 6 112 6 112 181 0 F
+P 2 1 0 0 187 0 0 137
+P 2 1 0 0 0 137 0 62
+P 2 1 0 0 0 62 -175 62
+P 2 1 0 0 -175 62 -175 -62
+P 2 1 0 0 -175 -62 0 -62
+P 2 1 0 0 0 -62 0 -137
+P 2 1 0 0 0 -137 187 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_ARROW-M
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_ARROW-M ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_ARROW-M
+DRAW
+P 16 1 1 0          106 0 6 75 6 75 6 31 6 31 -143 31 -143 31 -143 -31 -143 -31 6 -31 6 -31 6 -75 6 -75 100 0 100 0 106 0 F
+P 2 1 0 0 112 0 0 87
+P 2 1 0 0 0 87 0 37
+P 2 1 0 0 0 37 -150 37
+P 2 1 0 0 -150 37 -150 -37
+P 2 1 0 0 -150 -37 0 -37
+P 2 1 0 0 0 -37 0 -87
+P 2 1 0 0 0 -87 112 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_ARROW-S
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_ARROW-S ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_ARROW-S
+DRAW
+P 18 1 1 0           56 0 6 31 6 31 6 6 6 6 -68 6 -68 6 -68 -6 -68 -6 6 -6 6 -6 6 -25 6 -25 50 0 50 0 6 25 6 25 56 0 F
+P 2 1 0 0 68 0 0 43
+P 2 1 0 0 0 43 0 12
+P 2 1 0 0 0 12 -75 12
+P 2 1 0 0 -75 12 -75 -12
+P 2 1 0 0 -75 -12 0 -12
+P 2 1 0 0 0 -12 0 -43
+P 2 1 0 0 0 -43 68 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_ARROW-T
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_ARROW-T ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_ARROW-T
+DRAW
+P 6 1 1 0     -62 18 -62 -18 -62 -18 -12 0 -12 0 -62 18 F
+P 2 1 0 0 -162 0 -50 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_BATT9V
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_BATT9V ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_BATT9V
+DRAW
+P 2 1 0 0 -150 100 150 100
+P 2 1 0 0 150 100 150 75
+P 2 1 0 0 150 75 150 25
+P 2 1 0 0 150 25 150 -25
+P 2 1 0 0 150 -25 150 -75
+P 2 1 0 0 150 -75 150 -100
+P 2 1 0 0 150 -100 -150 -100
+P 2 1 0 0 -150 -100 -150 100
+P 2 1 0 0 150 75 200 75
+P 2 1 0 0 200 75 200 25
+P 2 1 0 0 200 25 150 25
+P 2 1 0 0 200 -25 150 -25
+P 2 1 0 0 200 -75 150 -75
+P 2 1 0 0 200 -25 200 -75
+T 0 -17 -2 70 0 1 0 9V
+T 0 110 47 70 0 1 0 +
+T 0 110 -52 70 0 1 0 -
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_BATTERY-M
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_BATTERY-M ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_BATTERY_M
+DRAW
+P 2 1 0 0 -143 81 162 81
+P 2 1 0 0 162 81 162 43
+P 2 1 0 0 162 43 162 -43
+P 2 1 0 0 162 -43 162 -81
+P 2 1 0 0 162 -81 -143 -81
+P 2 1 0 0 -143 -81 -143 81
+P 2 1 0 0 162 43 193 43
+P 2 1 0 0 193 43 193 -43
+P 2 1 0 0 193 -43 162 -43
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_BATTERY-S
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_BATTERY-S ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_BATTERY-S
+DRAW
+P 2 1 0 0 -106 56 99 56
+P 2 1 0 0 99 56 99 31
+P 2 1 0 0 99 31 100 -31
+P 2 1 0 0 100 -31 99 -56
+P 2 1 0 0 99 -56 -106 -56
+P 2 1 0 0 -106 -56 -106 56
+P 2 1 0 0 99 31 131 31
+P 2 1 0 0 131 31 131 -31
+P 2 1 0 0 131 -31 100 -31
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_BOLT-L
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_BOLT-L ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_BOLT-L
+DRAW
+P 12 1 1 0        37 62 12 -75 12 -75 -25 -37 -25 -37 -87 -125 -87 -125 -37 0 -37 0 -12 -25 -12 -25 37 62 F
+P 2 1 0 0 0 225 225 -175
+P 2 1 0 0 225 -175 -225 -175
+P 2 1 0 0 -225 -175 0 225
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_BOLT-S
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_BOLT-S ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_BOLT-S
+DRAW
+P 12 1 1 0        25 50 -6 -37 -6 -37 -18 -6 -18 -6 -56 -56 -56 -56 -18 25 -18 25 -6 0 -6 0 25 50 F
+P 2 1 0 0 0 125 125 -75
+P 2 1 0 0 125 -75 -125 -75
+P 2 1 0 0 -125 -75 0 125
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_DANGER
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_DANGER ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_DANGER
+DRAW
+P 8 1 1 0      -25 100 25 100 25 100 12 -75 12 -75 -12 -75 -12 -75 -25 100 F
+P 2 1 0 0 0 225 225 -175
+P 2 1 0 0 225 -175 -225 -175
+P 2 1 0 0 -225 -175 0 225
+C 0 -112 17 1 1 0 N
+T 0 900 -75 100 0 1 0 HIGH~VOLTAGE
+T 0 850 125 150 0 1 0 DANGER
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_EXL
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_EXL ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_EXL
+DRAW
+P 8 1 1 0      -12 62 12 62 12 62 6 -25 6 -25 -6 -25 -6 -25 -12 62 F
+P 2 1 0 0 0 125 125 -75
+P 2 1 0 0 125 -75 -125 -75
+P 2 1 0 0 -125 -75 0 125
+C 0 -50 12 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_EXL-L
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_EXL-L ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_EXL-L
+DRAW
+P 8 1 1 0      -25 100 25 100 25 100 12 -75 12 -75 -12 -75 -12 -75 -25 100 F
+P 2 1 0 0 0 225 225 -175
+P 2 1 0 0 225 -175 -225 -175
+P 2 1 0 0 -225 -175 0 225
+C 0 -112 17 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_EXL-S
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_EXL-S ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_EXL-S
+DRAW
+P 8 1 1 0      -12 62 12 62 12 62 6 -25 6 -25 -6 -25 -6 -25 -12 62 F
+P 2 1 0 0 0 125 125 -75
+P 2 1 0 0 125 -75 -125 -75
+P 2 1 0 0 -125 -75 0 125
+C 0 -50 12 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_GND
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_GND ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_GND
+DRAW
+P 2 1 0 0 -37 -62 -12 -12
+P 2 1 0 0 -12 -12 -50 -12
+P 2 1 0 0 6 50 6 -12
+P 2 1 0 0 62 -12 37 -62
+P 2 1 0 0 -50 -12 -75 -62
+P 2 1 0 0 -12 -12 6 -12
+P 2 1 0 0 6 -12 25 -12
+P 2 1 0 0 25 -12 62 -12
+P 2 1 0 0 25 -12 0 -62
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_GND2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_GND2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_GND2
+DRAW
+P 2 1 0 0 0 43 -62 43
+P 2 1 0 0 0 100 0 43
+P 2 1 0 0 0 43 62 43
+P 2 1 0 0 -18 -25 18 -25
+P 2 1 0 0 -37 6 37 6
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_MINUS
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_MINUS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_MINUS
+DRAW
+P 2 1 0 0 15 0 -15 0
+C 0 0 30 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_PLUS
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_PLUS ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_PLUS
+DRAW
+P 2 1 0 0 15 0 -15 0
+P 2 1 0 0 0 15 0 -15
+C 0 0 30 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_RTZ
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_RTZ ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_RTZ
+DRAW
+A -62 12 55 -2964 -635 1 1 0 N -37 62 -37 -37
+A -43 12 80 -3212 -387 1 1 0 N 18 62 18 -37
+A -21 12 106 -3318 -281 1 1 0 N 71 62 71 -37
+T 0 15 10 70 0 1 0 RTZ
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_RTZ_FULL
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_RTZ_FULL ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_RTZ_FULL
+DRAW
+A -12 12 55 -2964 -635 1 1 0 N 12 62 12 -37
+A 6 12 80 -3212 -387 1 1 0 N 68 62 68 -37
+A 28 12 106 -3318 -281 1 1 0 N 121 62 121 -37
+T 0 65 10 70 0 1 0 RTZ
+T 0 487 50 50 0 1 0 Professional
+T 0 312 -25 50 0 1 0 Audio
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_SPEAKER
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_SPEAKER ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_SPEAKER
+DRAW
+P 2 1 0 0 -25 18 -25 -18
+P 2 1 0 0 -25 -18 0 -18
+P 2 1 0 0 0 -18 25 -43
+P 2 1 0 0 25 -43 25 43
+P 2 1 0 0 25 43 0 18
+P 2 1 0 0 0 18 -25 18
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_TEMP
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_TEMP ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_TEMP
+DRAW
+A 6 -10 34 -2374 574 1 1 0 N -12 18 25 18
+P 2 1 0 0 -12 18 -12 118
+P 2 1 0 0 25 18 25 118
+A 6 118 18 -3599 -1801 1 1 0 N 25 118 -12 118
+P 2 1 0 0 6 75 6 -12
+C 6 -12 17 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICON_UL
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ICON_UL ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ICON_UL
+DRAW
+S 9 -37 21 15 1 1 0 F
+S 21 -37 40 -24 1 1 0 F
+S -40 -9 -28 34 1 1 0 F
+S -15 -9 -3 34 1 1 0 F
+S -37 -12 -6 -9 1 1 0 F
+S -34 -15 -9 -12 1 1 0 F
+S -31 -18 -12 -15 1 1 0 F
+C 0 0 66 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NOTE1_RND
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NOTE1_RND ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NOTE1_RND
+DRAW
+C 0 0 90 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NOTE1_SQR
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NOTE1_SQR ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NOTE1_SQR
+DRAW
+P 2 1 0 0 -75 75 -75 -75
+P 2 1 0 0 -75 -75 75 -75
+P 2 1 0 0 75 -75 75 75
+P 2 1 0 0 75 75 -75 75
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NOTE1_TRI
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NOTE1_TRI ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NOTE1_TRI
+DRAW
+P 2 1 0 0 0 137 150 -62
+P 2 1 0 0 0 137 -150 -62
+P 2 1 0 0 -150 -62 150 -62
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NOTE2_RND
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NOTE2_RND ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NOTE2_RND
+DRAW
+C 0 0 90 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NOTE2_SQR
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NOTE2_SQR ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NOTE2_SQR
+DRAW
+P 2 1 0 0 -75 75 75 75
+P 2 1 0 0 75 75 75 -75
+P 2 1 0 0 75 -75 -75 -75
+P 2 1 0 0 -75 -75 -75 75
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NOTE2_TRI
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NOTE2_TRI ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NOTE2_TRI
+DRAW
+P 2 1 0 0 0 137 150 -62
+P 2 1 0 0 0 137 -150 -62
+P 2 1 0 0 -150 -62 150 -62
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NOTE_ARROW
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NOTE_ARROW ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NOTE_ARROW_1
+DRAW
+P 6 1 1 0     0 31 0 -31 0 -31 100 0 100 0 0 31 F
+P 2 1 0 0 0 25 100 0
+P 2 1 0 0 100 0 0 -25
+P 2 1 0 0 0 -25 0 0
+P 2 1 0 0 0 0 0 25
+P 2 1 0 0 0 0 -200 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SYM_ATTEN
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF SYM_ATTEN ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SYM_ATTEN
+DRAW
+P 2 1 0 0 125 0 362 0
+P 2 1 0 0 362 0 287 12
+P 2 1 0 0 287 12 287 -12
+P 2 1 0 0 287 -12 362 0
+P 2 1 0 0 75 0 -100 0
+P 2 1 0 0 400 0 600 0
+A 146 0 250 -3154 -2709 1 1 0 N 325 175 150 250
+A 150 2 252 -899 324 1 1 0 N 150 -250 362 137
+C 100 0 25 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SYM_OP-AMP
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF SYM_OP-AMP ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SYM_OP-AMP
+DRAW
+P 2 1 0 0 -100 200 -100 100
+P 2 1 0 0 -100 100 -100 -100
+P 2 1 0 0 -100 -100 -100 -200
+P 2 1 0 0 -100 -200 300 0
+P 2 1 0 0 300 0 -100 200
+P 2 1 0 0 -80 100 -40 100
+P 2 1 0 0 -60 120 -60 80
+P 2 1 0 0 -80 -100 -40 -100
+P 2 1 0 0 -100 100 -200 100
+P 2 1 0 0 -100 -100 -200 -100
+P 2 1 0 0 300 0 400 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SYM_POT
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF SYM_POT ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SYM_POT
+DRAW
+P 6 1 1 0     56 0 106 18 106 18 106 -18 106 -18 56 0 F
+P 2 1 0 0 0 -200 0 -100
+P 2 1 0 0 56 0 106 18
+P 2 1 0 0 106 -18 56 0
+P 2 1 0 0 106 18 106 -18
+P 2 1 0 0 86 -185 86 -85
+P 2 1 0 0 86 -85 105 -122
+P 2 1 0 0 67 -122 86 -85
+P 2 1 0 0 0 -100 37 -87
+P 2 1 0 0 37 -87 -37 -62
+P 2 1 0 0 -37 -62 37 -37
+P 2 1 0 0 37 -37 -37 -12
+P 2 1 0 0 -37 -12 37 12
+P 2 1 0 0 37 12 -37 37
+P 2 1 0 0 -37 37 37 62
+P 2 1 0 0 37 62 -37 87
+P 2 1 0 0 -37 87 0 100
+P 2 1 0 0 0 100 0 200
+P 2 1 0 0 100 0 200 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SYM_SW-DP
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF SYM_SW-DP ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SYM_SW-DPST
+DRAW
+P 2 1 0 0 -293 68 -50 0
+P 2 1 0 0 -400 100 -300 100
+P 2 1 0 0 -400 -100 -300 -100
+P 2 1 0 0 0 0 100 0
+C -275 100 25 1 1 0 N
+C -275 -100 25 1 1 0 N
+C -25 0 25 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SYM_SW-SP
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF SYM_SW-SP ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SYM_SW-SPST
+DRAW
+P 2 1 0 0 -275 75 -50 0
+P 2 1 0 0 -300 0 -400 0
+P 2 1 0 0 0 0 100 0
+C -275 0 25 1 1 0 N
+C -25 0 25 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SYM_TRANS-1P1SCT
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF SYM_TRANS-1P1SCT ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SYM_TRAN-1P1SCT
+DRAW
+P 2 1 0 0 300 200 150 200
+P 2 1 0 0 150 200 150 100
+P 2 1 0 0 -200 200 -50 200
+P 2 1 0 0 -50 200 -50 100
+P 2 1 0 0 -50 -100 -50 -200
+P 2 1 0 0 -50 -200 -200 -200
+P 2 1 0 0 150 -100 150 -200
+P 2 1 0 0 150 -200 300 -200
+P 2 1 0 0 300 0 150 0
+A 150 25 25 -2699 -901 1 1 0 N 150 50 150 0
+A 150 75 25 -2699 -901 1 1 0 N 150 100 150 50
+A 150 -75 25 -2699 -901 1 1 0 N 150 -50 150 -100
+A 150 -25 25 -2699 -901 1 1 0 N 150 0 150 -50
+A -50 -25 25 -899 899 1 1 0 N -50 -50 -50 0
+A -50 -75 25 -899 899 1 1 0 N -50 -100 -50 -50
+A -50 25 25 -899 899 1 1 0 N -50 0 -50 50
+A -50 75 25 -899 899 1 1 0 N -50 50 -50 100
+S 25 -200 37 200 1 1 0 F
+S 62 -200 75 200 1 1 0 F
+C 180 75 5 1 1 0 F
+C -80 75 5 1 1 0 F
+ENDDRAW
+ENDDEF
+
+#End Library

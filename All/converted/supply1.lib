@@ -1,0 +1,810 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:04
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 44
+#
+# Dev Name: +2,5V
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +2,5V ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +2,5V
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+X +2,5V ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +3,3V
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +3,3V ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +3,3V
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+X +3,3V ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +5V
+# Dev Tech: ''
+# Dev Prefix: P+
+# Gate count = 1
+#
+DEF +5V P+ 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: +5V
+F0 "P+" 0 0 50 V V L B
+F1 "+5V" -135 -200 50 V V L B
+DRAW
+P 2 1 0 0 50 -75 0 0
+P 2 1 0 0 0 0 -50 -75
+X +5V ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +5V/1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +5V/1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +5V/1
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+X +5V/1 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +5V/2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +5V/2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +5V/2
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+X +5V/2 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +5V/3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +5V/3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +5V/3
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+X +5V/3 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +5V/4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +5V/4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +5V/4
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+X +5V/4 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +9V
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +9V ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +9V
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 150
+P 2 1 0 0 0 150 -50 75
+X +9V ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +9V/1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +9V/1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +9V/1
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 150
+P 2 1 0 0 0 150 -50 75
+X +9V/1 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +9V/2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +9V/2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +9V/2
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 150
+P 2 1 0 0 0 150 -50 75
+X +9V/2 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +9V/3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +9V/3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +9V/3
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 150
+P 2 1 0 0 0 150 -50 75
+X +9V/3 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +9V/4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +9V/4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +9V/4
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 150
+P 2 1 0 0 0 150 -50 75
+X +9V/4 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +12V
+# Dev Tech: ''
+# Dev Prefix: P+
+# Gate count = 1
+#
+DEF +12V P+ 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: +12V
+F0 "P+" 0 0 50 V V L B
+F1 "+12V" -135 -200 50 V V L B
+DRAW
+P 2 1 0 0 50 -75 0 0
+P 2 1 0 0 0 0 -50 -75
+P 2 1 0 0 50 -25 0 50
+P 2 1 0 0 0 50 -50 -25
+X +12V ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +12V/1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +12V/1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +12V/1
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 150
+P 2 1 0 0 0 150 -50 75
+X +12V/1 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +12V/2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +12V/2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +12V/2
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 150
+P 2 1 0 0 0 150 -50 75
+X +12V/2 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +12V/3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +12V/3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +12V/3
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 150
+P 2 1 0 0 0 150 -50 75
+X +12V/3 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +12V/4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +12V/4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +12V/4
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 150
+P 2 1 0 0 0 150 -50 75
+X +12V/4 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +15V
+# Dev Tech: ''
+# Dev Prefix: P+
+# Gate count = 1
+#
+DEF +15V P+ 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: +15V
+F0 "P+" 0 0 50 V V L B
+F1 "+15V" -135 -200 50 V V L B
+DRAW
+P 2 1 0 0 50 -75 0 0
+P 2 1 0 0 0 0 -50 -75
+P 2 1 0 0 50 -25 0 90
+P 2 1 0 0 0 90 -50 -25
+X +15V ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +15V/1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +15V/1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +15V/1
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 190
+P 2 1 0 0 0 190 -50 75
+X +15V/1 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +15V/2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +15V/2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +15V/2
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 190
+P 2 1 0 0 0 190 -50 75
+X +15V/2 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +15V/3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +15V/3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +15V/3
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 190
+P 2 1 0 0 0 190 -50 75
+X +15V/3 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +15V/4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +15V/4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +15V/4
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 190
+P 2 1 0 0 0 190 -50 75
+X +15V/4 ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +18V
+# Dev Tech: ''
+# Dev Prefix: P+
+# Gate count = 1
+#
+DEF +18V P+ 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: +18V
+F0 "P+" 0 0 50 V V L B
+F1 "+18V" -135 -200 50 V V L B
+DRAW
+P 2 1 0 0 50 -75 0 0
+P 2 1 0 0 0 0 -50 -75
+P 2 1 0 0 50 -25 0 50
+P 2 1 0 0 0 50 -50 -25
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 25 0 100
+X +18V ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +24V
+# Dev Tech: ''
+# Dev Prefix: P+
+# Gate count = 1
+#
+DEF +24V P+ 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: +24V
+F0 "P+" 0 0 50 V V L B
+F1 "+24V" -135 -200 50 V V L B
+DRAW
+P 2 1 0 0 50 -25 0 0
+P 2 1 0 0 0 0 -50 -25
+P 2 1 0 0 50 -25 0 50
+P 2 1 0 0 0 50 -50 -25
+X +24V ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: +48V
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF +48V ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: +48V
+DRAW
+P 2 1 0 0 50 25 0 100
+P 2 1 0 0 0 100 -50 25
+P 2 1 0 0 50 75 0 150
+P 2 1 0 0 0 150 -50 75
+X +48V ~ 0 0 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: -5V
+# Dev Tech: ''
+# Dev Prefix: P-
+# Gate count = 1
+#
+DEF -5V P- 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: -5V
+F0 "P-" 0 0 50 V V L B
+F1 "-5V" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 -50 75 0 0
+P 2 1 0 0 0 0 50 75
+X -5V ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: -12V
+# Dev Tech: ''
+# Dev Prefix: P-
+# Gate count = 1
+#
+DEF -12V P- 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: -12V
+F0 "P-" 0 0 50 V V L B
+F1 "-12V" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 -50 75 0 0
+P 2 1 0 0 0 0 50 75
+P 2 1 0 0 -50 25 0 -50
+P 2 1 0 0 0 -50 50 25
+X -12V ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: -15V
+# Dev Tech: ''
+# Dev Prefix: P-
+# Gate count = 1
+#
+DEF -15V P- 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: -15V
+F0 "P-" 0 0 50 V V L B
+F1 "-15V" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 -50 75 0 0
+P 2 1 0 0 0 0 50 75
+P 2 1 0 0 -50 25 0 -90
+P 2 1 0 0 0 -90 50 25
+X -15V ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: -18V
+# Dev Tech: ''
+# Dev Prefix: P-
+# Gate count = 1
+#
+DEF -18V P- 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: -18V
+F0 "P-" 0 0 50 V V L B
+F1 "-18V" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 -50 75 0 0
+P 2 1 0 0 0 0 50 75
+P 2 1 0 0 -50 25 0 -50
+P 2 1 0 0 0 -50 50 25
+P 2 1 0 0 -50 -25 0 -100
+P 2 1 0 0 0 -100 50 -25
+X -18V ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: -24V
+# Dev Tech: ''
+# Dev Prefix: P-
+# Gate count = 1
+#
+DEF -24V P- 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: -24V
+F0 "P-" 0 0 50 V V L B
+F1 "-24V" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 -50 25 0 0
+P 2 1 0 0 0 0 50 25
+P 2 1 0 0 -50 25 0 -50
+P 2 1 0 0 0 -50 50 25
+X -24V ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 0V
+# Dev Tech: ''
+# Dev Prefix: GND
+# Gate count = 1
+#
+DEF 0V GND 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: 0V
+F0 "GND" 0 0 50 H V L B
+F1 "0V" -75 -100 50 H V L B
+DRAW
+P 2 1 0 0 -75 0 75 0
+X 0V ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GND
+# Dev Tech: ''
+# Dev Prefix: GND
+# Gate count = 1
+#
+DEF GND GND 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: GND
+F0 "GND" 0 0 50 H V L B
+F1 "GND" -100 -100 50 H V L B
+DRAW
+P 2 1 0 0 -75 0 75 0
+X GND ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GNDA
+# Dev Tech: ''
+# Dev Prefix: GND
+# Gate count = 1
+#
+DEF GNDA GND 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: GNDA
+F0 "GND" 0 0 50 V V L B
+F1 "GNDA" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 -75 0 75 0
+P 2 1 0 0 -43 -20 43 -20
+X GNDA ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GNDINT
+# Dev Tech: ''
+# Dev Prefix: GND
+# Gate count = 1
+#
+DEF GNDINT GND 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: GNDINT
+F0 "GND" 0 0 50 H V L B
+F1 "GNDINT" -100 -100 50 H V L B
+DRAW
+P 2 1 0 0 -75 0 75 0
+X GNDINT ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GNDIO
+# Dev Tech: ''
+# Dev Prefix: GND
+# Gate count = 1
+#
+DEF GNDIO GND 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: GNDIO
+F0 "GND" 0 0 50 H V L B
+F1 "GNDIO" -100 -100 50 H V L B
+DRAW
+P 2 1 0 0 -75 0 75 0
+X GNDIO ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PE
+# Dev Tech: ''
+# Dev Prefix: PE
+# Gate count = 1
+#
+DEF PE PE 0 40 Y Y 1 L N
+# Gate Name: M
+# Symbol Name: PE
+F0 "PE" 0 0 50 V V L B
+F1 "PE" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 -75 0 75 0
+P 2 1 0 0 -43 -20 43 -20
+P 2 1 0 0 -24 -40 24 -40
+P 2 1 0 0 -12 -60 13 -60
+X PE ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: V+
+# Dev Tech: ''
+# Dev Prefix: P+
+# Gate count = 1
+#
+DEF V+ P+ 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: V+
+F0 "P+" 0 0 50 V V L B
+F1 "V+" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 35 -50 0 5
+P 2 1 0 0 0 5 -35 -50
+P 2 1 0 0 -35 -50 35 -50
+X V+ ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: V-
+# Dev Tech: ''
+# Dev Prefix: P+
+# Gate count = 1
+#
+DEF V- P+ 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: V-
+F0 "P+" 0 0 50 V V L B
+F1 "V-" -200 100 50 V V L B
+DRAW
+P 2 1 0 0 -35 50 0 -5
+P 2 1 0 0 0 -5 35 50
+P 2 1 0 0 -35 50 35 50
+X V- ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VCC
+# Dev Tech: ''
+# Dev Prefix: P+
+# Gate count = 1
+#
+DEF VCC P+ 0 40 Y Y 1 L N
+# Gate Name: VCC
+# Symbol Name: VCC
+F0 "P+" 0 0 50 V V L B
+F1 "VCC" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 50 -75 0 0
+P 2 1 0 0 0 0 -50 -75
+X VCC ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VCC/2
+# Dev Tech: ''
+# Dev Prefix: P+
+# Gate count = 1
+#
+DEF VCC/2 P+ 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: VCC/2
+F0 "P+" 0 0 50 V V L B
+F1 "VCC/2" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 50 -75 0 0
+P 2 1 0 0 0 0 -50 -75
+P 2 1 0 0 0 70 -50 -75
+P 2 1 0 0 50 -75 0 70
+X VCC/2 ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VCCINT
+# Dev Tech: ''
+# Dev Prefix: VCC
+# Gate count = 1
+#
+DEF VCCINT VCC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: VCCINT
+F0 "VCC" 0 0 50 V V L B
+F1 "VCCINT" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 50 -75 0 0
+P 2 1 0 0 0 0 -50 -75
+X VCCINT ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VCCIO
+# Dev Tech: ''
+# Dev Prefix: VCC
+# Gate count = 1
+#
+DEF VCCIO VCC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: VCCIO
+F0 "VCC" 0 0 50 V V L B
+F1 "VCCIO" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 50 -75 0 0
+P 2 1 0 0 0 0 -50 -75
+X VCCIO ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VDD
+# Dev Tech: ''
+# Dev Prefix: VDD
+# Gate count = 1
+#
+DEF VDD VDD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: VDD
+F0 "VDD" 0 0 50 V V L B
+F1 "VDD" -135 -100 50 V V L B
+DRAW
+P 2 1 0 0 50 -75 0 0
+P 2 1 0 0 0 0 -50 -75
+P 2 1 0 0 0 50 -50 -75
+P 2 1 0 0 50 -75 0 50
+X VDD ~ 0 -100 100 U 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VSS
+# Dev Tech: ''
+# Dev Prefix: VSS
+# Gate count = 1
+#
+DEF VSS VSS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: VSS
+F0 "VSS" 0 0 50 V V L B
+F1 "VSS" -135 -200 50 V V L B
+DRAW
+P 2 1 0 0 -50 75 0 0
+P 2 1 0 0 0 0 50 75
+P 2 1 0 0 0 -50 50 75
+P 2 1 0 0 -50 75 0 -50
+X VSS ~ 0 100 100 D 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#End Library

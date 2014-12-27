@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:07
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: TMR
+# Package Name: TRACO_SIP-8
+# Dev Tech: ''
+# Dev Prefix: DC
+# Gate count = 1
+#
+DEF TMR DC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DC-DC_CONVERTER
+F0 "DC" -500 225 50 H V L B
+F1 "TMR" -500 -400 50 H V L B
+F2 "traco_tmr-TRACO_SIP-8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -500 200 0 200
+P 2 1 0 0 0 200 500 200
+P 2 1 0 0 500 200 500 -300
+P 2 1 0 0 500 -300 0 -300
+P 2 1 0 0 0 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 200
+P 2 1 0 0 0 200 0 -300
+T 0 -70 -235 50 0 1 0 DC/DC~CONVERTER
+X +VIN 2 -600 100 100 R 40 40 1 1 P 
+X +VOUT 6 600 100 100 L 40 40 1 1 P 
+X -VIN 1 -600 -100 100 R 40 40 1 1 P 
+X -VOUT 7 600 -100 100 L 40 40 1 1 P 
+X ON/OFF 3 -600 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

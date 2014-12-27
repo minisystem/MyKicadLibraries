@@ -1,0 +1,256 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:27
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 11
+#
+# Dev Name: FH_5X20
+# Package Name: FH_5X20
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+#
+DEF FH_5X20 F 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FUSE-2
+F0 "F" -125 75 50 H V L B
+F1 "FH_5X20" -125 -150 50 H V L B
+F2 "keystone-FH_5X20" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 137 50 -137 50
+P 2 1 0 0 137 -50 -137 -50
+P 2 1 0 0 -137 50 -137 -50
+P 2 1 0 0 137 50 137 -50
+P 2 1 0 0 -100 0 100 0
+X 1A 1A -200 0 100 R 40 40 1 1 P 
+X 1B 1B -200 0 0 R 40 40 1 1 P 
+X 2A 2A 200 0 100 L 40 40 1 1 P 
+X 2B 2B 200 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FH_6X30
+# Package Name: FH_6X30
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+#
+DEF FH_6X30 F 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FUSE-2
+F0 "F" -125 75 50 H V L B
+F1 "FH_6X30" -125 -150 50 H V L B
+F2 "keystone-FH_6X30" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 137 50 -137 50
+P 2 1 0 0 137 -50 -137 -50
+P 2 1 0 0 -137 50 -137 -50
+P 2 1 0 0 137 50 137 -50
+P 2 1 0 0 -100 0 100 0
+X 1A 1A -200 0 100 R 40 40 1 1 P 
+X 1B 1B -200 0 0 R 40 40 1 1 P 
+X 2A 2A 200 0 100 L 40 40 1 1 P 
+X 2B 2B 200 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: QFIT
+# Package Name: FASTON
+# Dev Tech: ''
+# Dev Prefix: P
+# Gate count = 1
+#
+DEF QFIT P 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: QFIT-2
+F0 "P" -160 75 50 H V L B
+F1 "QFIT" 0 0 50 H V L B
+F2 "keystone-FASTON" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -75 0
+P 2 1 0 0 -75 0 -25 25
+P 2 1 0 0 -75 0 -25 -25
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 -200 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TJ-020
+# Package Name: TJ-052-2
+# Dev Tech: ''
+# Dev Prefix: TP
+# Gate count = 1
+#
+DEF TJ-020 TP 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TP-2
+F0 "TP" -60 120 50 H V L B
+F1 "TJ-020" 0 0 50 H V L B
+F2 "keystone-TJ-052-2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 70 0 100
+P 2 1 0 0 0 100 30 70
+P 2 1 0 0 30 70 0 40
+P 2 1 0 0 0 40 -30 70
+X 1 1 0 0 100 U 40 40 1 1 P 
+X 2 2 0 0 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TJ-040
+# Package Name: TJ-052-4
+# Dev Tech: ''
+# Dev Prefix: TP
+# Gate count = 1
+#
+DEF TJ-040 TP 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TP-2
+F0 "TP" -60 120 50 H V L B
+F1 "TJ-040" 0 0 50 H V L B
+F2 "keystone-TJ-052-4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 70 0 100
+P 2 1 0 0 0 100 30 70
+P 2 1 0 0 30 70 0 40
+P 2 1 0 0 0 40 -30 70
+X 1 1 0 0 100 U 40 40 1 1 P 
+X 2 2 0 0 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TP-040
+# Package Name: TP-040
+# Dev Tech: ''
+# Dev Prefix: TP
+# Gate count = 1
+#
+DEF TP-040 TP 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TP
+F0 "TP" -60 20 50 H V L B
+F1 "TP-040" 0 0 50 H V L B
+F2 "keystone-TP-040" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 -30 0 0
+P 2 1 0 0 0 0 30 -30
+P 2 1 0 0 30 -30 0 -60
+P 2 1 0 0 0 -60 -30 -30
+X 1 1 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TP-046
+# Package Name: TP-046
+# Dev Tech: ''
+# Dev Prefix: TP
+# Gate count = 1
+#
+DEF TP-046 TP 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TP
+F0 "TP" -60 20 50 H V L B
+F1 "TP-046" 0 0 50 H V L B
+F2 "keystone-TP-046" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 -30 0 0
+P 2 1 0 0 0 0 30 -30
+P 2 1 0 0 30 -30 0 -60
+P 2 1 0 0 0 -60 -30 -30
+X 1 1 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TP-052
+# Package Name: TP-052
+# Dev Tech: ''
+# Dev Prefix: TP
+# Gate count = 1
+#
+DEF TP-052 TP 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TP
+F0 "TP" -60 20 50 H V L B
+F1 "TP-052" 0 0 50 H V L B
+F2 "keystone-TP-052" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 -30 0 0
+P 2 1 0 0 0 0 30 -30
+P 2 1 0 0 30 -30 0 -60
+P 2 1 0 0 0 -60 -30 -30
+X 1 1 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TP-052-TJ
+# Package Name: TJ-052
+# Dev Tech: ''
+# Dev Prefix: TP
+# Gate count = 1
+#
+DEF TP-052-TJ TP 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TP
+F0 "TP" -60 20 50 H V L B
+F1 "TP-052-TJ" 0 0 50 H V L B
+F2 "keystone-TJ-052" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 -30 0 0
+P 2 1 0 0 0 0 30 -30
+P 2 1 0 0 30 -30 0 -60
+P 2 1 0 0 0 -60 -30 -30
+X 1 1 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TP-056
+# Package Name: TP-056
+# Dev Tech: ''
+# Dev Prefix: TP
+# Gate count = 1
+#
+DEF TP-056 TP 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TP
+F0 "TP" -60 20 50 H V L B
+F1 "TP-056" 0 0 50 H V L B
+F2 "keystone-TP-056" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 -30 0 0
+P 2 1 0 0 0 0 30 -30
+P 2 1 0 0 30 -30 0 -60
+P 2 1 0 0 0 -60 -30 -30
+X 1 1 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TP-063
+# Package Name: TP-063
+# Dev Tech: ''
+# Dev Prefix: TP
+# Gate count = 1
+#
+DEF TP-063 TP 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TP
+F0 "TP" -60 20 50 H V L B
+F1 "TP-063" 0 0 50 H V L B
+F2 "keystone-TP-063" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 -30 0 0
+P 2 1 0 0 0 0 30 -30
+P 2 1 0 0 30 -30 0 -60
+P 2 1 0 0 0 -60 -30 -30
+X 1 1 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

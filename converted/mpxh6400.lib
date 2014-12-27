@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:14
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: MPXH6400AC6T1
+# Package Name: SSOP8
+# Dev Tech: ''
+# Dev Prefix: U
+# Gate count = 1
+#
+DEF MPXH6400AC6T1 U 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: MPXH6400A
+F0 "U" -200 -600 50 H V L B
+F1 "MPXH6400AC6T1" -200 -700 50 H V L B
+F2 "mpxh6400-SSOP8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -500 100 -500 -500
+P 2 1 0 0 -500 -500 100 -500
+P 2 1 0 0 100 -500 100 100
+P 2 1 0 0 100 100 -500 100
+X GND 3 -300 -700 200 U 40 40 1 1 W 
+X NC@1 1 -500 0 0 R 40 40 1 1 U 
+X NC@5 5 -500 -100 0 R 40 40 1 1 U 
+X NC@6 6 -500 -200 0 R 40 40 1 1 U 
+X NC@7 7 -500 -300 0 R 40 40 1 1 U 
+X NC@8 8 -500 -400 0 R 40 40 1 1 U 
+X VOUT 4 300 -200 200 L 40 40 1 1 O 
+X VS 2 -300 300 200 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

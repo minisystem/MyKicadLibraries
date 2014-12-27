@@ -1,0 +1,41 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:35
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: MAX187
+# Package Name: DIL8
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF MAX187 IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: MAX187
+F0 "IC" -710 520 50 H V L B
+F1 "MAX187" -710 -390 50 H V L B
+F2 "max187-DIL8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -700 500 0 500
+P 2 1 0 0 0 500 0 -300
+P 2 1 0 0 0 -300 -700 -300
+P 2 1 0 0 -700 -300 -700 500
+T 0 -540 5 70 0 1 0 SHDN
+T 0 -140 405 70 0 1 0 SCLK
+T 0 -90 195 70 0 1 0 CS
+T 0 -150 -5 70 0 1 0 DOUT
+T 0 -125 -205 70 0 1 0 GND
+T 0 -565 405 70 0 1 0 VDD
+T 0 -575 215 70 0 1 0 AIN
+T 0 -575 -195 70 0 1 0 REF
+X AIN 2 -900 200 200 R 40 40 1 1 I 
+X CS 7 200 200 200 L 40 40 1 1 I 
+X DOUT 6 200 0 200 L 40 40 1 1 O 
+X GND 5 200 -200 200 L 40 40 1 1 W 
+X REF 4 -900 -200 200 R 40 40 1 1 O 
+X SCLK 8 200 400 200 L 40 40 1 1 I 
+X SHDN 3 -900 0 200 R 40 40 1 1 I 
+X VDD 1 -900 400 200 R 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

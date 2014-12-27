@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:02
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: SN2032
+# Package Name: SN2032
+# Dev Tech: ''
+# Dev Prefix: BAT
+# Gate count = 1
+#
+DEF SN2032 BAT 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: BAT
+F0 "BAT" -200 200 50 H V L B
+F1 "SN2032" -200 -200 50 H V L B
+F2 "sn2032-SN2032" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -25 50 -25 0
+P 2 1 0 0 -25 0 -25 -50
+P 2 1 0 0 25 100 25 0
+P 2 1 0 0 25 0 25 -100
+P 2 1 0 0 -200 0 -25 0
+P 2 1 0 0 25 0 200 0
+X + + 200 0 0 L 40 40 1 1 P 
+X - - -200 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

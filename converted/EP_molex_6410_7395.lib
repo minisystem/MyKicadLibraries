@@ -1,0 +1,950 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:18
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 22
+#
+# Dev Name: 22-05-7028-02
+# Package Name: 7395-02
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 2
+#
+DEF 22-05-7028-02 J 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7028-02" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-05-7038-03
+# Package Name: 7395-03
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 3
+#
+DEF 22-05-7038-03 J 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7038-03" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-05-7048-04
+# Package Name: 7395-04
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 4
+#
+DEF 22-05-7048-04 J 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7048-04" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-04" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-05-7058-05
+# Package Name: 7395-05
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 5
+#
+DEF 22-05-7058-05 J 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7058-05" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-05" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-05-7068-06
+# Package Name: 7395-06
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 6
+#
+DEF 22-05-7068-06 J 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7068-06" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-06" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-05-7078-07
+# Package Name: 7395-07
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 7
+#
+DEF 22-05-7078-07 J 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7078-07" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-07" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-05-7088-08
+# Package Name: 7395-08
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 8
+#
+DEF 22-05-7088-08 J 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7088-08" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-08" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-05-7098-09
+# Package Name: 7395-09
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 9
+#
+DEF 22-05-7098-09 J 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7098-09" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-09" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-05-7108-10
+# Package Name: 7395-10
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 10
+#
+DEF 22-05-7108-10 J 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7108-10" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-05-7118-11
+# Package Name: 7395-11
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 11
+#
+DEF 22-05-7118-11 J 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7118-11" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: M
+P 2 11 0 0 50 0 0 0
+X S 11 -100 0 100 R 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-05-7128-12
+# Package Name: 7395-12
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 12
+#
+DEF 22-05-7128-12 J 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-05-7128-12" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-7395-12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: M
+P 2 11 0 0 50 0 0 0
+X S 11 -100 0 100 R 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: M
+P 2 12 0 0 50 0 0 0
+X S 12 -100 0 100 R 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2021-02
+# Package Name: 6410-02
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 2
+#
+DEF 22-27-2021-02 J 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2021-02" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2031-03
+# Package Name: 6410-03
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 3
+#
+DEF 22-27-2031-03 J 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2031-03" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2041-04
+# Package Name: 6410-04
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 4
+#
+DEF 22-27-2041-04 J 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2041-04" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-04" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2051-05
+# Package Name: 6410-05
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 5
+#
+DEF 22-27-2051-05 J 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2051-05" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-05" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2061-06
+# Package Name: 6410-06
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 6
+#
+DEF 22-27-2061-06 J 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2061-06" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-06" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2071-07
+# Package Name: 6410-07
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 7
+#
+DEF 22-27-2071-07 J 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2071-07" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-07" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2081-08
+# Package Name: 6410-08
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 8
+#
+DEF 22-27-2081-08 J 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2081-08" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-08" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2091-09
+# Package Name: 6410-09
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 9
+#
+DEF 22-27-2091-09 J 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2091-09" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-09" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2101-10
+# Package Name: 6410-10
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 10
+#
+DEF 22-27-2101-10 J 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2101-10" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2111-11
+# Package Name: 6410-11
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 11
+#
+DEF 22-27-2111-11 J 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2111-11" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: M
+P 2 11 0 0 50 0 0 0
+X S 11 -100 0 100 R 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 22-27-2121-12
+# Package Name: 6410-12
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 12
+#
+DEF 22-27-2121-12 J 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "J" 100 -30 50 H V L B
+F1 "22-27-2121-12" -30 55 50 H V L B
+F2 "EP_molex_6410_7395-6410-12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: M
+P 2 11 0 0 50 0 0 0
+X S 11 -100 0 100 R 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: M
+P 2 12 0 0 50 0 0 0
+X S 12 -100 0 100 R 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

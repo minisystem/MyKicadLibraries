@@ -1,0 +1,253 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:04
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 8
+#
+# Dev Name: TC4S01F
+# Package Name: SSOP5-P
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 2
+#
+DEF TC4S01F IC 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: NOR
+F0 "IC" 100 125 50 H V L B
+F1 "TC4S01F" 100 -200 50 H V L B
+F2 "tc4sxx-eu-SSOP5-P" 0 150 50 H I C C
+DRAW
+A -100 0 200 -899 899 1 1 0 N -100 -200 -100 200
+P 2 1 0 0 70 100 -100 100
+P 2 1 0 0 -100 200 -100 -100
+P 2 1 0 0 70 -100 -100 -100
+P 2 1 0 0 -100 -100 -100 -200
+X I0 2 -300 100 200 R 40 40 1 1 I 
+X I1 1 -300 -100 200 R 40 40 1 1 I 
+X O 4 300 0 200 L 40 40 1 1 O I
+# Gate Name: P
+# Symbol Name: PWRN
+T 1 50 -155 50 0 2 0 GND
+T 1 50 175 50 0 2 0 VCC
+X GND 3 0 -300 200 U 40 40 2 1 W 
+X VCC 5 0 300 200 D 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TC4S11F
+# Package Name: SSOP5-P
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 2
+#
+DEF TC4S11F IC 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: NAND
+F0 "IC" 100 125 50 H V L B
+F1 "TC4S11F" 100 -200 50 H V L B
+F2 "tc4sxx-eu-SSOP5-P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 -100 -200
+A -100 0 200 -899 899 1 1 0 N -100 -200 -100 200
+X I0 2 -300 100 200 R 40 40 1 1 I 
+X I1 1 -300 -100 200 R 40 40 1 1 I 
+X O 4 300 0 200 L 40 40 1 1 O I
+# Gate Name: P
+# Symbol Name: PWRN
+T 1 50 -155 50 0 2 0 GND
+T 1 50 175 50 0 2 0 VCC
+X GND 3 0 -300 200 U 40 40 2 1 W 
+X VCC 5 0 300 200 D 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TC4S30F
+# Package Name: SSOP5-P
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 2
+#
+DEF TC4S30F IC 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: XOR
+F0 "IC" 100 125 50 H V L B
+F1 "TC4S30F" 100 -200 50 H V L B
+F2 "tc4sxx-eu-SSOP5-P" 0 150 50 H I C C
+DRAW
+A -100 0 200 -899 899 1 1 0 N -100 -200 -100 200
+P 2 1 0 0 70 100 -100 100
+P 2 1 0 0 70 -100 -100 -100
+P 2 1 0 0 -100 200 -100 -200
+T 0 10 10 100 0 1 0 e
+X I0 2 -300 100 200 R 40 40 1 1 I 
+X I1 1 -300 -100 200 R 40 40 1 1 I 
+X O 4 300 0 200 L 40 40 1 1 O 
+# Gate Name: P
+# Symbol Name: PWRN
+T 1 50 -155 50 0 2 0 GND
+T 1 50 175 50 0 2 0 VCC
+X GND 3 0 -300 200 U 40 40 2 1 W 
+X VCC 5 0 300 200 D 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TC4S66F
+# Package Name: SSOP5-P
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 2
+#
+DEF TC4S66F IC 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: SWITCH
+F0 "IC" 225 125 50 H V L B
+F1 "TC4S66F" 225 25 50 H V L B
+F2 "tc4sxx-eu-SSOP5-P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -100 50 -75
+P 2 1 0 0 50 -75 150 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 150 -100 200 -100
+P 2 1 0 0 50 -75 50 100
+P 2 1 0 0 50 100 -100 100
+P 2 1 0 0 -100 -150 -100 -100
+P 2 1 0 0 -100 -100 -100 100
+P 2 1 0 0 -100 100 -100 150
+P 2 1 0 0 -100 150 200 150
+P 2 1 0 0 200 150 200 -100
+P 2 1 0 0 200 -100 200 -150
+P 2 1 0 0 200 -150 -100 -150
+X C 4 -300 100 200 R 40 40 1 1 I 
+X I 1 -300 -100 200 R 40 40 1 1 B 
+X O 2 400 -100 200 L 40 40 1 1 B 
+# Gate Name: P
+# Symbol Name: PWRN
+T 1 50 -155 50 0 2 0 GND
+T 1 50 175 50 0 2 0 VCC
+X GND 3 0 -300 200 U 40 40 2 1 W 
+X VCC 5 0 300 200 D 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TC4S71F
+# Package Name: SSOP5-P
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 2
+#
+DEF TC4S71F IC 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: OR
+F0 "IC" 100 125 50 H V L B
+F1 "TC4S71F" 100 -200 50 H V L B
+F2 "tc4sxx-eu-SSOP5-P" 0 150 50 H I C C
+DRAW
+A -100 0 200 -899 899 1 1 0 N -100 -200 -100 200
+P 2 1 0 0 70 100 -100 100
+P 2 1 0 0 70 -100 -100 -100
+P 2 1 0 0 -100 200 -100 -200
+X I0 2 -300 100 200 R 40 40 1 1 I 
+X I1 1 -300 -100 200 R 40 40 1 1 I 
+X O 4 300 0 200 L 40 40 1 1 O 
+# Gate Name: P
+# Symbol Name: PWRN
+T 1 50 -155 50 0 2 0 GND
+T 1 50 175 50 0 2 0 VCC
+X GND 3 0 -300 200 U 40 40 2 1 W 
+X VCC 5 0 300 200 D 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TC4S81F
+# Package Name: SSOP5-P
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 2
+#
+DEF TC4S81F IC 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: AND
+F0 "IC" 100 125 50 H V L B
+F1 "TC4S81F" 100 -200 50 H V L B
+F2 "tc4sxx-eu-SSOP5-P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 -100 -200
+A -100 0 200 -899 899 1 1 0 N -100 -200 -100 200
+X I0 2 -300 100 200 R 40 40 1 1 I 
+X I1 1 -300 -100 200 R 40 40 1 1 I 
+X O 4 300 0 200 L 40 40 1 1 O 
+# Gate Name: P
+# Symbol Name: PWRN
+T 1 50 -155 50 0 2 0 GND
+T 1 50 175 50 0 2 0 VCC
+X GND 3 0 -300 200 U 40 40 2 1 W 
+X VCC 5 0 300 200 D 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TC4S584F
+# Package Name: SSOP5-P
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 2
+#
+DEF TC4S584F IC 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: SCHMITT
+F0 "IC" 50 125 50 H V L B
+F1 "TC4S584F" 50 -200 50 H V L B
+F2 "tc4sxx-eu-SSOP5-P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 200 0
+P 2 1 0 0 200 0 -200 -200
+P 2 1 0 0 -200 -200 -200 200
+P 2 1 0 0 -30 -50 -70 50
+P 2 1 0 0 -80 -50 -120 50
+P 2 1 0 0 -80 -50 -30 -50
+P 2 1 0 0 -30 -50 5 -50
+P 2 1 0 0 -155 50 -120 50
+P 2 1 0 0 -120 50 -70 50
+X I 2 -400 0 200 R 40 40 1 1 I 
+X O 4 400 0 200 L 40 40 1 1 O I
+# Gate Name: P
+# Symbol Name: PWRN
+T 1 50 -155 50 0 2 0 GND
+T 1 50 175 50 0 2 0 VCC
+X GND 3 0 -300 200 U 40 40 2 1 W 
+X VCC 5 0 300 200 D 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TC4SU69F
+# Package Name: SSOP5-P
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 2
+#
+DEF TC4SU69F IC 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: NOT
+F0 "IC" 100 100 50 H V L B
+F1 "TC4SU69F" 100 -175 50 H V L B
+F2 "tc4sxx-eu-SSOP5-P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 200 0
+P 2 1 0 0 200 0 -200 -200
+P 2 1 0 0 -200 -200 -200 200
+X I 2 -400 0 200 R 40 40 1 1 I 
+X O 4 400 0 200 L 40 40 1 1 O I
+# Gate Name: P
+# Symbol Name: PWRN
+T 1 50 -155 50 0 2 0 GND
+T 1 50 175 50 0 2 0 VCC
+X GND 3 0 -300 200 U 40 40 2 1 W 
+X VCC 5 0 300 200 D 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

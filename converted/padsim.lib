@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:17
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: PADSIM
+# Package Name: PADSIM
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PADSIM ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PADSIM
+DRAW
+P 2 1 0 0 0 -300 1000 -300
+P 2 1 0 0 1000 -300 0 600
+P 2 1 0 0 0 600 0 -300
+X P$1 P$1 -200 400 200 R 40 40 1 1 B 
+X P$2 P$2 -200 200 200 R 40 40 1 1 B 
+X P$3 P$3 -200 0 200 R 40 40 1 1 B 
+X P$4 P$4 -200 -200 200 R 40 40 1 1 B 
+X P$5 P$5 200 -500 200 U 40 40 1 1 B 
+X P$6 P$6 400 -500 200 U 40 40 1 1 B 
+X P$7 P$7 600 -500 200 U 40 40 1 1 B 
+X P$8 P$8 800 -500 200 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

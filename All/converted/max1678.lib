@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:35
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: MAX1678
+# Package Name: UMAX8
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF MAX1678 IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: MAX1678
+F0 "IC" -400 500 50 H V L B
+F1 "MAX1678" -400 -800 50 H V L B
+F2 "max1678-UMAX8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 300 400 300 -600
+P 2 1 0 0 300 -600 -400 -600
+P 2 1 0 0 -400 -600 -400 400
+P 2 1 0 0 -400 400 300 400
+X BATT 1 -600 300 200 R 40 40 1 1 W 
+X FB 5 500 -300 200 L 40 40 1 1 B 
+X GND 6 -600 -500 200 R 40 40 1 1 W 
+X LX 7 500 300 200 L 40 40 1 1 B 
+X OUT 8 500 100 200 L 40 40 1 1 O 
+X PFI 2 -600 100 200 R 40 40 1 1 I 
+X PFO 3 -600 -100 200 R 40 40 1 1 O 
+X SHDN 4 -600 -300 200 R 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#End Library

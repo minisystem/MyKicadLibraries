@@ -1,0 +1,651 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:19
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: MM_C167
+# Package Name: MM_GES
+# Dev Tech: ''
+# Dev Prefix: MM_C167
+# Gate count = 158
+#
+DEF MM_C167 MM_C167 0 40 Y Y 158 L N
+# Gate Name: G$1
+# Symbol Name: M
+F0 "MM_C167" 100 -30 50 H V L B
+F1 "MM_C167" -10 -115 50 H V L B
+F2 "phytec-MM_GES" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: G$2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: G$3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: G$4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: G$5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: G$6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: G$7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: G$8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: G$9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: G$10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+# Gate Name: G$11
+# Symbol Name: M
+P 2 11 0 0 50 0 0 0
+X S 11 -100 0 100 R 40 40 11 1 P 
+# Gate Name: G$12
+# Symbol Name: M
+P 2 12 0 0 50 0 0 0
+X S 12 -100 0 100 R 40 40 12 1 P 
+# Gate Name: G$13
+# Symbol Name: M
+P 2 13 0 0 50 0 0 0
+X S 13 -100 0 100 R 40 40 13 1 P 
+# Gate Name: G$14
+# Symbol Name: M
+P 2 14 0 0 50 0 0 0
+X S 14 -100 0 100 R 40 40 14 1 P 
+# Gate Name: G$15
+# Symbol Name: M
+P 2 15 0 0 50 0 0 0
+X S 15 -100 0 100 R 40 40 15 1 P 
+# Gate Name: G$16
+# Symbol Name: M
+P 2 16 0 0 50 0 0 0
+X S 16 -100 0 100 R 40 40 16 1 P 
+# Gate Name: G$17
+# Symbol Name: M
+P 2 17 0 0 50 0 0 0
+X S 17 -100 0 100 R 40 40 17 1 P 
+# Gate Name: G$18
+# Symbol Name: M
+P 2 18 0 0 50 0 0 0
+X S 18 -100 0 100 R 40 40 18 1 P 
+# Gate Name: G$19
+# Symbol Name: M
+P 2 19 0 0 50 0 0 0
+X S 19 -100 0 100 R 40 40 19 1 P 
+# Gate Name: G$20
+# Symbol Name: M
+P 2 20 0 0 50 0 0 0
+X S 20 -100 0 100 R 40 40 20 1 P 
+# Gate Name: G$21
+# Symbol Name: M
+P 2 21 0 0 50 0 0 0
+X S 21 -100 0 100 R 40 40 21 1 P 
+# Gate Name: G$22
+# Symbol Name: M
+P 2 22 0 0 50 0 0 0
+X S 22 -100 0 100 R 40 40 22 1 P 
+# Gate Name: G$23
+# Symbol Name: M
+P 2 23 0 0 50 0 0 0
+X S 23 -100 0 100 R 40 40 23 1 P 
+# Gate Name: G$24
+# Symbol Name: M
+P 2 24 0 0 50 0 0 0
+X S 24 -100 0 100 R 40 40 24 1 P 
+# Gate Name: G$25
+# Symbol Name: M
+P 2 25 0 0 50 0 0 0
+X S 25 -100 0 100 R 40 40 25 1 P 
+# Gate Name: G$26
+# Symbol Name: M
+P 2 26 0 0 50 0 0 0
+X S 26 -100 0 100 R 40 40 26 1 P 
+# Gate Name: G$27
+# Symbol Name: M
+P 2 27 0 0 50 0 0 0
+X S 27 -100 0 100 R 40 40 27 1 P 
+# Gate Name: G$28
+# Symbol Name: M
+P 2 28 0 0 50 0 0 0
+X S 28 -100 0 100 R 40 40 28 1 P 
+# Gate Name: G$29
+# Symbol Name: M
+P 2 29 0 0 50 0 0 0
+X S 29 -100 0 100 R 40 40 29 1 P 
+# Gate Name: G$30
+# Symbol Name: M
+P 2 30 0 0 50 0 0 0
+X S 30 -100 0 100 R 40 40 30 1 P 
+# Gate Name: G$31
+# Symbol Name: M
+P 2 31 0 0 50 0 0 0
+X S 31 -100 0 100 R 40 40 31 1 P 
+# Gate Name: G$32
+# Symbol Name: M
+P 2 32 0 0 50 0 0 0
+X S 32 -100 0 100 R 40 40 32 1 P 
+# Gate Name: G$33
+# Symbol Name: M
+P 2 33 0 0 50 0 0 0
+X S 33 -100 0 100 R 40 40 33 1 P 
+# Gate Name: G$34
+# Symbol Name: M
+P 2 34 0 0 50 0 0 0
+X S 34 -100 0 100 R 40 40 34 1 P 
+# Gate Name: G$35
+# Symbol Name: M
+P 2 35 0 0 50 0 0 0
+X S 35 -100 0 100 R 40 40 35 1 P 
+# Gate Name: G$36
+# Symbol Name: M
+P 2 36 0 0 50 0 0 0
+X S 36 -100 0 100 R 40 40 36 1 P 
+# Gate Name: G$37
+# Symbol Name: M
+P 2 37 0 0 50 0 0 0
+X S 37 -100 0 100 R 40 40 37 1 P 
+# Gate Name: G$38
+# Symbol Name: M
+P 2 38 0 0 50 0 0 0
+X S 38 -100 0 100 R 40 40 38 1 P 
+# Gate Name: G$39
+# Symbol Name: M
+P 2 39 0 0 50 0 0 0
+X S 39 -100 0 100 R 40 40 39 1 P 
+# Gate Name: G$40
+# Symbol Name: M
+P 2 40 0 0 50 0 0 0
+X S 40 -100 0 100 R 40 40 40 1 P 
+# Gate Name: G$41
+# Symbol Name: M
+P 2 41 0 0 50 0 0 0
+X S 41 -100 0 100 R 40 40 41 1 P 
+# Gate Name: G$42
+# Symbol Name: M
+P 2 42 0 0 50 0 0 0
+X S 42 -100 0 100 R 40 40 42 1 P 
+# Gate Name: G$43
+# Symbol Name: M
+P 2 43 0 0 50 0 0 0
+X S 43 -100 0 100 R 40 40 43 1 P 
+# Gate Name: G$44
+# Symbol Name: M
+P 2 44 0 0 50 0 0 0
+X S 44 -100 0 100 R 40 40 44 1 P 
+# Gate Name: G$45
+# Symbol Name: M
+P 2 45 0 0 50 0 0 0
+X S 45 -100 0 100 R 40 40 45 1 P 
+# Gate Name: G$46
+# Symbol Name: M
+P 2 46 0 0 50 0 0 0
+X S 46 -100 0 100 R 40 40 46 1 P 
+# Gate Name: G$47
+# Symbol Name: M
+P 2 47 0 0 50 0 0 0
+X S 47 -100 0 100 R 40 40 47 1 P 
+# Gate Name: G$48
+# Symbol Name: M
+P 2 48 0 0 50 0 0 0
+X S 48 -100 0 100 R 40 40 48 1 P 
+# Gate Name: G$49
+# Symbol Name: M
+P 2 49 0 0 50 0 0 0
+X S 49 -100 0 100 R 40 40 49 1 P 
+# Gate Name: G$50
+# Symbol Name: M
+P 2 50 0 0 50 0 0 0
+X S 50 -100 0 100 R 40 40 50 1 P 
+# Gate Name: G$51
+# Symbol Name: M
+P 2 51 0 0 50 0 0 0
+X S 51 -100 0 100 R 40 40 51 1 P 
+# Gate Name: G$52
+# Symbol Name: M
+P 2 52 0 0 50 0 0 0
+X S 52 -100 0 100 R 40 40 52 1 P 
+# Gate Name: G$53
+# Symbol Name: M
+P 2 53 0 0 50 0 0 0
+X S 53 -100 0 100 R 40 40 53 1 P 
+# Gate Name: G$54
+# Symbol Name: M
+P 2 54 0 0 50 0 0 0
+X S 54 -100 0 100 R 40 40 54 1 P 
+# Gate Name: G$55
+# Symbol Name: M
+P 2 55 0 0 50 0 0 0
+X S 55 -100 0 100 R 40 40 55 1 P 
+# Gate Name: G$56
+# Symbol Name: M
+P 2 56 0 0 50 0 0 0
+X S 56 -100 0 100 R 40 40 56 1 P 
+# Gate Name: G$57
+# Symbol Name: M
+P 2 57 0 0 50 0 0 0
+X S 57 -100 0 100 R 40 40 57 1 P 
+# Gate Name: G$58
+# Symbol Name: M
+P 2 58 0 0 50 0 0 0
+X S 58 -100 0 100 R 40 40 58 1 P 
+# Gate Name: G$59
+# Symbol Name: M
+P 2 59 0 0 50 0 0 0
+X S 59 -100 0 100 R 40 40 59 1 P 
+# Gate Name: G$60
+# Symbol Name: M
+P 2 60 0 0 50 0 0 0
+X S 60 -100 0 100 R 40 40 60 1 P 
+# Gate Name: G$61
+# Symbol Name: M
+P 2 61 0 0 50 0 0 0
+X S 61 -100 0 100 R 40 40 61 1 P 
+# Gate Name: G$62
+# Symbol Name: M
+P 2 62 0 0 50 0 0 0
+X S 62 -100 0 100 R 40 40 62 1 P 
+# Gate Name: G$63
+# Symbol Name: M
+P 2 63 0 0 50 0 0 0
+X S 63 -100 0 100 R 40 40 63 1 P 
+# Gate Name: G$64
+# Symbol Name: M
+P 2 64 0 0 50 0 0 0
+X S 64 -100 0 100 R 40 40 64 1 P 
+# Gate Name: G$65
+# Symbol Name: M
+P 2 65 0 0 50 0 0 0
+X S 65 -100 0 100 R 40 40 65 1 P 
+# Gate Name: G$66
+# Symbol Name: M
+P 2 66 0 0 50 0 0 0
+X S 66 -100 0 100 R 40 40 66 1 P 
+# Gate Name: G$67
+# Symbol Name: M
+P 2 67 0 0 50 0 0 0
+X S 67 -100 0 100 R 40 40 67 1 P 
+# Gate Name: G$68
+# Symbol Name: M
+P 2 68 0 0 50 0 0 0
+X S 68 -100 0 100 R 40 40 68 1 P 
+# Gate Name: G$69
+# Symbol Name: M
+P 2 69 0 0 50 0 0 0
+X S 69 -100 0 100 R 40 40 69 1 P 
+# Gate Name: G$70
+# Symbol Name: M
+P 2 70 0 0 50 0 0 0
+X S 70 -100 0 100 R 40 40 70 1 P 
+# Gate Name: G$71
+# Symbol Name: M
+P 2 71 0 0 50 0 0 0
+X S 71 -100 0 100 R 40 40 71 1 P 
+# Gate Name: G$72
+# Symbol Name: M
+P 2 72 0 0 50 0 0 0
+X S 72 -100 0 100 R 40 40 72 1 P 
+# Gate Name: G$73
+# Symbol Name: M
+P 2 73 0 0 50 0 0 0
+X S 73 -100 0 100 R 40 40 73 1 P 
+# Gate Name: G$74
+# Symbol Name: M
+P 2 74 0 0 50 0 0 0
+X S 74 -100 0 100 R 40 40 74 1 P 
+# Gate Name: G$75
+# Symbol Name: M
+P 2 75 0 0 50 0 0 0
+X S 75 -100 0 100 R 40 40 75 1 P 
+# Gate Name: G$76
+# Symbol Name: M
+P 2 76 0 0 50 0 0 0
+X S 76 -100 0 100 R 40 40 76 1 P 
+# Gate Name: G$77
+# Symbol Name: M
+P 2 77 0 0 50 0 0 0
+X S 77 -100 0 100 R 40 40 77 1 P 
+# Gate Name: G$78
+# Symbol Name: M
+P 2 78 0 0 50 0 0 0
+X S 78 -100 0 100 R 40 40 78 1 P 
+# Gate Name: G$79
+# Symbol Name: M
+P 2 79 0 0 50 0 0 0
+X S 79 -100 0 100 R 40 40 79 1 P 
+# Gate Name: G$80
+# Symbol Name: M
+P 2 80 0 0 50 0 0 0
+X S 80 -100 0 100 R 40 40 80 1 P 
+# Gate Name: G$81
+# Symbol Name: M
+P 2 81 0 0 50 0 0 0
+X S 81 -100 0 100 R 40 40 81 1 P 
+# Gate Name: G$82
+# Symbol Name: M
+P 2 82 0 0 50 0 0 0
+X S 82 -100 0 100 R 40 40 82 1 P 
+# Gate Name: G$83
+# Symbol Name: M
+P 2 83 0 0 50 0 0 0
+X S 83 -100 0 100 R 40 40 83 1 P 
+# Gate Name: G$84
+# Symbol Name: M
+P 2 84 0 0 50 0 0 0
+X S 84 -100 0 100 R 40 40 84 1 P 
+# Gate Name: G$85
+# Symbol Name: M
+P 2 85 0 0 50 0 0 0
+X S 85 -100 0 100 R 40 40 85 1 P 
+# Gate Name: G$86
+# Symbol Name: M
+P 2 86 0 0 50 0 0 0
+X S 86 -100 0 100 R 40 40 86 1 P 
+# Gate Name: G$87
+# Symbol Name: M
+P 2 87 0 0 50 0 0 0
+X S 87 -100 0 100 R 40 40 87 1 P 
+# Gate Name: G$88
+# Symbol Name: M
+P 2 88 0 0 50 0 0 0
+X S 88 -100 0 100 R 40 40 88 1 P 
+# Gate Name: G$89
+# Symbol Name: M
+P 2 89 0 0 50 0 0 0
+X S 89 -100 0 100 R 40 40 89 1 P 
+# Gate Name: G$90
+# Symbol Name: M
+P 2 90 0 0 50 0 0 0
+X S 90 -100 0 100 R 40 40 90 1 P 
+# Gate Name: G$91
+# Symbol Name: M
+P 2 91 0 0 50 0 0 0
+X S 91 -100 0 100 R 40 40 91 1 P 
+# Gate Name: G$92
+# Symbol Name: M
+P 2 92 0 0 50 0 0 0
+X S 92 -100 0 100 R 40 40 92 1 P 
+# Gate Name: G$93
+# Symbol Name: M
+P 2 93 0 0 50 0 0 0
+X S 93 -100 0 100 R 40 40 93 1 P 
+# Gate Name: G$94
+# Symbol Name: M
+P 2 94 0 0 50 0 0 0
+X S 94 -100 0 100 R 40 40 94 1 P 
+# Gate Name: G$95
+# Symbol Name: M
+P 2 95 0 0 50 0 0 0
+X S 95 -100 0 100 R 40 40 95 1 P 
+# Gate Name: G$96
+# Symbol Name: M
+P 2 96 0 0 50 0 0 0
+X S 96 -100 0 100 R 40 40 96 1 P 
+# Gate Name: G$97
+# Symbol Name: M
+P 2 97 0 0 50 0 0 0
+X S 97 -100 0 100 R 40 40 97 1 P 
+# Gate Name: G$98
+# Symbol Name: M
+P 2 98 0 0 50 0 0 0
+X S 98 -100 0 100 R 40 40 98 1 P 
+# Gate Name: G$99
+# Symbol Name: M
+P 2 99 0 0 50 0 0 0
+X S 99 -100 0 100 R 40 40 99 1 P 
+# Gate Name: G$100
+# Symbol Name: M
+P 2 100 0 0 50 0 0 0
+X S 100 -100 0 100 R 40 40 100 1 P 
+# Gate Name: G$101
+# Symbol Name: M
+P 2 101 0 0 50 0 0 0
+X S 101 -100 0 100 R 40 40 101 1 P 
+# Gate Name: G$102
+# Symbol Name: M
+P 2 102 0 0 50 0 0 0
+X S 102 -100 0 100 R 40 40 102 1 P 
+# Gate Name: G$103
+# Symbol Name: M
+P 2 103 0 0 50 0 0 0
+X S 103 -100 0 100 R 40 40 103 1 P 
+# Gate Name: G$104
+# Symbol Name: M
+P 2 104 0 0 50 0 0 0
+X S 104 -100 0 100 R 40 40 104 1 P 
+# Gate Name: G$105
+# Symbol Name: M
+P 2 105 0 0 50 0 0 0
+X S 105 -100 0 100 R 40 40 105 1 P 
+# Gate Name: G$106
+# Symbol Name: M
+P 2 106 0 0 50 0 0 0
+X S 106 -100 0 100 R 40 40 106 1 P 
+# Gate Name: G$107
+# Symbol Name: M
+P 2 107 0 0 50 0 0 0
+X S 107 -100 0 100 R 40 40 107 1 P 
+# Gate Name: G$108
+# Symbol Name: M
+P 2 108 0 0 50 0 0 0
+X S 108 -100 0 100 R 40 40 108 1 P 
+# Gate Name: G$109
+# Symbol Name: M
+P 2 109 0 0 50 0 0 0
+X S 109 -100 0 100 R 40 40 109 1 P 
+# Gate Name: G$110
+# Symbol Name: M
+P 2 110 0 0 50 0 0 0
+X S 110 -100 0 100 R 40 40 110 1 P 
+# Gate Name: G$111
+# Symbol Name: M
+P 2 111 0 0 50 0 0 0
+X S 111 -100 0 100 R 40 40 111 1 P 
+# Gate Name: G$112
+# Symbol Name: M
+P 2 112 0 0 50 0 0 0
+X S 112 -100 0 100 R 40 40 112 1 P 
+# Gate Name: G$113
+# Symbol Name: M
+P 2 113 0 0 50 0 0 0
+X S 113 -100 0 100 R 40 40 113 1 P 
+# Gate Name: G$114
+# Symbol Name: M
+P 2 114 0 0 50 0 0 0
+X S 114 -100 0 100 R 40 40 114 1 P 
+# Gate Name: G$115
+# Symbol Name: M
+P 2 115 0 0 50 0 0 0
+X S 115 -100 0 100 R 40 40 115 1 P 
+# Gate Name: G$116
+# Symbol Name: M
+P 2 116 0 0 50 0 0 0
+X S 116 -100 0 100 R 40 40 116 1 P 
+# Gate Name: G$117
+# Symbol Name: M
+P 2 117 0 0 50 0 0 0
+X S 117 -100 0 100 R 40 40 117 1 P 
+# Gate Name: G$118
+# Symbol Name: M
+P 2 118 0 0 50 0 0 0
+X S 118 -100 0 100 R 40 40 118 1 P 
+# Gate Name: G$119
+# Symbol Name: M
+P 2 119 0 0 50 0 0 0
+X S 119 -100 0 100 R 40 40 119 1 P 
+# Gate Name: G$120
+# Symbol Name: M
+P 2 120 0 0 50 0 0 0
+X S 120 -100 0 100 R 40 40 120 1 P 
+# Gate Name: G$121
+# Symbol Name: M
+P 2 121 0 0 50 0 0 0
+X S 121 -100 0 100 R 40 40 121 1 P 
+# Gate Name: G$122
+# Symbol Name: M
+P 2 122 0 0 50 0 0 0
+X S 122 -100 0 100 R 40 40 122 1 P 
+# Gate Name: G$123
+# Symbol Name: M
+P 2 123 0 0 50 0 0 0
+X S 123 -100 0 100 R 40 40 123 1 P 
+# Gate Name: G$124
+# Symbol Name: M
+P 2 124 0 0 50 0 0 0
+X S 124 -100 0 100 R 40 40 124 1 P 
+# Gate Name: G$125
+# Symbol Name: M
+P 2 125 0 0 50 0 0 0
+X S 125 -100 0 100 R 40 40 125 1 P 
+# Gate Name: G$126
+# Symbol Name: M
+P 2 126 0 0 50 0 0 0
+X S 126 -100 0 100 R 40 40 126 1 P 
+# Gate Name: G$127
+# Symbol Name: M
+P 2 127 0 0 50 0 0 0
+X S 127 -100 0 100 R 40 40 127 1 P 
+# Gate Name: G$128
+# Symbol Name: M
+P 2 128 0 0 50 0 0 0
+X S 128 -100 0 100 R 40 40 128 1 P 
+# Gate Name: G$129
+# Symbol Name: M
+P 2 129 0 0 50 0 0 0
+X S 129 -100 0 100 R 40 40 129 1 P 
+# Gate Name: G$130
+# Symbol Name: M
+P 2 130 0 0 50 0 0 0
+X S 130 -100 0 100 R 40 40 130 1 P 
+# Gate Name: G$131
+# Symbol Name: M
+P 2 131 0 0 50 0 0 0
+X S 131 -100 0 100 R 40 40 131 1 P 
+# Gate Name: G$132
+# Symbol Name: M
+P 2 132 0 0 50 0 0 0
+X S 132 -100 0 100 R 40 40 132 1 P 
+# Gate Name: G$133
+# Symbol Name: M
+P 2 133 0 0 50 0 0 0
+X S 133 -100 0 100 R 40 40 133 1 P 
+# Gate Name: G$134
+# Symbol Name: M
+P 2 134 0 0 50 0 0 0
+X S 134 -100 0 100 R 40 40 134 1 P 
+# Gate Name: G$135
+# Symbol Name: M
+P 2 135 0 0 50 0 0 0
+X S 135 -100 0 100 R 40 40 135 1 P 
+# Gate Name: G$136
+# Symbol Name: M
+P 2 136 0 0 50 0 0 0
+X S 136 -100 0 100 R 40 40 136 1 P 
+# Gate Name: G$137
+# Symbol Name: M
+P 2 137 0 0 50 0 0 0
+X S 137 -100 0 100 R 40 40 137 1 P 
+# Gate Name: G$138
+# Symbol Name: M
+P 2 138 0 0 50 0 0 0
+X S 138 -100 0 100 R 40 40 138 1 P 
+# Gate Name: G$139
+# Symbol Name: M
+P 2 139 0 0 50 0 0 0
+X S 139 -100 0 100 R 40 40 139 1 P 
+# Gate Name: G$140
+# Symbol Name: M
+P 2 140 0 0 50 0 0 0
+X S 140 -100 0 100 R 40 40 140 1 P 
+# Gate Name: G$141
+# Symbol Name: M
+P 2 141 0 0 50 0 0 0
+X S 141 -100 0 100 R 40 40 141 1 P 
+# Gate Name: G$142
+# Symbol Name: M
+P 2 142 0 0 50 0 0 0
+X S 142 -100 0 100 R 40 40 142 1 P 
+# Gate Name: G$143
+# Symbol Name: M
+P 2 143 0 0 50 0 0 0
+X S 143 -100 0 100 R 40 40 143 1 P 
+# Gate Name: G$144
+# Symbol Name: M
+P 2 144 0 0 50 0 0 0
+X S 144 -100 0 100 R 40 40 144 1 P 
+# Gate Name: G$145
+# Symbol Name: M
+P 2 145 0 0 50 0 0 0
+X S 145 -100 0 100 R 40 40 145 1 P 
+# Gate Name: G$146
+# Symbol Name: M
+P 2 146 0 0 50 0 0 0
+X S 146 -100 0 100 R 40 40 146 1 P 
+# Gate Name: G$147
+# Symbol Name: M
+P 2 147 0 0 50 0 0 0
+X S 147 -100 0 100 R 40 40 147 1 P 
+# Gate Name: G$148
+# Symbol Name: M
+P 2 148 0 0 50 0 0 0
+X S 148 -100 0 100 R 40 40 148 1 P 
+# Gate Name: G$149
+# Symbol Name: M
+P 2 149 0 0 50 0 0 0
+X S 149 -100 0 100 R 40 40 149 1 P 
+# Gate Name: G$150
+# Symbol Name: M
+P 2 150 0 0 50 0 0 0
+X S 150 -100 0 100 R 40 40 150 1 P 
+# Gate Name: G$151
+# Symbol Name: M
+P 2 151 0 0 50 0 0 0
+X S 151 -100 0 100 R 40 40 151 1 P 
+# Gate Name: G$152
+# Symbol Name: M
+P 2 152 0 0 50 0 0 0
+X S 152 -100 0 100 R 40 40 152 1 P 
+# Gate Name: G$153
+# Symbol Name: M
+P 2 153 0 0 50 0 0 0
+X S 153 -100 0 100 R 40 40 153 1 P 
+# Gate Name: G$154
+# Symbol Name: M
+P 2 154 0 0 50 0 0 0
+X S 154 -100 0 100 R 40 40 154 1 P 
+# Gate Name: G$155
+# Symbol Name: M
+P 2 155 0 0 50 0 0 0
+X S 155 -100 0 100 R 40 40 155 1 P 
+# Gate Name: G$156
+# Symbol Name: M
+P 2 156 0 0 50 0 0 0
+X S 156 -100 0 100 R 40 40 156 1 P 
+# Gate Name: G$157
+# Symbol Name: M
+P 2 157 0 0 50 0 0 0
+X S 157 -100 0 100 R 40 40 157 1 P 
+# Gate Name: G$158
+# Symbol Name: M
+P 2 158 0 0 50 0 0 0
+X S 158 -100 0 100 R 40 40 158 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

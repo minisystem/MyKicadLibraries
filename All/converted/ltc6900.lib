@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:34
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: LTC6900
+# Package Name: LTC6900
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF LTC6900 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: LTC6900
+DRAW
+P 2 1 0 0 300 400 300 -400
+P 2 1 0 0 300 -400 -300 -400
+P 2 1 0 0 -300 -400 -300 400
+P 2 1 0 0 -300 400 300 400
+T 0 148 467 60 0 1 0 LTC6900
+X DIV 4 -500 300 200 R 40 40 1 1 B 
+X GND 2 500 -300 200 L 40 40 1 1 B 
+X OUT 5 -500 -300 200 R 40 40 1 1 B 
+X SET 3 -500 100 200 R 40 40 1 1 B 
+X V+ 1 500 -100 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

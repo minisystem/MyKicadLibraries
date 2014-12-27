@@ -1,0 +1,51 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:24
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: CC
+# Package Name: 0402
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF CC ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: C
+DRAW
+A -200 -400 400 -2699 -1801 1 1 0 N -200 0 -600 -400
+P 2 1 0 0 -200 0 0 0
+P 2 1 0 0 0 0 200 0
+A 200 -400 400 -3599 -2701 1 1 0 N 600 -400 200 0
+P 2 1 0 0 -800 300 0 300
+P 2 1 0 0 0 300 800 300
+P 2 1 0 0 0 0 0 -900
+P 2 1 0 0 0 300 0 1000
+X 1 1 0 1300 300 D 40 40 1 1 B 
+X 2 2 0 -1200 300 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RR
+# Package Name: 0402
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RR ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+DRAW
+P 2 1 0 0 -900 100 -700 500
+P 2 1 0 0 -700 500 -500 -400
+P 2 1 0 0 -500 -400 -100 500
+P 2 1 0 0 -100 500 200 -400
+P 2 1 0 0 200 -400 600 500
+P 2 1 0 0 600 500 800 -400
+P 2 1 0 0 800 -400 1000 0
+X 1 1 -1200 100 300 R 40 40 1 1 B 
+X 2 2 1300 0 300 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:04
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: 8560Q
+# Package Name: SOT141-6
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF 8560Q ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TDA8560Q
+DRAW
+P 2 1 0 0 -300 -700 200 -700
+P 2 1 0 0 200 -700 200 700
+P 2 1 0 0 200 700 -300 700
+P 2 1 0 0 -300 700 -300 -700
+X GND(S) 2 -500 500 200 R 40 40 1 1 B 
+X GND1 5 -500 200 200 R 40 40 1 1 B 
+X GND2 8 -500 -100 200 R 40 40 1 1 B 
+X IN1 1 -500 600 200 R 40 40 1 1 B 
+X IN2 13 -500 -600 200 R 40 40 1 1 B 
+X MODE 11 -500 -400 200 R 40 40 1 1 B 
+X OUT1A 4 -500 300 200 R 40 40 1 1 B 
+X OUT1B 6 -500 100 200 R 40 40 1 1 B 
+X OUT2A 7 -500 0 200 R 40 40 1 1 B 
+X OUT2B 9 -500 -200 200 R 40 40 1 1 B 
+X VDIAG 12 -500 -500 200 R 40 40 1 1 B 
+X VP1 3 -500 400 200 R 40 40 1 1 B 
+X VP2 10 -500 -300 200 R 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,600 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:25
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 21
+#
+# Dev Name: A2K_SOT-23
+# Package Name: SOT95P280X135-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF A2K_SOT-23 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: A2K
+F0 "D" 30 79 50 H V L B
+F1 "A2K_SOT-23" -190 -136 50 H V L B
+F2 "ipc-7351-diode-SOT95P280X135-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 -50 -50 0
+P 2 1 0 0 -50 0 -150 50
+P 2 1 0 0 -50 50 -50 0
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 -150 50 -150 -50
+P 2 1 0 0 -50 0 -50 -50
+P 2 1 0 0 150 50 50 0
+P 2 1 0 0 50 0 150 -50
+P 2 1 0 0 50 -50 50 0
+P 2 1 0 0 -50 0 50 0
+P 2 1 0 0 100 0 50 0
+P 2 1 0 0 150 -50 150 50
+P 2 1 0 0 50 0 50 50
+C 0 0 5 1 1 0 F
+X A1 1 -200 0 100 R 40 40 1 1 P 
+X A2 2 200 0 100 L 40 40 1 1 P 
+X K 3 0 100 100 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A2K_SOT-323
+# Package Name: SOT65P210X110-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF A2K_SOT-323 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: A2K
+F0 "D" 30 79 50 H V L B
+F1 "A2K_SOT-323" -190 -136 50 H V L B
+F2 "ipc-7351-diode-SOT65P210X110-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 -50 -50 0
+P 2 1 0 0 -50 0 -150 50
+P 2 1 0 0 -50 50 -50 0
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 -150 50 -150 -50
+P 2 1 0 0 -50 0 -50 -50
+P 2 1 0 0 150 50 50 0
+P 2 1 0 0 50 0 150 -50
+P 2 1 0 0 50 -50 50 0
+P 2 1 0 0 -50 0 50 0
+P 2 1 0 0 100 0 50 0
+P 2 1 0 0 150 -50 150 50
+P 2 1 0 0 50 0 50 50
+C 0 0 5 1 1 0 F
+X A1 1 -200 0 100 R 40 40 1 1 P 
+X A2 2 200 0 100 L 40 40 1 1 P 
+X K 3 0 100 100 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIODE_SOD-123
+# Package Name: SOD3718X135N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF DIODE_SOD-123 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIODE
+F0 "D" -100 75 50 H V L B
+F1 "DIODE_SOD-123" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOD3718X135N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X K K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIODE_SOD-323
+# Package Name: SOD2514X100N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF DIODE_SOD-323 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIODE
+F0 "D" -100 75 50 H V L B
+F1 "DIODE_SOD-323" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOD2514X100N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X K K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIODE_SOT-23
+# Package Name: SOT95P280X135-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF DIODE_SOT-23 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIODE
+F0 "D" -100 75 50 H V L B
+F1 "DIODE_SOT-23" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOT95P280X135-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 50 50 -50
+X A 1 -100 0 100 R 40 40 1 1 P 
+X K 3 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIODE_SOT-323
+# Package Name: SOT65P210X110-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF DIODE_SOT-323 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIODE
+F0 "D" -100 75 50 H V L B
+F1 "DIODE_SOT-323" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOT65P210X110-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 50 50 -50
+X A 1 -100 0 100 R 40 40 1 1 P 
+X K 3 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: K2A_SOT-23
+# Package Name: SOT95P280X135-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF K2A_SOT-23 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: K2A
+F0 "D" 30 79 50 H V L B
+F1 "K2A_SOT-23" -190 -136 50 H V L B
+F2 "ipc-7351-diode-SOT95P280X135-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 50 -150 0
+P 2 1 0 0 -150 0 -50 -50
+P 2 1 0 0 -150 -50 -150 0
+P 2 1 0 0 -100 0 -150 0
+P 2 1 0 0 -50 -50 -50 50
+P 2 1 0 0 -150 0 -150 50
+P 2 1 0 0 50 50 150 0
+P 2 1 0 0 150 0 50 -50
+P 2 1 0 0 150 -50 150 0
+P 2 1 0 0 -150 0 150 0
+P 2 1 0 0 100 0 150 0
+P 2 1 0 0 50 -50 50 50
+P 2 1 0 0 150 0 150 50
+C 0 0 5 1 1 0 F
+X A 3 0 100 100 D 40 40 1 1 P 
+X K1 1 -200 0 100 R 40 40 1 1 P 
+X K2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: K2A_SOT-323
+# Package Name: SOT65P210X110-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF K2A_SOT-323 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: K2A
+F0 "D" 30 79 50 H V L B
+F1 "K2A_SOT-323" -190 -136 50 H V L B
+F2 "ipc-7351-diode-SOT65P210X110-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 50 -150 0
+P 2 1 0 0 -150 0 -50 -50
+P 2 1 0 0 -150 -50 -150 0
+P 2 1 0 0 -100 0 -150 0
+P 2 1 0 0 -50 -50 -50 50
+P 2 1 0 0 -150 0 -150 50
+P 2 1 0 0 50 50 150 0
+P 2 1 0 0 150 0 50 -50
+P 2 1 0 0 150 -50 150 0
+P 2 1 0 0 -150 0 150 0
+P 2 1 0 0 100 0 150 0
+P 2 1 0 0 50 -50 50 50
+P 2 1 0 0 150 0 150 50
+C 0 0 5 1 1 0 F
+X A 3 0 100 100 D 40 40 1 1 P 
+X K1 1 -200 0 100 R 40 40 1 1 P 
+X K2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: KA2KA_SOT-23
+# Package Name: SOT95P280X135-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF KA2KA_SOT-23 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: KA2KA
+F0 "D" 30 79 50 H V L B
+F1 "KA2KA_SOT-23" -190 -136 50 H V L B
+F2 "ipc-7351-diode-SOT95P280X135-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 50 -150 0
+P 2 1 0 0 -150 0 -50 -50
+P 2 1 0 0 -150 -50 -150 0
+P 2 1 0 0 -100 0 -150 0
+P 2 1 0 0 -50 -50 -50 50
+P 2 1 0 0 -150 0 -150 50
+P 2 1 0 0 150 50 50 0
+P 2 1 0 0 50 0 150 -50
+P 2 1 0 0 50 -50 50 0
+P 2 1 0 0 -150 0 50 0
+P 2 1 0 0 100 0 50 0
+P 2 1 0 0 150 -50 150 50
+P 2 1 0 0 50 0 50 50
+C 0 0 5 1 1 0 F
+X A 1 200 0 100 L 40 40 1 1 P 
+X K 2 -200 0 100 R 40 40 1 1 P 
+X KA 3 0 100 100 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: KA2KA_SOT-323
+# Package Name: SOT65P210X110-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF KA2KA_SOT-323 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: KA2KA
+F0 "D" 30 79 50 H V L B
+F1 "KA2KA_SOT-323" -190 -136 50 H V L B
+F2 "ipc-7351-diode-SOT65P210X110-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 50 -150 0
+P 2 1 0 0 -150 0 -50 -50
+P 2 1 0 0 -150 -50 -150 0
+P 2 1 0 0 -100 0 -150 0
+P 2 1 0 0 -50 -50 -50 50
+P 2 1 0 0 -150 0 -150 50
+P 2 1 0 0 150 50 50 0
+P 2 1 0 0 50 0 150 -50
+P 2 1 0 0 50 -50 50 0
+P 2 1 0 0 -150 0 50 0
+P 2 1 0 0 100 0 50 0
+P 2 1 0 0 150 -50 150 50
+P 2 1 0 0 50 0 50 50
+C 0 0 5 1 1 0 F
+X A 1 200 0 100 L 40 40 1 1 P 
+X K 2 -200 0 100 R 40 40 1 1 P 
+X KA 3 0 100 100 D 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SCHOTTKY_SMA
+# Package Name: DIOM5326X292N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF SCHOTTKY_SMA D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCHOTTKY
+F0 "D" -100 75 50 H V L B
+F1 "SCHOTTKY_SMA" -100 -150 50 H V L B
+F2 "ipc-7351-diode-DIOM5326X292N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 75 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 75 50 75 40
+P 2 1 0 0 50 -50 25 -50
+P 2 1 0 0 25 -40 25 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X K K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SCHOTTKY_SMB
+# Package Name: DIOM5436X265N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF SCHOTTKY_SMB D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCHOTTKY
+F0 "D" -100 75 50 H V L B
+F1 "SCHOTTKY_SMB" -100 -150 50 H V L B
+F2 "ipc-7351-diode-DIOM5436X265N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 75 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 75 50 75 40
+P 2 1 0 0 50 -50 25 -50
+P 2 1 0 0 25 -40 25 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X K K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SCHOTTKY_SMC
+# Package Name: DIOM7959X265N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF SCHOTTKY_SMC D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCHOTTKY
+F0 "D" -100 75 50 H V L B
+F1 "SCHOTTKY_SMC" -100 -150 50 H V L B
+F2 "ipc-7351-diode-DIOM7959X265N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 75 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 75 50 75 40
+P 2 1 0 0 50 -50 25 -50
+P 2 1 0 0 25 -40 25 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X K K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SCHOTTKY_SOD-123
+# Package Name: SOD3718X135N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF SCHOTTKY_SOD-123 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCHOTTKY
+F0 "D" -100 75 50 H V L B
+F1 "SCHOTTKY_SOD-123" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOD3718X135N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 75 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 75 50 75 40
+P 2 1 0 0 50 -50 25 -50
+P 2 1 0 0 25 -40 25 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X K K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SCHOTTKY_SOD-323
+# Package Name: SOD2514X100N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF SCHOTTKY_SOD-323 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCHOTTKY
+F0 "D" -100 75 50 H V L B
+F1 "SCHOTTKY_SOD-323" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOD2514X100N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 75 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 75 50 75 40
+P 2 1 0 0 50 -50 25 -50
+P 2 1 0 0 25 -40 25 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X K K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SCHOTTKY_SOT-23
+# Package Name: SOT95P280X135-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF SCHOTTKY_SOT-23 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCHOTTKY
+F0 "D" -100 75 50 H V L B
+F1 "SCHOTTKY_SOT-23" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOT95P280X135-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 75 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 75 50 75 40
+P 2 1 0 0 50 -50 25 -50
+P 2 1 0 0 25 -40 25 -50
+X A 1 -100 0 100 R 40 40 1 1 P 
+X K 3 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SCHOTTKY_SOT-323
+# Package Name: SOT65P210X110-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF SCHOTTKY_SOT-323 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCHOTTKY
+F0 "D" -100 75 50 H V L B
+F1 "SCHOTTKY_SOT-323" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOT65P210X110-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 75 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 75 50 75 40
+P 2 1 0 0 50 -50 25 -50
+P 2 1 0 0 25 -40 25 -50
+X A 1 -100 0 100 R 40 40 1 1 P 
+X K 3 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ZENER_SOD-123
+# Package Name: SOD3718X135N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF ZENER_SOD-123 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ZENER
+F0 "D" -100 75 50 H V L B
+F1 "ZENER_SOD-123" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOD3718X135N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 25 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 50 -50 75 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X K K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ZENER_SOD-323
+# Package Name: SOD2514X100N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF ZENER_SOD-323 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ZENER
+F0 "D" -100 75 50 H V L B
+F1 "ZENER_SOD-323" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOD2514X100N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 25 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 50 -50 75 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X K K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ZENER_SOT-23
+# Package Name: SOT95P280X135-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF ZENER_SOT-23 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ZENER
+F0 "D" -100 75 50 H V L B
+F1 "ZENER_SOT-23" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOT95P280X135-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 25 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 50 -50 75 -50
+X A 1 -100 0 100 R 40 40 1 1 P 
+X K 3 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ZENER_SOT-323
+# Package Name: SOT65P210X110-3N
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF ZENER_SOT-323 D 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ZENER
+F0 "D" -100 75 50 H V L B
+F1 "ZENER_SOT-323" -100 -150 50 H V L B
+F2 "ipc-7351-diode-SOT65P210X110-3N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 25 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 50 -50 75 -50
+X A 1 -100 0 100 R 40 40 1 1 P 
+X K 3 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

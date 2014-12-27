@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:06
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: TPS769XX
+# Package Name: SOT23-5L
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF TPS769XX IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TPS769XX
+F0 "IC" -400 400 50 H V L B
+F1 "TPS769XX" -400 -100 50 H V L B
+F2 "tps769xx-SOT23-5L" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -400 400 -400 0
+P 2 1 0 0 -400 0 400 0
+P 2 1 0 0 400 0 400 400
+P 2 1 0 0 400 400 -400 400
+X /EN 3 -600 100 200 R 40 40 1 1 P 
+X GND 2 -600 200 200 R 40 40 1 1 W 
+X IN 1 -600 300 200 R 40 40 1 1 W 
+X NC/FB 4 600 100 200 L 40 40 1 1 P 
+X OUT 5 600 300 200 L 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,154 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:42
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 6
+#
+# Dev Name: CPOL-0405
+# Package Name: 153CLV-0405
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CPOL-0405 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPPOL
+F0 "C" 45 119 50 H V L B
+F1 "CPOL-0405" 45 -81 50 H V L B
+F2 "cap-vishay-153clv-153CLV-0405" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -60 65 60 65
+P 2 1 0 0 60 65 60 100
+P 2 1 0 0 -60 100 -60 65
+P 2 1 0 0 -60 100 60 100
+S -65 0 65 35 1 1 0 F
+T 1 -48 141 50 0 1 0 +
+X + + 0 200 100 D 40 40 1 1 P 
+X - - 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPOL-0505
+# Package Name: 153CLV-0505
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CPOL-0505 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPPOL
+F0 "C" 45 119 50 H V L B
+F1 "CPOL-0505" 45 -81 50 H V L B
+F2 "cap-vishay-153clv-153CLV-0505" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -60 65 60 65
+P 2 1 0 0 60 65 60 100
+P 2 1 0 0 -60 100 -60 65
+P 2 1 0 0 -60 100 60 100
+S -65 0 65 35 1 1 0 F
+T 1 -48 141 50 0 1 0 +
+X + + 0 200 100 D 40 40 1 1 P 
+X - - 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPOL-0605
+# Package Name: 153CLV-0605
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CPOL-0605 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPPOL
+F0 "C" 45 119 50 H V L B
+F1 "CPOL-0605" 45 -81 50 H V L B
+F2 "cap-vishay-153clv-153CLV-0605" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -60 65 60 65
+P 2 1 0 0 60 65 60 100
+P 2 1 0 0 -60 100 -60 65
+P 2 1 0 0 -60 100 60 100
+S -65 0 65 35 1 1 0 F
+T 1 -48 141 50 0 1 0 +
+X + + 0 200 100 D 40 40 1 1 P 
+X - - 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPOL-0807
+# Package Name: 153CLV-0807
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CPOL-0807 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPPOL
+F0 "C" 45 119 50 H V L B
+F1 "CPOL-0807" 45 -81 50 H V L B
+F2 "cap-vishay-153clv-153CLV-0807" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -60 65 60 65
+P 2 1 0 0 60 65 60 100
+P 2 1 0 0 -60 100 -60 65
+P 2 1 0 0 -60 100 60 100
+S -65 0 65 35 1 1 0 F
+T 1 -48 141 50 0 1 0 +
+X + + 0 200 100 D 40 40 1 1 P 
+X - - 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPOL-1010
+# Package Name: 153CLV-1010
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CPOL-1010 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPPOL
+F0 "C" 45 119 50 H V L B
+F1 "CPOL-1010" 45 -81 50 H V L B
+F2 "cap-vishay-153clv-153CLV-1010" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -60 65 60 65
+P 2 1 0 0 60 65 60 100
+P 2 1 0 0 -60 100 -60 65
+P 2 1 0 0 -60 100 60 100
+S -65 0 65 35 1 1 0 F
+T 1 -48 141 50 0 1 0 +
+X + + 0 200 100 D 40 40 1 1 P 
+X - - 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPOL-1012/14
+# Package Name: 153CLV-1012/14
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CPOL-1012/14 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPPOL
+F0 "C" 45 119 50 H V L B
+F1 "CPOL-1012/14" 45 -81 50 H V L B
+F2 "cap-vishay-153clv-153CLV-1012/14" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -60 65 60 65
+P 2 1 0 0 60 65 60 100
+P 2 1 0 0 -60 100 -60 65
+P 2 1 0 0 -60 100 60 100
+S -65 0 65 35 1 1 0 F
+T 1 -48 141 50 0 1 0 +
+X + + 0 200 100 D 40 40 1 1 P 
+X - - 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

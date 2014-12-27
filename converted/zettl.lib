@@ -1,0 +1,151 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:26:03
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 6
+#
+# Dev Name: RMA9824
+# Package Name: RMA9824
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RMA9824 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RMA9824
+DRAW
+P 2 1 0 0 -600 400 700 400
+P 2 1 0 0 700 0 -600 0
+P 2 1 0 0 -600 400 -600 0
+P 2 1 0 0 700 400 700 0
+X ANT 2 -400 -200 200 U 40 40 1 1 B 
+X AOUT 6 400 -200 200 U 40 40 1 1 B 
+X DOUT 7 500 -200 200 U 40 40 1 1 B 
+X GND 4 200 -200 200 U 40 40 1 1 B 
+X GND1 3 -300 -200 200 U 40 40 1 1 B 
+X GND2 1 -500 -200 200 U 40 40 1 1 B 
+X N.C. 5 300 -200 200 U 40 40 1 1 B 
+X VCC 8 600 -200 200 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RMA9924
+# Package Name: RMA9924
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RMA9924 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RMA9924
+DRAW
+P 2 1 0 0 -600 400 600 400
+P 2 1 0 0 600 0 -600 0
+P 2 1 0 0 -600 400 -600 0
+P 2 1 0 0 600 400 600 0
+X ANT ANT -500 -200 200 U 40 40 1 1 B 
+X AOUT AOUT 300 -200 200 U 40 40 1 1 B 
+X DOUT DOUT 400 -200 200 U 40 40 1 1 B 
+X GND GND 100 -200 200 U 40 40 1 1 B 
+X GND1 GND1 -400 -200 200 U 40 40 1 1 B 
+X N.C. N.C. 200 -200 200 U 40 40 1 1 B 
+X VCC VCC 500 -200 200 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TMA9724
+# Package Name: TMA9724
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TMA9724 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMA9724
+DRAW
+P 2 1 0 0 -200 300 200 300
+P 2 1 0 0 200 300 200 -300
+P 2 1 0 0 200 -300 -200 -300
+P 2 1 0 0 -200 -300 -200 300
+X GND 2 100 -500 200 U 40 40 1 1 B 
+X VCC 1 -100 -500 200 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TMA9824
+# Package Name: TMA9924
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TMA9824 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMA9824
+DRAW
+P 2 1 0 0 -600 200 700 200
+P 2 1 0 0 700 -200 -600 -200
+P 2 1 0 0 -600 200 -600 -200
+P 2 1 0 0 700 200 700 -200
+X ANT 5 400 -400 200 U 40 40 1 1 B 
+X DIN 1 -500 -400 200 U 40 40 1 1 B 
+X GND 4 200 -400 200 U 40 40 1 1 B 
+X GND1 3 -300 -400 200 U 40 40 1 1 B 
+X N.C. 2 -400 -400 200 U 40 40 1 1 B 
+X VCC 6 600 -400 200 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TMA9924
+# Package Name: TMA9924
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TMA9924 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMA9924
+DRAW
+P 2 1 0 0 -600 200 700 200
+P 2 1 0 0 700 -200 -600 -200
+P 2 1 0 0 -600 200 -600 -200
+P 2 1 0 0 700 200 700 -200
+X ANT 5 400 -400 200 U 40 40 1 1 B 
+X DIN 1 -500 -400 200 U 40 40 1 1 B 
+X GND 4 200 -400 200 U 40 40 1 1 B 
+X GND1 3 -300 -400 200 U 40 40 1 1 B 
+X N.C. 2 -400 -400 200 U 40 40 1 1 B 
+X VCC 6 600 -400 200 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRMA0024
+# Package Name: TRMA0024
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TRMA0024 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TRMA0024
+DRAW
+P 2 1 0 0 -700 400 700 400
+P 2 1 0 0 700 -200 -700 -200
+P 2 1 0 0 -700 400 -700 -200
+P 2 1 0 0 700 400 700 -200
+X ANT 9 600 -400 200 U 40 40 1 1 B 
+X DIN 3 -400 -400 200 U 40 40 1 1 B 
+X DOUT 1 -600 -400 200 U 40 40 1 1 B 
+X GND 8 500 -400 200 U 40 40 1 1 B 
+X GND1 5 -200 -400 200 U 40 40 1 1 B 
+X N.C. 10 0 600 200 D 40 40 1 1 B 
+X SHTDWN 4 -300 -400 200 U 40 40 1 1 B 
+X VALID 2 -500 -400 200 U 40 40 1 1 B 
+X VCCRX 6 300 -400 200 U 40 40 1 1 B 
+X VCCTRM 7 400 -400 200 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

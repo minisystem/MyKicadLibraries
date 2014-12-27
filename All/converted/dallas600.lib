@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:12
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: DS600
+# Package Name: MSOP8
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DS600 ?? 0 40 Y Y 1 L N
+# Gate Name: DS600
+# Symbol Name: DS600
+DRAW
+P 2 1 0 0 0 500 0 0
+P 2 1 0 0 0 0 700 0
+P 2 1 0 0 700 0 700 500
+P 2 1 0 0 700 500 0 500
+T 0 175 -65 70 0 1 0 DS600
+X CTG 7 900 300 200 L 40 40 1 1 I 
+X GND 8 900 400 200 L 40 40 1 1 W 
+X NTO 3 -200 200 200 R 40 40 1 1 O 
+X SD 6 900 200 200 L 40 40 1 1 O 
+X TO 2 -200 300 200 R 40 40 1 1 O 
+X VDD 1 -200 400 200 R 40 40 1 1 W 
+X VOUT 4 -200 100 200 R 40 40 1 1 O 
+X VTH 5 900 100 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:24
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: SAWSAW_NEW
+# Package Name: SAW
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF SAWSAW_NEW ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SAW_NEW
+DRAW
+P 2 1 0 0 -1200 700 1200 700
+P 2 1 0 0 1200 700 1200 -900
+P 2 1 0 0 1200 -900 -1200 -900
+P 2 1 0 0 -1200 -900 -1200 700
+T 0 1035 -665 70 0 1 0 1
+X GND1 1 700 -1100 200 U 40 40 1 1 B 
+X GND3 4 -700 -1100 200 U 40 40 1 1 B 
+X GND4 3 -700 900 200 D 40 40 1 1 B 
+X GND6 6 700 900 200 D 40 40 1 1 B 
+X IN 5 0 -1100 200 U 40 40 1 1 B 
+X OUT 2 0 900 200 D 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

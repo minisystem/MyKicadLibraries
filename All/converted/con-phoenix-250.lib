@@ -1,0 +1,950 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:58
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 22
+#
+# Dev Name: MCV_05/2-G-2,5
+# Package Name: MC2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF MCV_05/2-G-2,5 X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/2-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/2-G-2,5V
+# Package Name: MCV2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF MCV_05/2-G-2,5V X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/2-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/3-G-2,5
+# Package Name: MC3
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF MCV_05/3-G-2,5 X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/3-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/3-G-2,5V
+# Package Name: MCV3
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF MCV_05/3-G-2,5V X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/3-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/4-G-2,5
+# Package Name: MC4
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF MCV_05/4-G-2,5 X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/4-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/4-G-2,5V
+# Package Name: MCV4
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF MCV_05/4-G-2,5V X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/4-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/5-G-2,5
+# Package Name: MC5
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF MCV_05/5-G-2,5 X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/5-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/5-G-2,5V
+# Package Name: MCV5
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF MCV_05/5-G-2,5V X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/5-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/6-G-2,5
+# Package Name: MC6
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF MCV_05/6-G-2,5 X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/6-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/6-G-2,5V
+# Package Name: MCV6
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF MCV_05/6-G-2,5V X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/6-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/7-G-2,5
+# Package Name: MC7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF MCV_05/7-G-2,5 X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/7-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC7" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/7-G-2,5V
+# Package Name: MCV7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF MCV_05/7-G-2,5V X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/7-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV7" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/8-G-2,5
+# Package Name: MC8
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF MCV_05/8-G-2,5 X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/8-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/8-G-2,5V
+# Package Name: MCV8
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF MCV_05/8-G-2,5V X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/8-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/9-G-2,5
+# Package Name: MC9
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF MCV_05/9-G-2,5 X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/9-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/9-G-2,5V
+# Package Name: MCV9
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF MCV_05/9-G-2,5V X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/9-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/10-G-2,5
+# Package Name: MC10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF MCV_05/10-G-2,5 X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/10-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: MCST
+P 2 10 0 0 -200 0 -100 0
+X SK 10 0 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/10-G-2,5V
+# Package Name: MCV10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF MCV_05/10-G-2,5V X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/10-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: MCST
+P 2 10 0 0 -200 0 -100 0
+X SK 10 0 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/11-G-2,5
+# Package Name: MC11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF MCV_05/11-G-2,5 X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/11-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: MCST
+P 2 10 0 0 -200 0 -100 0
+X SK 10 0 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: MCST
+P 2 11 0 0 -200 0 -100 0
+X SK 11 0 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/11-G-2,5V
+# Package Name: MCV11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF MCV_05/11-G-2,5V X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/11-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: MCST
+P 2 10 0 0 -200 0 -100 0
+X SK 10 0 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: MCST
+P 2 11 0 0 -200 0 -100 0
+X SK 11 0 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/12-G-2,5
+# Package Name: MC12
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF MCV_05/12-G-2,5 X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/12-G-2,5" 0 0 50 H V R T
+F2 "con-phoenix-250-MC12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: MCST
+P 2 10 0 0 -200 0 -100 0
+X SK 10 0 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: MCST
+P 2 11 0 0 -200 0 -100 0
+X SK 11 0 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: MCST
+P 2 12 0 0 -200 0 -100 0
+X SK 12 0 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV_05/12-G-2,5V
+# Package Name: MCV12
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF MCV_05/12-G-2,5V X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: MCST
+F0 "X" -250 25 50 H V R T
+F1 "MCV_05/12-G-2,5V" 0 0 50 H V R T
+F2 "con-phoenix-250-MCV12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: MCST
+P 2 10 0 0 -200 0 -100 0
+X SK 10 0 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: MCST
+P 2 11 0 0 -200 0 -100 0
+X SK 11 0 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: MCST
+P 2 12 0 0 -200 0 -100 0
+X SK 12 0 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

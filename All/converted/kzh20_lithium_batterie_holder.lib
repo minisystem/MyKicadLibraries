@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:27
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: 2032
+# Package Name: KZH20SMD
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF 2032 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CR2032
+DRAW
+P 2 1 0 0 -75 25 -75 0
+P 2 1 0 0 -100 0 -75 0
+P 2 1 0 0 -75 0 -75 -25
+P 2 1 0 0 -25 100 -25 0
+P 2 1 0 0 -25 0 100 0
+P 2 1 0 0 -25 0 -25 -100
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

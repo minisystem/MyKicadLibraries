@@ -1,0 +1,2114 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:07
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 68
+#
+# Dev Name: 2N3819
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N3819 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-N
+F0 "Q" -400 95 50 H V L B
+F1 "2N3819" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -150 0 150
+P 2 1 0 0 -100 -75 -50 -100
+P 2 1 0 0 -50 -100 -100 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 1 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 200 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N3820
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N3820 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-P
+F0 "Q" -400 95 50 H V L B
+F1 "2N3820" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 150 0 -150
+P 2 1 0 0 -100 -100 -50 -75
+P 2 1 0 0 -100 -100 -50 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 1 200 -100 200 L 40 40 1 1 P 
+X G 2 -200 -100 200 R 40 40 1 1 P 
+X S 3 200 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4093
+# Package Name: TO18
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4093 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-N
+F0 "Q" -400 95 50 H V L B
+F1 "2N4093" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO18" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -150 0 150
+P 2 1 0 0 -100 -75 -50 -100
+P 2 1 0 0 -50 -100 -100 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 200 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4221
+# Package Name: TO72
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4221 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-N
+F0 "Q" -400 95 50 H V L B
+F1 "2N4221" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO72" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -150 0 150
+P 2 1 0 0 -100 -75 -50 -100
+P 2 1 0 0 -50 -100 -100 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 1 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 200 R 40 40 1 1 P 
+X S 2 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4392
+# Package Name: TO18
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4392 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-N
+F0 "Q" -400 95 50 H V L B
+F1 "2N4392" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO18" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -150 0 150
+P 2 1 0 0 -100 -75 -50 -100
+P 2 1 0 0 -50 -100 -100 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 200 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4857
+# Package Name: TO18
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4857 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-N
+F0 "Q" -400 95 50 H V L B
+F1 "2N4857" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO18" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -150 0 150
+P 2 1 0 0 -100 -75 -50 -100
+P 2 1 0 0 -50 -100 -100 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 200 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N5116
+# Package Name: TO18
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N5116 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-P
+F0 "Q" -400 95 50 H V L B
+F1 "2N5116" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO18" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 150 0 -150
+P 2 1 0 0 -100 -100 -50 -75
+P 2 1 0 0 -100 -100 -50 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 3 200 -100 200 L 40 40 1 1 P 
+X G 2 -200 -100 200 R 40 40 1 1 P 
+X S 1 200 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BF245
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BF245 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-N
+F0 "Q" -400 95 50 H V L B
+F1 "BF245" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -150 0 150
+P 2 1 0 0 -100 -75 -50 -100
+P 2 1 0 0 -50 -100 -100 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 1 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 200 R 40 40 1 1 P 
+X S 2 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BF247
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BF247 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-N
+F0 "Q" -400 95 50 H V L B
+F1 "BF247" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -150 0 150
+P 2 1 0 0 -100 -75 -50 -100
+P 2 1 0 0 -50 -100 -100 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 1 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 200 R 40 40 1 1 P 
+X S 2 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BF256
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BF256 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-N
+F0 "Q" -400 95 50 H V L B
+F1 "BF256" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -150 0 150
+P 2 1 0 0 -100 -75 -50 -100
+P 2 1 0 0 -50 -100 -100 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 1 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 200 R 40 40 1 1 P 
+X S 2 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BFT10
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BFT10 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-N
+F0 "Q" -400 95 50 H V L B
+F1 "BFT10" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -150 0 150
+P 2 1 0 0 -100 -75 -50 -100
+P 2 1 0 0 -50 -100 -100 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 1 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 200 R 40 40 1 1 P 
+X S 2 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BFT11
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BFT11 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: JFET-P
+F0 "Q" -400 95 50 H V L B
+F1 "BFT11" -400 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 150 0 -150
+P 2 1 0 0 -100 -100 -50 -75
+P 2 1 0 0 -100 -100 -50 -125
+T 0 130 55 60 0 1 0 D
+T 0 130 -145 60 0 1 0 S
+T 0 -145 -145 60 0 1 0 G
+X D 1 200 -100 200 L 40 40 1 1 P 
+X G 3 -200 -100 200 R 40 40 1 1 P 
+X S 2 200 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BSS92
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BSS92 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BSS92" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BSS97
+# Package Name: TO202
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BSS97 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BSS97" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO202" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BSS101
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BSS101 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BSS101" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BSS110
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BSS110 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BSS110" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BSS295
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BSS295 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BSS295" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BSS296
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BSS296 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BSS296" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ10
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ10 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ10" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ11
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ11 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ11" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ20
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ20 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ20" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ21
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ21 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ21" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ22
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ22 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ22" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ23
+# Package Name: TO3
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ23 Q 0 40 Y Y 1 L N
+# Gate Name: A
+# Symbol Name: IGFET-EN-G2DS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ23" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 100
+P 2 1 0 0 0 100 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 100 100 100
+X D 3 100 100 0 R 40 40 1 1 P 
+X D1 4 200 100 100 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ24
+# Package Name: TO3
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ24 Q 0 40 Y Y 1 L N
+# Gate Name: A
+# Symbol Name: IGFET-EN-G2DS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ24" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 100
+P 2 1 0 0 0 100 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 100 100 100
+X D 3 100 100 0 R 40 40 1 1 P 
+X D1 4 200 100 100 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ36
+# Package Name: TO3
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ36 Q 0 40 Y Y 1 L N
+# Gate Name: A
+# Symbol Name: IGFET-EN-G2DS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ36" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 100
+P 2 1 0 0 0 100 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 100 100 100
+X D 3 100 100 0 R 40 40 1 1 P 
+X D1 4 200 100 100 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ45
+# Package Name: TO3
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ45 Q 0 40 Y Y 1 L N
+# Gate Name: A
+# Symbol Name: IGFET-EN-G2DS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ45" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 100
+P 2 1 0 0 0 100 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 100 100 100
+X D 3 100 100 0 R 40 40 1 1 P 
+X D1 4 200 100 100 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ50A
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ50A Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ50A" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ60
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ60 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ60" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ64
+# Package Name: TO3
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ64 Q 0 40 Y Y 1 L N
+# Gate Name: A
+# Symbol Name: IGFET-EN-G2DS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ64" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 100
+P 2 1 0 0 0 100 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 100 100 100
+X D 3 100 100 0 R 40 40 1 1 P 
+X D1 4 200 100 100 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ71
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ71 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ71" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ72
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ72 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ72" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ171
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ171 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ171" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ172
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ172 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ172" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ230
+# Package Name: TO3
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ230 Q 0 40 Y Y 1 L N
+# Gate Name: A
+# Symbol Name: IGFET-EN-G2DS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ230" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 100
+P 2 1 0 0 0 100 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 100 100 100
+X D 3 100 100 0 R 40 40 1 1 P 
+X D1 4 200 100 100 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ325
+# Package Name: TO218
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ325 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ325" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO218" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ325V
+# Package Name: TO218V
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ325V Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ325V" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO218V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ347
+# Package Name: TOP3
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ347 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ347" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TOP3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BUZ382
+# Package Name: TOP3
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF BUZ382 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "BUZ382" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TOP3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FDS5680
+# Package Name: SO-8
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF FDS5680 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-G4D3S
+F0 "Q" -450 100 50 H V L B
+F1 "FDS5680" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-SO-8" 0 150 50 H I C C
+DRAW
+P 6 1 1 0     200 50 180 20 180 20 220 20 220 20 200 50 F
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -150
+P 2 1 0 0 0 -55 0 -100
+P 2 1 0 0 0 -100 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 -100 100 -100
+P 2 1 0 0 100 -100 100 -150
+P 2 1 0 0 100 150 200 150
+P 2 1 0 0 200 150 200 -150
+P 2 1 0 0 200 -150 100 -150
+S 180 50 220 60 1 1 0 F
+C 100 150 5 1 1 0 F
+C 100 -150 5 1 1 0 F
+C 100 -100 5 1 1 0 F
+X D1 5 100 100 100 L 40 40 1 1 P 
+X D2 6 100 200 100 D 40 40 1 1 P 
+X D3 7 200 200 100 L 40 40 1 1 P 
+X D4 8 300 200 100 L 40 40 1 1 P 
+X G 4 -200 -100 100 R 40 40 1 1 P 
+X S1 1 100 -200 100 U 40 40 1 1 P 
+X S2 2 200 -200 100 L 40 40 1 1 P 
+X S3 3 300 -200 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IRF330
+# Package Name: TO3
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF IRF330 Q 0 40 Y Y 1 L N
+# Gate Name: A
+# Symbol Name: IGFET-EN-G2DS
+F0 "Q" -450 100 50 H V L B
+F1 "IRF330" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 100
+P 2 1 0 0 0 100 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 100 100 100
+X D 3 100 100 0 R 40 40 1 1 P 
+X D1 4 200 100 100 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IRF350
+# Package Name: TO3
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF IRF350 Q 0 40 Y Y 1 L N
+# Gate Name: A
+# Symbol Name: IGFET-EN-G2DS
+F0 "Q" -450 100 50 H V L B
+F1 "IRF350" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 100
+P 2 1 0 0 0 100 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 100 100 100
+X D 3 100 100 0 R 40 40 1 1 P 
+X D1 4 200 100 100 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IRF510
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF IRF510 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "IRF510" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IRF540
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF IRF540 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "IRF540" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IRF620
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF IRF620 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "IRF620" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IRF840
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF IRF840 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "IRF840" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IRF7103
+# Package Name: SO-8
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF IRF7103 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-G2DS
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 100
+P 2 1 0 0 0 100 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 100 100 100
+X D 7 100 100 0 R 40 40 1 1 P 
+X D1 8 200 100 100 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+# Gate Name: G$2
+# Symbol Name: IGFET-EN-G2DS
+P 2 2 0 0 -100 -100 -48 -100
+P 2 2 0 0 0 30 0 0
+P 2 2 0 0 0 0 0 -30
+P 2 2 0 0 0 145 0 100
+P 2 2 0 0 0 100 0 55
+P 2 2 0 0 75 25 25 0
+P 2 2 0 0 75 -25 25 0
+P 2 2 0 0 0 0 25 0
+P 2 2 0 0 25 0 100 0
+P 2 2 0 0 100 0 100 -100
+P 2 2 0 0 0 -55 0 -145
+P 2 2 0 0 -45 100 -45 -100
+P 2 2 0 0 0 100 100 100
+X D 6 100 100 0 R 40 40 2 1 P 
+X D1 5 200 100 100 L 40 40 2 1 P 
+X G 4 -200 -100 100 R 40 40 2 1 P 
+X S 3 200 -100 200 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IRF9530
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF IRF9530 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "IRF9530" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IRFD9210
+# Package Name: DIL04
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF IRFD9210 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-G2DS
+F0 "Q" -450 100 50 H V L B
+F1 "IRFD9210" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-DIL04" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 100
+P 2 1 0 0 0 100 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+P 2 1 0 0 0 100 100 100
+X D 4 100 100 0 R 40 40 1 1 P 
+X D1 3 200 100 100 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 2 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: LP0701N3
+# Package Name: TO-92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF LP0701N3 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "LP0701N3" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO-92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SD211
+# Package Name: TO72
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF SD211 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDSB
+F0 "Q" -450 100 50 H V L B
+F1 "SD211" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO72" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+T 0 130 55 60 0 1 0 D
+T 0 130 -45 60 0 1 0 B
+T 0 130 -145 60 0 1 0 S
+T 0 -120 -145 60 0 1 0 G
+X B 4 200 0 200 L 40 40 1 1 P 
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SD215
+# Package Name: TO72
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF SD215 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDSB
+F0 "Q" -450 100 50 H V L B
+F1 "SD215" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO72" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+T 0 130 55 60 0 1 0 D
+T 0 130 -45 60 0 1 0 B
+T 0 130 -145 60 0 1 0 S
+T 0 -120 -145 60 0 1 0 G
+X B 4 200 0 200 L 40 40 1 1 P 
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 3 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SPW47N60S5
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF SPW47N60S5 Q 0 40 Y Y 1 L N
+# Gate Name: VSS1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "SPW47N60S5" -450 0 50 H V L B
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D ~ 200 100 200 L 40 40 1 1 P 
+X G ~ -200 -100 100 R 40 40 1 1 P 
+X S ~ 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SUP65P06-20
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF SUP65P06-20 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "SUP65P06-20" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SUP75N06-08
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF SUP75N06-08 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "SUP75N06-08" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 2 200 100 200 L 40 40 1 1 P 
+X G 1 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TN0602N2
+# Package Name: TO-39
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF TN0602N2 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "TN0602N2" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO-39" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TN0602N3
+# Package Name: TO-92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF TN0602N3 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "TN0602N3" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO-92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TN0604N2
+# Package Name: TO-39
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF TN0604N2 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "TN0604N2" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO-39" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TN0604N3
+# Package Name: TO-92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF TN0604N3 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "TN0604N3" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO-92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TP0602N2
+# Package Name: TO-39
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF TP0602N2 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "TP0602N2" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO-39" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TP0602N3
+# Package Name: TO-92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF TP0602N3 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "TP0602N3" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO-92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TP0604N2
+# Package Name: TO-39
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF TP0604N2 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "TP0604N2" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO-39" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TP0604N3
+# Package Name: TO-92
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF TP0604N3 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EP-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "TP0604N3" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO-92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 25 25 75 0
+P 2 1 0 0 25 -25 75 0
+P 2 1 0 0 0 0 75 0
+P 2 1 0 0 75 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VN10KM
+# Package Name: TO237
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF VN10KM Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "VN10KM" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO237" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 1 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VN66AF
+# Package Name: TO202
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF VN66AF Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "VN66AF" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO202" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VN88AF
+# Package Name: TO202
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF VN88AF Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "VN88AF" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO202" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VN0106N9
+# Package Name: TO-52
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF VN0106N9 Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "VN0106N9" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO-52" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 3 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 1 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VN2222KM
+# Package Name: TO237
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF VN2222KM Q 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IGFET-EN-GDS
+F0 "Q" -450 100 50 H V L B
+F1 "VN2222KM" -450 0 50 H V L B
+F2 "transistor-fet+irf7201-TO237" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 -48 -100
+P 2 1 0 0 0 30 0 0
+P 2 1 0 0 0 0 0 -30
+P 2 1 0 0 0 145 0 55
+P 2 1 0 0 75 25 25 0
+P 2 1 0 0 75 -25 25 0
+P 2 1 0 0 0 0 25 0
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 100 0 100 -100
+P 2 1 0 0 0 -55 0 -145
+P 2 1 0 0 -45 100 -45 -100
+X D 1 200 100 200 L 40 40 1 1 P 
+X G 2 -200 -100 100 R 40 40 1 1 P 
+X S 3 200 -100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

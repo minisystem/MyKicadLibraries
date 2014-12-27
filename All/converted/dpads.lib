@@ -1,0 +1,1404 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:17
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 70
+#
+# Dev Name: PAD-0240
+# Package Name: 0240
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0240 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0240" 0 0 50 H V L B
+F2 "dpads-0240" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0240-S
+# Package Name: 0240-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0240-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0240-S" 0 0 50 H V L B
+F2 "dpads-0240-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0280
+# Package Name: 0280
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0280 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0280" 0 0 50 H V L B
+F2 "dpads-0280" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0280-S
+# Package Name: 0280-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0280-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0280-S" 0 0 50 H V L B
+F2 "dpads-0280-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0320
+# Package Name: 0320
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0320 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0320" 0 0 50 H V L B
+F2 "dpads-0320" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0320-S
+# Package Name: 0320-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0320-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0320-S" 0 0 50 H V L B
+F2 "dpads-0320-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0360
+# Package Name: 0360
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0360 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0360" 0 0 50 H V L B
+F2 "dpads-0360" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0360-S
+# Package Name: 0360-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0360-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0360-S" 0 0 50 H V L B
+F2 "dpads-0360-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0400
+# Package Name: 0400
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0400 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0400" 0 0 50 H V L B
+F2 "dpads-0400" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0400-S
+# Package Name: 0400-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0400-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0400-S" 0 0 50 H V L B
+F2 "dpads-0400-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0420
+# Package Name: 0420
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0420 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0420" 0 0 50 H V L B
+F2 "dpads-0420" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0420-S
+# Package Name: 0420-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0420-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0420-S" 0 0 50 H V L B
+F2 "dpads-0420-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0440
+# Package Name: 0440
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0440 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0440" 0 0 50 H V L B
+F2 "dpads-0440" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0440-S
+# Package Name: 0440-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0440-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0440-S" 0 0 50 H V L B
+F2 "dpads-0440-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0460
+# Package Name: 0460
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0460 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0460" 0 0 50 H V L B
+F2 "dpads-0460" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0460-S
+# Package Name: 0460-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0460-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0460-S" 0 0 50 H V L B
+F2 "dpads-0460-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0465
+# Package Name: 0465
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0465 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0465" 0 0 50 H V L B
+F2 "dpads-0465" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0465-S
+# Package Name: 0465-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0465-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0465-S" 0 0 50 H V L B
+F2 "dpads-0465-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0500
+# Package Name: 0500
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0500 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0500" 0 0 50 H V L B
+F2 "dpads-0500" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0500-S
+# Package Name: 0500-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0500-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0500-S" 0 0 50 H V L B
+F2 "dpads-0500-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0520
+# Package Name: 0520
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0520 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0520" 0 0 50 H V L B
+F2 "dpads-0520" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0520-S
+# Package Name: 0520-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0520-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0520-S" 0 0 50 H V L B
+F2 "dpads-0520-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0550
+# Package Name: 0550
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0550 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0550" 0 0 50 H V L B
+F2 "dpads-0550" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0550-S
+# Package Name: 0550-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0550-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0550-S" 0 0 50 H V L B
+F2 "dpads-0550-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0560
+# Package Name: 0560
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0560 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0560" 0 0 50 H V L B
+F2 "dpads-0560" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0560-S
+# Package Name: 0560-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0560-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0560-S" 0 0 50 H V L B
+F2 "dpads-0560-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0595
+# Package Name: 0595
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0595 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0595" 0 0 50 H V L B
+F2 "dpads-0595" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0595-S
+# Package Name: 0595-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0595-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0595-S" 0 0 50 H V L B
+F2 "dpads-0595-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0635
+# Package Name: 0635
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0635 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0635" 0 0 50 H V L B
+F2 "dpads-0635" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0635-S
+# Package Name: 0635-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0635-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0635-S" 0 0 50 H V L B
+F2 "dpads-0635-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0660
+# Package Name: 0660
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0660 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0660" 0 0 50 H V L B
+F2 "dpads-0660" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0660-S
+# Package Name: 0660-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0660-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0660-S" 0 0 50 H V L B
+F2 "dpads-0660-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0670
+# Package Name: 0670
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0670 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0670" 0 0 50 H V L B
+F2 "dpads-0670" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0670-S
+# Package Name: 0670-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0670-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0670-S" 0 0 50 H V L B
+F2 "dpads-0670-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0730
+# Package Name: 0730
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0730 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0730" 0 0 50 H V L B
+F2 "dpads-0730" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0730-S
+# Package Name: 0730-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0730-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0730-S" 0 0 50 H V L B
+F2 "dpads-0730-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0760
+# Package Name: 0760
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0760 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0760" 0 0 50 H V L B
+F2 "dpads-0760" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0760-S
+# Package Name: 0760-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0760-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0760-S" 0 0 50 H V L B
+F2 "dpads-0760-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0820
+# Package Name: 0820
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0820 PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0820" 0 0 50 H V L B
+F2 "dpads-0820" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-0820-S
+# Package Name: 0820-S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-0820-S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-0820-S" 0 0 50 H V L B
+F2 "dpads-0820-S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P P$1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD06R
+# Package Name: SMD06R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD06R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD06R" 0 0 50 H V L B
+F2 "dpads-SMD06R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD06S
+# Package Name: SMD06S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD06S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD06S" 0 0 50 H V L B
+F2 "dpads-SMD06S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD07R
+# Package Name: SMD07R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD07R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD07R" 0 0 50 H V L B
+F2 "dpads-SMD07R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD07S
+# Package Name: SMD07S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD07S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD07S" 0 0 50 H V L B
+F2 "dpads-SMD07S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD08R
+# Package Name: SMD08R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD08R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD08R" 0 0 50 H V L B
+F2 "dpads-SMD08R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD08S
+# Package Name: SMD08S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD08S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD08S" 0 0 50 H V L B
+F2 "dpads-SMD08S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD09R
+# Package Name: SMD09R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD09R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD09R" 0 0 50 H V L B
+F2 "dpads-SMD09R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD09S
+# Package Name: SMD09S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD09S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD09S" 0 0 50 H V L B
+F2 "dpads-SMD09S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD10R
+# Package Name: SMD10R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD10R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD10R" 0 0 50 H V L B
+F2 "dpads-SMD10R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD10S
+# Package Name: SMD10S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD10S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD10S" 0 0 50 H V L B
+F2 "dpads-SMD10S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD11R
+# Package Name: SMD11R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD11R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD11R" 0 0 50 H V L B
+F2 "dpads-SMD11R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD11S
+# Package Name: SMD11S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD11S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD11S" 0 0 50 H V L B
+F2 "dpads-SMD11S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD12R
+# Package Name: SMD12R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD12R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD12R" 0 0 50 H V L B
+F2 "dpads-SMD12R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD12S
+# Package Name: SMD12S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD12S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD12S" 0 0 50 H V L B
+F2 "dpads-SMD12S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD13R
+# Package Name: SMD13R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD13R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD13R" 0 0 50 H V L B
+F2 "dpads-SMD13R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD13S
+# Package Name: SMD13S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD13S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD13S" 0 0 50 H V L B
+F2 "dpads-SMD13S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD14R
+# Package Name: SMD14R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD14R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD14R" 0 0 50 H V L B
+F2 "dpads-SMD14R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD14S
+# Package Name: SMD14S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD14S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD14S" 0 0 50 H V L B
+F2 "dpads-SMD14S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD15R
+# Package Name: SMD15R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD15R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD15R" 0 0 50 H V L B
+F2 "dpads-SMD15R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD15S
+# Package Name: SMD15S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD15S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD15S" 0 0 50 H V L B
+F2 "dpads-SMD15S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD16R
+# Package Name: SMD16R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD16R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD16R" 0 0 50 H V L B
+F2 "dpads-SMD16R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD16S
+# Package Name: SMD16S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD16S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD16S" 0 0 50 H V L B
+F2 "dpads-SMD16S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD17R
+# Package Name: SMD17R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD17R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD17R" 0 0 50 H V L B
+F2 "dpads-SMD17R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD17S
+# Package Name: SMD17S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD17S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD17S" 0 0 50 H V L B
+F2 "dpads-SMD17S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD18R
+# Package Name: SMD18R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD18R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD18R" 0 0 50 H V L B
+F2 "dpads-SMD18R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD18S
+# Package Name: SMD18S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD18S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD18S" 0 0 50 H V L B
+F2 "dpads-SMD18S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD19R
+# Package Name: SMD19R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD19R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD19R" 0 0 50 H V L B
+F2 "dpads-SMD19R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD19S
+# Package Name: SMD19S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD19S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD19S" 0 0 50 H V L B
+F2 "dpads-SMD19S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD20R
+# Package Name: SMD20R
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD20R PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD20R" 0 0 50 H V L B
+F2 "dpads-SMD20R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAD-SMD20S
+# Package Name: SMD20S
+# Dev Tech: ''
+# Dev Prefix: PAD
+# Gate count = 1
+#
+DEF PAD-SMD20S PAD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PAD
+F0 "PAD" 75 -37 50 H V L B
+F1 "PAD-SMD20S" 0 0 50 H V L B
+F2 "dpads-SMD20S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -40 40 40 -40
+P 2 1 0 0 -40 -40 40 40
+X P PAD -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

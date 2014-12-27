@@ -1,0 +1,832 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:25
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 32
+#
+# Dev Name: CAPACITOR_0402
+# Package Name: CAPC1005X60N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_0402 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_0402" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC1005X60N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_0508
+# Package Name: CAPC1220X107N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_0508 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_0508" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC1220X107N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_0603
+# Package Name: CAPC1608X92N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_0603 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_0603" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC1608X92N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_0612
+# Package Name: CAPC1632X168N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_0612 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_0612" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC1632X168N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_0805
+# Package Name: CAPC2012X145AN
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_0805 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_0805" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC2012X145AN" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_1206
+# Package Name: CAPC3215X168N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_1206 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_1206" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC3215X168N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_1210
+# Package Name: CAPC3225X168N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_1210 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_1210" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC3225X168N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_1808
+# Package Name: CAPC4520X168N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_1808 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_1808" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC4520X168N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_1812
+# Package Name: CAPC4532X218N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_1812 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_1812" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC4532X218N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_1825
+# Package Name: CAPC4564X218N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_1825 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_1825" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC4564X218N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_2220
+# Package Name: CAPC5651X218N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_2220 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_2220" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC5651X218N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_2225
+# Package Name: CAPC5664X218N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_2225 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_2225" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC5664X218N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CAPACITOR_3640
+# Package Name: CAPC9198X218N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAPACITOR_3640 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CAPACITOR
+F0 "C" -100 100 50 H V L B
+F1 "CAPACITOR_3640" -100 -170 50 H V L B
+F2 "ipc-7351-capacitor-CAPC9198X218N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 100 0 30 0
+S -60 -10 100 10 1 1 0 F
+S -100 -10 60 10 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_A_CASE
+# Package Name: CAPMP3216X180N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_A_CASE C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_A_CASE" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPMP3216X180N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_B_CASE
+# Package Name: CAPMP3528X210N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_B_CASE C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_B_CASE" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPMP3528X210N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_CASE_A
+# Package Name: CAPAE330X540N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_CASE_A C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_CASE_A" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPAE330X540N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_CASE_B
+# Package Name: CAPAE430X540N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_CASE_B C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_CASE_B" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPAE430X540N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_CASE_C
+# Package Name: CAPAE530X540N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_CASE_C C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_CASE_C" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPAE530X540N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_CASE_D
+# Package Name: CAPAE660X540N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_CASE_D C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_CASE_D" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPAE660X540N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_CASE_E
+# Package Name: CAPAE830X620N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_CASE_E C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_CASE_E" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPAE830X620N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_CASE_F
+# Package Name: CAPAE830X1020N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_CASE_F C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_CASE_F" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPAE830X1020N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_CASE_G
+# Package Name: CAPAE1030X1020N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_CASE_G C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_CASE_G" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPAE1030X1020N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_CASE_H
+# Package Name: CAPAE1350X1350N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_CASE_H C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_CASE_H" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPAE1350X1350N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_C_CASE
+# Package Name: CAPMP6032X280N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_C_CASE C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_C_CASE" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPMP6032X280N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_D_CASE
+# Package Name: CAPMP7343X310N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_D_CASE C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_D_CASE" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPMP7343X310N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_E_CASE
+# Package Name: CAPMP7360X380N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_E_CASE C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_E_CASE" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPMP7360X380N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_R_CASE
+# Package Name: CAPMP2013X120N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_R_CASE C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_R_CASE" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPMP2013X120N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_S_CASE
+# Package Name: CAPMP3216X120N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_S_CASE C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_S_CASE" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPMP3216X120N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_T_CASE
+# Package Name: CAPMP3528X120N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_T_CASE C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_T_CASE" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPMP3528X120N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_U_CASE
+# Package Name: CAPMP6032X150N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_U_CASE C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_U_CASE" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPMP6032X150N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: POLARISED_X_CASE
+# Package Name: CAPMP7343X430N
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF POLARISED_X_CASE C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: POLARISED
+F0 "C" -100 80 50 H V L B
+F1 "POLARISED_X_CASE" -100 -150 50 H V L B
+F2 "ipc-7351-capacitor-CAPMP7343X430N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 15 60 15 -60
+P 2 1 0 0 15 -60 50 -60
+P 2 1 0 0 50 60 15 60
+P 2 1 0 0 50 60 50 0
+P 2 1 0 0 50 0 50 -60
+P 2 1 0 0 -100 0 -50 0
+P 2 1 0 0 100 0 50 0
+S -97 -17 32 17 1 1 0 F
+T 0 91 48 50 0 1 0 +
+X + + 200 0 100 L 40 40 1 1 P 
+X - - -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VARIABLE_
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF VARIABLE_ ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: VARIABLE
+DRAW
+P 2 1 0 0 100 0 30 0
+P 2 1 0 0 -100 0 -30 0
+P 2 1 0 0 -70 -60 80 90
+P 2 1 0 0 50 120 80 90
+P 2 1 0 0 80 90 110 60
+P 2 1 0 0 -80 120 10 120
+P 2 1 0 0 10 120 -20 130
+P 2 1 0 0 10 120 -20 110
+S -100 -10 60 10 1 1 0 F
+S -60 -10 100 10 1 1 0 F
+X A ~ -200 0 100 R 40 40 1 1 P 
+X E ~ 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

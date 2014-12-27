@@ -1,0 +1,2415 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:57
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 75
+#
+# Dev Name: MC3FAH-0
+# Package Name: NC3FAH1-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FAH-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FAH-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAH1-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FAH1
+# Package Name: NC3FAH1
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FAH1 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FAH1" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAH1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FAHL1
+# Package Name: NC3FAHL1
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FAHL1 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FAHL1" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAHL1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FAHL1-0
+# Package Name: NC3FAHL1-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FAHL1-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FAHL1-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAHL1-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FAHR1
+# Package Name: NC3FAHR1
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FAHR1 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FAHR1" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAHR1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1-G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FAHR1-0
+# Package Name: NC3FAHR1-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FAHR1-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FAHR1-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAHR1-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1-G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FAV1
+# Package Name: NC3FAV1
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FAV1 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FAV1" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAV1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FAV1-0
+# Package Name: NC3FAV1-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FAV1-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FAV1-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAV1-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FBH1
+# Package Name: NC3FBH1
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FBH1 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FBH1" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBH1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FBH1-B
+# Package Name: NC3FBH1-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FBH1-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FBH1-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBH1-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FBHL1
+# Package Name: NC3FBHL1
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FBHL1 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FBHL1" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBHL1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FBHL1-B
+# Package Name: NC3FBHL1-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FBHL1-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FBHL1-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBHL1-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FBHR1
+# Package Name: NC3FBHR1
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FBHR1 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FBHR1" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBHR1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FBHR1-B
+# Package Name: NC3FBHR1-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FBHR1-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FBHR1-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBHR1-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3FBV1-B
+# Package Name: NC3FBV1-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF MC3FBV1-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3
+F0 "X" -200 200 50 H V L B
+F1 "MC3FBV1-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBV1-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -170 170 -130 140
+P 2 1 0 0 -170 170 -200 170
+P 2 1 0 0 -200 170 -200 100
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+C -200 100 14 1 1 0 N
+X 1 1+G -400 100 200 R 40 40 1 1 P 
+X 2 2 -400 -100 200 R 40 40 1 1 P 
+X 3 3 -400 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FAH2
+# Package Name: NC3FAH2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FAH2 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FAH2" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAH2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 2 -300 100 100 R 40 40 1 1 P 
+X 2 1 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FAH2-0
+# Package Name: NC3FAH2-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FAH2-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FAH2-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAH2-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FAHR2
+# Package Name: NC3FAHR2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FAHR2 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FAHR2" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAHR2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FAHR2-0
+# Package Name: NC3FAHR2-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FAHR2-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FAHR2-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAHR2-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FAV2
+# Package Name: NC3FAV2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FAV2 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FAV2" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAV2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FAV2-0
+# Package Name: NC3FAV2-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FAV2-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FAV2-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FAV2-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FBH2
+# Package Name: NC3FBH2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FBH2 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FBH2" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBH2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FBH2-B
+# Package Name: NC3FBH2-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FBH2-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FBH2-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBH2-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FBHR2
+# Package Name: NC3FBHR2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FBHR2 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FBHR2" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBHR2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FBHR2-B
+# Package Name: NC3FBHR2-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FBHR2-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FBHR2-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBHR2-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FBV1
+# Package Name: NC3FBV1
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FBV1 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FBV1" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBV1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FBV2
+# Package Name: NC3FBV2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FBV2 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FBV2" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBV2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FBV2-B
+# Package Name: NC3FBV2-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FBV2-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FBV2-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FBV2-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FD-H
+# Package Name: NC3FD-H
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FD-H X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FD-H" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FD-H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FD-H-B
+# Package Name: NC3FD-H-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FD-H-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FD-H-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FD-H-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 2 -300 100 100 R 40 40 1 1 P 
+X 2 1 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FD-H-BAG
+# Package Name: NC3FD-H-BAG
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FD-H-BAG X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FD-H-BAG" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FD-H-BAG" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 2 -300 100 100 R 40 40 1 1 P 
+X 2 1 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FD-V
+# Package Name: NC3FD-V
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FD-V X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FD-V" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FD-V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 2 -300 100 100 R 40 40 1 1 P 
+X 2 1 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FD-V-B
+# Package Name: NC3FD-V-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FD-V-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FD-V-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FD-V-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 2 -300 100 100 R 40 40 1 1 P 
+X 2 1 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3FD-V-BAG
+# Package Name: NC3FD-V-BAG
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3FD-V-BAG X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3FD-V-BAG" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3FD-V-BAG" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 2 -300 100 100 R 40 40 1 1 P 
+X 2 1 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MAV
+# Package Name: NC3MAV
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MAV X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MAV" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MAV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MBH
+# Package Name: NC3MBH
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MBH X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MBH" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MBH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MBH-B
+# Package Name: NC3MBH-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MBH-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MBH-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MBH-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MBHL
+# Package Name: NC3MBHL
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MBHL X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MBHL" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MBHL" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MBHL-B
+# Package Name: NC3MBHL-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MBHL-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MBHL-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MBHL-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MBHR
+# Package Name: NC3MBHR
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MBHR X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MBHR" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MBHR" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MBHR-B
+# Package Name: NC3MBHR-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MBHR-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MBHR-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MBHR-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MBV
+# Package Name: NC3MBV
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MBV X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MBV" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MBV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MBV-B
+# Package Name: NC3MBV-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MBV-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MBV-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MBV-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MD-H
+# Package Name: NC3MD-H
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MD-H X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MD-H" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MD-H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MD-H-B
+# Package Name: NC3MD-H-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MD-H-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MD-H-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MD-H-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 2 -300 100 100 R 40 40 1 1 P 
+X 2 1 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MD-V
+# Package Name: NC3MD-V
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MD-V X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MD-V" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MD-V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 2 -300 100 100 R 40 40 1 1 P 
+X 2 1 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MD-V-B
+# Package Name: NC3MD-V-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MD-V-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MD-V-B" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MD-V-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 2 -300 100 100 R 40 40 1 1 P 
+X 2 1 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3MD-V-BAG
+# Package Name: NC3MD-V-BAG
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC3MD-V-BAG X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC3-G
+F0 "X" -200 200 50 H V L B
+F1 "NC3MD-V-BAG" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC3MD-V-BAG" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -130 -140
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 2 -300 100 100 R 40 40 1 1 P 
+X 2 1 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4FAH
+# Package Name: NC4FAH
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4FAH X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4FAH" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4FAH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4FAH-0
+# Package Name: NC4FAH-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4FAH-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4FAH-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4FAH-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4FAV
+# Package Name: NC4FAV
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4FAV X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4FAV" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4FAV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4FAV-0
+# Package Name: NC4FAV-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4FAV-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4FAV-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4FAV-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4FBH
+# Package Name: NC4FBH
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4FBH X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4FBH" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4FBH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4FBH-0
+# Package Name: NC4FBH-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4FBH-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4FBH-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4FBH-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4FBV
+# Package Name: NC4FBV
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4FBV X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4FBV" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4FBV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4FBV-0
+# Package Name: NC4FBV-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4FBV-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4FBV-0" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4FBV-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4MAH
+# Package Name: NC4MAH
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4MAH X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4MAH" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4MAH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4MAV
+# Package Name: NC4MAV
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4MAV X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4MAV" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4MAV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4MBH
+# Package Name: NC4MBH
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4MBH X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4MBH" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4MBH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC4MBV
+# Package Name: NC4MBV
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC4MBV X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC4-G
+F0 "X" -200 300 50 H V L B
+F1 "NC4MBV" -200 -300 50 H V L B
+F2 "con-neutrik_ag-NC4MBV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 200 -10 150
+P 2 1 0 0 -200 -100 -10 -50
+P 2 1 0 0 -200 0 -130 0
+P 2 1 0 0 -200 -200 -100 -140
+P 2 1 0 0 -200 100 -130 100
+C 10 50 220 1 1 0 N
+C -100 0 30 1 1 0 N
+C 20 150 30 1 1 0 N
+C 20 -50 30 1 1 0 N
+C -100 100 30 1 1 0 N
+X 1 1 -300 200 100 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5FAH
+# Package Name: NC5FAH
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5FAH X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5FAH" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5FAH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5FAV
+# Package Name: NC5FAV
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5FAV X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5FAV" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5FAV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5FBH
+# Package Name: NC5FBH
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5FBH X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5FBH" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5FBH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5FBH-B
+# Package Name: NC5FBH-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5FBH-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5FBH-B" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5FBH-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5FBV
+# Package Name: NC5FBV
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5FBV X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5FBV" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5FBV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5FGV-B
+# Package Name: NC5FBV-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5FGV-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5FGV-B" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5FBV-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5MAH
+# Package Name: NC5MAH
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5MAH X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5MAH" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5MAH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5MAV
+# Package Name: NC5MAV
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5MAV X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5MAV" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5MAV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5MBH
+# Package Name: NC5MBH
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5MBH X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5MBH" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5MBH" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5MBN-B
+# Package Name: NC5MBH-B
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5MBN-B X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5MBN-B" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5MBH-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC5MBV
+# Package Name: NC5MBV
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NC5MBV X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC5-G
+F0 "X" -200 300 50 H V L B
+F1 "NC5MBV" -200 -400 50 H V L B
+F2 "con-neutrik_ag-NC5MBV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 80 200
+P 2 1 0 0 -200 -100 -50 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -100 -300 -20 -240
+P 2 1 0 0 -200 100 -60 100
+P 2 1 0 0 -100 -200 90 -200
+C 80 0 260 1 1 0 N
+C -80 0 30 1 1 0 N
+C 110 200 30 1 1 0 N
+C -20 -100 30 1 1 0 N
+C -30 100 30 1 1 0 N
+C 120 -200 30 1 1 0 N
+X 1 1 -300 200 200 R 40 40 1 1 P 
+X 2 2 -300 100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X 4 4 -300 -100 100 R 40 40 1 1 P 
+X 5 5 -300 -200 200 R 40 40 1 1 P 
+X G G -300 -300 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NCJ6FI-HNCJ6FI-H
+# Package Name: NCJ6FI-H
+# Dev Tech: ''
+# Dev Prefix: XLR
+# Gate count = 1
+#
+DEF NCJ6FI-HNCJ6FI-H XLR 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: XLRTEST
+F0 "XLR" -100 600 50 H V L B
+F1 "NCJ6FI-HNCJ6FI-H" -100 -700 50 H V L B
+F2 "con-neutrik_ag-NCJ6FI-H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -200 50 -200
+P 2 1 0 0 50 -200 130 35
+P 2 1 0 0 130 35 160 -35
+P 2 1 0 0 -100 500 140 500
+P 2 1 0 0 -100 300 140 300
+P 2 1 0 0 -100 400 -10 400
+P 2 1 0 0 -100 200 -40 260
+P 2 1 0 0 -100 -400 75 -400
+P 2 1 0 0 75 -400 240 35
+P 2 1 0 0 240 35 270 -35
+P 2 1 0 0 -100 -600 100 -600
+P 2 1 0 0 100 -600 350 35
+P 2 1 0 0 350 35 380 -35
+P 2 1 0 0 100 200 100 60
+P 2 1 0 0 100 60 340 60
+C 100 400 190 1 1 0 N
+C 20 400 30 1 1 0 N
+C 170 500 30 1 1 0 N
+C 170 300 30 1 1 0 N
+X 1 1 -200 500 100 R 40 40 1 1 P 
+X 2 2 -200 300 100 R 40 40 1 1 P 
+X 3 3 -200 400 100 R 40 40 1 1 P 
+X G G -200 200 100 R 40 40 1 1 P 
+X R R -200 -400 100 R 40 40 1 1 P 
+X S S -200 -600 100 R 40 40 1 1 P 
+X T T -200 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NCJ6FI-HNCJ6FI-H-O
+# Package Name: NCJ6FI-H-O
+# Dev Tech: ''
+# Dev Prefix: XLR
+# Gate count = 1
+#
+DEF NCJ6FI-HNCJ6FI-H-O XLR 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: XLRTEST
+F0 "XLR" -100 600 50 H V L B
+F1 "NCJ6FI-HNCJ6FI-H-O" -100 -700 50 H V L B
+F2 "con-neutrik_ag-NCJ6FI-H-O" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -200 50 -200
+P 2 1 0 0 50 -200 130 35
+P 2 1 0 0 130 35 160 -35
+P 2 1 0 0 -100 500 140 500
+P 2 1 0 0 -100 300 140 300
+P 2 1 0 0 -100 400 -10 400
+P 2 1 0 0 -100 200 -40 260
+P 2 1 0 0 -100 -400 75 -400
+P 2 1 0 0 75 -400 240 35
+P 2 1 0 0 240 35 270 -35
+P 2 1 0 0 -100 -600 100 -600
+P 2 1 0 0 100 -600 350 35
+P 2 1 0 0 350 35 380 -35
+P 2 1 0 0 100 200 100 60
+P 2 1 0 0 100 60 340 60
+C 100 400 190 1 1 0 N
+C 20 400 30 1 1 0 N
+C 170 500 30 1 1 0 N
+C 170 300 30 1 1 0 N
+X 1 1 -200 500 100 R 40 40 1 1 P 
+X 2 2 -200 300 100 R 40 40 1 1 P 
+X 3 3 -200 400 100 R 40 40 1 1 P 
+X G G -200 200 100 R 40 40 1 1 P 
+X R R -200 -400 100 R 40 40 1 1 P 
+X S S -200 -600 100 R 40 40 1 1 P 
+X T T -200 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NCJ10FI-H
+# Package Name: NCJ10FI-H
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NCJ10FI-H X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NCJ10FI-H
+F0 "X" -200 200 50 H V L B
+F1 "NCJ10FI-H" -200 -1100 50 H V L B
+F2 "con-neutrik_ag-NCJ10FI-H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 -600 -50 -600
+P 2 1 0 0 -50 -600 30 -365
+P 2 1 0 0 30 -365 60 -435
+P 2 1 0 0 -200 -500 -130 -500
+P 2 1 0 0 -130 -500 -130 -595
+P 2 1 0 0 -130 -595 -120 -560
+P 2 1 0 0 -120 -560 -140 -560
+P 2 1 0 0 -140 -560 -130 -595
+P 2 1 0 0 -135 -565 -135 -575
+P 2 1 0 0 -125 -565 -125 -575
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -140 -140
+P 2 1 0 0 -200 -800 -25 -800
+P 2 1 0 0 -25 -800 140 -365
+P 2 1 0 0 140 -365 170 -435
+P 2 1 0 0 -200 -700 -130 -700
+P 2 1 0 0 -130 -700 -130 -795
+P 2 1 0 0 -130 -795 -120 -760
+P 2 1 0 0 -120 -760 -140 -760
+P 2 1 0 0 -140 -760 -130 -795
+P 2 1 0 0 -135 -765 -135 -775
+P 2 1 0 0 -125 -765 -125 -775
+P 2 1 0 0 -200 -1000 0 -1000
+P 2 1 0 0 0 -1000 250 -365
+P 2 1 0 0 250 -365 280 -435
+P 2 1 0 0 -200 -900 -130 -900
+P 2 1 0 0 -130 -900 -130 -995
+P 2 1 0 0 -130 -995 -120 -960
+P 2 1 0 0 -120 -960 -140 -960
+P 2 1 0 0 -140 -960 -130 -995
+P 2 1 0 0 -135 -965 -135 -975
+P 2 1 0 0 -125 -965 -125 -975
+P 2 1 0 0 0 -200 0 -340
+P 2 1 0 0 0 -340 240 -340
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+X R R -300 -800 100 R 40 40 1 1 P 
+X RS RS -300 -700 100 R 40 40 1 1 P 
+X S S -300 -1000 100 R 40 40 1 1 P 
+X SS SS -300 -900 100 R 40 40 1 1 P 
+X T T -300 -600 100 R 40 40 1 1 P 
+X TS TS -300 -500 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NCJ10FI-H-0
+# Package Name: NCJ10FI-H-0
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+#
+DEF NCJ10FI-H-0 X 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NCJ10FI-H
+F0 "X" -200 200 50 H V L B
+F1 "NCJ10FI-H-0" -200 -1100 50 H V L B
+F2 "con-neutrik_ag-NCJ10FI-H-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 -600 -50 -600
+P 2 1 0 0 -50 -600 30 -365
+P 2 1 0 0 30 -365 60 -435
+P 2 1 0 0 -200 -500 -130 -500
+P 2 1 0 0 -130 -500 -130 -595
+P 2 1 0 0 -130 -595 -120 -560
+P 2 1 0 0 -120 -560 -140 -560
+P 2 1 0 0 -140 -560 -130 -595
+P 2 1 0 0 -135 -565 -135 -575
+P 2 1 0 0 -125 -565 -125 -575
+P 2 1 0 0 -200 100 40 100
+P 2 1 0 0 -200 -100 40 -100
+P 2 1 0 0 -200 0 -110 0
+P 2 1 0 0 -200 -200 -140 -140
+P 2 1 0 0 -200 -800 -25 -800
+P 2 1 0 0 -25 -800 140 -365
+P 2 1 0 0 140 -365 170 -435
+P 2 1 0 0 -200 -700 -130 -700
+P 2 1 0 0 -130 -700 -130 -795
+P 2 1 0 0 -130 -795 -120 -760
+P 2 1 0 0 -120 -760 -140 -760
+P 2 1 0 0 -140 -760 -130 -795
+P 2 1 0 0 -135 -765 -135 -775
+P 2 1 0 0 -125 -765 -125 -775
+P 2 1 0 0 -200 -1000 0 -1000
+P 2 1 0 0 0 -1000 250 -365
+P 2 1 0 0 250 -365 280 -435
+P 2 1 0 0 -200 -900 -130 -900
+P 2 1 0 0 -130 -900 -130 -995
+P 2 1 0 0 -130 -995 -120 -960
+P 2 1 0 0 -120 -960 -140 -960
+P 2 1 0 0 -140 -960 -130 -995
+P 2 1 0 0 -135 -965 -135 -975
+P 2 1 0 0 -125 -965 -125 -975
+P 2 1 0 0 0 -200 0 -340
+P 2 1 0 0 0 -340 240 -340
+C 0 0 190 1 1 0 N
+C -80 0 30 1 1 0 N
+C 70 100 30 1 1 0 N
+C 70 -100 30 1 1 0 N
+X 1 1 -300 100 100 R 40 40 1 1 P 
+X 2 2 -300 -100 100 R 40 40 1 1 P 
+X 3 3 -300 0 100 R 40 40 1 1 P 
+X G G -300 -200 100 R 40 40 1 1 P 
+X R R -300 -800 100 R 40 40 1 1 P 
+X RS RS -300 -700 100 R 40 40 1 1 P 
+X S S -300 -1000 100 R 40 40 1 1 P 
+X SS SS -300 -900 100 R 40 40 1 1 P 
+X T T -300 -600 100 R 40 40 1 1 P 
+X TS TS -300 -500 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

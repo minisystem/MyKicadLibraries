@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:08
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: MMA7260/MMA7261
+# Package Name: QFN16-HS
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF MMA7260/MMA7261 IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: MMA7260/MMA7261
+F0 "IC" -500 500 50 H V L B
+F1 "MMA7260/MMA7261" -500 -500 50 H V L B
+F2 "mma7260_7261-QFN16-HS" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -500 400 -500 -400
+P 2 1 0 0 -500 -400 300 -400
+P 2 1 0 0 300 -400 300 400
+P 2 1 0 0 300 400 -500 400
+X /SLEEP 12 -700 0 200 R 40 40 1 1 I I
+X GND 4 -700 -300 200 R 40 40 1 1 W 
+X G_SEL1 1 -700 300 200 R 40 40 1 1 I 
+X G_SEL2 2 -700 200 200 R 40 40 1 1 I 
+X VDD 3 -700 -200 200 R 40 40 1 1 W 
+X X 15 500 200 200 L 40 40 1 1 P 
+X Y 14 500 0 200 L 40 40 1 1 P 
+X Z 13 500 -200 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

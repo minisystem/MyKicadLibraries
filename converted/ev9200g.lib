@@ -1,0 +1,14 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:19
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: V1-01-0399
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 0
+#
+DEF V1-01-0399 ?? 0 40 Y Y 0 L N
+ENDDRAW
+ENDDEF
+
+#End Library

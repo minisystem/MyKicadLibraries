@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:35
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: CMPWR025M
+# Package Name: MSOP8
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF CMPWR025M ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CMPWR025
+DRAW
+P 2 1 0 0 -500 600 -500 -700
+P 2 1 0 0 -500 600 500 600
+P 2 1 0 0 500 600 500 -700
+P 2 1 0 0 500 -700 -500 -700
+X GND 5 700 -500 200 L 40 40 1 1 B 
+X HYS 8 700 400 200 L 40 40 1 1 B 
+X VCC1A 1 -700 400 200 R 40 40 1 1 B 
+X VCC1B 2 -700 100 200 R 40 40 1 1 B 
+X VCC2A 3 -700 -200 200 R 40 40 1 1 B 
+X VCC2B 4 -700 -500 200 R 40 40 1 1 B 
+X VOUTA 6 700 100 200 L 40 40 1 1 B 
+X VOUTB 7 700 -200 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:35
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: TM_POS_HV
+# Package Name: TM_SERIES
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TM_POS_HV ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TM_SERIES
+DRAW
+P 2 1 0 0 -500 400 500 400
+P 2 1 0 0 500 400 500 -400
+P 2 1 0 0 500 -400 -500 -400
+P 2 1 0 0 -500 -400 -500 400
+X GND 2 -700 100 200 R 40 40 1 1 B 
+X HV+ 5 700 300 200 L 40 40 1 1 B 
+X HVGND 6 700 -300 200 L 40 40 1 1 B 
+X VCONTROL 3 -700 -100 200 R 40 40 1 1 B 
+X VIN 1 -700 300 200 R 40 40 1 1 B 
+X VR 4 -700 -300 200 R 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

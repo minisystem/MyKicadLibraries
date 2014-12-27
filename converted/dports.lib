@@ -1,0 +1,1370 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:17
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 75
+#
+# Dev Name: APORT_IN
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF APORT_IN ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: APORT_IN
+DRAW
+P 2 1 0 0 50 -37 12 0
+P 2 1 0 0 12 0 50 37
+P 2 1 0 0 0 -37 -37 0
+P 2 1 0 0 -37 0 0 37
+P 2 1 0 0 -62 0 -100 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: APORT_OUT
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF APORT_OUT ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: APORT_OUT
+DRAW
+P 2 1 0 0 -37 37 0 0
+P 2 1 0 0 0 0 -37 -37
+P 2 1 0 0 12 37 50 0
+P 2 1 0 0 50 0 12 -37
+P 2 1 0 0 -100 0 -37 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ARROW
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ARROW ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ARROW
+DRAW
+P 2 1 0 0 0 0 50 25
+P 2 1 0 0 0 0 50 -25
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ARROW-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ARROW-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ARROW-B
+DRAW
+P 2 1 0 0 0 0 50 25
+P 2 1 0 0 0 0 50 -25
+P 2 1 0 0 150 0 100 -25
+P 2 1 0 0 150 0 100 25
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ARROW1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ARROW1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ARROW1
+DRAW
+P 2 1 0 0 -25 0 25 25
+P 2 1 0 0 -25 0 25 -25
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ARROW1-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ARROW1-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ARROW1-B
+DRAW
+P 2 1 0 0 -25 0 25 25
+P 2 1 0 0 -25 0 25 -25
+P 2 1 0 0 125 0 75 -25
+P 2 1 0 0 125 0 75 25
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ARROW2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ARROW2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ARROW2
+DRAW
+P 2 1 0 0 0 0 100 50
+P 2 1 0 0 0 0 100 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ARROW2-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ARROW2-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ARROW2-B
+DRAW
+P 2 1 0 0 0 0 100 50
+P 2 1 0 0 0 0 100 -50
+P 2 1 0 0 300 0 200 -50
+P 2 1 0 0 300 0 200 50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ARROW3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ARROW3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ARROW3
+DRAW
+P 2 1 0 0 0 0 175 100
+P 2 1 0 0 0 0 175 -100
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ARROW3-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF ARROW3-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ARROW3-B
+DRAW
+P 2 1 0 0 0 0 175 100
+P 2 1 0 0 0 0 175 -100
+P 2 1 0 0 500 0 325 -100
+P 2 1 0 0 500 0 325 100
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPORT
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF CPORT ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CPORT
+DRAW
+P 2 1 0 0 -50 -50 75 -50
+P 2 1 0 0 75 -50 75 50
+P 2 1 0 0 75 50 -50 50
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 -100 0 -50 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT2
+DRAW
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -100 50
+P 2 1 0 0 -100 50 -100 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT3
+DRAW
+P 2 1 0 0 -200 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -200 50
+P 2 1 0 0 -200 50 -200 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT3-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT3-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT3-B
+DRAW
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -100 50
+P 2 1 0 0 -200 0 -100 50
+P 2 1 0 0 -200 0 -100 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT4 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT4
+DRAW
+P 2 1 0 0 -300 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -300 50
+P 2 1 0 0 -300 50 -300 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT4-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT4-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT4-B
+DRAW
+P 2 1 0 0 -200 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -200 50
+P 2 1 0 0 -300 0 -200 -50
+P 2 1 0 0 -300 0 -200 50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT5 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT5
+DRAW
+P 2 1 0 0 -400 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -400 50
+P 2 1 0 0 -400 50 -400 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT5-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT5-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT5-B
+DRAW
+P 2 1 0 0 -400 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -400 50
+P 2 1 0 0 -500 0 -400 -50
+P 2 1 0 0 -400 50 -500 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT6
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT6 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT6
+DRAW
+P 2 1 0 0 -500 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -500 50
+P 2 1 0 0 -500 50 -500 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT6-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT6-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT6-B
+DRAW
+P 2 1 0 0 -400 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -400 50
+P 2 1 0 0 -500 0 -400 -50
+P 2 1 0 0 -500 0 -400 50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT7
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT7 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT7
+DRAW
+P 2 1 0 0 -600 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -600 50
+P 2 1 0 0 -600 50 -600 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT7-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT7-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT7-B
+DRAW
+P 2 1 0 0 -500 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -500 50
+P 2 1 0 0 -500 -50 -600 0
+P 2 1 0 0 -500 50 -600 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT8
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT8 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT8
+DRAW
+P 2 1 0 0 -700 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -700 50
+P 2 1 0 0 -700 50 -700 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT8-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT8-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT8-B
+DRAW
+P 2 1 0 0 -600 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -600 50
+P 2 1 0 0 -700 0 -600 -50
+P 2 1 0 0 -700 0 -600 50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT9
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT9 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT9
+DRAW
+P 2 1 0 0 -800 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -800 50
+P 2 1 0 0 -800 50 -800 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT9-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT9-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT9-B
+DRAW
+P 2 1 0 0 -700 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -700 50
+P 2 1 0 0 -800 0 -700 50
+P 2 1 0 0 -800 0 -700 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT10
+DRAW
+P 2 1 0 0 -900 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -900 50
+P 2 1 0 0 -900 50 -900 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT10-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT10-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT10-B
+DRAW
+P 2 1 0 0 -800 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -800 50
+P 2 1 0 0 -900 0 -800 -50
+P 2 1 0 0 -800 50 -900 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT11
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT11
+DRAW
+P 2 1 0 0 -1000 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -1000 50
+P 2 1 0 0 -1000 50 -1000 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT11-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT11-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT11-B
+DRAW
+P 2 1 0 0 -900 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -900 50
+P 2 1 0 0 -1000 0 -900 -50
+P 2 1 0 0 -1000 0 -900 50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT12
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT12 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT12
+DRAW
+P 2 1 0 0 -1100 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -1100 50
+P 2 1 0 0 -1100 50 -1100 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT12-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT12-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT12-B
+DRAW
+P 2 1 0 0 -1000 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -1000 50
+P 2 1 0 0 -1100 0 -1000 -50
+P 2 1 0 0 -1000 50 -1100 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT13
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT13 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT13
+DRAW
+P 2 1 0 0 -1200 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -1200 50
+P 2 1 0 0 -1200 50 -1200 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT13-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT13-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT13-B
+DRAW
+P 2 1 0 0 -1100 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -1100 50
+P 2 1 0 0 -1200 0 -1100 50
+P 2 1 0 0 -1200 0 -1100 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT14
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT14 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT14
+DRAW
+P 2 1 0 0 -1300 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -1300 50
+P 2 1 0 0 -1300 50 -1300 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT14-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT14-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT14-B
+DRAW
+P 2 1 0 0 -1200 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -1200 50
+P 2 1 0 0 -1200 50 -1300 0
+P 2 1 0 0 -1200 -50 -1300 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT15
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT15 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT15
+DRAW
+P 2 1 0 0 -1400 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -1400 50
+P 2 1 0 0 -1400 50 -1400 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DPORT15-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DPORT15-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DPORT15-B
+DRAW
+P 2 1 0 0 -1300 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -1300 50
+P 2 1 0 0 -1300 50 -1400 0
+P 2 1 0 0 -1300 -50 -1400 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NC ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC_SYM
+DRAW
+P 2 1 0 0 -37 37 0 0
+P 2 1 0 0 0 0 37 -37
+P 2 1 0 0 -37 -37 0 0
+P 2 1 0 0 0 0 37 37
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NC1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC_SYM1
+DRAW
+P 2 1 0 0 -37 37 0 0
+P 2 1 0 0 0 0 37 -37
+P 2 1 0 0 -37 -37 0 0
+P 2 1 0 0 0 0 37 37
+P 2 1 0 0 100 0 0 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NC2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC_SYM2
+DRAW
+P 2 1 0 0 -37 37 0 0
+P 2 1 0 0 0 0 37 -37
+P 2 1 0 0 -37 -37 0 0
+P 2 1 0 0 0 0 37 37
+P 2 1 0 0 200 0 0 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NC3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NC3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NC_SYM3
+DRAW
+P 2 1 0 0 -37 37 0 0
+P 2 1 0 0 0 0 37 -37
+P 2 1 0 0 -37 -37 0 0
+P 2 1 0 0 0 0 37 37
+P 2 1 0 0 300 0 0 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT2
+DRAW
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 100 0 0 -50
+P 2 1 0 0 100 0 0 50
+P 2 1 0 0 0 50 -100 50
+P 2 1 0 0 -100 50 -100 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT3
+DRAW
+P 2 1 0 0 -100 -50 100 -50
+P 2 1 0 0 200 0 100 -50
+P 2 1 0 0 200 0 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 -100 50 -100 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT5 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT5
+DRAW
+P 2 1 0 0 -200 -50 100 -50
+P 2 1 0 0 200 0 100 -50
+P 2 1 0 0 200 0 100 50
+P 2 1 0 0 100 50 -200 50
+P 2 1 0 0 -200 50 -200 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT5-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT5-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT5-B
+DRAW
+P 2 1 0 0 -200 -50 100 -50
+P 2 1 0 0 200 0 100 -50
+P 2 1 0 0 200 0 100 50
+P 2 1 0 0 100 50 -200 50
+P 2 1 0 0 -300 0 -200 -50
+P 2 1 0 0 -200 50 -300 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT7
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT7 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT7
+DRAW
+P 2 1 0 0 -200 -50 200 -50
+P 2 1 0 0 300 0 200 -50
+P 2 1 0 0 300 0 200 50
+P 2 1 0 0 200 50 -200 50
+P 2 1 0 0 -200 50 -200 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT7-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT7-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT7-B
+DRAW
+P 2 1 0 0 -100 -50 200 -50
+P 2 1 0 0 300 0 200 -50
+P 2 1 0 0 300 0 200 50
+P 2 1 0 0 200 50 -100 50
+P 2 1 0 0 -100 -50 -200 0
+P 2 1 0 0 -100 50 -200 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT10
+DRAW
+P 2 1 0 0 -300 -50 200 -50
+P 2 1 0 0 300 0 200 -50
+P 2 1 0 0 300 0 200 50
+P 2 1 0 0 200 50 -300 50
+P 2 1 0 0 -300 50 -300 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT10-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT10-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT10-B
+DRAW
+P 2 1 0 0 -200 -50 200 -50
+P 2 1 0 0 300 0 200 -50
+P 2 1 0 0 300 0 200 50
+P 2 1 0 0 200 50 -200 50
+P 2 1 0 0 -300 0 -200 -50
+P 2 1 0 0 -200 50 -300 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT12
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT12 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT12
+DRAW
+P 2 1 0 0 -300 -50 300 -50
+P 2 1 0 0 400 0 300 -50
+P 2 1 0 0 400 0 300 50
+P 2 1 0 0 300 50 -300 50
+P 2 1 0 0 -300 50 -300 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT12-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT12-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT12-B
+DRAW
+P 2 1 0 0 -200 -50 300 -50
+P 2 1 0 0 400 0 300 -50
+P 2 1 0 0 400 0 300 50
+P 2 1 0 0 300 50 -200 50
+P 2 1 0 0 -200 50 -300 0
+P 2 1 0 0 -200 -50 -300 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT15
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT15 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT15
+DRAW
+P 2 1 0 0 -400 -50 400 -50
+P 2 1 0 0 500 0 400 -50
+P 2 1 0 0 500 0 400 50
+P 2 1 0 0 400 50 -400 50
+P 2 1 0 0 -400 50 -400 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NPORT15-B
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF NPORT15-B ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: NPORT15-B
+DRAW
+P 2 1 0 0 -300 -50 400 -50
+P 2 1 0 0 500 0 400 -50
+P 2 1 0 0 500 0 400 50
+P 2 1 0 0 400 50 -300 50
+P 2 1 0 0 -300 50 -400 0
+P 2 1 0 0 -300 -50 -400 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PIN_PORT1
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PIN_PORT1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PIN_PORT1
+DRAW
+P 2 1 0 0 -100 0 -25 0
+C 0 0 25 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PIN_PORT2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PIN_PORT2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PIN_PORT2
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 -18 18 18 -18
+P 2 1 0 0 -18 -18 18 18
+C 0 0 25 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PORT-VAR4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF PORT-VAR4 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: PORT-L
+DRAW
+P 2 1 0 0 -60 -10 200 -10
+P 2 1 0 0 200 80 -60 80
+P 2 1 0 0 -60 80 -60 0
+P 2 1 0 0 -60 0 -60 -10
+P 2 1 0 0 -60 0 -100 0
+# Gate Name: G$2
+# Symbol Name: PORT-R
+P 2 2 0 0 -200 -10 0 -10
+P 2 2 0 0 65 35 0 -10
+P 2 2 0 0 65 35 0 80
+P 2 2 0 0 0 80 -200 80
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PORT-VAR10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF PORT-VAR10 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: PORT-L10
+DRAW
+P 2 1 0 0 -60 -10 400 -10
+P 2 1 0 0 400 80 -60 80
+P 2 1 0 0 -60 80 -60 0
+P 2 1 0 0 -60 0 -60 -10
+P 2 1 0 0 -60 0 -100 0
+# Gate Name: G$2
+# Symbol Name: PORT-R10
+P 2 2 0 0 -400 -10 0 -10
+P 2 2 0 0 65 35 0 -10
+P 2 2 0 0 65 35 0 80
+P 2 2 0 0 0 80 -400 80
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PORT2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PORT2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PORT2
+DRAW
+P 2 1 0 0 -160 -10 0 -10
+P 2 1 0 0 65 35 0 -10
+P 2 1 0 0 65 35 0 80
+P 2 1 0 0 0 80 -160 80
+P 2 1 0 0 -160 80 -160 0
+P 2 1 0 0 -160 0 -160 -10
+P 2 1 0 0 -160 0 -200 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PORT3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PORT3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PORT3
+DRAW
+P 2 1 0 0 -260 -10 0 -10
+P 2 1 0 0 65 35 0 -10
+P 2 1 0 0 65 35 0 80
+P 2 1 0 0 0 80 -260 80
+P 2 1 0 0 -260 80 -260 0
+P 2 1 0 0 -260 0 -260 -10
+P 2 1 0 0 -260 0 -300 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PORT5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PORT5 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PORT5
+DRAW
+P 2 1 0 0 -360 -10 0 -10
+P 2 1 0 0 65 35 0 -10
+P 2 1 0 0 65 35 0 80
+P 2 1 0 0 0 80 -360 80
+P 2 1 0 0 -360 80 -360 0
+P 2 1 0 0 -360 0 -360 -10
+P 2 1 0 0 -360 0 -400 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PORT7
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PORT7 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PORT7
+DRAW
+P 2 1 0 0 -560 -10 0 -10
+P 2 1 0 0 65 35 0 -10
+P 2 1 0 0 65 35 0 80
+P 2 1 0 0 0 80 -560 80
+P 2 1 0 0 -560 80 -560 0
+P 2 1 0 0 -560 0 -560 -10
+P 2 1 0 0 -560 0 -600 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PORT9
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PORT9 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PORT9
+DRAW
+P 2 1 0 0 -660 -10 0 -10
+P 2 1 0 0 65 35 0 -10
+P 2 1 0 0 65 35 0 80
+P 2 1 0 0 0 80 -660 80
+P 2 1 0 0 -660 80 -660 0
+P 2 1 0 0 -660 0 -660 -10
+P 2 1 0 0 -660 0 -700 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PORT11
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PORT11 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PORT11
+DRAW
+P 2 1 0 0 -760 -10 0 -10
+P 2 1 0 0 65 35 0 -10
+P 2 1 0 0 65 35 0 80
+P 2 1 0 0 0 80 -760 80
+P 2 1 0 0 -760 80 -760 0
+P 2 1 0 0 -760 0 -760 -10
+P 2 1 0 0 -760 0 -800 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PORT15
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PORT15 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PORT15
+DRAW
+P 2 1 0 0 -1060 -10 0 -10
+P 2 1 0 0 65 35 0 -10
+P 2 1 0 0 65 35 0 80
+P 2 1 0 0 0 80 -1060 80
+P 2 1 0 0 -1060 80 -1060 0
+P 2 1 0 0 -1060 0 -1060 -10
+P 2 1 0 0 -1060 0 -1100 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PORT20
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF PORT20 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PORT20
+DRAW
+P 2 1 0 0 -1360 -10 0 -10
+P 2 1 0 0 65 35 0 -10
+P 2 1 0 0 65 35 0 80
+P 2 1 0 0 0 80 -1360 80
+P 2 1 0 0 -1360 80 -1360 0
+P 2 1 0 0 -1360 0 -1360 -10
+P 2 1 0 0 -1360 0 -1400 0
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RPORT2
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RPORT2 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RPORT2
+DRAW
+P 2 1 0 0 -50 -50 50 -50
+A 50 0 50 -899 899 1 1 0 N 50 -50 50 50
+P 2 1 0 0 50 50 -50 50
+A -50 0 50 -2699 -901 1 1 0 N -50 50 -50 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RPORT3
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RPORT3 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RPORT3
+DRAW
+P 2 1 0 0 -100 -50 100 -50
+A 100 0 50 -899 899 1 1 0 N 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+A -100 0 50 -2699 -901 1 1 0 N -100 50 -100 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RPORT5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RPORT5 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RPORT5
+DRAW
+P 2 1 0 0 -150 -50 150 -50
+A 150 0 50 -899 899 1 1 0 N 150 -50 150 50
+P 2 1 0 0 150 50 -150 50
+A -150 0 50 -2699 -901 1 1 0 N -150 50 -150 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RPORT7
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RPORT7 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RPORT7
+DRAW
+P 2 1 0 0 -200 -50 200 -50
+A 200 0 50 -899 899 1 1 0 N 200 -50 200 50
+P 2 1 0 0 200 50 -200 50
+A -200 0 50 -2699 -901 1 1 0 N -200 50 -200 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RPORT10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RPORT10 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RPORT10
+DRAW
+P 2 1 0 0 -250 -50 250 -50
+A 250 0 50 -899 899 1 1 0 N 250 -50 250 50
+P 2 1 0 0 250 50 -250 50
+A -250 0 50 -2699 -901 1 1 0 N -250 50 -250 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RPORT12
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RPORT12 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RPORT12
+DRAW
+P 2 1 0 0 -300 -50 300 -50
+A 300 0 50 -899 899 1 1 0 N 300 -50 300 50
+P 2 1 0 0 300 50 -300 50
+A -300 0 50 -2699 -901 1 1 0 N -300 50 -300 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RPORT15
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RPORT15 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RPORT15
+DRAW
+P 2 1 0 0 -375 -50 425 -50
+A 425 0 50 -899 899 1 1 0 N 425 -50 425 50
+P 2 1 0 0 425 50 -375 50
+A -375 0 50 -2699 -901 1 1 0 N -375 50 -375 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RPORT17
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RPORT17 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RPORT17
+DRAW
+P 2 1 0 0 -475 -50 525 -50
+A 525 0 50 -899 899 1 1 0 N 525 -50 525 50
+P 2 1 0 0 525 50 -475 50
+A -475 0 50 -2699 -901 1 1 0 N -475 50 -475 -50
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RPORT20
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF RPORT20 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RPORT20
+DRAW
+P 2 1 0 0 -575 -50 625 -50
+A 625 0 50 -899 899 1 1 0 N 625 -50 625 50
+P 2 1 0 0 625 50 -575 50
+A -575 0 50 -2699 -901 1 1 0 N -575 50 -575 -50
+ENDDRAW
+ENDDEF
+
+#End Library

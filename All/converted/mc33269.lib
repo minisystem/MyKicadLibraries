@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:54
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: MC33269
+# Package Name: TO220
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF MC33269 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: MC33269
+DRAW
+P 2 1 0 0 -500 600 -500 100
+P 2 1 0 0 -500 100 300 100
+P 2 1 0 0 300 100 300 600
+P 2 1 0 0 300 600 -500 600
+T 0 131 733 66 0 1 0 mc33269
+X GND/ADJ 1 -100 -100 200 U 40 40 1 1 B 
+X VIN 3 -700 400 200 R 40 40 1 1 B 
+X VOUT 2 500 400 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,1071 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:58
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 19
+#
+# Dev Name: A24001-002
+# Package Name: A24001-002
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 1
+#
+DEF A24001-002 CN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CON-1X2
+F0 "CN" -75 200 50 H V L B
+F1 "A24001-002" -75 -162 50 H V L B
+F2 "con-omnetics-A24001-002" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 75 150 -75 150
+P 2 1 0 0 -75 -50 -75 150
+P 2 1 0 0 -75 -50 75 -50
+P 2 1 0 0 75 150 75 -50
+P 2 1 0 0 -100 100 -25 100
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 -25 100 25 100
+P 2 1 0 0 -25 0 25 0
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-002-S
+# Package Name: A24001-002
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 2
+#
+DEF A24001-002-S CN 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "CN" 100 -30 50 H V L B
+F1 "A24001-002-S" -30 55 50 H V L B
+F2 "con-omnetics-A24001-002" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-004
+# Package Name: A24001-004
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 1
+#
+DEF A24001-004 CN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CON-1X4
+F0 "CN" -75 300 50 H V L B
+F1 "A24001-004" -75 -262 50 H V L B
+F2 "con-omnetics-A24001-004" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 75 250 -75 250
+P 2 1 0 0 -75 -150 -75 250
+P 2 1 0 0 -75 -150 75 -150
+P 2 1 0 0 75 250 75 -150
+P 2 1 0 0 -100 200 -25 200
+P 2 1 0 0 -100 100 -25 100
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 -100 -100 -25 -100
+P 2 1 0 0 -25 200 25 200
+P 2 1 0 0 -25 100 25 100
+P 2 1 0 0 -25 0 25 0
+P 2 1 0 0 -25 -100 25 -100
+X 1 1 -200 200 100 R 40 40 1 1 P 
+X 2 2 -200 100 100 R 40 40 1 1 P 
+X 3 3 -200 0 100 R 40 40 1 1 P 
+X 4 4 -200 -100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-004-S
+# Package Name: A24001-004
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 4
+#
+DEF A24001-004-S CN 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "CN" 100 -30 50 H V L B
+F1 "A24001-004-S" -30 55 50 H V L B
+F2 "con-omnetics-A24001-004" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-006
+# Package Name: A24001-006
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 1
+#
+DEF A24001-006 CN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CON-1X6
+F0 "CN" -75 400 50 H V L B
+F1 "A24001-006" -75 -362 50 H V L B
+F2 "con-omnetics-A24001-006" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 75 350 -75 350
+P 2 1 0 0 -75 -250 -75 350
+P 2 1 0 0 -75 -250 75 -250
+P 2 1 0 0 75 350 75 -250
+P 2 1 0 0 -100 300 -25 300
+P 2 1 0 0 -100 200 -25 200
+P 2 1 0 0 -100 100 -25 100
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 -100 -100 -25 -100
+P 2 1 0 0 -100 -200 -25 -200
+P 2 1 0 0 -25 300 25 300
+P 2 1 0 0 -25 200 25 200
+P 2 1 0 0 -25 100 25 100
+P 2 1 0 0 -25 0 25 0
+P 2 1 0 0 -25 -100 25 -100
+P 2 1 0 0 -25 -200 25 -200
+X 1 1 -200 300 100 R 40 40 1 1 P 
+X 2 2 -200 200 100 R 40 40 1 1 P 
+X 3 3 -200 100 100 R 40 40 1 1 P 
+X 4 4 -200 0 100 R 40 40 1 1 P 
+X 5 5 -200 -100 100 R 40 40 1 1 P 
+X 6 6 -200 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-006-S
+# Package Name: A24001-006
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 6
+#
+DEF A24001-006-S CN 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "CN" 100 -30 50 H V L B
+F1 "A24001-006-S" -30 55 50 H V L B
+F2 "con-omnetics-A24001-006" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-008
+# Package Name: A24001-008
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 1
+#
+DEF A24001-008 CN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CON-1X8
+F0 "CN" -75 500 50 H V L B
+F1 "A24001-008" -75 -462 50 H V L B
+F2 "con-omnetics-A24001-008" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 75 450 -75 450
+P 2 1 0 0 -75 -350 -75 450
+P 2 1 0 0 -75 -350 75 -350
+P 2 1 0 0 75 450 75 -350
+P 2 1 0 0 -100 400 -25 400
+P 2 1 0 0 -100 300 -25 300
+P 2 1 0 0 -100 200 -25 200
+P 2 1 0 0 -100 100 -25 100
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 -100 -100 -25 -100
+P 2 1 0 0 -100 -200 -25 -200
+P 2 1 0 0 -100 -300 -25 -300
+P 2 1 0 0 -25 400 25 400
+P 2 1 0 0 -25 300 25 300
+P 2 1 0 0 -25 200 25 200
+P 2 1 0 0 -25 100 25 100
+P 2 1 0 0 -25 0 25 0
+P 2 1 0 0 -25 -100 25 -100
+P 2 1 0 0 -25 -200 25 -200
+P 2 1 0 0 -25 -300 25 -300
+X 1 1 -200 400 100 R 40 40 1 1 P 
+X 2 2 -200 300 100 R 40 40 1 1 P 
+X 3 3 -200 200 100 R 40 40 1 1 P 
+X 4 4 -200 100 100 R 40 40 1 1 P 
+X 5 5 -200 0 100 R 40 40 1 1 P 
+X 6 6 -200 -100 100 R 40 40 1 1 P 
+X 7 7 -200 -200 100 R 40 40 1 1 P 
+X 8 8 -200 -300 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-008-S
+# Package Name: A24001-008
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 8
+#
+DEF A24001-008-S CN 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "CN" 100 -30 50 H V L B
+F1 "A24001-008-S" -30 55 50 H V L B
+F2 "con-omnetics-A24001-008" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-010
+# Package Name: A24001-010
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 1
+#
+DEF A24001-010 CN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CON-1X10
+F0 "CN" -75 600 50 H V L B
+F1 "A24001-010" -75 -562 50 H V L B
+F2 "con-omnetics-A24001-010" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 75 550 -75 550
+P 2 1 0 0 -75 -450 -75 550
+P 2 1 0 0 -75 -450 75 -450
+P 2 1 0 0 75 550 75 -450
+P 2 1 0 0 -100 500 -25 500
+P 2 1 0 0 -100 400 -25 400
+P 2 1 0 0 -100 300 -25 300
+P 2 1 0 0 -100 200 -25 200
+P 2 1 0 0 -100 100 -25 100
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 -100 -100 -25 -100
+P 2 1 0 0 -100 -200 -25 -200
+P 2 1 0 0 -100 -300 -25 -300
+P 2 1 0 0 -100 -400 -25 -400
+P 2 1 0 0 -25 500 25 500
+P 2 1 0 0 -25 400 25 400
+P 2 1 0 0 -25 300 25 300
+P 2 1 0 0 -25 200 25 200
+P 2 1 0 0 -25 100 25 100
+P 2 1 0 0 -25 0 25 0
+P 2 1 0 0 -25 -100 25 -100
+P 2 1 0 0 -25 -200 25 -200
+P 2 1 0 0 -25 -300 25 -300
+P 2 1 0 0 -25 -400 25 -400
+X 1 1 -200 500 100 R 40 40 1 1 P 
+X 2 2 -200 400 100 R 40 40 1 1 P 
+X 3 3 -200 300 100 R 40 40 1 1 P 
+X 4 4 -200 200 100 R 40 40 1 1 P 
+X 5 5 -200 100 100 R 40 40 1 1 P 
+X 6 6 -200 0 100 R 40 40 1 1 P 
+X 7 7 -200 -100 100 R 40 40 1 1 P 
+X 8 8 -200 -200 100 R 40 40 1 1 P 
+X 9 9 -200 -300 100 R 40 40 1 1 P 
+X 10 10 -200 -400 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-010-S
+# Package Name: A24001-010
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 10
+#
+DEF A24001-010-S CN 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "CN" 100 -30 50 H V L B
+F1 "A24001-010-S" -30 55 50 H V L B
+F2 "con-omnetics-A24001-010" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-012
+# Package Name: A24001-012
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 1
+#
+DEF A24001-012 CN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CON-1X12
+F0 "CN" -75 600 50 H V L B
+F1 "A24001-012" -75 -762 50 H V L B
+F2 "con-omnetics-A24001-012" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 75 550 -75 550
+P 2 1 0 0 -75 -650 -75 550
+P 2 1 0 0 -75 -650 75 -650
+P 2 1 0 0 75 550 75 -650
+P 2 1 0 0 -100 500 -25 500
+P 2 1 0 0 -100 400 -25 400
+P 2 1 0 0 -100 300 -25 300
+P 2 1 0 0 -100 200 -25 200
+P 2 1 0 0 -100 100 -25 100
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 -100 -100 -25 -100
+P 2 1 0 0 -100 -200 -25 -200
+P 2 1 0 0 -100 -300 -25 -300
+P 2 1 0 0 -100 -400 -25 -400
+P 2 1 0 0 -100 -500 -25 -500
+P 2 1 0 0 -100 -600 -25 -600
+P 2 1 0 0 -25 500 25 500
+P 2 1 0 0 -25 400 25 400
+P 2 1 0 0 -25 300 25 300
+P 2 1 0 0 -25 200 25 200
+P 2 1 0 0 -25 100 25 100
+P 2 1 0 0 -25 0 25 0
+P 2 1 0 0 -25 -100 25 -100
+P 2 1 0 0 -25 -200 25 -200
+P 2 1 0 0 -25 -300 25 -300
+P 2 1 0 0 -25 -400 25 -400
+P 2 1 0 0 -25 -500 25 -500
+P 2 1 0 0 -25 -600 25 -600
+X 1 1 -200 500 100 R 40 40 1 1 P 
+X 2 2 -200 400 100 R 40 40 1 1 P 
+X 3 3 -200 300 100 R 40 40 1 1 P 
+X 4 4 -200 200 100 R 40 40 1 1 P 
+X 5 5 -200 100 100 R 40 40 1 1 P 
+X 6 6 -200 0 100 R 40 40 1 1 P 
+X 7 7 -200 -100 100 R 40 40 1 1 P 
+X 8 8 -200 -200 100 R 40 40 1 1 P 
+X 9 9 -200 -300 100 R 40 40 1 1 P 
+X 10 10 -200 -400 100 R 40 40 1 1 P 
+X 11 11 -200 -500 100 R 40 40 1 1 P 
+X 12 12 -200 -600 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-012-S
+# Package Name: A24001-012
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 12
+#
+DEF A24001-012-S CN 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "CN" 100 -30 50 H V L B
+F1 "A24001-012-S" -30 55 50 H V L B
+F2 "con-omnetics-A24001-012" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: M
+P 2 11 0 0 50 0 0 0
+X S 11 -100 0 100 R 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: M
+P 2 12 0 0 50 0 0 0
+X S 12 -100 0 100 R 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-014-S
+# Package Name: A24001-014
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 14
+#
+DEF A24001-014-S CN 0 40 Y Y 14 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "CN" 100 -30 50 H V L B
+F1 "A24001-014-S" -30 55 50 H V L B
+F2 "con-omnetics-A24001-014" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: M
+P 2 11 0 0 50 0 0 0
+X S 11 -100 0 100 R 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: M
+P 2 12 0 0 50 0 0 0
+X S 12 -100 0 100 R 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: M
+P 2 13 0 0 50 0 0 0
+X S 13 -100 0 100 R 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: M
+P 2 14 0 0 50 0 0 0
+X S 14 -100 0 100 R 40 40 14 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-16
+# Package Name: A24001-016
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 1
+#
+DEF A24001-16 CN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CON-1X16
+F0 "CN" -75 900 50 H V L B
+F1 "A24001-16" -75 -862 50 H V L B
+F2 "con-omnetics-A24001-016" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 75 850 -75 850
+P 2 1 0 0 -75 -750 -75 850
+P 2 1 0 0 -75 -750 75 -750
+P 2 1 0 0 75 850 75 -750
+P 2 1 0 0 -100 800 -25 800
+P 2 1 0 0 -100 700 -25 700
+P 2 1 0 0 -100 600 -25 600
+P 2 1 0 0 -100 500 -25 500
+P 2 1 0 0 -100 400 -25 400
+P 2 1 0 0 -100 300 -25 300
+P 2 1 0 0 -100 200 -25 200
+P 2 1 0 0 -100 100 -25 100
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 -100 -100 -25 -100
+P 2 1 0 0 -100 -200 -25 -200
+P 2 1 0 0 -100 -300 -25 -300
+P 2 1 0 0 -100 -400 -25 -400
+P 2 1 0 0 -100 -500 -25 -500
+P 2 1 0 0 -100 -600 -25 -600
+P 2 1 0 0 -100 -700 -25 -700
+P 2 1 0 0 -25 800 25 800
+P 2 1 0 0 -25 700 25 700
+P 2 1 0 0 -25 600 25 600
+P 2 1 0 0 -25 500 25 500
+P 2 1 0 0 -25 400 25 400
+P 2 1 0 0 -25 300 25 300
+P 2 1 0 0 -25 200 25 200
+P 2 1 0 0 -25 100 25 100
+P 2 1 0 0 -25 0 25 0
+P 2 1 0 0 -25 -100 25 -100
+P 2 1 0 0 -25 -200 25 -200
+P 2 1 0 0 -25 -300 25 -300
+P 2 1 0 0 -25 -400 25 -400
+P 2 1 0 0 -25 -500 25 -500
+P 2 1 0 0 -25 -600 25 -600
+P 2 1 0 0 -25 -700 25 -700
+X 1 1 -200 800 100 R 40 40 1 1 P 
+X 2 2 -200 700 100 R 40 40 1 1 P 
+X 3 3 -200 600 100 R 40 40 1 1 P 
+X 4 4 -200 500 100 R 40 40 1 1 P 
+X 5 5 -200 400 100 R 40 40 1 1 P 
+X 6 6 -200 300 100 R 40 40 1 1 P 
+X 7 7 -200 200 100 R 40 40 1 1 P 
+X 8 8 -200 100 100 R 40 40 1 1 P 
+X 9 9 -200 0 100 R 40 40 1 1 P 
+X 10 10 -200 -100 100 R 40 40 1 1 P 
+X 11 11 -200 -200 100 R 40 40 1 1 P 
+X 12 12 -200 -300 100 R 40 40 1 1 P 
+X 13 13 -200 -400 100 R 40 40 1 1 P 
+X 14 14 -200 -500 100 R 40 40 1 1 P 
+X 15 15 -200 -600 100 R 40 40 1 1 P 
+X 16 16 -200 -700 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-16-S
+# Package Name: A24001-016
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 16
+#
+DEF A24001-16-S CN 0 40 Y Y 16 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "CN" 100 -30 50 H V L B
+F1 "A24001-16-S" -30 55 50 H V L B
+F2 "con-omnetics-A24001-016" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: M
+P 2 11 0 0 50 0 0 0
+X S 11 -100 0 100 R 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: M
+P 2 12 0 0 50 0 0 0
+X S 12 -100 0 100 R 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: M
+P 2 13 0 0 50 0 0 0
+X S 13 -100 0 100 R 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: M
+P 2 14 0 0 50 0 0 0
+X S 14 -100 0 100 R 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: M
+P 2 15 0 0 50 0 0 0
+X S 15 -100 0 100 R 40 40 15 1 P 
+# Gate Name: -16
+# Symbol Name: M
+P 2 16 0 0 50 0 0 0
+X S 16 -100 0 100 R 40 40 16 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-018
+# Package Name: A24001-018
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 1
+#
+DEF A24001-018 CN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CON-1X18
+F0 "CN" -75 1000 50 H V L B
+F1 "A24001-018" -75 -962 50 H V L B
+F2 "con-omnetics-A24001-018" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 75 950 -75 950
+P 2 1 0 0 -75 -850 -75 950
+P 2 1 0 0 -75 -850 75 -850
+P 2 1 0 0 75 950 75 -850
+P 2 1 0 0 -100 900 -25 900
+P 2 1 0 0 -100 800 -25 800
+P 2 1 0 0 -100 700 -25 700
+P 2 1 0 0 -100 600 -25 600
+P 2 1 0 0 -100 500 -25 500
+P 2 1 0 0 -100 400 -25 400
+P 2 1 0 0 -100 300 -25 300
+P 2 1 0 0 -100 200 -25 200
+P 2 1 0 0 -100 100 -25 100
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 -100 -100 -25 -100
+P 2 1 0 0 -100 -200 -25 -200
+P 2 1 0 0 -100 -300 -25 -300
+P 2 1 0 0 -100 -400 -25 -400
+P 2 1 0 0 -100 -500 -25 -500
+P 2 1 0 0 -100 -600 -25 -600
+P 2 1 0 0 -100 -700 -25 -700
+P 2 1 0 0 -100 -800 -25 -800
+P 2 1 0 0 -25 900 25 900
+P 2 1 0 0 -25 800 25 800
+P 2 1 0 0 -25 700 25 700
+P 2 1 0 0 -25 600 25 600
+P 2 1 0 0 -25 500 25 500
+P 2 1 0 0 -25 400 25 400
+P 2 1 0 0 -25 300 25 300
+P 2 1 0 0 -25 200 25 200
+P 2 1 0 0 -25 100 25 100
+P 2 1 0 0 -25 0 25 0
+P 2 1 0 0 -25 -100 25 -100
+P 2 1 0 0 -25 -200 25 -200
+P 2 1 0 0 -25 -300 25 -300
+P 2 1 0 0 -25 -400 25 -400
+P 2 1 0 0 -25 -500 25 -500
+P 2 1 0 0 -25 -600 25 -600
+P 2 1 0 0 -25 -700 25 -700
+P 2 1 0 0 -25 -800 25 -800
+X 1 1 -200 900 100 R 40 40 1 1 P 
+X 2 2 -200 800 100 R 40 40 1 1 P 
+X 3 3 -200 700 100 R 40 40 1 1 P 
+X 4 4 -200 600 100 R 40 40 1 1 P 
+X 5 5 -200 500 100 R 40 40 1 1 P 
+X 6 6 -200 400 100 R 40 40 1 1 P 
+X 7 7 -200 300 100 R 40 40 1 1 P 
+X 8 8 -200 200 100 R 40 40 1 1 P 
+X 9 9 -200 100 100 R 40 40 1 1 P 
+X 10 10 -200 0 100 R 40 40 1 1 P 
+X 11 11 -200 -100 100 R 40 40 1 1 P 
+X 12 12 -200 -200 100 R 40 40 1 1 P 
+X 13 13 -200 -300 100 R 40 40 1 1 P 
+X 14 14 -200 -400 100 R 40 40 1 1 P 
+X 15 15 -200 -500 100 R 40 40 1 1 P 
+X 16 16 -200 -600 100 R 40 40 1 1 P 
+X 17 17 -200 -700 100 R 40 40 1 1 P 
+X 18 18 -200 -800 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-018-S
+# Package Name: A24001-018
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 18
+#
+DEF A24001-018-S CN 0 40 Y Y 18 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "CN" 100 -30 50 H V L B
+F1 "A24001-018-S" -30 55 50 H V L B
+F2 "con-omnetics-A24001-018" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: M
+P 2 11 0 0 50 0 0 0
+X S 11 -100 0 100 R 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: M
+P 2 12 0 0 50 0 0 0
+X S 12 -100 0 100 R 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: M
+P 2 13 0 0 50 0 0 0
+X S 13 -100 0 100 R 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: M
+P 2 14 0 0 50 0 0 0
+X S 14 -100 0 100 R 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: M
+P 2 15 0 0 50 0 0 0
+X S 15 -100 0 100 R 40 40 15 1 P 
+# Gate Name: -16
+# Symbol Name: M
+P 2 16 0 0 50 0 0 0
+X S 16 -100 0 100 R 40 40 16 1 P 
+# Gate Name: -17
+# Symbol Name: M
+P 2 17 0 0 50 0 0 0
+X S 17 -100 0 100 R 40 40 17 1 P 
+# Gate Name: -18
+# Symbol Name: M
+P 2 18 0 0 50 0 0 0
+X S 18 -100 0 100 R 40 40 18 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-020
+# Package Name: A24001-020
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 1
+#
+DEF A24001-020 CN 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CON-1X20
+F0 "CN" -75 1000 50 H V L B
+F1 "A24001-020" -75 -1162 50 H V L B
+F2 "con-omnetics-A24001-020" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 75 950 -75 950
+P 2 1 0 0 -75 -1050 -75 950
+P 2 1 0 0 -75 -1050 75 -1050
+P 2 1 0 0 75 950 75 -1050
+P 2 1 0 0 -100 900 -25 900
+P 2 1 0 0 -100 800 -25 800
+P 2 1 0 0 -100 700 -25 700
+P 2 1 0 0 -100 600 -25 600
+P 2 1 0 0 -100 500 -25 500
+P 2 1 0 0 -100 400 -25 400
+P 2 1 0 0 -100 300 -25 300
+P 2 1 0 0 -100 200 -25 200
+P 2 1 0 0 -100 100 -25 100
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 -100 -100 -25 -100
+P 2 1 0 0 -100 -200 -25 -200
+P 2 1 0 0 -100 -300 -25 -300
+P 2 1 0 0 -100 -400 -25 -400
+P 2 1 0 0 -100 -500 -25 -500
+P 2 1 0 0 -100 -600 -25 -600
+P 2 1 0 0 -100 -700 -25 -700
+P 2 1 0 0 -100 -800 -25 -800
+P 2 1 0 0 -100 -900 -25 -900
+P 2 1 0 0 -100 -1000 -25 -1000
+P 2 1 0 0 -25 900 25 900
+P 2 1 0 0 -25 800 25 800
+P 2 1 0 0 -25 700 25 700
+P 2 1 0 0 -25 600 25 600
+P 2 1 0 0 -25 500 25 500
+P 2 1 0 0 -25 400 25 400
+P 2 1 0 0 -25 300 25 300
+P 2 1 0 0 -25 200 25 200
+P 2 1 0 0 -25 100 25 100
+P 2 1 0 0 -25 0 25 0
+P 2 1 0 0 -25 -100 25 -100
+P 2 1 0 0 -25 -200 25 -200
+P 2 1 0 0 -25 -300 25 -300
+P 2 1 0 0 -25 -400 25 -400
+P 2 1 0 0 -25 -500 25 -500
+P 2 1 0 0 -25 -600 25 -600
+P 2 1 0 0 -25 -700 25 -700
+P 2 1 0 0 -25 -800 25 -800
+P 2 1 0 0 -25 -900 25 -900
+P 2 1 0 0 -25 -1000 25 -1000
+X 1 1 -200 900 100 R 40 40 1 1 P 
+X 2 2 -200 800 100 R 40 40 1 1 P 
+X 3 3 -200 700 100 R 40 40 1 1 P 
+X 4 4 -200 600 100 R 40 40 1 1 P 
+X 5 5 -200 500 100 R 40 40 1 1 P 
+X 6 6 -200 400 100 R 40 40 1 1 P 
+X 7 7 -200 300 100 R 40 40 1 1 P 
+X 8 8 -200 200 100 R 40 40 1 1 P 
+X 9 9 -200 100 100 R 40 40 1 1 P 
+X 10 10 -200 0 100 R 40 40 1 1 P 
+X 11 11 -200 -100 100 R 40 40 1 1 P 
+X 12 12 -200 -200 100 R 40 40 1 1 P 
+X 13 13 -200 -300 100 R 40 40 1 1 P 
+X 14 14 -200 -400 100 R 40 40 1 1 P 
+X 15 15 -200 -500 100 R 40 40 1 1 P 
+X 16 16 -200 -600 100 R 40 40 1 1 P 
+X 17 17 -200 -700 100 R 40 40 1 1 P 
+X 18 18 -200 -800 100 R 40 40 1 1 P 
+X 19 19 -200 -900 100 R 40 40 1 1 P 
+X 20 20 -200 -1000 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: A24001-020-S
+# Package Name: A24001-020
+# Dev Tech: ''
+# Dev Prefix: CN
+# Gate count = 20
+#
+DEF A24001-020-S CN 0 40 Y Y 20 L N
+# Gate Name: -1
+# Symbol Name: MV
+F0 "CN" 100 -30 50 H V L B
+F1 "A24001-020-S" -30 55 50 H V L B
+F2 "con-omnetics-A24001-020" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 0 0 0
+X S 1 -100 0 100 R 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: M
+P 2 2 0 0 50 0 0 0
+X S 2 -100 0 100 R 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: M
+P 2 3 0 0 50 0 0 0
+X S 3 -100 0 100 R 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: M
+P 2 4 0 0 50 0 0 0
+X S 4 -100 0 100 R 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: M
+P 2 5 0 0 50 0 0 0
+X S 5 -100 0 100 R 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: M
+P 2 6 0 0 50 0 0 0
+X S 6 -100 0 100 R 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: M
+P 2 7 0 0 50 0 0 0
+X S 7 -100 0 100 R 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: M
+P 2 8 0 0 50 0 0 0
+X S 8 -100 0 100 R 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: M
+P 2 9 0 0 50 0 0 0
+X S 9 -100 0 100 R 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: M
+P 2 10 0 0 50 0 0 0
+X S 10 -100 0 100 R 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: M
+P 2 11 0 0 50 0 0 0
+X S 11 -100 0 100 R 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: M
+P 2 12 0 0 50 0 0 0
+X S 12 -100 0 100 R 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: M
+P 2 13 0 0 50 0 0 0
+X S 13 -100 0 100 R 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: M
+P 2 14 0 0 50 0 0 0
+X S 14 -100 0 100 R 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: M
+P 2 15 0 0 50 0 0 0
+X S 15 -100 0 100 R 40 40 15 1 P 
+# Gate Name: -16
+# Symbol Name: M
+P 2 16 0 0 50 0 0 0
+X S 16 -100 0 100 R 40 40 16 1 P 
+# Gate Name: -17
+# Symbol Name: M
+P 2 17 0 0 50 0 0 0
+X S 17 -100 0 100 R 40 40 17 1 P 
+# Gate Name: -18
+# Symbol Name: M
+P 2 18 0 0 50 0 0 0
+X S 18 -100 0 100 R 40 40 18 1 P 
+# Gate Name: -19
+# Symbol Name: M
+P 2 19 0 0 50 0 0 0
+X S 19 -100 0 100 R 40 40 19 1 P 
+# Gate Name: -20
+# Symbol Name: M
+P 2 20 0 0 50 0 0 0
+X S 20 -100 0 100 R 40 40 20 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

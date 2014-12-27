@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:02
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: SL6270
+# Package Name: DIL08
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF SL6270 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: VOGAD
+DRAW
+P 2 1 0 0 -700 700 1000 700
+P 2 1 0 0 1000 700 1000 -300
+P 2 1 0 0 1000 -300 -700 -300
+P 2 1 0 0 -700 -300 -700 700
+T 0 210 -65 70 0 1 0 SL6270
+T 0 220 -165 70 0 1 0 PreAmp/Vogad
+X 1AGC 1 600 -500 200 U 40 40 1 1 P 
+X 2AMPOUT 2 200 900 200 D 40 40 1 1 P 
+X 3VCC 3 -300 900 200 D 40 40 1 1 W 
+X 4-IN 4 -900 400 200 R 40 40 1 1 I 
+X 5IN 5 -900 0 200 R 40 40 1 1 I 
+X 6EARTH 6 -300 -500 200 U 40 40 1 1 W 
+X 7AMPIN 7 600 900 200 D 40 40 1 1 P 
+X 8OUT 8 1200 200 200 L 40 40 1 1 O 
+ENDDRAW
+ENDDEF
+
+#End Library

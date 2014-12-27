@@ -1,0 +1,1217 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:02
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 40
+#
+# Dev Name: 1N3118-GA
+# Package Name: GE-C50
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3118-GA TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3118-GA" 100 -91 50 H V L B
+F2 "special-diodes-GE-C50" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N3712-G
+# Package Name: GE-C47
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3712-G TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3712-G" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N3713-G
+# Package Name: GE-C47
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3713-G TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3713-G" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N3714-G
+# Package Name: GE-C47
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3714-G TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3714-G" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N3715-G
+# Package Name: GE-C47
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3715-G TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3715-G" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N3716-G
+# Package Name: GE-C47
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3716-G TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3716-G" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N3717-G
+# Package Name: GE-C47
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3717-G TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3717-G" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N3718-G
+# Package Name: GE-C47
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3718-G TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3718-G" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N3719-G
+# Package Name: GE-C47
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3719-G TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3719-G" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N3720-G
+# Package Name: GE-C47
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3720-G TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3720-G" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N3721-G
+# Package Name: GE-C47
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF 1N3721-G TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "1N3721-G" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C K 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BB112
+# Package Name: SOT54H
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF BB112 D 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: KD
+F0 "D" -80 125 50 H V L B
+F1 "BB112" -70 -145 50 H V L B
+F2 "special-diodes-SOT54H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 -15 105 -15 80
+P 2 1 0 0 15 105 15 80
+P 2 1 0 0 65 80 15 80
+P 2 1 0 0 15 80 15 55
+P 2 1 0 0 -15 80 -65 80
+P 2 1 0 0 -15 80 -15 55
+X A A -100 0 100 R 40 40 1 1 P 
+X C C 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BYW32
+# Package Name: DO204-10
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF BYW32 D 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: D
+F0 "D" -100 199 50 H V L B
+F1 "BYW32" -100 99 50 H V L B
+F2 "special-diodes-DO204-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -70 60 -70 40
+P 2 1 0 0 -70 40 -70 0
+P 2 1 0 0 -70 0 -70 -40
+P 2 1 0 0 -70 -40 -70 -60
+A -70 0 40 -3599 -2701 1 1 0 N -30 0 -70 40
+A -70 0 40 -899 -1 1 1 0 N -70 -40 -30 0
+P 2 1 0 0 -110 0 -70 0
+P 2 1 0 0 0 0 -30 0
+X A A -200 0 100 R 40 40 1 1 P 
+X C C 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: E101
+# Package Name: DO35-7A1
+# Dev Tech: ''
+# Dev Prefix: CSD
+# Gate count = 1
+#
+DEF E101 CSD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CURPISTOR
+F0 "CSD" 0 199 50 H V L B
+F1 "E101" 0 99 50 H V L B
+F2 "special-diodes-DO35-7A1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 60 60 60 40
+P 2 1 0 0 60 40 60 0
+P 2 1 0 0 60 0 60 -40
+P 2 1 0 0 60 -40 60 -60
+P 2 1 0 0 100 0 60 0
+P 2 1 0 0 -100 0 -60 0
+C 0 0 60 1 1 0 N
+X A A -200 0 100 R 40 40 1 1 P 
+X C C 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: E102
+# Package Name: DO35-7A1
+# Dev Tech: ''
+# Dev Prefix: CSD
+# Gate count = 1
+#
+DEF E102 CSD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CURPISTOR
+F0 "CSD" 0 199 50 H V L B
+F1 "E102" 0 99 50 H V L B
+F2 "special-diodes-DO35-7A1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 60 60 60 40
+P 2 1 0 0 60 40 60 0
+P 2 1 0 0 60 0 60 -40
+P 2 1 0 0 60 -40 60 -60
+P 2 1 0 0 100 0 60 0
+P 2 1 0 0 -100 0 -60 0
+C 0 0 60 1 1 0 N
+X A A -200 0 100 R 40 40 1 1 P 
+X C C 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: E103
+# Package Name: DO35-7A1
+# Dev Tech: ''
+# Dev Prefix: CSD
+# Gate count = 1
+#
+DEF E103 CSD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CURPISTOR
+F0 "CSD" 0 199 50 H V L B
+F1 "E103" 0 99 50 H V L B
+F2 "special-diodes-DO35-7A1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 60 60 60 40
+P 2 1 0 0 60 40 60 0
+P 2 1 0 0 60 0 60 -40
+P 2 1 0 0 60 -40 60 -60
+P 2 1 0 0 100 0 60 0
+P 2 1 0 0 -100 0 -60 0
+C 0 0 60 1 1 0 N
+X A A -200 0 100 R 40 40 1 1 P 
+X C C 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: E123
+# Package Name: DO35-7A1
+# Dev Tech: ''
+# Dev Prefix: CSD
+# Gate count = 1
+#
+DEF E123 CSD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CURPISTOR
+F0 "CSD" 0 199 50 H V L B
+F1 "E123" 0 99 50 H V L B
+F2 "special-diodes-DO35-7A1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 60 60 60 40
+P 2 1 0 0 60 40 60 0
+P 2 1 0 0 60 0 60 -40
+P 2 1 0 0 60 -40 60 -60
+P 2 1 0 0 100 0 60 0
+P 2 1 0 0 -100 0 -60 0
+C 0 0 60 1 1 0 N
+X A A -200 0 100 R 40 40 1 1 P 
+X C C 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: E153
+# Package Name: DO35-7A1
+# Dev Tech: ''
+# Dev Prefix: CSD
+# Gate count = 1
+#
+DEF E153 CSD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CURPISTOR
+F0 "CSD" 0 199 50 H V L B
+F1 "E153" 0 99 50 H V L B
+F2 "special-diodes-DO35-7A1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 60 60 60 40
+P 2 1 0 0 60 40 60 0
+P 2 1 0 0 60 0 60 -40
+P 2 1 0 0 60 -40 60 -60
+P 2 1 0 0 100 0 60 0
+P 2 1 0 0 -100 0 -60 0
+C 0 0 60 1 1 0 N
+X A A -200 0 100 R 40 40 1 1 P 
+X C C 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: E202
+# Package Name: DO35-7A1
+# Dev Tech: ''
+# Dev Prefix: CSD
+# Gate count = 1
+#
+DEF E202 CSD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CURPISTOR
+F0 "CSD" 0 199 50 H V L B
+F1 "E202" 0 99 50 H V L B
+F2 "special-diodes-DO35-7A1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 60 60 60 40
+P 2 1 0 0 60 40 60 0
+P 2 1 0 0 60 0 60 -40
+P 2 1 0 0 60 -40 60 -60
+P 2 1 0 0 100 0 60 0
+P 2 1 0 0 -100 0 -60 0
+C 0 0 60 1 1 0 N
+X A A -200 0 100 R 40 40 1 1 P 
+X C C 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: E452
+# Package Name: DO35-7A1
+# Dev Tech: ''
+# Dev Prefix: CSD
+# Gate count = 1
+#
+DEF E452 CSD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CURPISTOR
+F0 "CSD" 0 199 50 H V L B
+F1 "E452" 0 99 50 H V L B
+F2 "special-diodes-DO35-7A1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 60 60 60 40
+P 2 1 0 0 60 40 60 0
+P 2 1 0 0 60 0 60 -40
+P 2 1 0 0 60 -40 60 -60
+P 2 1 0 0 100 0 60 0
+P 2 1 0 0 -100 0 -60 0
+C 0 0 60 1 1 0 N
+X A A -200 0 100 R 40 40 1 1 P 
+X C C 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: E562
+# Package Name: DO35-7A1
+# Dev Tech: ''
+# Dev Prefix: CSD
+# Gate count = 1
+#
+DEF E562 CSD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CURPISTOR
+F0 "CSD" 0 199 50 H V L B
+F1 "E562" 0 99 50 H V L B
+F2 "special-diodes-DO35-7A1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 60 60 60 40
+P 2 1 0 0 60 40 60 0
+P 2 1 0 0 60 0 60 -40
+P 2 1 0 0 60 -40 60 -60
+P 2 1 0 0 100 0 60 0
+P 2 1 0 0 -100 0 -60 0
+C 0 0 60 1 1 0 N
+X A A -200 0 100 R 40 40 1 1 P 
+X C C 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: E822
+# Package Name: DO35-7A1
+# Dev Tech: ''
+# Dev Prefix: CSD
+# Gate count = 1
+#
+DEF E822 CSD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CURPISTOR
+F0 "CSD" 0 199 50 H V L B
+F1 "E822" 0 99 50 H V L B
+F2 "special-diodes-DO35-7A1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 60 60 60 40
+P 2 1 0 0 60 40 60 0
+P 2 1 0 0 60 0 60 -40
+P 2 1 0 0 60 -40 60 -60
+P 2 1 0 0 100 0 60 0
+P 2 1 0 0 -100 0 -60 0
+C 0 0 60 1 1 0 N
+X A A -200 0 100 R 40 40 1 1 P 
+X C C 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ICTE5
+# Package Name: C4111-15
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF ICTE5 D 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: SCHOTTKY
+F0 "D" -90 75 50 H V L B
+F1 "ICTE5" -90 -135 50 H V L B
+F2 "special-diodes-C4111-15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 75 50 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 75 50 75 40
+P 2 1 0 0 50 -50 25 -50
+P 2 1 0 0 25 -40 25 -50
+X A A -100 0 100 R 40 40 1 1 P 
+X C C 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: LEDSOT23
+# Package Name: SOT23
+# Dev Tech: ''
+# Dev Prefix: LED
+# Gate count = 1
+#
+DEF LEDSOT23 LED 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: LED
+F0 "LED" 100 0 50 H V L B
+F1 "LEDSOT23" 100 -75 50 H V L B
+F2 "special-diodes-SOT23" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 50 100 0 0
+P 2 1 0 0 0 0 -50 100
+P 2 1 0 0 50 0 0 0
+P 2 1 0 0 0 0 -50 0
+P 2 1 0 0 50 100 0 100
+P 2 1 0 0 0 100 -50 100
+P 2 1 0 0 0 100 0 0
+P 2 1 0 0 -80 70 -135 15
+P 2 1 0 0 -135 15 -100 30
+P 2 1 0 0 -100 30 -120 50
+P 2 1 0 0 -120 50 -135 15
+P 2 1 0 0 -130 -30 -95 -15
+P 2 1 0 0 -95 -15 -115 5
+P 2 1 0 0 -115 5 -130 -30
+P 2 1 0 0 -75 25 -130 -30
+X A 2 0 200 100 D 40 40 1 1 P 
+X K 3 0 -100 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NCCU001E
+# Package Name: NCCU001E
+# Dev Tech: ''
+# Dev Prefix: UVLED
+# Gate count = 1
+#
+DEF NCCU001E UVLED 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: UVLED2
+F0 "UVLED" 5 420 50 V V L B
+F1 "NCCU001E" 90 420 50 V V L B
+F2 "special-diodes-NCCU001E" 0 150 50 H I C C
+DRAW
+P 6 1 1 0     -180 390 -210 400 -210 400 -200 370 -200 370 -180 390 F
+P 6 1 1 0     -210 360 -240 370 -240 370 -230 340 -230 340 -210 360 F
+P 2 1 0 0 -50 300 -100 200
+P 2 1 0 0 -100 200 -150 300
+P 2 1 0 0 -50 200 -100 200
+P 2 1 0 0 -100 200 -150 200
+P 2 1 0 0 -50 300 -100 300
+P 2 1 0 0 -100 300 -150 300
+P 2 1 0 0 -100 300 -100 200
+P 2 1 0 0 -160 350 -195 385
+P 2 1 0 0 -190 320 -225 355
+P 2 1 0 0 -100 400 40 400
+P 2 1 0 0 40 400 40 330
+P 2 1 0 0 -100 100 40 100
+P 2 1 0 0 40 100 40 170
+P 2 1 0 0 10 330 70 330
+P 2 1 0 0 70 330 70 170
+P 2 1 0 0 70 170 10 170
+P 2 1 0 0 10 170 10 330
+P 2 1 0 0 -200 200 -180 200
+P 2 1 0 0 -200 200 -200 0
+C -100 250 92 1 1 0 N
+T 0 -336 483 66 0 1 0 UV-light
+T 0 -505 -155 50 0 1 0 Cooling
+T 0 -480 -85 50 0 1 0 PADs~for
+T 0 -405 -225 50 0 1 0 Connections
+X A 2 -100 600 300 D 40 40 1 1 P 
+X C 1 -100 -100 300 U 40 40 1 1 P 
+X HS@0 3 -500 200 300 R 40 40 1 1 U 
+X HS@1 4 -500 100 300 R 40 40 1 1 U 
+X HS@2 5 -500 0 300 R 40 40 1 1 U 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: NCCU033
+# Package Name: NCCU033
+# Dev Tech: ''
+# Dev Prefix: UVLED
+# Gate count = 1
+#
+DEF NCCU033 UVLED 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: UVLED
+F0 "UVLED" 105 220 50 V V L B
+F1 "NCCU033" 190 220 50 V V L B
+F2 "special-diodes-NCCU033" 0 150 50 H I C C
+DRAW
+P 6 1 1 0     -80 190 -110 200 -110 200 -100 170 -100 170 -80 190 F
+P 6 1 1 0     -110 160 -140 170 -140 170 -130 140 -130 140 -110 160 F
+P 2 1 0 0 50 100 0 0
+P 2 1 0 0 0 0 -50 100
+P 2 1 0 0 50 0 0 0
+P 2 1 0 0 0 0 -50 0
+P 2 1 0 0 50 100 0 100
+P 2 1 0 0 0 100 -50 100
+P 2 1 0 0 0 100 0 0
+P 2 1 0 0 -60 150 -95 185
+P 2 1 0 0 -90 120 -125 155
+P 2 1 0 0 0 200 150 200
+P 2 1 0 0 150 200 150 130
+P 2 1 0 0 0 -100 150 -100
+P 2 1 0 0 150 -100 150 -30
+P 2 1 0 0 120 130 180 130
+P 2 1 0 0 180 130 180 -30
+P 2 1 0 0 180 -30 120 -30
+P 2 1 0 0 120 -30 120 130
+P 2 1 0 0 -100 0 -80 0
+C 0 50 92 1 1 0 N
+C 0 200 10 1 1 0 N
+C 0 -100 10 1 1 0 N
+T 0 -172 266 32 0 1 0 UV-light
+T 0 -188 -154 32 0 1 0 Cooling
+T 0 -188 -84 32 0 1 0 PAD~for
+T 0 -140 -224 32 0 1 0 Connection
+X A 3 0 300 200 D 40 40 1 1 P 
+X C 1 0 -200 200 U 40 40 1 1 P 
+X HS 2 -200 0 100 R 40 40 1 1 U 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-1
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-1 TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-1" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-1A
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-1A TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-1A" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-2
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-2 TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-2" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-2A
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-2A TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-2A" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-3
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-3 TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-3" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-3A
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-3A TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-3A" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-4
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-4 TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-4" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-4A
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-4A TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-4A" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-5
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-5 TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-5" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-5A
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-5A TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-5A" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TD-9
+# Package Name: GE-C47-1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TD-9 TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TD-9" 100 -91 50 H V L B
+F2 "special-diodes-GE-C47-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A A -100 0 0 R 40 40 1 1 P 
+X C K 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TUNNEL-DIODE-T1
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TUNNEL-DIODE-T1 TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL1
+F0 "TD" 100 19 50 H V L B
+F1 "TUNNEL-DIODE-T1" 100 -91 50 H V L B
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 30 50 50 50
+P 2 1 0 0 30 -50 50 -50
+X A ~ -100 0 100 R 40 40 1 1 P 
+X C ~ 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TUNNEL-DIODE-T2
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TUNNEL-DIODE-T2 TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL2
+F0 "TD" 100 19 50 H V L B
+F1 "TUNNEL-DIODE-T2" 100 -91 50 H V L B
+DRAW
+P 2 1 0 0 -50 -50 50 0
+P 2 1 0 0 50 0 -50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 -50 50 -50 -50
+P 2 1 0 0 50 0 50 -50
+P 2 1 0 0 20 -30 30 -30
+P 2 1 0 0 20 -60 30 -60
+P 2 1 0 0 30 -60 30 -30
+X A ~ -100 0 100 R 40 40 1 1 P 
+X C ~ 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TUNNEL-DIODE-T3
+# Dev Tech: ''
+# Dev Prefix: TD
+# Gate count = 1
+#
+DEF TUNNEL-DIODE-T3 TD 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TUNNEL3
+F0 "TD" 100 19 50 H V L B
+F1 "TUNNEL-DIODE-T3" 100 -91 50 H V L B
+DRAW
+P 2 1 0 0 -20 60 -20 40
+P 2 1 0 0 -20 40 -20 30
+P 2 1 0 0 -20 30 -20 20
+P 2 1 0 0 -20 20 -20 10
+P 2 1 0 0 -20 10 -20 0
+P 2 1 0 0 -20 0 -20 -10
+P 2 1 0 0 -20 -10 -20 -20
+P 2 1 0 0 -20 -20 -20 -30
+P 2 1 0 0 -20 -30 -20 -40
+P 2 1 0 0 -20 -40 -20 -60
+A -20 0 40 -3599 -2701 1 1 0 N 20 0 -20 40
+A -20 0 40 -899 -1 1 1 0 N -20 -40 20 0
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 20 0 100 0
+A -20 0 30 -899 899 1 1 0 N -20 -30 -20 30
+A -20 0 20 -899 899 1 1 0 N -20 -20 -20 20
+A -20 0 10 -899 899 1 1 0 N -20 -10 -20 10
+X A ~ -100 0 0 R 40 40 1 1 P 
+X C ~ 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

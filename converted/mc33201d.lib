@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:54
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: MC33201D
+# Package Name: MC33201D
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF MC33201D ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: MC33201
+DRAW
+P 2 1 0 0 -200 400 -200 -200
+P 2 1 0 0 -200 -200 400 100
+P 2 1 0 0 400 100 -200 400
+T 0 -50 250 100 0 1 0 +
+T 0 -50 -50 100 0 1 0 -
+T 0 110 95 70 0 1 0 MC33201D
+X GND P4 0 -300 200 U 40 40 1 1 W 
+X IN+ P3 -400 300 200 R 40 40 1 1 I 
+X IN- P2 -400 -100 200 R 40 40 1 1 I 
+X OUT P6 600 100 200 L 40 40 1 1 I 
+X VCC P7 0 500 200 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

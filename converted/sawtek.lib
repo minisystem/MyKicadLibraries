@@ -1,0 +1,2135 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:00
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 38
+#
+# Dev Name: 854651
+# Package Name: SMP-75B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 9
+#
+DEF 854651 FILTER- 0 40 Y Y 9 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854651" -500 -400 50 H V L B
+F2 "sawtek-SMP-75B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854652
+# Package Name: SMP-75B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 9
+#
+DEF 854652 FILTER- 0 40 Y Y 9 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854652" -500 -400 50 H V L B
+F2 "sawtek-SMP-75B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854653
+# Package Name: SMP-75B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 9
+#
+DEF 854653 FILTER- 0 40 Y Y 9 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854653" -500 -400 50 H V L B
+F2 "sawtek-SMP-75B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854654
+# Package Name: SMP-75B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 9
+#
+DEF 854654 FILTER- 0 40 Y Y 9 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854654" -500 -400 50 H V L B
+F2 "sawtek-SMP-75B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854655
+# Package Name: SMP-75B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 9
+#
+DEF 854655 FILTER- 0 40 Y Y 9 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854655" -500 -400 50 H V L B
+F2 "sawtek-SMP-75B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854656
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854656 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854656" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854657
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854657 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854657" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854658
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854658 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854658" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854659
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854659 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854659" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854660
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854660 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854660" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854661
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854661 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854661" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854662
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854662 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854662" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854663
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854663 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854663" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854664
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854664 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854664" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854665
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854665 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854665" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854666
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854666 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854666" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854667
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854667 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854667" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854668
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854668 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854668" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854669
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854669 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854669" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854670
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854670 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854670" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854671
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854671 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854671" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854672
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854672 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854672" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854673
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854673 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854673" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854674
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854674 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854674" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854675
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854675 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854675" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854678
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854678 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854678" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 854680
+# Package Name: SMP-53A/B
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 12
+#
+DEF 854680 FILTER- 0 40 Y Y 12 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "854680" -500 -400 50 H V L B
+F2 "sawtek-SMP-53A/B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN IN -700 -100 200 R 40 40 1 1 B 
+X OUT OUT 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 10 -100 0 300 R 40 40 10 1 W 
+# Gate Name: G$11
+# Symbol Name: GND
+X GND 12 -100 0 300 R 40 40 11 1 W 
+# Gate Name: G$12
+# Symbol Name: GND
+X GND 13 -100 0 300 R 40 40 12 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855735
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855735 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855735" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855736
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855736 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855736" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855737
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855737 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855737" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855738
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855738 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855738" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855739
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855739 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855739" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855740
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855740 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855740" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855741
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855741 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855741" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855742
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855742 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855742" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855743
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855743 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855743" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855744
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855744 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855744" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 855745
+# Package Name: SMP-97
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 10
+#
+DEF 855745 FILTER- 0 40 Y Y 10 L N
+# Gate Name: G$1
+# Symbol Name: BP
+F0 "FILTER-" -500 200 50 H V L B
+F1 "855745" -500 -400 50 H V L B
+F2 "sawtek-SMP-97" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 100 0
+P 2 1 0 0 100 0 200 -300
+P 2 1 0 0 -100 0 -200 -300
+P 2 1 0 0 -500 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -500 -300
+P 2 1 0 0 -500 -300 -500 100
+X IN 10 -700 -100 200 R 40 40 1 1 B 
+X OUT 5 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 1 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND 3 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND 4 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND 6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND 7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND 8 -100 0 300 R 40 40 8 1 W 
+# Gate Name: G$9
+# Symbol Name: GND
+X GND 9 -100 0 300 R 40 40 9 1 W 
+# Gate Name: G$10
+# Symbol Name: GND
+X GND 11 -100 0 300 R 40 40 10 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

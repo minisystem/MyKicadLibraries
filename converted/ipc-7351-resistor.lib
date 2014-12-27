@@ -1,0 +1,239 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:25
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 10
+#
+# Dev Name: RESISTOR_0201
+# Package Name: RESC0603X30N
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF RESISTOR_0201 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RESISTOR
+F0 "R" -100 60 50 H V L B
+F1 "RESISTOR_0201" -100 -130 50 H V L B
+F2 "ipc-7351-resistor-RESC0603X30N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 100 -35 100 35
+P 2 1 0 0 -100 -35 -100 35
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RESISTOR_0402
+# Package Name: RESC1005X40AN
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF RESISTOR_0402 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RESISTOR
+F0 "R" -100 60 50 H V L B
+F1 "RESISTOR_0402" -100 -130 50 H V L B
+F2 "ipc-7351-resistor-RESC1005X40AN" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 100 -35 100 35
+P 2 1 0 0 -100 -35 -100 35
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RESISTOR_0603
+# Package Name: RESC1608X55N
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF RESISTOR_0603 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RESISTOR
+F0 "R" -100 60 50 H V L B
+F1 "RESISTOR_0603" -100 -130 50 H V L B
+F2 "ipc-7351-resistor-RESC1608X55N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 100 -35 100 35
+P 2 1 0 0 -100 -35 -100 35
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RESISTOR_0805
+# Package Name: RESC2012X70N
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF RESISTOR_0805 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RESISTOR
+F0 "R" -100 60 50 H V L B
+F1 "RESISTOR_0805" -100 -130 50 H V L B
+F2 "ipc-7351-resistor-RESC2012X70N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 100 -35 100 35
+P 2 1 0 0 -100 -35 -100 35
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RESISTOR_1206
+# Package Name: RESC3115X70N
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF RESISTOR_1206 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RESISTOR
+F0 "R" -100 60 50 H V L B
+F1 "RESISTOR_1206" -100 -130 50 H V L B
+F2 "ipc-7351-resistor-RESC3115X70N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 100 -35 100 35
+P 2 1 0 0 -100 -35 -100 35
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RESISTOR_1210
+# Package Name: RESC3225X70N
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF RESISTOR_1210 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RESISTOR
+F0 "R" -100 60 50 H V L B
+F1 "RESISTOR_1210" -100 -130 50 H V L B
+F2 "ipc-7351-resistor-RESC3225X70N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 100 -35 100 35
+P 2 1 0 0 -100 -35 -100 35
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RESISTOR_1812
+# Package Name: RESC4532X70N
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF RESISTOR_1812 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RESISTOR
+F0 "R" -100 60 50 H V L B
+F1 "RESISTOR_1812" -100 -130 50 H V L B
+F2 "ipc-7351-resistor-RESC4532X70N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 100 -35 100 35
+P 2 1 0 0 -100 -35 -100 35
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RESISTOR_2010
+# Package Name: RESC5025X70N
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF RESISTOR_2010 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RESISTOR
+F0 "R" -100 60 50 H V L B
+F1 "RESISTOR_2010" -100 -130 50 H V L B
+F2 "ipc-7351-resistor-RESC5025X70N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 100 -35 100 35
+P 2 1 0 0 -100 -35 -100 35
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RESISTOR_2512
+# Package Name: RESC6432X70N
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF RESISTOR_2512 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: RESISTOR
+F0 "R" -100 60 50 H V L B
+F1 "RESISTOR_2512" -100 -130 50 H V L B
+F2 "ipc-7351-resistor-RESC6432X70N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 100 -35 100 35
+P 2 1 0 0 -100 -35 -100 35
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: VARIABLE_
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF VARIABLE_ ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: VARIABLE
+DRAW
+P 2 1 0 0 100 -30 100 0
+P 2 1 0 0 100 30 -100 30
+P 2 1 0 0 -100 -30 100 -30
+P 2 1 0 0 0 -100 0 -65
+P 2 1 0 0 0 -65 69 74
+P 2 1 0 0 100 0 200 0
+P 2 1 0 0 100 0 100 30
+P 2 1 0 0 -100 30 -100 -30
+P 2 1 0 0 50 90 95 65
+P 2 1 0 0 -100 100 -20 100
+P 2 1 0 0 -20 100 -60 120
+P 2 1 0 0 -20 100 -60 80
+X A ~ 200 0 100 L 40 40 1 1 P 
+X E ~ -200 0 100 R 40 40 1 1 P 
+X S ~ 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

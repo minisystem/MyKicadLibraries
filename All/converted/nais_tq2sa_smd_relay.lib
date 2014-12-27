@@ -1,0 +1,50 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:15
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: TQ2SA-5V
+# Package Name: NAISTQ2SA
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 3
+#
+DEF TQ2SA-5V ?? 0 40 Y Y 3 L N
+# Gate Name: G$1
+# Symbol Name: COIL
+DRAW
+P 2 1 0 0 -150 -75 -75 -75
+P 2 1 0 0 150 -75 150 75
+P 2 1 0 0 150 75 75 75
+P 2 1 0 0 -150 75 -150 -75
+P 2 1 0 0 0 -100 0 -75
+P 2 1 0 0 0 -75 150 -75
+P 2 1 0 0 0 100 0 75
+P 2 1 0 0 0 75 -150 75
+P 2 1 0 0 -75 -75 75 75
+P 2 1 0 0 -75 -75 0 -75
+P 2 1 0 0 75 75 0 75
+T 0 225 235 70 0 1 0 >PART
+X 1 P1 0 200 100 D 40 40 1 1 P 
+X 10 P10 0 -200 100 U 40 40 1 1 P 
+# Gate Name: G$2
+# Symbol Name: CONTACTS
+P 2 2 0 0 125 0 75 0
+P 2 2 0 0 -125 0 -75 0
+P 2 2 0 0 -75 0 75 50
+C -75 0 5 2 1 0 F
+T 0 75 135 70 0 2 0 >PART
+X P P2 -200 0 100 R 40 40 2 1 P 
+X S P4 200 0 100 L 40 40 2 1 P 
+# Gate Name: G$3
+# Symbol Name: CONTACTS
+P 2 3 0 0 125 0 75 0
+P 2 3 0 0 -125 0 -75 0
+P 2 3 0 0 -75 0 75 50
+C -75 0 5 3 1 0 F
+T 0 75 135 70 0 3 0 >PART
+X P P9 -200 0 100 R 40 40 3 1 P 
+X S P7 200 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

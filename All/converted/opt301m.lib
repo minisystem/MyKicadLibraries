@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:16
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: OPT301M
+# Package Name: TO-99
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF OPT301M ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: OPT301M
+DRAW
+P 2 1 0 0 -1200 -500 -1200 900
+P 2 1 0 0 -1200 900 -200 900
+P 2 1 0 0 -200 900 -200 -500
+P 2 1 0 0 -200 -500 -1200 -500
+T 0 -669 333 66 0 1 0 OPT301M
+X -IN 2 -1000 1100 200 D 40 40 1 1 B 
+X 1M_FEEDBACK 4 0 700 200 L 40 40 1 1 B 
+X COMMON 8 -1000 -700 200 U 40 40 1 1 B 
+X OUTPUT 5 0 -100 200 L 40 40 1 1 B 
+X V+ 1 -700 -700 200 U 40 40 1 1 B 
+X V- 3 -400 -700 200 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

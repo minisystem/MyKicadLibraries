@@ -1,0 +1,62 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:07
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: TRACOP
+# Package Name: TRACOP
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TRACOP ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TRACOP
+DRAW
+P 2 1 0 0 -700 300 400 300
+P 2 1 0 0 400 300 400 200
+P 2 1 0 0 400 200 400 0
+P 2 1 0 0 400 0 400 -300
+P 2 1 0 0 400 -300 400 -400
+P 2 1 0 0 400 -400 -700 -400
+P 2 1 0 0 -700 -400 -700 -200
+P 2 1 0 0 -700 -200 -700 200
+P 2 1 0 0 -700 200 -700 300
+T 0 125 35 70 0 1 0 dc-dc~converter
+T 0 -15 -65 70 0 1 0 TEL~2~WATTS
+T 0 -1060 235 70 0 1 0 Vin+
+T 0 -1060 -165 70 0 1 0 Vin-
+T 0 1075 235 70 0 1 0 Vout+
+T 0 1005 35 70 0 1 0 COM
+T 0 1075 -265 70 0 1 0 Vout-
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRACOP1
+# Package Name: TRACOP
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TRACOP1 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TRACOP1
+DRAW
+P 2 1 0 0 -200 300 -200 -300
+P 2 1 0 0 -200 -300 400 -300
+P 2 1 0 0 400 -300 400 300
+P 2 1 0 0 400 300 -200 300
+T 0 -500 325 50 0 1 0 +Vin
+T 0 -500 -75 50 0 1 0 -Vin
+T 0 700 325 50 0 1 0 Vout
+T 0 875 25 50 0 1 0 COM
+T 0 725 -275 50 0 1 0 -Vout
+X P$1 P$16 -400 200 200 R 40 40 1 1 B 
+X P$2 P$1 -400 -200 200 R 40 40 1 1 B 
+X P$3 P$9 600 200 200 L 40 40 1 1 B 
+X P$4 P$8 600 0 200 L 40 40 1 1 B 
+X P$5 P$10 600 -200 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

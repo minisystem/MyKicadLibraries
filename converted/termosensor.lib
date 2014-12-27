@@ -1,0 +1,182 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:05
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 6
+#
+# Dev Name: TMP122
+# Package Name: SOT23-6
+# Dev Tech: ''
+# Dev Prefix: TS
+# Gate count = 1
+#
+DEF TMP122 TS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMP12X
+F0 "TS" 400 0 50 H V L B
+F1 "TMP122" 100 -800 50 H V L B
+F2 "termosensor-SOT23-6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 500 0
+P 2 1 0 0 500 0 500 -700
+A 300 -400 300 -1799 -901 1 1 0 N 0 -400 300 -700
+P 2 1 0 0 300 -700 500 -700
+P 2 1 0 0 0 0 0 -400
+S 0 -600 200 -500 1 1 0 F
+T 0 300 -475 50 0 1 0 Temp
+X ALERT 1 -200 -100 200 R 40 40 1 1 O 
+X CS 5 -200 -400 200 R 40 40 1 1 I I
+X GND 2 600 -600 100 L 40 40 1 1 W 
+X SCK 4 700 -200 200 L 40 40 1 1 I C
+X SO/I 6 700 -300 200 L 40 40 1 1 B 
+X UCC 3 300 100 100 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TMP124
+# Package Name: SO-8
+# Dev Tech: ''
+# Dev Prefix: TS
+# Gate count = 1
+#
+DEF TMP124 TS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMP12X
+F0 "TS" 400 0 50 H V L B
+F1 "TMP124" 100 -800 50 H V L B
+F2 "termosensor-SO-8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 500 0
+P 2 1 0 0 500 0 500 -700
+A 300 -400 300 -1799 -901 1 1 0 N 0 -400 300 -700
+P 2 1 0 0 300 -700 500 -700
+P 2 1 0 0 0 0 0 -400
+S 0 -600 200 -500 1 1 0 F
+T 0 300 -475 50 0 1 0 Temp
+X ALERT 5 -200 -100 200 R 40 40 1 1 O 
+X CS 7 -200 -400 200 R 40 40 1 1 I I
+X GND 4 600 -600 100 L 40 40 1 1 W 
+X SCK 2 700 -200 200 L 40 40 1 1 I C
+X SO/I 1 700 -300 200 L 40 40 1 1 B 
+X UCC 8 300 100 100 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TMP100
+# Package Name: SOT23-6
+# Dev Tech: ''
+# Dev Prefix: TS
+# Gate count = 1
+#
+DEF TMP100 TS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMP100
+F0 "TS" 400 0 50 H V L B
+F1 "TMP100" 100 -800 50 H V L B
+F2 "termosensor-SOT23-6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 500 0
+P 2 1 0 0 500 0 500 -700
+A 300 -400 300 -1799 -901 1 1 0 N 0 -400 300 -700
+P 2 1 0 0 300 -700 500 -700
+P 2 1 0 0 0 0 0 -400
+S 0 -600 200 -500 1 1 0 F
+T 0 300 -475 50 0 1 0 Temp
+X AD0 5 -200 -100 200 R 40 40 1 1 I 
+X AD1 3 -200 -400 200 R 40 40 1 1 I 
+X GND 2 600 -600 100 L 40 40 1 1 W 
+X SCL 1 700 -200 200 L 40 40 1 1 B C
+X SDA 6 700 -300 200 L 40 40 1 1 B 
+X UCC 4 300 100 100 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TMP101
+# Package Name: SOT23-6
+# Dev Tech: ''
+# Dev Prefix: TS
+# Gate count = 1
+#
+DEF TMP101 TS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMP101
+F0 "TS" 400 0 50 H V L B
+F1 "TMP101" 100 -800 50 H V L B
+F2 "termosensor-SOT23-6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -400 0 0
+P 2 1 0 0 0 0 500 0
+P 2 1 0 0 500 0 500 -700
+A 300 -400 300 -1799 -901 1 1 0 N 0 -400 300 -700
+P 2 1 0 0 300 -700 500 -700
+S 0 -600 200 -500 1 1 0 F
+T 0 300 -475 50 0 1 0 Temp
+X AD0 5 -200 -100 200 R 40 40 1 1 I 
+X ALERT 3 -200 -400 200 R 40 40 1 1 O 
+X GND 2 600 -600 100 L 40 40 1 1 W 
+X SCL 1 700 -200 200 L 40 40 1 1 B C
+X SDA 6 700 -300 200 L 40 40 1 1 B 
+X UCC 4 300 100 100 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TMP141G
+# Package Name: MSOP-8
+# Dev Tech: ''
+# Dev Prefix: TS
+# Gate count = 1
+#
+DEF TMP141G TS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMP141
+F0 "TS" 400 0 50 H V L B
+F1 "TMP141G" 100 -800 50 H V L B
+F2 "termosensor-MSOP-8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 500 0
+P 2 1 0 0 500 0 500 -700
+A 300 -400 300 -1799 -901 1 1 0 N 0 -400 300 -700
+P 2 1 0 0 300 -700 500 -700
+P 2 1 0 0 0 0 0 -400
+S 0 -600 200 -500 1 1 0 F
+T 0 300 -475 50 0 1 0 Temp
+X AD0 6 -200 -100 200 R 40 40 1 1 I 
+X AD1 7 -200 -400 200 R 40 40 1 1 I 
+X GND 5 600 -600 100 L 40 40 1 1 W 
+X SWD 8 700 -200 200 L 40 40 1 1 B 
+X UCC 1 300 100 100 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TMP141S
+# Package Name: SOT23-6
+# Dev Tech: ''
+# Dev Prefix: TS
+# Gate count = 1
+#
+DEF TMP141S TS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TMP141
+F0 "TS" 400 0 50 H V L B
+F1 "TMP141S" 100 -800 50 H V L B
+F2 "termosensor-SOT23-6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 500 0
+P 2 1 0 0 500 0 500 -700
+A 300 -400 300 -1799 -901 1 1 0 N 0 -400 300 -700
+P 2 1 0 0 300 -700 500 -700
+P 2 1 0 0 0 0 0 -400
+S 0 -600 200 -500 1 1 0 F
+T 0 300 -475 50 0 1 0 Temp
+X AD0 1 -200 -100 200 R 40 40 1 1 I 
+X AD1 6 -200 -400 200 R 40 40 1 1 I 
+X GND 2 600 -600 100 L 40 40 1 1 W 
+X SWD 5 700 -200 200 L 40 40 1 1 B 
+X UCC 4 300 100 100 D 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

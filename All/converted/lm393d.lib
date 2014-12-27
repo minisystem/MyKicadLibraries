@@ -1,0 +1,44 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:33
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: LM393D
+# Package Name: LM393D
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 3
+#
+DEF LM393D ?? 0 40 Y Y 3 L N
+# Gate Name: G$1
+# Symbol Name: PSUPLY
+DRAW
+C 0 150 44 1 1 0 N
+C 0 -150 44 1 1 0 N
+X GND 4 0 -400 200 U 40 40 1 1 W 
+X VCC 8 0 400 200 D 40 40 1 1 W 
+# Gate Name: G$2
+# Symbol Name: LM393D
+P 2 2 0 0 -200 300 -200 -300
+P 2 2 0 0 -200 -300 400 0
+P 2 2 0 0 400 0 -200 300
+T 0 -145 205 70 0 2 0 +
+T 0 -135 -195 70 0 2 0 -
+T 0 58 3 66 0 2 0 LM393D
+X IN+ 3 -400 200 200 R 40 40 2 1 I 
+X IN- 2 -400 -200 200 R 40 40 2 1 I 
+X OUT 1 600 0 200 L 40 40 2 1 O 
+# Gate Name: G$3
+# Symbol Name: LM393D
+P 2 3 0 0 -200 300 -200 -300
+P 2 3 0 0 -200 -300 400 0
+P 2 3 0 0 400 0 -200 300
+T 0 -145 205 70 0 3 0 +
+T 0 -135 -195 70 0 3 0 -
+T 0 58 3 66 0 3 0 LM393D
+X IN+ 5 -400 200 200 R 40 40 3 1 I 
+X IN- 6 -400 -200 200 R 40 40 3 1 I 
+X OUT 7 600 0 200 L 40 40 3 1 O 
+ENDDRAW
+ENDDEF
+
+#End Library

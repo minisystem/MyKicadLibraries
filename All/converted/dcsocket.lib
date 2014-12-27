@@ -1,0 +1,60 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:12
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: DC21N
+# Package Name: DCSKTN
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DC21N ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DCN
+DRAW
+P 2 1 0 0 100 100 200 100
+P 2 1 0 0 200 100 260 30
+P 2 1 0 0 260 30 310 100
+P 2 1 0 0 100 0 170 0
+P 2 1 0 0 170 0 170 90
+P 2 1 0 0 170 90 160 60
+P 2 1 0 0 160 60 180 60
+P 2 1 0 0 180 60 170 90
+S 100 -120 310 -80 1 1 0 F
+T 0 35 135 50 0 1 0 +
+T 0 35 -125 50 0 1 0 -
+X + + 0 100 100 R 40 40 1 1 P 
+X - - 0 -100 100 R 40 40 1 1 P 
+X C C 0 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DC21P
+# Package Name: DCSKTP
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF DC21P ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DCP
+DRAW
+P 2 1 0 0 100 100 200 100
+P 2 1 0 0 200 100 260 30
+P 2 1 0 0 260 30 310 100
+P 2 1 0 0 100 0 170 0
+P 2 1 0 0 170 0 170 90
+P 2 1 0 0 170 90 160 60
+P 2 1 0 0 160 60 180 60
+P 2 1 0 0 180 60 170 90
+S 100 -120 310 -80 1 1 0 F
+T 0 35 -165 50 0 1 0 +
+T 0 35 175 50 0 1 0 -
+X + + 0 -100 100 R 40 40 1 1 P 
+X - - 0 100 100 R 40 40 1 1 P 
+X C C 0 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

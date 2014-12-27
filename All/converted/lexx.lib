@@ -1,0 +1,59 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:28
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: LEXX_SO8
+# Package Name: SO8
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF LEXX_SO8 IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: LEXX_SO8
+F0 "IC" -300 100 50 V V L B
+F1 "LEXX_SO8" 465 -600 50 V V L B
+F2 "lexx-SO8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 -300 -400
+P 2 1 0 0 -300 -400 400 -400
+P 2 1 0 0 400 -400 400 100
+P 2 1 0 0 400 100 -300 100
+X GND@1 2 0 -500 100 U 40 40 1 1 W 
+X GND@2 3 100 -500 100 U 40 40 1 1 W 
+X GND@3 6 200 -500 100 U 40 40 1 1 W 
+X GND@4 7 300 -500 100 U 40 40 1 1 W 
+X IN 8 -400 0 100 R 40 40 1 1 W 
+X INH 5 -400 -300 100 R 40 40 1 1 P 
+X OUT 1 500 0 100 L 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: LEXX_TO92
+# Package Name: TO92
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF LEXX_TO92 IC 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: LEXX_TO92
+F0 "IC" 100 -300 50 H V L B
+F1 "LEXX_TO92" 100 -400 50 H V L B
+F2 "lexx-TO92" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 -200 200 -200
+P 2 1 0 0 200 -200 200 100
+P 2 1 0 0 200 100 -200 100
+P 2 1 0 0 -200 100 -200 -200
+T 0 10 -140 60 0 1 0 GND
+T 0 -115 5 60 0 1 0 IN
+T 0 115 5 60 0 1 0 OUT
+X GND GND 0 -300 100 U 40 40 1 1 I 
+X IN IN -300 0 100 R 40 40 1 1 I 
+X OUT OUT 300 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

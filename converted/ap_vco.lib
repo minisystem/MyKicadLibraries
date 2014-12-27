@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:24
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: VCOVCO
+# Package Name: VCO
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF VCOVCO ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: VCO
+DRAW
+P 2 1 0 0 -1200 700 1200 700
+P 2 1 0 0 1200 700 1200 -900
+P 2 1 0 0 1200 -900 -1200 -900
+P 2 1 0 0 -1200 -900 -1200 700
+T 0 -1075 -475 50 0 1 0 1
+X !SHDN 4 900 -1100 200 U 40 40 1 1 B 
+X GND3 3 300 -1100 200 U 40 40 1 1 B 
+X GND8 8 -1000 900 200 D 40 40 1 1 B 
+X NC 1 -1000 -1100 200 U 40 40 1 1 B 
+X OUT 7 -400 900 200 D 40 40 1 1 B 
+X TUNE 2 -400 -1100 200 U 40 40 1 1 B 
+X VCC5 5 900 900 200 D 40 40 1 1 B 
+X VCC6 6 300 900 200 D 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

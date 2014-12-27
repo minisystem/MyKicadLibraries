@@ -1,0 +1,1896 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:59
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 44
+#
+# Dev Name: AK300/2
+# Package Name: AK300/2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF AK300/2 X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/2" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/2" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KLV
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK300/3
+# Package Name: AK300/3
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF AK300/3 X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/3" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/3" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KLV
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK300/4
+# Package Name: AK300/4
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF AK300/4 X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/4" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/4" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KLV
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK300/5
+# Package Name: AK300/5
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF AK300/5 X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/5" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/5" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KLV
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK300/6
+# Package Name: AK300/6
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF AK300/6 X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/6" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/6" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KLV
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK300/7
+# Package Name: AK300/7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF AK300/7 X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/7" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/7" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KLV
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK300/8
+# Package Name: AK300/8
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF AK300/8 X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/8" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/8" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KLV
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK300/9
+# Package Name: AK300/9
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF AK300/9 X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/9" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/9" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KLV
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK300/10
+# Package Name: AK300/10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF AK300/10 X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/10" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/10" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KLV
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK300/11
+# Package Name: AK300/11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF AK300/11 X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/11" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/11" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KL
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: KLV
+C 50 0 50 11 1 0 N
+X KL 11 200 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK300/12
+# Package Name: AK300/12
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF AK300/12 X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK300/12" 0 0 50 H V R T
+F2 "con-ptr500+-AK300/12" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KL
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: KL
+C 50 0 50 11 1 0 N
+X KL 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: KLV
+C 50 0 50 12 1 0 N
+X KL 12 200 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/2
+# Package Name: AK500/2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF AK500/2 X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/2" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/2" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KLV
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/3
+# Package Name: AK500/3
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF AK500/3 X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/3" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/3" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KLV
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/4
+# Package Name: AK500/4
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF AK500/4 X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/4" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/4" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KLV
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/5
+# Package Name: AK500/5
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF AK500/5 X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/5" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/5" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KLV
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/6
+# Package Name: AK500/6
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF AK500/6 X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/6" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/6" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KLV
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/7
+# Package Name: AK500/7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF AK500/7 X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/7" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/7" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KLV
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/8
+# Package Name: AK500/8
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF AK500/8 X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/8" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/8" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KLV
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/9
+# Package Name: AK500/9
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF AK500/9 X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/9" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/9" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KLV
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/10
+# Package Name: AK500/10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF AK500/10 X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/10" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/10" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KLV
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/11
+# Package Name: AK500/11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF AK500/11 X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/11" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/11" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KL
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: KLV
+C 50 0 50 11 1 0 N
+X KL 11 200 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK500/12
+# Package Name: AK500/12
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF AK500/12 X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK500/12" 0 0 50 H V R T
+F2 "con-ptr500+-AK500/12" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KL
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: KL
+C 50 0 50 11 1 0 N
+X KL 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: KLV
+C 50 0 50 12 1 0 N
+X KL 12 200 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/2
+# Package Name: AK505/2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF AK505/2 X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/2" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/2" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KLV
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/3
+# Package Name: AK505/3
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF AK505/3 X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/3" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/3" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KLV
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/4
+# Package Name: AK505/4
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF AK505/4 X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/4" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/4" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KLV
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/5
+# Package Name: AK505/5
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF AK505/5 X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/5" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/5" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KLV
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/6
+# Package Name: AK505/7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF AK505/6 X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/6" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/7" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KLV
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/7
+# Package Name: AK505/7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF AK505/7 X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/7" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/7" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KLV
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/8
+# Package Name: AK505/8
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF AK505/8 X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/8" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/8" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KLV
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/9
+# Package Name: AK505/9
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF AK505/9 X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/9" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/9" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KLV
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/10
+# Package Name: AK505/10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF AK505/10 X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/10" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/10" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KLV
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/11
+# Package Name: AK505/11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF AK505/11 X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/11" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/11" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KL
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: KLV
+C 50 0 50 11 1 0 N
+X KL 11 200 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK505/12
+# Package Name: AK505/12
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF AK505/12 X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK505/12" 0 0 50 H V R T
+F2 "con-ptr500+-AK505/12" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KL
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: KL
+C 50 0 50 11 1 0 N
+X KL 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: KLV
+C 50 0 50 12 1 0 N
+X KL 12 200 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/2
+# Package Name: AK550/2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF AK550/2 X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/2" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/2" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KLV
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/3
+# Package Name: AK550/3
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF AK550/3 X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/3" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/3" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KLV
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/4
+# Package Name: AK550/4
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF AK550/4 X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/4" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/4" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KLV
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/5
+# Package Name: AK550/5
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF AK550/5 X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/5" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/5" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KLV
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/6
+# Package Name: AK550/6
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF AK550/6 X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/6" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/6" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KLV
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/7
+# Package Name: AK550/7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF AK550/7 X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/7" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/7" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KLV
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/8
+# Package Name: AK550/8
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF AK550/8 X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/8" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/8" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KLV
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/9
+# Package Name: AK550/9
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF AK550/9 X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/9" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/9" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KLV
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/10
+# Package Name: AK550/10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF AK550/10 X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/10" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/10" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KLV
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/11
+# Package Name: AK550/11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF AK550/11 X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/11" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/11" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KL
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: KLV
+C 50 0 50 11 1 0 N
+X KL 11 200 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AK550/12
+# Package Name: AK550/12
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF AK550/12 X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: KL
+F0 "X" 0 35 50 H V R T
+F1 "AK550/12" 0 0 50 H V R T
+F2 "con-ptr500+-AK550/12" 0 150 50 H I C C
+DRAW
+C 50 0 50 1 1 0 N
+X KL 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: KL
+C 50 0 50 2 1 0 N
+X KL 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: KL
+C 50 0 50 3 1 0 N
+X KL 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: KL
+C 50 0 50 4 1 0 N
+X KL 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: KL
+C 50 0 50 5 1 0 N
+X KL 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: KL
+C 50 0 50 6 1 0 N
+X KL 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: KL
+C 50 0 50 7 1 0 N
+X KL 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: KL
+C 50 0 50 8 1 0 N
+X KL 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: KL
+C 50 0 50 9 1 0 N
+X KL 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: KL
+C 50 0 50 10 1 0 N
+X KL 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: KL
+C 50 0 50 11 1 0 N
+X KL 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: KLV
+C 50 0 50 12 1 0 N
+X KL 12 200 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,59 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:34
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: BV20_1P1S
+# Package Name: BV20
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF BV20_1P1S ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TR_1P1S
+DRAW
+P 2 1 0 0 50 205 50 -305
+S -90 -300 10 200 1 1 0 F
+S 90 -200 190 100 1 1 0 F
+C -115 -340 5 1 1 0 F
+C 215 -230 5 1 1 0 F
+T 1 -150 -25 50 0 1 0 PRI
+T 1 250 -25 50 0 1 0 SEC
+X P1 1 -200 200 200 R 40 40 1 1 P 
+X P2 4 -200 -300 200 R 40 40 1 1 P 
+X S3 7 300 -200 200 L 40 40 1 1 P 
+X S4 6 300 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BV20_1P2S
+# Package Name: BV20
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF BV20_1P2S ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TR_1P2S
+DRAW
+P 2 1 0 0 50 225 50 -325
+S -90 -300 10 200 1 1 0 F
+S 90 0 190 200 1 1 0 F
+S 90 -300 190 -100 1 1 0 F
+C -80 -320 5 1 1 0 F
+C 185 -320 5 1 1 0 F
+C 185 -20 5 1 1 0 F
+T 1 -150 -25 50 0 1 0 PRI
+T 1 230 -195 50 0 1 0 S1
+T 1 230 105 50 0 1 0 S2
+X 1 1 -200 200 200 R 40 40 1 1 P 
+X 2 4 -200 -300 200 R 40 40 1 1 P 
+X 3 6 300 -300 200 L 40 40 1 1 P 
+X 4 5 300 -100 200 L 40 40 1 1 P 
+X 5 8 300 0 200 L 40 40 1 1 P 
+X 6 7 300 200 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

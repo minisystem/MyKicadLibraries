@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:25
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: IR2112
+# Package Name: DIL14
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF IR2112 IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: IR2112
+F0 "IC" -300 700 50 H V L B
+F1 "IR2112" -300 -800 50 H V L B
+F2 "ir2112-DIL14" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 300 700 -300 700
+P 2 1 0 0 -300 700 -300 -700
+P 2 1 0 0 -300 -700 300 -700
+P 2 1 0 0 300 -700 300 700
+X COM 2 500 -400 200 L 40 40 1 1 w 
+X HIN 10 -500 200 200 R 40 40 1 1 I 
+X HO 7 500 600 200 L 40 40 1 1 O 
+X LIN 12 -500 -200 200 R 40 40 1 1 I 
+X LO 1 500 -600 200 L 40 40 1 1 O 
+X SD 11 -500 0 200 R 40 40 1 1 I 
+X VB 6 500 400 200 L 40 40 1 1 w 
+X VCC 3 500 -200 200 L 40 40 1 1 w 
+X VDD 9 -500 400 200 R 40 40 1 1 w 
+X VS 5 500 200 200 L 40 40 1 1 w 
+X VSS 13 -500 -400 200 R 40 40 1 1 w 
+ENDDRAW
+ENDDEF
+
+#End Library

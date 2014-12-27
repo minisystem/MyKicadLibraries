@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:06
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: TIP112
+# Package Name: T0220
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF TIP112 T 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TIP112
+F0 "T" 350 125 50 H V L B
+F1 "TIP112" 350 50 50 H V L B
+F2 "tip112-T0220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 200 0 -195
+P 2 1 0 0 0 -195 325 -195
+P 2 1 0 0 325 -195 325 200
+P 2 1 0 0 325 200 0 200
+X B 1 -100 0 100 R 40 40 1 1 B 
+X C 2 200 300 100 D 40 40 1 1 B 
+X E 3 200 -300 100 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

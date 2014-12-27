@@ -1,0 +1,7885 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:32
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 287
+#
+# Dev Name: CBP_ENP-010-030
+# Package Name: CENP-010-030
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CBP_ENP-010-030 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "CBP_ENP-010-030" -150 -162 50 H V L B
+F2 "rc-master-CENP-010-030" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CBP_ENP-015-040
+# Package Name: CENP-015-040
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CBP_ENP-015-040 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "CBP_ENP-015-040" -150 -162 50 H V L B
+F2 "rc-master-CENP-015-040" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CBP_ENP-020-050
+# Package Name: CENP-020-050
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CBP_ENP-020-050 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "CBP_ENP-020-050" -150 -162 50 H V L B
+F2 "rc-master-CENP-020-050" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CBP_ENP-025-060
+# Package Name: CENP-025-060
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CBP_ENP-025-060 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "CBP_ENP-025-060" -150 -162 50 H V L B
+F2 "rc-master-CENP-025-060" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CBP_ENP-035-080
+# Package Name: CENP-035-080
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CBP_ENP-035-080 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "CBP_ENP-035-080" -150 -162 50 H V L B
+F2 "rc-master-CENP-035-080" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CBP_SV-B
+# Package Name: CSV-B
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CBP_SV-B C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "CBP_SV-B" -150 -162 50 H V L B
+F2 "rc-master-CSV-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 + -100 0 0 R 40 40 1 1 P 
+X 2 - 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CBP_SV-C
+# Package Name: CSV-C
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CBP_SV-C C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "CBP_SV-C" -150 -162 50 H V L B
+F2 "rc-master-CSV-C" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 + -100 0 0 R 40 40 1 1 P 
+X 2 - 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CBP_SV-D
+# Package Name: CSV-D
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CBP_SV-D C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "CBP_SV-D" -150 -162 50 H V L B
+F2 "rc-master-CSV-D" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 + -100 0 0 R 40 40 1 1 P 
+X 2 - 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CCA_ECJ-0805
+# Package Name: CECJ-0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 4
+#
+DEF CCA_ECJ-0805 C 0 40 Y Y 4 L N
+# Gate Name: A
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "CCA_ECJ-0805" -150 -162 50 H V L B
+F2 "rc-master-CECJ-0805" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 A1 -100 0 0 R 40 40 1 1 P 
+X 2 A2 100 0 0 L 40 40 1 1 P 
+# Gate Name: B
+# Symbol Name: CNP-
+P 2 2 0 0 -100 0 -25 0
+P 2 2 0 0 100 0 25 0
+P 2 2 0 0 25 62 25 0
+P 2 2 0 0 25 0 25 -62
+P 2 2 0 0 -25 62 -25 0
+P 2 2 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 2 0 1
+T 0 107 -33 34 0 2 0 2
+X 1 B1 -100 0 0 R 40 40 2 1 P 
+X 2 B2 100 0 0 L 40 40 2 1 P 
+# Gate Name: C
+# Symbol Name: CNP-
+P 2 3 0 0 -100 0 -25 0
+P 2 3 0 0 100 0 25 0
+P 2 3 0 0 25 62 25 0
+P 2 3 0 0 25 0 25 -62
+P 2 3 0 0 -25 62 -25 0
+P 2 3 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 3 0 1
+T 0 107 -33 34 0 3 0 2
+X 1 C1 -100 0 0 R 40 40 3 1 P 
+X 2 C2 100 0 0 L 40 40 3 1 P 
+# Gate Name: D
+# Symbol Name: CNP-
+P 2 4 0 0 -100 0 -25 0
+P 2 4 0 0 100 0 25 0
+P 2 4 0 0 25 62 25 0
+P 2 4 0 0 25 0 25 -62
+P 2 4 0 0 -25 62 -25 0
+P 2 4 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 4 0 1
+T 0 107 -33 34 0 4 0 2
+X 1 D1 -100 0 0 R 40 40 4 1 P 
+X 2 D2 100 0 0 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CCA_ECJ-1206
+# Package Name: CECJ-1206
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 4
+#
+DEF CCA_ECJ-1206 C 0 40 Y Y 4 L N
+# Gate Name: A
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "CCA_ECJ-1206" -150 -162 50 H V L B
+F2 "rc-master-CECJ-1206" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 A1 -100 0 0 R 40 40 1 1 P 
+X 2 A2 100 0 0 L 40 40 1 1 P 
+# Gate Name: B
+# Symbol Name: CNP-
+P 2 2 0 0 -100 0 -25 0
+P 2 2 0 0 100 0 25 0
+P 2 2 0 0 25 62 25 0
+P 2 2 0 0 25 0 25 -62
+P 2 2 0 0 -25 62 -25 0
+P 2 2 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 2 0 1
+T 0 107 -33 34 0 2 0 2
+X 1 B1 -100 0 0 R 40 40 2 1 P 
+X 2 B2 100 0 0 L 40 40 2 1 P 
+# Gate Name: C
+# Symbol Name: CNP-
+P 2 3 0 0 -100 0 -25 0
+P 2 3 0 0 100 0 25 0
+P 2 3 0 0 25 62 25 0
+P 2 3 0 0 25 0 25 -62
+P 2 3 0 0 -25 62 -25 0
+P 2 3 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 3 0 1
+T 0 107 -33 34 0 3 0 2
+X 1 C1 -100 0 0 R 40 40 3 1 P 
+X 2 C2 100 0 0 L 40 40 3 1 P 
+# Gate Name: D
+# Symbol Name: CNP-
+P 2 4 0 0 -100 0 -25 0
+P 2 4 0 0 100 0 25 0
+P 2 4 0 0 25 62 25 0
+P 2 4 0 0 25 0 25 -62
+P 2 4 0 0 -25 62 -25 0
+P 2 4 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 4 0 1
+T 0 107 -33 34 0 4 0 2
+X 1 D1 -100 0 0 R 40 40 4 1 P 
+X 2 D2 100 0 0 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_3216
+# Package Name: C3216/T
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_3216 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_3216" -200 -150 50 H V L B
+F2 "rc-master-C3216/T" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_3216-18R
+# Package Name: C3216-18R/T
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_3216-18R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_3216-18R" -200 -150 50 H V L B
+F2 "rc-master-C3216-18R/T" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_3216-18W
+# Package Name: C3216-18W/T
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_3216-18W C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_3216-18W" -200 -150 50 H V L B
+F2 "rc-master-C3216-18W/T" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_3216-TE-A
+# Package Name: C3216-TE-A
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_3216-TE-A C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_3216-TE-A" -200 -150 50 H V L B
+F2 "rc-master-C3216-TE-A" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_3258-TE-B
+# Package Name: C3528-TE-B
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_3258-TE-B C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_3258-TE-B" -200 -150 50 H V L B
+F2 "rc-master-C3528-TE-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_3528
+# Package Name: C3528/T
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_3528 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_3528" -200 -150 50 H V L B
+F2 "rc-master-C3528/T" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_3528-21R
+# Package Name: C3528-21R/T
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_3528-21R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_3528-21R" -200 -150 50 H V L B
+F2 "rc-master-C3528-21R/T" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_3528-21W
+# Package Name: C3528-21W/T
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_3528-21W C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_3528-21W" -200 -150 50 H V L B
+F2 "rc-master-C3528-21W/T" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_6032
+# Package Name: C6032/T
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_6032 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_6032" -200 -150 50 H V L B
+F2 "rc-master-C6032/T" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_6032-28R
+# Package Name: C6032-28R/T
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_6032-28R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_6032-28R" -200 -150 50 H V L B
+F2 "rc-master-C6032-28R/T" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_6032-28W
+# Package Name: C6032-28W/T
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_6032-28W C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_6032-28W" -200 -150 50 H V L B
+F2 "rc-master-C6032-28W/T" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_6032-TE-C
+# Package Name: C6032-TE-C
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_6032-TE-C C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_6032-TE-C" -200 -150 50 H V L B
+F2 "rc-master-C6032-TE-C" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_7343
+# Package Name: C7343/T
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_7343 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_7343" -200 -150 50 H V L B
+F2 "rc-master-C7343/T" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_7343-TE-D
+# Package Name: C7343-TE-D
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_7343-TE-D C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_7343-TE-D" -200 -150 50 H V L B
+F2 "rc-master-C7343-TE-D" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_AA127X350
+# Package Name: CEAA127X350
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_AA127X350 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_AA127X350" -200 -150 50 H V L B
+F2 "rc-master-CEAA127X350" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_AA222X510
+# Package Name: CEAA222X510
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_AA222X510 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_AA222X510" -200 -150 50 H V L B
+F2 "rc-master-CEAA222X510" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_AA286X640
+# Package Name: CEAA286X640
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_AA286X640 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_AA286X640" -200 -150 50 H V L B
+F2 "rc-master-CEAA286X640" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_AA318X790
+# Package Name: CEAA318X790
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_AA318X790 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_AA318X790" -200 -150 50 H V L B
+F2 "rc-master-CEAA318X790" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC139CLL-2R
+# Package Name: C139CLL-2R
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC139CLL-2R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC139CLL-2R" -200 -150 50 H V L B
+F2 "rc-master-C139CLL-2R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC139CLL-2W
+# Package Name: C139CLL-2W
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC139CLL-2W C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC139CLL-2W" -200 -150 50 H V L B
+F2 "rc-master-C139CLL-2W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC139CLL-3W
+# Package Name: C139CLL-3W
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC139CLL-3W C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC139CLL-3W" -200 -150 50 H V L B
+F2 "rc-master-C139CLL-3W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC140CLH-0810
+# Package Name: C140CLH-0810
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC140CLH-0810 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC140CLH-0810" -200 -150 50 H V L B
+F2 "rc-master-C140CLH-0810" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC140CLH-1010
+# Package Name: C140CLH-1010
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC140CLH-1010 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC140CLH-1010" -200 -150 50 H V L B
+F2 "rc-master-C140CLH-1010" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC140CLH-1014
+# Package Name: C140CLH-1014
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC140CLH-1014 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC140CLH-1014" -200 -150 50 H V L B
+F2 "rc-master-C140CLH-1014" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC150CLZ-0810
+# Package Name: C150CLZ-0810
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC150CLZ-0810 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC150CLZ-0810" -200 -150 50 H V L B
+F2 "rc-master-C150CLZ-0810" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC150CLZ-1010
+# Package Name: C150CLZ-1010
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC150CLZ-1010 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC150CLZ-1010" -200 -150 50 H V L B
+F2 "rc-master-C150CLZ-1010" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC150CLZ-1014
+# Package Name: C150CLZ-1014
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC150CLZ-1014 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC150CLZ-1014" -200 -150 50 H V L B
+F2 "rc-master-C150CLZ-1014" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC153CLV-0405
+# Package Name: C153CLV-0405
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC153CLV-0405 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC153CLV-0405" -200 -150 50 H V L B
+F2 "rc-master-C153CLV-0405" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC153CLV-0505
+# Package Name: C153CLV-0505
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC153CLV-0505 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC153CLV-0505" -200 -150 50 H V L B
+F2 "rc-master-C153CLV-0505" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC153CLV-0605
+# Package Name: C153CLV-0605
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC153CLV-0605 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC153CLV-0605" -200 -150 50 H V L B
+F2 "rc-master-C153CLV-0605" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC153CLV-0807
+# Package Name: C153CLV-0807
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC153CLV-0807 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC153CLV-0807" -200 -150 50 H V L B
+F2 "rc-master-C153CLV-0807" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC153CLV-0810
+# Package Name: C153CLV-0810
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC153CLV-0810 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC153CLV-0810" -200 -150 50 H V L B
+F2 "rc-master-C153CLV-0810" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC153CLV-1010
+# Package Name: C153CLV-1010
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC153CLV-1010 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC153CLV-1010" -200 -150 50 H V L B
+F2 "rc-master-C153CLV-1010" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC153CLV-1012
+# Package Name: C153CLV-1012
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC153CLV-1012 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC153CLV-1012" -200 -150 50 H V L B
+F2 "rc-master-C153CLV-1012" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC153CLV-1014
+# Package Name: C153CLV-1014
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC153CLV-1014 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC153CLV-1014" -200 -150 50 H V L B
+F2 "rc-master-C153CLV-1014" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC175TMP-0808
+# Package Name: C175TMP-0808
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC175TMP-0808 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC175TMP-0808" -200 -150 50 H V L B
+F2 "rc-master-C175TMP-0808" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_BC175TMP-0810
+# Package Name: C175TMP-0810
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_BC175TMP-0810 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_BC175TMP-0810" -200 -150 50 H V L B
+F2 "rc-master-C175TMP-0810" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-010X030
+# Package Name: CE-010X030
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-010X030 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-010X030" -200 -150 50 H V L B
+F2 "rc-master-CE-010X030" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-015X040
+# Package Name: CE-015X040
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-015X040 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-015X040" -200 -150 50 H V L B
+F2 "rc-master-CE-015X040" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-020X050
+# Package Name: CE-020X050
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-020X050 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-020X050" -200 -150 50 H V L B
+F2 "rc-master-CE-020X050" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-020X060
+# Package Name: CE-020X060
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-020X060 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-020X060" -200 -150 50 H V L B
+F2 "rc-master-CE-020X060" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-025X060
+# Package Name: CE-025X060
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-025X060 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-025X060" -200 -150 50 H V L B
+F2 "rc-master-CE-025X060" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-025X065
+# Package Name: CE-025X065
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-025X065 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-025X065" -200 -150 50 H V L B
+F2 "rc-master-CE-025X065" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-025X075
+# Package Name: CE-025X075
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-025X075 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-025X075" -200 -150 50 H V L B
+F2 "rc-master-CE-025X075" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-025X085
+# Package Name: CE-025X085
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-025X085 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-025X085" -200 -150 50 H V L B
+F2 "rc-master-CE-025X085" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-035X080
+# Package Name: CE-035X080
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-035X080 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-035X080" -200 -150 50 H V L B
+F2 "rc-master-CE-035X080" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-035X100
+# Package Name: CE-035X100
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-035X100 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-035X100" -200 -150 50 H V L B
+F2 "rc-master-CE-035X100" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-050X100
+# Package Name: CE-050X100
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-050X100 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-050X100" -200 -150 50 H V L B
+F2 "rc-master-CE-050X100" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-050X120
+# Package Name: CE-050X120
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-050X120 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-050X120" -200 -150 50 H V L B
+F2 "rc-master-CE-050X120" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-050X125
+# Package Name: CE-050X125
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-050X125 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-050X125" -200 -150 50 H V L B
+F2 "rc-master-CE-050X125" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-075X160
+# Package Name: CE-075X160
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-075X160 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-075X160" -200 -150 50 H V L B
+F2 "rc-master-CE-075X160" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_E-075X180
+# Package Name: CE-075X180
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_E-075X180 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_E-075X180" -200 -150 50 H V L B
+F2 "rc-master-CE-075X180" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-035X070
+# Package Name: CEA-035X070
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-035X070 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-035X070" -200 -150 50 H V L B
+F2 "rc-master-CEA-035X070" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-045X100
+# Package Name: CEA-045X100
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-045X100 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-045X100" -200 -150 50 H V L B
+F2 "rc-master-CEA-045X100" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-063X100
+# Package Name: CEA-063X100
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-063X100 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-063X100" -200 -150 50 H V L B
+F2 "rc-master-CEA-063X100" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-080X160
+# Package Name: CEA-080X160
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-080X160 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-080X160" -200 -150 50 H V L B
+F2 "rc-master-CEA-080X160" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-080X200
+# Package Name: CEA-080X200
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-080X200 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-080X200" -200 -150 50 H V L B
+F2 "rc-master-CEA-080X200" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-100X100;
+# Package Name: CEA-100X100
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-100X100; C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-100X100;" -200 -150 50 H V L B
+F2 "rc-master-CEA-100X100" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-100X250
+# Package Name: CEA-100X250
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-100X250 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-100X250" -200 -150 50 H V L B
+F2 "rc-master-CEA-100X250" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-120X250
+# Package Name: CEA-120X250
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-120X250 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-120X250" -200 -150 50 H V L B
+F2 "rc-master-CEA-120X250" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-120X310
+# Package Name: CEA-120X310
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-120X310 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-120X310" -200 -150 50 H V L B
+F2 "rc-master-CEA-120X310" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-160X250
+# Package Name: CEA-160X250
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-160X250 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-160X250" -200 -150 50 H V L B
+F2 "rc-master-CEA-160X250" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-160X310
+# Package Name: CEA-160X310
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-160X310 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-160X310" -200 -150 50 H V L B
+F2 "rc-master-CEA-160X310" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-180X400
+# Package Name: CEA-180X400
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-180X400 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-180X400" -200 -150 50 H V L B
+F2 "rc-master-CEA-180X400" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-220X400
+# Package Name: CEA-220X400
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-220X400 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-220X400" -200 -150 50 H V L B
+F2 "rc-master-CEA-220X400" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EA-220X500
+# Package Name: CEA-220X500
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EA-220X500 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EA-220X500" -200 -150 50 H V L B
+F2 "rc-master-CEA-220X500" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-015-040X070
+# Package Name: CEH-015-040X070
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-015-040X070 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-015-040X070" -200 -150 50 H V L B
+F2 "rc-master-CEH-015-040X070" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-015-040X070/R
+# Package Name: CEH-015-040X070/R
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-015-040X070/R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-015-040X070/R" -200 -150 50 H V L B
+F2 "rc-master-CEH-015-040X070/R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-015-040X110
+# Package Name: CEH-015-040X110
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-015-040X110 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-015-040X110" -200 -150 50 H V L B
+F2 "rc-master-CEH-015-040X110" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-015-040X110/R
+# Package Name: CEH-015-040X110/R
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-015-040X110/R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-015-040X110/R" -200 -150 50 H V L B
+F2 "rc-master-CEH-015-040X110/R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-020-050X110
+# Package Name: CEH-020-050X110
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-020-050X110 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-020-050X110" -200 -150 50 H V L B
+F2 "rc-master-CEH-020-050X110" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-020-050X110/R
+# Package Name: CEH-020-050X110/R
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-020-050X110/R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-020-050X110/R" -200 -150 50 H V L B
+F2 "rc-master-CEH-020-050X110/R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-020-050X150
+# Package Name: CEH-020-050X150
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-020-050X150 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-020-050X150" -200 -150 50 H V L B
+F2 "rc-master-CEH-020-050X150" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-020-050X150/R
+# Package Name: CEH-020-050X150/R
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-020-050X150/R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-020-050X150/R" -200 -150 50 H V L B
+F2 "rc-master-CEH-020-050X150/R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-025-060X110
+# Package Name: CEH-025-060X110
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-025-060X110 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-025-060X110" -200 -150 50 H V L B
+F2 "rc-master-CEH-025-060X110" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-025-060X110/R
+# Package Name: CEH-025-060X110/R
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-025-060X110/R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-025-060X110/R" -200 -150 50 H V L B
+F2 "rc-master-CEH-025-060X110/R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-025-060X150
+# Package Name: CEH-025-060X150
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-025-060X150 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-025-060X150" -200 -150 50 H V L B
+F2 "rc-master-CEH-025-060X150" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-025-060X150/R
+# Package Name: CEH-025-060X150/R
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-025-060X150/R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-025-060X150/R" -200 -150 50 H V L B
+F2 "rc-master-CEH-025-060X150/R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-035-080X115
+# Package Name: CEH-035-080X115
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-035-080X115 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-035-080X115" -200 -150 50 H V L B
+F2 "rc-master-CEH-035-080X115" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-035-080X115/R
+# Package Name: CEH-035-080X115/R
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-035-080X115/R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-035-080X115/R" -200 -150 50 H V L B
+F2 "rc-master-CEH-035-080X115/R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-050-100X120
+# Package Name: CEH-050-100X120
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-050-100X120 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-050-100X120" -200 -150 50 H V L B
+F2 "rc-master-CEH-050-100X120" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-050-100X120/R
+# Package Name: CEH-050-100X120/R
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-050-100X120/R C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-050-100X120/R" -200 -150 50 H V L B
+F2 "rc-master-CEH-050-100X120/R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_EH-050-100X200
+# Package Name: CEH-050-100X200
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_EH-050-100X200 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_EH-050-100X200" -200 -150 50 H V L B
+F2 "rc-master-CEH-050-100X200" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_ETS-20
+# Package Name: CETS-20
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_ETS-20 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_ETS-20" -200 -150 50 H V L B
+F2 "rc-master-CETS-20" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_ETS-22
+# Package Name: CETS-22
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_ETS-22 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_ETS-22" -200 -150 50 H V L B
+F2 "rc-master-CETS-22" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_ETS-25
+# Package Name: CETS-25
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_ETS-25 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_ETS-25" -200 -150 50 H V L B
+F2 "rc-master-CETS-25" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_ETS-30
+# Package Name: CETS-30
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_ETS-30 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_ETS-30" -200 -150 50 H V L B
+F2 "rc-master-CETS-30" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_ETS-35
+# Package Name: CETS-35
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_ETS-35 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_ETS-35" -200 -150 50 H V L B
+F2 "rc-master-CETS-35" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_ETS-40
+# Package Name: CETS-40
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_ETS-40 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_ETS-40" -200 -150 50 H V L B
+F2 "rc-master-CETS-40" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_GC-SD-H
+# Package Name: CGOLD-SD-H
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_GC-SD-H C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_GC-SD-H" -200 -150 50 H V L B
+F2 "rc-master-CGOLD-SD-H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_GC-SD-V
+# Package Name: CGOLD-SD-V
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_GC-SD-V C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_GC-SD-V" -200 -150 50 H V L B
+F2 "rc-master-CGOLD-SD-V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_SV-A
+# Package Name: CSV-A
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_SV-A C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_SV-A" -200 -150 50 H V L B
+F2 "rc-master-CSV-A" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_SV-B
+# Package Name: CSV-B
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_SV-B C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_SV-B" -200 -150 50 H V L B
+F2 "rc-master-CSV-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_SV-C
+# Package Name: CSV-C
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_SV-C C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_SV-C" -200 -150 50 H V L B
+F2 "rc-master-CSV-C" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_SV-D
+# Package Name: CSV-D
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_SV-D C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_SV-D" -200 -150 50 H V L B
+F2 "rc-master-CSV-D" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_SV-E/F
+# Package Name: CSV-E/F
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_SV-E/F C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_SV-E/F" -200 -150 50 H V L B
+F2 "rc-master-CSV-E/F" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_SV-G
+# Package Name: CSV-G
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_SV-G C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_SV-G" -200 -150 50 H V L B
+F2 "rc-master-CSV-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_SV-H
+# Package Name: CSV-H
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_SV-H C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_SV-H" -200 -150 50 H V L B
+F2 "rc-master-CSV-H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_SV-J
+# Package Name: CSV-J
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_SV-J C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_SV-J" -200 -150 50 H V L B
+F2 "rc-master-CSV-J" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_SV-K
+# Package Name: CSV-K
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_SV-K C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_SV-K" -200 -150 50 H V L B
+F2 "rc-master-CSV-K" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_TT025-030
+# Package Name: CTT-025-030
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_TT025-030 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_TT025-030" -200 -150 50 H V L B
+F2 "rc-master-CTT-025-030" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_TT025-040
+# Package Name: CTT-025-040
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_TT025-040 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_TT025-040" -200 -150 50 H V L B
+F2 "rc-master-CTT-025-040" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_TT025-050
+# Package Name: CTT-025-050
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_TT025-050 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_TT025-050" -200 -150 50 H V L B
+F2 "rc-master-CTT-025-050" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_TT025-070
+# Package Name: CTT-025-070
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_TT025-070 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_TT025-070" -200 -150 50 H V L B
+F2 "rc-master-CTT-025-070" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_TT025-100
+# Package Name: CTT-025-100
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_TT025-100 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_TT025-100" -200 -150 50 H V L B
+F2 "rc-master-CTT-025-100" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_TT050-080
+# Package Name: CTT-050-080
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_TT050-080 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_TT050-080" -200 -150 50 H V L B
+F2 "rc-master-CTT-050-080" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CP_TT050-100
+# Package Name: CTT-050-100
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CP_TT050-100 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CP-
+F0 "C" 125 25 50 H V L B
+F1 "CP_TT050-100" -200 -150 50 H V L B
+F2 "rc-master-CTT-050-100" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 0 100 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -15 0 -15 0
+P 2 1 0 0 -15 0 -100 0
+A -113 0 98 -380 -4 1 1 0 N -35 -60 -14 0
+A -113 0 98 -3597 -3225 1 1 0 N -15 0 -35 59
+T 0 78 53 56 0 1 0 +
+X + + 100 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_0201
+# Package Name: C0201
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_0201 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_0201" -150 -162 50 H V L B
+F2 "rc-master-C0201" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_0402
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_0402 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_0402" -150 -162 50 H V L B
+F2 "rc-master-C0402" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_0603
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_0603 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_0603" -150 -162 50 H V L B
+F2 "rc-master-C0603" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_0805
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_0805 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_0805" -150 -162 50 H V L B
+F2 "rc-master-C0805" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_1206
+# Package Name: C1206
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_1206 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_1206" -150 -162 50 H V L B
+F2 "rc-master-C1206" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_1210
+# Package Name: C1210
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_1210 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_1210" -150 -162 50 H V L B
+F2 "rc-master-C1210" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_1608
+# Package Name: C1608
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_1608 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_1608" -150 -162 50 H V L B
+F2 "rc-master-C1608" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_1808
+# Package Name: C1808
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_1808 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_1808" -150 -162 50 H V L B
+F2 "rc-master-C1808" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_1812
+# Package Name: C1812
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_1812 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_1812" -150 -162 50 H V L B
+F2 "rc-master-C1812" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_1812K
+# Package Name: C1812K
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_1812K C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_1812K" -150 -162 50 H V L B
+F2 "rc-master-C1812K" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_1825
+# Package Name: C1825
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_1825 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_1825" -150 -162 50 H V L B
+F2 "rc-master-C1825" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_1825K
+# Package Name: C1825K
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_1825K C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_1825K" -150 -162 50 H V L B
+F2 "rc-master-C1825K" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_2012
+# Package Name: C2012
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_2012 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_2012" -150 -162 50 H V L B
+F2 "rc-master-C2012" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_2220K
+# Package Name: C2220K
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_2220K C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_2220K" -150 -162 50 H V L B
+F2 "rc-master-C2220K" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_2225K
+# Package Name: C2225K
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_2225K C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_2225K" -150 -162 50 H V L B
+F2 "rc-master-C2225K" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_3216
+# Package Name: C3216
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_3216 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_3216" -150 -162 50 H V L B
+F2 "rc-master-C3216" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_3225
+# Package Name: C3225
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_3225 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_3225" -150 -162 50 H V L B
+F2 "rc-master-C3225" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_4532
+# Package Name: C4532
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_4532 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_4532" -150 -162 50 H V L B
+F2 "rc-master-C4532" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_4564
+# Package Name: C4564
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_4564 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_4564" -150 -162 50 H V L B
+F2 "rc-master-C4564" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C020-035X018
+# Package Name: C020-035X018
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C020-035X018 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C020-035X018" -150 -162 50 H V L B
+F2 "rc-master-C020-035X018" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C025-040X018
+# Package Name: C025-040X018
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C025-040X018 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C025-040X018" -150 -162 50 H V L B
+F2 "rc-master-C025-040X018" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C025-050X025
+# Package Name: C025-050X025
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C025-050X025 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C025-050X025" -150 -162 50 H V L B
+F2 "rc-master-C025-050X025" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C035-055X025
+# Package Name: C035-055X025
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C035-055X025 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C035-055X025" -150 -162 50 H V L B
+F2 "rc-master-C035-055X025" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C050-075X030
+# Package Name: C050-075X030
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C050-075X030 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C050-075X030" -150 -162 50 H V L B
+F2 "rc-master-C050-075X030" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C050-075X035
+# Package Name: C050-075X035
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C050-075X035 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C050-075X035" -150 -162 50 H V L B
+F2 "rc-master-C050-075X035" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C050-075X040
+# Package Name: C050-075X040
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C050-075X040 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C050-075X040" -150 -162 50 H V L B
+F2 "rc-master-C050-075X040" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C050-075X080
+# Package Name: C050-075X080
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C050-075X080 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C050-075X080" -150 -162 50 H V L B
+F2 "rc-master-C050-075X080" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C050-080X045
+# Package Name: C050-080X045
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C050-080X045 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C050-080X045" -150 -162 50 H V L B
+F2 "rc-master-C050-080X045" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C050-085X045
+# Package Name: C050-085X045
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C050-085X045 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C050-085X045" -150 -162 50 H V L B
+F2 "rc-master-C050-085X045" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C050-110X055
+# Package Name: C050-110X055
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C050-110X055 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C050-110X055" -150 -162 50 H V L B
+F2 "rc-master-C050-110X055" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C050-120X055
+# Package Name: C050-120X055
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C050-120X055 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C050-120X055" -150 -162 50 H V L B
+F2 "rc-master-C050-120X055" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C060-090X030
+# Package Name: C060-090X030
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C060-090X030 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C060-090X030" -150 -162 50 H V L B
+F2 "rc-master-C060-090X030" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C070-095X035
+# Package Name: C070-095X035
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C070-095X035 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C070-095X035" -150 -162 50 H V L B
+F2 "rc-master-C070-095X035" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C072-095X030
+# Package Name: C072-095X030
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C072-095X030 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C072-095X030" -150 -162 50 H V L B
+F2 "rc-master-C072-095X030" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C072-095X035
+# Package Name: C072-095X035
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C072-095X035 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C072-095X035" -150 -162 50 H V L B
+F2 "rc-master-C072-095X035" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C072-095X060
+# Package Name: C072-095X060
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C072-095X060 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C072-095X060" -150 -162 50 H V L B
+F2 "rc-master-C072-095X060" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C072-095X065
+# Package Name: C072-095X065
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C072-095X065 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C072-095X065" -150 -162 50 H V L B
+F2 "rc-master-C072-095X065" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C072-095X070
+# Package Name: C072-095X070
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C072-095X070 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C072-095X070" -150 -162 50 H V L B
+F2 "rc-master-C072-095X070" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C075-105X035
+# Package Name: C075-105X035
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C075-105X035 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C075-105X035" -150 -162 50 H V L B
+F2 "rc-master-C075-105X035" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C075-110X050
+# Package Name: C075-110X050
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C075-110X050 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C075-110X050" -150 -162 50 H V L B
+F2 "rc-master-C075-110X050" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C075-110X060
+# Package Name: C075-110X060
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C075-110X060 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C075-110X060" -150 -162 50 H V L B
+F2 "rc-master-C075-110X060" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C075-110X070
+# Package Name: C075-110X070
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C075-110X070 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C075-110X070" -150 -162 50 H V L B
+F2 "rc-master-C075-110X070" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C075-120X055
+# Package Name: C075-120X055
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C075-120X055 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C075-120X055" -150 -162 50 H V L B
+F2 "rc-master-C075-120X055" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C080-110X045
+# Package Name: C080-110X045
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C080-110X045 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C080-110X045" -150 -162 50 H V L B
+F2 "rc-master-C080-110X045" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C085-110X050
+# Package Name: C085-110X050
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C085-110X050 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C085-110X050" -150 -162 50 H V L B
+F2 "rc-master-C085-110X050" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C100-140X060
+# Package Name: C100-140X060
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C100-140X060 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C100-140X060" -150 -162 50 H V L B
+F2 "rc-master-C100-140X060" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C100-200X100
+# Package Name: C100-200X100
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C100-200X100 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C100-200X100" -150 -162 50 H V L B
+F2 "rc-master-C100-200X100" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C120-150X060
+# Package Name: C120-150X060
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C120-150X060 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C120-150X060" -150 -162 50 H V L B
+F2 "rc-master-C120-150X060" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C145-180X070
+# Package Name: C145-180X070
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C145-180X070 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C145-180X070" -150 -162 50 H V L B
+F2 "rc-master-C145-180X070" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C150-190X070
+# Package Name: C150-190X070
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C150-190X070 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C150-190X070" -150 -162 50 H V L B
+F2 "rc-master-C150-190X070" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C150-200X095
+# Package Name: C150-200X095
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C150-200X095 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C150-200X095" -150 -162 50 H V L B
+F2 "rc-master-C150-200X095" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C170-210X070
+# Package Name: C170-210X070
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C170-210X070 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C170-210X070" -150 -162 50 H V L B
+F2 "rc-master-C170-210X070" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C200-230X080
+# Package Name: C200-230X080
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C200-230X080 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C200-230X080" -150 -162 50 H V L B
+F2 "rc-master-C200-230X080" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C225-260X090
+# Package Name: C225-260X090
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C225-260X090 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C225-260X090" -150 -162 50 H V L B
+F2 "rc-master-C225-260X090" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C275-310X150
+# Package Name: C275-310X150
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C275-310X150 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C275-310X150" -150 -162 50 H V L B
+F2 "rc-master-C275-310X150" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_C275-320X100
+# Package Name: C275-320X100
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_C275-320X100 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_C275-320X100" -150 -162 50 H V L B
+F2 "rc-master-C275-320X100" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_CA-050-024X044
+# Package Name: CA-050-024X044
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_CA-050-024X044 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_CA-050-024X044" -150 -162 50 H V L B
+F2 "rc-master-CA-050-024X044" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_CA-100-024X044
+# Package Name: CA-100-024X044
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_CA-100-024X044 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_CA-100-024X044" -150 -162 50 H V L B
+F2 "rc-master-CA-100-024X044" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_CX23P-050
+# Package Name: CX23PW-050
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_CX23P-050 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_CX23P-050" -150 -162 50 H V L B
+F2 "rc-master-CX23PW-050" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_CX23P-060
+# Package Name: CX23PW-060
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_CX23P-060 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_CX23P-060" -150 -162 50 H V L B
+F2 "rc-master-CX23PW-060" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_CX23P-070
+# Package Name: CX23PW-070
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_CX23P-070 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_CX23P-070" -150 -162 50 H V L B
+F2 "rc-master-CX23PW-070" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_CX23P-080
+# Package Name: CX23PW-080
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_CX23P-080 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_CX23P-080" -150 -162 50 H V L B
+F2 "rc-master-CX23PW-080" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_CX23P-090
+# Package Name: CX23PW-090
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_CX23P-090 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_CX23P-090" -150 -162 50 H V L B
+F2 "rc-master-CX23PW-090" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: C_CX23PS-055X120
+# Package Name: CX23PS-055X120
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF C_CX23PS-055X120 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CNP-
+F0 "C" 75 50 50 H V L B
+F1 "C_CX23PS-055X120" -150 -162 50 H V L B
+F2 "rc-master-CX23PS-055X120" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -25 0
+P 2 1 0 0 100 0 25 0
+P 2 1 0 0 25 62 25 0
+P 2 1 0 0 25 0 25 -62
+P 2 1 0 0 -25 62 -25 0
+P 2 1 0 0 -25 0 -25 -62
+T 0 -93 -33 34 0 1 0 1
+T 0 107 -33 34 0 1 0 2
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_085
+# Package Name: FB-085
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_085 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_085" -100 -150 50 H V L B
+F2 "rc-master-FB-085" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_110
+# Package Name: FB-110
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_110 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_110" -100 -150 50 H V L B
+F2 "rc-master-FB-110" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_226
+# Package Name: FB-226
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_226 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_226" -100 -150 50 H V L B
+F2 "rc-master-FB-226" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_287
+# Package Name: FB-287
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_287 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_287" -100 -150 50 H V L B
+F2 "rc-master-FB-287" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_0402
+# Package Name: L0402
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_0402 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_0402" -100 -150 50 H V L B
+F2 "rc-master-L0402" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_422
+# Package Name: FB-422
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_422 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_422" -100 -150 50 H V L B
+F2 "rc-master-FB-422" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_0603
+# Package Name: L0603
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_0603 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_0603" -100 -150 50 H V L B
+F2 "rc-master-L0603" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_0805
+# Package Name: L0805
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_0805 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_0805" -100 -150 50 H V L B
+F2 "rc-master-L0805" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_1206
+# Package Name: L1206
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_1206 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_1206" -100 -150 50 H V L B
+F2 "rc-master-L1206" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_2012
+# Package Name: L2012
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_2012 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_2012" -100 -150 50 H V L B
+F2 "rc-master-L2012" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_M1331
+# Package Name: M1331
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_M1331 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_M1331" -100 -150 50 H V L B
+F2 "rc-master-M1331" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_M1332
+# Package Name: M1332
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_M1332 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_M1332" -100 -150 50 H V L B
+F2 "rc-master-M1332" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB_M1333
+# Package Name: M1333
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB_M1333 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB-
+F0 "L" -25 75 50 H V L B
+F1 "FB_M1333" -100 -150 50 H V L B
+F2 "rc-master-M1333" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+S 0 -50 100 50 1 1 0 F
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_0402
+# Package Name: L0402
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_0402 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_0402" -100 -100 50 H V L B
+F2 "rc-master-L0402" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_0603
+# Package Name: L0603
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_0603 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_0603" -100 -100 50 H V L B
+F2 "rc-master-L0603" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_0805
+# Package Name: L0805
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_0805 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_0805" -100 -100 50 H V L B
+F2 "rc-master-L0805" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_1206
+# Package Name: L1206
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_1206 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_1206" -100 -100 50 H V L B
+F2 "rc-master-L1206" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_1210
+# Package Name: L1210
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_1210 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_1210" -100 -100 50 H V L B
+F2 "rc-master-L1210" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_2012
+# Package Name: L2012
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_2012 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_2012" -100 -100 50 H V L B
+F2 "rc-master-L2012" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_PM0603
+# Package Name: PM0603
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_PM0603 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_PM0603" -100 -100 50 H V L B
+F2 "rc-master-PM0603" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_PM0805
+# Package Name: PM0805
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_PM0805 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_PM0805" -100 -100 50 H V L B
+F2 "rc-master-PM0805" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_PM1008
+# Package Name: PM1008
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_PM1008 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_PM1008" -100 -100 50 H V L B
+F2 "rc-master-PM1008" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_PM1210
+# Package Name: PM1210
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_PM1210 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_PM1210" -100 -100 50 H V L B
+F2 "rc-master-PM1210" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L_PM1812
+# Package Name: PM1812
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L_PM1812 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: L-
+F0 "L" -100 75 50 H V L B
+F1 "L_PM1812" -100 -100 50 H V L B
+F2 "rc-master-PM1812" 0 150 50 H I C C
+DRAW
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_0201
+# Package Name: R0201
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_0201 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_0201" -100 -125 50 H V L B
+F2 "rc-master-R0201" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_0402
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_0402 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_0402" -100 -125 50 H V L B
+F2 "rc-master-R0402" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_0603
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_0603 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_0603" -100 -125 50 H V L B
+F2 "rc-master-R0603" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_0805
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_0805 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_0805" -100 -125 50 H V L B
+F2 "rc-master-R0805" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_0805W
+# Package Name: R0805W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_0805W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_0805W" -100 -125 50 H V L B
+F2 "rc-master-R0805W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_1005
+# Package Name: R1005
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_1005 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_1005" -100 -125 50 H V L B
+F2 "rc-master-R1005" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_1206
+# Package Name: R1206
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_1206 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_1206" -100 -125 50 H V L B
+F2 "rc-master-R1206" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_1206W
+# Package Name: R1206W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_1206W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_1206W" -100 -125 50 H V L B
+F2 "rc-master-R1206W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_1210
+# Package Name: R1210
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_1210 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_1210" -100 -125 50 H V L B
+F2 "rc-master-R1210" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_1210W
+# Package Name: R1210W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_1210W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_1210W" -100 -125 50 H V L B
+F2 "rc-master-R1210W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_2010
+# Package Name: R2010
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_2010 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_2010" -100 -125 50 H V L B
+F2 "rc-master-R2010" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_2010W
+# Package Name: R2010W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_2010W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_2010W" -100 -125 50 H V L B
+F2 "rc-master-R2010W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_2012
+# Package Name: R2012
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_2012 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_2012" -100 -125 50 H V L B
+F2 "rc-master-R2012" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_2012W
+# Package Name: R2012W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_2012W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_2012W" -100 -125 50 H V L B
+F2 "rc-master-R2012W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_2512
+# Package Name: R2512
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_2512 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_2512" -100 -125 50 H V L B
+F2 "rc-master-R2512" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_2512W
+# Package Name: R2512W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_2512W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_2512W" -100 -125 50 H V L B
+F2 "rc-master-R2512W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_3216
+# Package Name: R3216
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_3216 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_3216" -100 -125 50 H V L B
+F2 "rc-master-R3216" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_3216W
+# Package Name: R3216W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_3216W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_3216W" -100 -125 50 H V L B
+F2 "rc-master-R3216W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_3225
+# Package Name: R3225
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_3225 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_3225" -100 -125 50 H V L B
+F2 "rc-master-R3225" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_3225W
+# Package Name: R3225W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_3225W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_3225W" -100 -125 50 H V L B
+F2 "rc-master-R3225W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_5025
+# Package Name: R5025
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_5025 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_5025" -100 -125 50 H V L B
+F2 "rc-master-R5025" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_5025W
+# Package Name: R5025W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_5025W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_5025W" -100 -125 50 H V L B
+F2 "rc-master-R5025W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_6332
+# Package Name: R6332
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_6332 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_6332" -100 -125 50 H V L B
+F2 "rc-master-R6332" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_6332W
+# Package Name: R6332W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_6332W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_6332W" -100 -125 50 H V L B
+F2 "rc-master-R6332W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_M0805
+# Package Name: RM0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_M0805 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_M0805" -100 -125 50 H V L B
+F2 "rc-master-RM0805" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_M1206
+# Package Name: RM1206
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_M1206 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_M1206" -100 -125 50 H V L B
+F2 "rc-master-RM1206" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_M1406
+# Package Name: RM1406
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_M1406 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_M1406" -100 -125 50 H V L B
+F2 "rc-master-RM1406" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_M2012
+# Package Name: RM2012
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_M2012 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_M2012" -100 -125 50 H V L B
+F2 "rc-master-RM2012" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_M2309
+# Package Name: RM2309
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_M2309 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_M2309" -100 -125 50 H V L B
+F2 "rc-master-RM2309" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_M3216
+# Package Name: RM3216
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_M3216 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_M3216" -100 -125 50 H V L B
+F2 "rc-master-RM3216" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_M3516
+# Package Name: RM3516
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_M3516 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_M3516" -100 -125 50 H V L B
+F2 "rc-master-RM3516" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_M5923
+# Package Name: RM5923
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_M5923 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_M5923" -100 -125 50 H V L B
+F2 "rc-master-RM5923" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_MELF0102AX
+# Package Name: RMINI_MELF-0102AX
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_MELF0102AX R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_MELF0102AX" -100 -125 50 H V L B
+F2 "rc-master-RMINI_MELF-0102AX" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_MELF0102R
+# Package Name: RMINI_MELF-0102R
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_MELF0102R R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_MELF0102R" -100 -125 50 H V L B
+F2 "rc-master-RMINI_MELF-0102R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_MELF0102W
+# Package Name: RMINI_MELF-0102W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_MELF0102W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_MELF0102W" -100 -125 50 H V L B
+F2 "rc-master-RMINI_MELF-0102W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_MELF0204R
+# Package Name: RMINI_MELF-0204R
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_MELF0204R R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_MELF0204R" -100 -125 50 H V L B
+F2 "rc-master-RMINI_MELF-0204R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_MELF0204W
+# Package Name: RMINI_MELF-0204W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_MELF0204W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_MELF0204W" -100 -125 50 H V L B
+F2 "rc-master-RMINI_MELF-0204W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_MELF0207R
+# Package Name: RMINI_MELF-0207R
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_MELF0207R R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_MELF0207R" -100 -125 50 H V L B
+F2 "rc-master-RMINI_MELF-0207R" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_MELF0207W
+# Package Name: RMINI_MELF-0207W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_MELF0207W R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_MELF0207W" -100 -125 50 H V L B
+F2 "rc-master-RMINI_MELF-0207W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0204/2V
+# Package Name: 0204V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0204/2V R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0204/2V" -100 -125 50 H V L B
+F2 "rc-master-0204V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0204/5
+# Package Name: 0204/5
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0204/5 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0204/5" -100 -125 50 H V L B
+F2 "rc-master-0204/5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0204/7
+# Package Name: 0204/7
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0204/7 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0204/7" -100 -125 50 H V L B
+F2 "rc-master-0204/7" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0207/2V
+# Package Name: 0207/2V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0207/2V R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0207/2V" -100 -125 50 H V L B
+F2 "rc-master-0207/2V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0207/2VB
+# Package Name: 0207/2VB
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0207/2VB R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0207/2VB" -100 -125 50 H V L B
+F2 "rc-master-0207/2VB" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0207/2VC
+# Package Name: 0207/2VC
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0207/2VC R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0207/2VC" -100 -125 50 H V L B
+F2 "rc-master-0207/2VC" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0207/5V
+# Package Name: 0207/5V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0207/5V R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0207/5V" -100 -125 50 H V L B
+F2 "rc-master-0207/5V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0207/7
+# Package Name: 0207/7
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0207/7 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0207/7" -100 -125 50 H V L B
+F2 "rc-master-0207/7" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0207/10
+# Package Name: 0207/10
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0207/10 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0207/10" -100 -125 50 H V L B
+F2 "rc-master-0207/10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0207/10B
+# Package Name: 0207/10B
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0207/10B R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0207/10B" -100 -125 50 H V L B
+F2 "rc-master-0207/10B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0207/10C
+# Package Name: 0207/10C
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0207/10C R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0207/10C" -100 -125 50 H V L B
+F2 "rc-master-0207/10C" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0207/12
+# Package Name: 0207/12
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0207/12 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0207/12" -100 -125 50 H V L B
+F2 "rc-master-0207/12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0207/15
+# Package Name: 0207/15
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0207/15 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0207/15" -100 -125 50 H V L B
+F2 "rc-master-0207/15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0309/10
+# Package Name: 0309/10
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0309/10 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0309/10" -100 -125 50 H V L B
+F2 "rc-master-0309/10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0309/12
+# Package Name: 0309/12
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0309/12 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0309/12" -100 -125 50 H V L B
+F2 "rc-master-0309/12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0309/12B
+# Package Name: 0309/12B
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0309/12B R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0309/12B" -100 -125 50 H V L B
+F2 "rc-master-0309/12B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0309/14
+# Package Name: 0309/14
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0309/14 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0309/14" -100 -125 50 H V L B
+F2 "rc-master-0309/14" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0309/14B
+# Package Name: 0309/14B
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0309/14B R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0309/14B" -100 -125 50 H V L B
+F2 "rc-master-0309/14B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0309/15
+# Package Name: 0309/15
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0309/15 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0309/15" -100 -125 50 H V L B
+F2 "rc-master-0309/15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0309/15B
+# Package Name: 0309/15B
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0309/15B R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0309/15B" -100 -125 50 H V L B
+F2 "rc-master-0309/15B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0309/20
+# Package Name: 0309/20
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0309/20 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0309/20" -100 -125 50 H V L B
+F2 "rc-master-0309/20" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0309/V
+# Package Name: 0309V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0309/V R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0309/V" -100 -125 50 H V L B
+F2 "rc-master-0309V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0411/3V
+# Package Name: 0411V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0411/3V R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0411/3V" -100 -125 50 H V L B
+F2 "rc-master-0411V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0411/12
+# Package Name: 0411/12
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0411/12 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0411/12" -100 -125 50 H V L B
+F2 "rc-master-0411/12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0411/15
+# Package Name: 0411/15
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0411/15 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0411/15" -100 -125 50 H V L B
+F2 "rc-master-0411/15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0414/5V
+# Package Name: 0414V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0414/5V R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0414/5V" -100 -125 50 H V L B
+F2 "rc-master-0414V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0414/15
+# Package Name: 0414/15
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0414/15 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0414/15" -100 -125 50 H V L B
+F2 "rc-master-0414/15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0414/17
+# Package Name: 0414/17
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0414/17 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0414/17" -100 -125 50 H V L B
+F2 "rc-master-0414/17" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0617/5V
+# Package Name: 0617V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0617/5V R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0617/5V" -100 -125 50 H V L B
+F2 "rc-master-0617V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0617/17
+# Package Name: 0617/17
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0617/17 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0617/17" -100 -125 50 H V L B
+F2 "rc-master-0617/17" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0617/22
+# Package Name: 0617/22
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0617/22 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0617/22" -100 -125 50 H V L B
+F2 "rc-master-0617/22" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0922/22
+# Package Name: 0922/22
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0922/22 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0922/22" -100 -125 50 H V L B
+F2 "rc-master-0922/22" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_X0922V
+# Package Name: 0922V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_X0922V R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_X0922V" -100 -125 50 H V L B
+F2 "rc-master-0922V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_XMF50
+# Package Name: MF50
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_XMF50 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_XMF50" -100 -125 50 H V L B
+F2 "rc-master-MF50" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_XMF55
+# Package Name: MF55
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_XMF55 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_XMF55" -100 -125 50 H V L B
+F2 "rc-master-MF55" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_XMF60
+# Package Name: MF60
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_XMF60 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_XMF60" -100 -125 50 H V L B
+F2 "rc-master-MF60" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_XMF65
+# Package Name: MF65
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_XMF65 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_XMF65" -100 -125 50 H V L B
+F2 "rc-master-MF65" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_XMF70
+# Package Name: MF70
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_XMF70 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_XMF70" -100 -125 50 H V L B
+F2 "rc-master-MF70" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_XMF75
+# Package Name: MF75
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_XMF75 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_XMF75" -100 -125 50 H V L B
+F2 "rc-master-MF75" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_XP0613/5V
+# Package Name: P0613V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_XP0613/5V R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_XP0613/5V" -100 -125 50 H V L B
+F2 "rc-master-P0613V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_XP0613/15
+# Package Name: P0613/15
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_XP0613/15 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_XP0613/15" -100 -125 50 H V L B
+F2 "rc-master-P0613/15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_XP0817/7V
+# Package Name: P0817V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_XP0817/7V R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_XP0817/7V" -100 -125 50 H V L B
+F2 "rc-master-P0817V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: R_XP0817/22
+# Package Name: P0817/22
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF R_XP0817/22 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-
+F0 "R" -100 62 50 H V L B
+F1 "R_XP0817/22" -100 -125 50 H V L B
+F2 "rc-master-P0817/22" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -87 37
+P 2 1 0 0 -87 37 -62 -37
+P 2 1 0 0 -62 -37 -37 37
+P 2 1 0 0 -37 37 -12 -37
+P 2 1 0 0 -12 -37 12 37
+P 2 1 0 0 12 37 37 -37
+P 2 1 0 0 37 -37 62 37
+P 2 1 0 0 62 37 87 -37
+P 2 1 0 0 87 -37 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

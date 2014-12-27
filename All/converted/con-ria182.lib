@@ -1,0 +1,2894 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:00
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 34
+#
+# Dev Name: RIA182-02
+# Package Name: RIA182-02
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF RIA182-02 X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-02" 0 0 50 H V R T
+F2 "con-ria182-RIA182-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-02-169
+# Package Name: RIA182-169-02
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF RIA182-02-169 X 0 40 Y Y 2 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-02-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-03
+# Package Name: RIA182-03
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF RIA182-03 X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-03" 0 0 50 H V R T
+F2 "con-ria182-RIA182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-03-169
+# Package Name: RIA182-169-03
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF RIA182-03-169 X 0 40 Y Y 3 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-03-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-04
+# Package Name: RIA182-04
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF RIA182-04 X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-04" 0 0 50 H V R T
+F2 "con-ria182-RIA182-04" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-04-169
+# Package Name: RIA182-169-04
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF RIA182-04-169 X 0 40 Y Y 4 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-04-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-04" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-05
+# Package Name: RIA182-05
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF RIA182-05 X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-05" 0 0 50 H V R T
+F2 "con-ria182-RIA182-05" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-05-169
+# Package Name: RIA182-169-05
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF RIA182-05-169 X 0 40 Y Y 5 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-05-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-05" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-06
+# Package Name: RIA182-06
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF RIA182-06 X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-06" 0 0 50 H V R T
+F2 "con-ria182-RIA182-06" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-06-169
+# Package Name: RIA182-169-06
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF RIA182-06-169 X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-06-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-06" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-07
+# Package Name: RIA182-07
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF RIA182-07 X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-07" 0 0 50 H V R T
+F2 "con-ria182-RIA182-07" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-07-169
+# Package Name: RIA182-169-07
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF RIA182-07-169 X 0 40 Y Y 7 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-07-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-07" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-08
+# Package Name: RIA182-08
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF RIA182-08 X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-08" 0 0 50 H V R T
+F2 "con-ria182-RIA182-08" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-08-169
+# Package Name: RIA182-169-08
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF RIA182-08-169 X 0 40 Y Y 8 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-08-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-08" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-09
+# Package Name: RIA182-09
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF RIA182-09 X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-09" 0 0 50 H V R T
+F2 "con-ria182-RIA182-09" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-09-169
+# Package Name: RIA182-169-09
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF RIA182-09-169 X 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-09-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-09" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-10
+# Package Name: RIA182-10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF RIA182-10 X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-10" 0 0 50 H V R T
+F2 "con-ria182-RIA182-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-10-169
+# Package Name: RIA182-169-10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF RIA182-10-169 X 0 40 Y Y 10 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-10-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-11
+# Package Name: RIA182-11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF RIA182-11 X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-11" 0 0 50 H V R T
+F2 "con-ria182-RIA182-11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-11-169
+# Package Name: RIA182-169-11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF RIA182-11-169 X 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-11-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-12
+# Package Name: RIA182-12
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF RIA182-12 X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-12" 0 0 50 H V R T
+F2 "con-ria182-RIA182-12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-12-169
+# Package Name: RIA182-169-12
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 12
+#
+DEF RIA182-12-169 X 0 40 Y Y 12 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-12-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-13
+# Package Name: RIA182-13
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 13
+#
+DEF RIA182-13 X 0 40 Y Y 13 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-13" 0 0 50 H V R T
+F2 "con-ria182-RIA182-13" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-13-169
+# Package Name: RIA182-169-13
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 13
+#
+DEF RIA182-13-169 X 0 40 Y Y 13 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-13-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-13" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-14
+# Package Name: RIA182-14
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 14
+#
+DEF RIA182-14 X 0 40 Y Y 14 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-14" 0 0 50 H V R T
+F2 "con-ria182-RIA182-14" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: SK
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+C -200 0 50 14 1 0 N
+X SK 14 200 0 100 L 40 40 14 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-14-169
+# Package Name: RIA182-169-14
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 14
+#
+DEF RIA182-14-169 X 0 40 Y Y 14 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-14-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-14" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: SK
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+C -200 0 50 14 1 0 N
+X SK 14 200 0 100 L 40 40 14 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-15
+# Package Name: RIA182-15
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 15
+#
+DEF RIA182-15 X 0 40 Y Y 15 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-15" 0 0 50 H V R T
+F2 "con-ria182-RIA182-15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: SK
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+C -200 0 50 14 1 0 N
+X SK 14 200 0 100 L 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: SK
+P 2 15 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 15 1 0 N 0 50 0 -50
+P 2 15 0 0 0 0 100 0
+C -200 0 50 15 1 0 N
+X SK 15 200 0 100 L 40 40 15 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-15-169
+# Package Name: RIA182-169-15
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 15
+#
+DEF RIA182-15-169 X 0 40 Y Y 15 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-15-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: SK
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+C -200 0 50 14 1 0 N
+X SK 14 200 0 100 L 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: SK
+P 2 15 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 15 1 0 N 0 50 0 -50
+P 2 15 0 0 0 0 100 0
+C -200 0 50 15 1 0 N
+X SK 15 200 0 100 L 40 40 15 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-16
+# Package Name: RIA182-16
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 16
+#
+DEF RIA182-16 X 0 40 Y Y 16 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-16" 0 0 50 H V R T
+F2 "con-ria182-RIA182-16" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: SK
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+C -200 0 50 14 1 0 N
+X SK 14 200 0 100 L 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: SK
+P 2 15 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 15 1 0 N 0 50 0 -50
+P 2 15 0 0 0 0 100 0
+C -200 0 50 15 1 0 N
+X SK 15 200 0 100 L 40 40 15 1 P 
+# Gate Name: -16
+# Symbol Name: SK
+P 2 16 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 16 1 0 N 0 50 0 -50
+P 2 16 0 0 0 0 100 0
+C -200 0 50 16 1 0 N
+X SK 16 200 0 100 L 40 40 16 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-16-169
+# Package Name: RIA182-169-16
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 16
+#
+DEF RIA182-16-169 X 0 40 Y Y 16 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-16-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-16" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: SK
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+C -200 0 50 14 1 0 N
+X SK 14 200 0 100 L 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: SK
+P 2 15 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 15 1 0 N 0 50 0 -50
+P 2 15 0 0 0 0 100 0
+C -200 0 50 15 1 0 N
+X SK 15 200 0 100 L 40 40 15 1 P 
+# Gate Name: -16
+# Symbol Name: SK
+P 2 16 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 16 1 0 N 0 50 0 -50
+P 2 16 0 0 0 0 100 0
+C -200 0 50 16 1 0 N
+X SK 16 200 0 100 L 40 40 16 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-17
+# Package Name: RIA182-17
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 17
+#
+DEF RIA182-17 X 0 40 Y Y 17 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-17" 0 0 50 H V R T
+F2 "con-ria182-RIA182-17" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: SK
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+C -200 0 50 14 1 0 N
+X SK 14 200 0 100 L 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: SK
+P 2 15 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 15 1 0 N 0 50 0 -50
+P 2 15 0 0 0 0 100 0
+C -200 0 50 15 1 0 N
+X SK 15 200 0 100 L 40 40 15 1 P 
+# Gate Name: -16
+# Symbol Name: SK
+P 2 16 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 16 1 0 N 0 50 0 -50
+P 2 16 0 0 0 0 100 0
+C -200 0 50 16 1 0 N
+X SK 16 200 0 100 L 40 40 16 1 P 
+# Gate Name: -17
+# Symbol Name: SK
+P 2 17 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 17 1 0 N 0 50 0 -50
+P 2 17 0 0 0 0 100 0
+C -200 0 50 17 1 0 N
+X SK 17 200 0 100 L 40 40 17 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-17-169
+# Package Name: RIA182-169-17
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 17
+#
+DEF RIA182-17-169 X 0 40 Y Y 17 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-17-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-17" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: SK
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+C -200 0 50 14 1 0 N
+X SK 14 200 0 100 L 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: SK
+P 2 15 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 15 1 0 N 0 50 0 -50
+P 2 15 0 0 0 0 100 0
+C -200 0 50 15 1 0 N
+X SK 15 200 0 100 L 40 40 15 1 P 
+# Gate Name: -16
+# Symbol Name: SK
+P 2 16 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 16 1 0 N 0 50 0 -50
+P 2 16 0 0 0 0 100 0
+C -200 0 50 16 1 0 N
+X SK 16 200 0 100 L 40 40 16 1 P 
+# Gate Name: -17
+# Symbol Name: SK
+P 2 17 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 17 1 0 N 0 50 0 -50
+P 2 17 0 0 0 0 100 0
+C -200 0 50 17 1 0 N
+X SK 17 200 0 100 L 40 40 17 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-18
+# Package Name: RIA182-18
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 18
+#
+DEF RIA182-18 X 0 40 Y Y 18 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-18" 0 0 50 H V R T
+F2 "con-ria182-RIA182-18" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: SK
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+C -200 0 50 14 1 0 N
+X SK 14 200 0 100 L 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: SK
+P 2 15 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 15 1 0 N 0 50 0 -50
+P 2 15 0 0 0 0 100 0
+C -200 0 50 15 1 0 N
+X SK 15 200 0 100 L 40 40 15 1 P 
+# Gate Name: -16
+# Symbol Name: SK
+P 2 16 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 16 1 0 N 0 50 0 -50
+P 2 16 0 0 0 0 100 0
+C -200 0 50 16 1 0 N
+X SK 16 200 0 100 L 40 40 16 1 P 
+# Gate Name: -17
+# Symbol Name: SK
+P 2 17 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 17 1 0 N 0 50 0 -50
+P 2 17 0 0 0 0 100 0
+C -200 0 50 17 1 0 N
+X SK 17 200 0 100 L 40 40 17 1 P 
+# Gate Name: -18
+# Symbol Name: SK
+P 2 18 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 18 1 0 N 0 50 0 -50
+P 2 18 0 0 0 0 100 0
+C -200 0 50 18 1 0 N
+X SK 18 200 0 100 L 40 40 18 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RIA182-18-169
+# Package Name: RIA182-169-18
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 18
+#
+DEF RIA182-18-169 X 0 40 Y Y 18 L N
+# Gate Name: -1
+# Symbol Name: SK
+F0 "X" -250 35 50 H V R T
+F1 "RIA182-18-169" 0 0 50 H V R T
+F2 "con-ria182-RIA182-169-18" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+C -200 0 50 1 1 0 N
+X SK 1 200 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+C -200 0 50 2 1 0 N
+X SK 2 200 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+C -200 0 50 3 1 0 N
+X SK 3 200 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+C -200 0 50 4 1 0 N
+X SK 4 200 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+C -200 0 50 5 1 0 N
+X SK 5 200 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+C -200 0 50 6 1 0 N
+X SK 6 200 0 100 L 40 40 6 1 P 
+# Gate Name: -7
+# Symbol Name: SK
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+C -200 0 50 7 1 0 N
+X SK 7 200 0 100 L 40 40 7 1 P 
+# Gate Name: -8
+# Symbol Name: SK
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+C -200 0 50 8 1 0 N
+X SK 8 200 0 100 L 40 40 8 1 P 
+# Gate Name: -9
+# Symbol Name: SK
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+C -200 0 50 9 1 0 N
+X SK 9 200 0 100 L 40 40 9 1 P 
+# Gate Name: -10
+# Symbol Name: SK
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+C -200 0 50 10 1 0 N
+X SK 10 200 0 100 L 40 40 10 1 P 
+# Gate Name: -11
+# Symbol Name: SK
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+C -200 0 50 11 1 0 N
+X SK 11 200 0 100 L 40 40 11 1 P 
+# Gate Name: -12
+# Symbol Name: SK
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+C -200 0 50 12 1 0 N
+X SK 12 200 0 100 L 40 40 12 1 P 
+# Gate Name: -13
+# Symbol Name: SK
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+C -200 0 50 13 1 0 N
+X SK 13 200 0 100 L 40 40 13 1 P 
+# Gate Name: -14
+# Symbol Name: SK
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+C -200 0 50 14 1 0 N
+X SK 14 200 0 100 L 40 40 14 1 P 
+# Gate Name: -15
+# Symbol Name: SK
+P 2 15 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 15 1 0 N 0 50 0 -50
+P 2 15 0 0 0 0 100 0
+C -200 0 50 15 1 0 N
+X SK 15 200 0 100 L 40 40 15 1 P 
+# Gate Name: -16
+# Symbol Name: SK
+P 2 16 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 16 1 0 N 0 50 0 -50
+P 2 16 0 0 0 0 100 0
+C -200 0 50 16 1 0 N
+X SK 16 200 0 100 L 40 40 16 1 P 
+# Gate Name: -17
+# Symbol Name: SK
+P 2 17 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 17 1 0 N 0 50 0 -50
+P 2 17 0 0 0 0 100 0
+C -200 0 50 17 1 0 N
+X SK 17 200 0 100 L 40 40 17 1 P 
+# Gate Name: -18
+# Symbol Name: SK
+P 2 18 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 18 1 0 N 0 50 0 -50
+P 2 18 0 0 0 0 100 0
+C -200 0 50 18 1 0 N
+X SK 18 200 0 100 L 40 40 18 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

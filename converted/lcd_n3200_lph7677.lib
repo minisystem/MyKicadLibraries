@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:28
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: LPH7677
+# Package Name: LPH7677
+# Dev Tech: ''
+# Dev Prefix: W
+# Gate count = 1
+#
+DEF LPH7677 W 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: LPH7677
+F0 "W" -90 430 50 H V L B
+F1 "LPH7677" -100 -600 50 H V L B
+F2 "lcd_n3200_lph7677-LPH7677" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 400 -100 -500
+P 2 1 0 0 -100 -500 300 -500
+P 2 1 0 0 300 -500 300 400
+P 2 1 0 0 300 400 -100 400
+X D/C 4D/C -300 0 200 R 40 40 1 1 B 
+X GND 6GND -300 -200 200 R 40 40 1 1 W 
+X RES 8RES -300 -400 200 R 40 40 1 1 B 
+X SCE 5SCE -300 -100 200 R 40 40 1 1 B 
+X SCLK 2SCLK -300 200 200 R 40 40 1 1 B 
+X SDIN 3SDIN -300 100 200 R 40 40 1 1 B 
+X VDD 1VDD -300 300 200 R 40 40 1 1 W 
+X VOUT 7VOUT -300 -300 200 R 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

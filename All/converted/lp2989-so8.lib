@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:34
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: LP2989
+# Package Name: SO-08
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF LP2989 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: LP2989
+DRAW
+P 2 1 0 0 -1100 900 100 900
+P 2 1 0 0 100 900 100 400
+P 2 1 0 0 100 400 -1100 400
+P 2 1 0 0 -1100 400 -1100 900
+X BYPASS 1 -1300 700 200 R 40 40 1 1 B 
+X ERROR 7 300 600 200 L 40 40 1 1 B I
+X GROUND 3 -1300 500 200 R 40 40 1 1 B 
+X INPUT 4 -1300 800 200 R 40 40 1 1 B 
+X N/C 2 -1300 600 200 R 40 40 1 1 U 
+X OUTPUT 5 300 800 200 L 40 40 1 1 B 
+X SENSE 6 300 700 200 L 40 40 1 1 B 
+X SHUTDOWN 8 300 500 200 L 40 40 1 1 B I
+ENDDRAW
+ENDDEF
+
+#End Library

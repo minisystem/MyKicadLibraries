@@ -1,0 +1,67 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:58
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: MSTBA6
+# Package Name: MSTBA6
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF MSTBA6 X 0 40 Y Y 6 L N
+# Gate Name: -1
+# Symbol Name: SK+V
+F0 "X" -270 35 50 H V R T
+F1 "MSTBA6" -300 -150 50 H V R T
+F2 "con-phoenix-500-mstba6-MSTBA6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK 1 300 0 100 L 40 40 1 1 P 
+# Gate Name: -2
+# Symbol Name: SK
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK 2 300 0 100 L 40 40 2 1 P 
+# Gate Name: -3
+# Symbol Name: SK
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+X SK 3 300 0 100 L 40 40 3 1 P 
+# Gate Name: -4
+# Symbol Name: SK
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+P 2 4 0 0 100 0 200 0
+C -200 0 50 4 1 0 N
+X SK 4 300 0 100 L 40 40 4 1 P 
+# Gate Name: -5
+# Symbol Name: SK
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+P 2 5 0 0 100 0 200 0
+C -200 0 50 5 1 0 N
+X SK 5 300 0 100 L 40 40 5 1 P 
+# Gate Name: -6
+# Symbol Name: SK
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+P 2 6 0 0 100 0 200 0
+C -200 0 50 6 1 0 N
+X SK 6 300 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

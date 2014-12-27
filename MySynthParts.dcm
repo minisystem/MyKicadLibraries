@@ -1,0 +1,178 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4016
+D Op amp.
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP 74HC4067
+D Decoder 4 to 16
+K TTL DECOD16 DECOD
+$ENDCMP
+#
+$CMP 74LS237
+D Decoder 3 to 8, addr latches.
+K TTL DECOD8 DECOD
+$ENDCMP
+#
+$CMP 74LVC1G3157
+D SPDT ANALOG SWITCH 1.65-5.5V Vcc
+K TTL SPDT SWITCH
+$ENDCMP
+#
+$CMP 74LVC1G32
+D Single OR gate  2 inputs
+K TTL Or2
+$ENDCMP
+#
+$CMP 74LVC2G04
+D Dual Inverter Gate
+K Inverter Gate
+$ENDCMP
+#
+$CMP 78L05
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78lxx.pdf
+$ENDCMP
+#
+$CMP AD8065AR
+D Dual Op amp (low power)
+K ampliop
+F ns/lm158.pdf
+$ENDCMP
+#
+$CMP AD8672
+D Dual Op amp (low power)
+K ampliop
+F ns/lm158.pdf
+$ENDCMP
+#
+$CMP ADR01
+D LowDrop Linear Regulator (QPACK 5 pins)
+K REGUL POWER
+F regulator/lp3963.pdf
+$ENDCMP
+#
+$CMP BCM857BS
+F transistors/bipolar/*.*
+$ENDCMP
+#
+$CMP CD4016
+D Op amp.
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP CD4052
+D Dual Analog Multiplexer 4 to 1 line
+K CMOS MUX MUX4
+$ENDCMP
+#
+$CMP DG212
+D Quad CMOS Analog Switch
+K switch
+F http://www.vishay.com/docs/70040/70040.pdf
+$ENDCMP
+#
+$CMP DG212B
+D Quad CMOS Analog Switch
+K switch
+F http://www.vishay.com/docs/70040/70040.pdf
+$ENDCMP
+#
+$CMP DG408
+D Analog Multiplexer 8:1
+K CMOS MUX MUX8
+F http://www.vishay.com/docs/70062/dg408.pdf
+$ENDCMP
+#
+$CMP LDQ-M286R1
+D Lumex 4 digit 7 segment common anode display
+K 7 segment LED
+$ENDCMP
+#
+$CMP LM3900
+D Dual Op amp (low power)
+K ampliop
+F ns/lm158.pdf
+$ENDCMP
+#
+$CMP LM7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP LM7812
+D Linear Regulator +12V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP MIDI_DIN
+D Connecteur Din 5 broches
+K CONN DIN
+$ENDCMP
+#
+$CMP NE555
+F ns/lm555.pdf
+$ENDCMP
+#
+$CMP R-78E5.0-1.0
+D Switching Regulator +5V
+K Recom SMPS
+$ENDCMP
+#
+$CMP SUM
+D Op amp.
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP TACT_SWITCH
+D Tact Switch
+K TACT SWITCH
+$ENDCMP
+#
+$CMP TL072-
+D Dual Op amp (low power)
+K ampliop
+F ns/lm158.pdf
+$ENDCMP
+#
+$CMP TL074-
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP TL1240
+D Illuminated Tact Switch
+K LED SWITCH
+$ENDCMP
+#
+$CMP VCA
+D Op amp.
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP VCO
+D VCO 12 SIP
+$ENDCMP
+#
+$CMP amp_block
+D Op amp.
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP opamp_block
+D Op amp.
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+#End Doc Library

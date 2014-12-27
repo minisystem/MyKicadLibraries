@@ -1,0 +1,74 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:03
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: 4 WAY
+# Package Name: 4 WAY
+# Dev Tech: ''
+# Dev Prefix: SKT
+# Gate count = 1
+#
+DEF 4 WAY SKT 0 40 Y Y 1 L N
+# Gate Name: ST-4
+# Symbol Name: 4 WAY
+F0 "SKT" -600 800 50 H V L B
+F1 "4 WAY" -600 -200 50 H V L B
+F2 "STUART-4 WAY" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -600 700 0 700
+P 2 1 0 0 0 700 0 0
+P 2 1 0 0 0 0 -600 0
+P 2 1 0 0 -600 0 -600 700
+P 2 1 0 0 -400 600 -200 600
+P 2 1 0 0 -200 600 -200 400
+P 2 1 0 0 -200 400 -100 400
+P 2 1 0 0 -100 400 -100 300
+P 2 1 0 0 -100 300 -200 300
+P 2 1 0 0 -200 300 -200 100
+P 2 1 0 0 -200 100 -400 100
+P 2 1 0 0 -400 100 -400 600
+X 1 1 -800 500 200 R 40 40 1 1 P 
+X 2 2 -800 400 200 R 40 40 1 1 P 
+X 3 3 -800 300 200 R 40 40 1 1 P 
+X 4 4 -800 200 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 8 WAY
+# Package Name: 8 WAY
+# Dev Tech: ''
+# Dev Prefix: SKT
+# Gate count = 1
+#
+DEF 8 WAY SKT 0 40 Y Y 1 L N
+# Gate Name: ST-8
+# Symbol Name: 8 WAY
+F0 "SKT" -600 900 50 H V L B
+F1 "8 WAY" -600 -300 50 H V L B
+F2 "STUART-8 WAY" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -600 800 -600 -100
+P 2 1 0 0 -600 -100 0 -100
+P 2 1 0 0 0 -100 0 800
+P 2 1 0 0 0 800 -600 800
+P 2 1 0 0 -400 700 -400 0
+P 2 1 0 0 -400 0 -200 0
+P 2 1 0 0 -200 0 -200 300
+P 2 1 0 0 -200 300 -100 300
+P 2 1 0 0 -100 300 -100 400
+P 2 1 0 0 -100 400 -200 400
+P 2 1 0 0 -200 400 -200 700
+P 2 1 0 0 -200 700 -400 700
+X 1 1 -800 700 200 R 40 40 1 1 P 
+X 2 2 -800 600 200 R 40 40 1 1 P 
+X 3 3 -800 500 200 R 40 40 1 1 P 
+X 4 4 -800 400 200 R 40 40 1 1 P 
+X 5 5 -800 300 200 R 40 40 1 1 P 
+X 6 6 -800 200 200 R 40 40 1 1 P 
+X 7 7 -800 100 200 R 40 40 1 1 P 
+X 8 8 -800 0 200 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

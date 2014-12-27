@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:34
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: LP2986-33
+# Package Name: LP2986-33
+# Dev Tech: ''
+# Dev Prefix: U
+# Gate count = 1
+#
+DEF LP2986-33 U 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: LP2986
+F0 "U" -400 450 50 H V L B
+F1 "LP2986-33" -400 -500 50 H V L B
+F2 "lp2986im-33-LP2986-33" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -500 400 500 400
+P 2 1 0 0 500 400 500 -400
+P 2 1 0 0 500 -400 -500 -400
+P 2 1 0 0 -500 -400 -500 400
+X ERROR 7 600 100 100 L 40 40 1 1 O 
+X FEEDBACK 2 -600 100 100 R 40 40 1 1 I 
+X GND 1 -600 300 100 R 40 40 1 1 O 
+X INPUT 4 -600 -300 100 R 40 40 1 1 W 
+X OUTPUT 5 600 -300 100 L 40 40 1 1 O 
+X SENCE 6 600 -100 100 L 40 40 1 1 I 
+X SHUTDOWN 8 600 300 100 L 40 40 1 1 P 
+X TAP 3 -600 -100 100 R 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#End Library

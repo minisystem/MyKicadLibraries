@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:08
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: AD633_DIP
+# Package Name: DIL08
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF AD633_DIP ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: AD633
+DRAW
+P 2 1 0 0 -500 300 400 300
+P 2 1 0 0 400 300 900 -200
+P 2 1 0 0 900 -200 400 -700
+P 2 1 0 0 400 -700 -500 -700
+P 2 1 0 0 -500 -700 -500 300
+P 2 1 0 0 -200 -200 300 -200
+T 0 160 -135 50 0 1 0 (X1-X2)(Y1-Y2)
+T 0 50 -275 50 0 1 0 10
+T 0 575 -200 50 0 1 0 +Z~=~W
+X +VS 8 200 400 100 D 40 40 1 1 W 
+X -VS 5 200 -800 100 U 40 40 1 1 W 
+X W 7 1000 -200 100 L 40 40 1 1 O 
+X X1 1 -600 200 100 R 40 40 1 1 I 
+X X2 2 -600 0 100 R 40 40 1 1 I 
+X Y1 3 -600 -200 100 R 40 40 1 1 I 
+X Y2 4 -600 -400 100 R 40 40 1 1 I 
+X Z 6 -600 -600 100 R 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#End Library

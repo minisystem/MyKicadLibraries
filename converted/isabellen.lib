@@ -1,0 +1,333 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:25
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 13
+#
+# Dev Name: BVS
+# Package Name: BVS
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF BVS R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+F0 "R" -150 54 50 H V L B
+F1 "BVS" -150 -115 50 H V L B
+F2 "isabellen-BVS" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 -100 35 -100 -35
+P 2 1 0 0 100 35 100 -35
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PMA-A
+# Package Name: PMA-A
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF PMA-A R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-4
+F0 "R" -180 54 50 H V L B
+F1 "PMA-A" -190 -175 50 H V L B
+F2 "isabellen-PMA-A" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 -35 50 -35
+P 2 1 0 0 50 35 -150 35
+P 2 1 0 0 50 -35 50 -10
+P 2 1 0 0 50 -10 50 0
+P 2 1 0 0 50 0 50 35
+P 2 1 0 0 -150 -35 -150 -10
+P 2 1 0 0 -150 -10 -150 0
+P 2 1 0 0 -150 0 -150 35
+P 2 1 0 0 -200 0 -150 0
+P 2 1 0 0 100 0 50 0
+P 2 1 0 0 -200 -100 -150 -10
+P 2 1 0 0 100 -100 50 -10
+X A A 200 0 100 L 40 40 1 1 P 
+X B B -300 0 100 R 40 40 1 1 P 
+X SA SA 200 -100 100 L 40 40 1 1 P 
+X SB SB -300 -100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PMA-B
+# Package Name: PMA-B
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF PMA-B R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-4
+F0 "R" -180 54 50 H V L B
+F1 "PMA-B" -190 -175 50 H V L B
+F2 "isabellen-PMA-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 -35 50 -35
+P 2 1 0 0 50 35 -150 35
+P 2 1 0 0 50 -35 50 -10
+P 2 1 0 0 50 -10 50 0
+P 2 1 0 0 50 0 50 35
+P 2 1 0 0 -150 -35 -150 -10
+P 2 1 0 0 -150 -10 -150 0
+P 2 1 0 0 -150 0 -150 35
+P 2 1 0 0 -200 0 -150 0
+P 2 1 0 0 100 0 50 0
+P 2 1 0 0 -200 -100 -150 -10
+P 2 1 0 0 100 -100 50 -10
+X A A 200 0 100 L 40 40 1 1 P 
+X B B -300 0 100 R 40 40 1 1 P 
+X SA SA 200 -100 100 L 40 40 1 1 P 
+X SB SB -300 -100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PMD
+# Package Name: PMD
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF PMD R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+F0 "R" -150 54 50 H V L B
+F1 "PMD" -150 -115 50 H V L B
+F2 "isabellen-PMD" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 -100 35 -100 -35
+P 2 1 0 0 100 35 100 -35
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMK
+# Package Name: SMK
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF SMK R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+F0 "R" -150 54 50 H V L B
+F1 "SMK" -150 -115 50 H V L B
+F2 "isabellen-SMK" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 -100 35 -100 -35
+P 2 1 0 0 100 35 100 -35
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMR
+# Package Name: SMR
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF SMR R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+F0 "R" -150 54 50 H V L B
+F1 "SMR" -150 -115 50 H V L B
+F2 "isabellen-SMR" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 -100 35 -100 -35
+P 2 1 0 0 100 35 100 -35
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMR-0
+# Package Name: SMR-0
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF SMR-0 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+F0 "R" -150 54 50 H V L B
+F1 "SMR-0" -150 -115 50 H V L B
+F2 "isabellen-SMR-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 -100 35 -100 -35
+P 2 1 0 0 100 35 100 -35
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMR-WAV
+# Package Name: SMS-WAV
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF SMR-WAV R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+F0 "R" -150 54 50 H V L B
+F1 "SMR-WAV" -150 -115 50 H V L B
+F2 "isabellen-SMS-WAV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 -100 35 -100 -35
+P 2 1 0 0 100 35 100 -35
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMS-0
+# Package Name: SMS-0
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF SMS-0 R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+F0 "R" -150 54 50 H V L B
+F1 "SMS-0" -150 -115 50 H V L B
+F2 "isabellen-SMS-0" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 -100 35 -100 -35
+P 2 1 0 0 100 35 100 -35
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMS-REF
+# Package Name: SMS-REF
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF SMS-REF R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+F0 "R" -150 54 50 H V L B
+F1 "SMS-REF" -150 -115 50 H V L B
+F2 "isabellen-SMS-REF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 -100 35 -100 -35
+P 2 1 0 0 100 35 100 -35
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMT-REF
+# Package Name: SMT-REF
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF SMT-REF R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+F0 "R" -150 54 50 H V L B
+F1 "SMT-REF" -150 -115 50 H V L B
+F2 "isabellen-SMT-REF" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 -100 35 -100 -35
+P 2 1 0 0 100 35 100 -35
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMT-WAV
+# Package Name: SMT-WAV
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF SMT-WAV R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R
+F0 "R" -150 54 50 H V L B
+F1 "SMT-WAV" -150 -115 50 H V L B
+F2 "isabellen-SMT-WAV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 35 -100 35
+P 2 1 0 0 -100 -35 100 -35
+P 2 1 0 0 -100 35 -100 -35
+P 2 1 0 0 100 35 100 -35
+X 1 1 200 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMV
+# Package Name: SMV
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF SMV R 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: R-4
+F0 "R" -180 54 50 H V L B
+F1 "SMV" -190 -175 50 H V L B
+F2 "isabellen-SMV" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 -35 50 -35
+P 2 1 0 0 50 35 -150 35
+P 2 1 0 0 50 -35 50 -10
+P 2 1 0 0 50 -10 50 0
+P 2 1 0 0 50 0 50 35
+P 2 1 0 0 -150 -35 -150 -10
+P 2 1 0 0 -150 -10 -150 0
+P 2 1 0 0 -150 0 -150 35
+P 2 1 0 0 -200 0 -150 0
+P 2 1 0 0 100 0 50 0
+P 2 1 0 0 -200 -100 -150 -10
+P 2 1 0 0 100 -100 50 -10
+X A I1 200 0 100 L 40 40 1 1 P 
+X B I2 -300 0 100 R 40 40 1 1 P 
+X SA U1 200 -100 100 L 40 40 1 1 P 
+X SB U2 -300 -100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

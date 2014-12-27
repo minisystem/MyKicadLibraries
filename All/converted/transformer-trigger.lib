@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:07
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: T5-844
+# Package Name: 500-8-4-4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF T5-844 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: 3W
+DRAW
+P 2 1 0 0 -151 112 149 112
+P 2 1 0 0 -150 90 150 90
+P 2 1 0 0 -150 -110 150 -110
+P 2 1 0 0 -150 -87 150 -87
+S -151 164 149 234 1 1 0 F
+S -150 -35 150 35 1 1 0 F
+S -151 -235 149 -165 1 1 0 F
+C -175 25 5 1 1 0 F
+C -176 224 5 1 1 0 F
+C -176 -175 5 1 1 0 F
+X W1A 1 -300 0 200 R 40 40 1 1 P 
+X W1E 2 300 0 200 L 40 40 1 1 P 
+X W2A 3 -300 200 200 R 40 40 1 1 P 
+X W2E 4 300 200 200 L 40 40 1 1 P 
+X W3A 5 -300 -200 200 R 40 40 1 1 P 
+X W3E 6 300 -200 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

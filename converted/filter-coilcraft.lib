@@ -1,0 +1,1449 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:19
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 43
+#
+# Dev Name: P3LP-155
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-155 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-155" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P3LP-156
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-156 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-156" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P3LP-157
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-157 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-157" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P3LP-304
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-304 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-304" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P3LP-305
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-305 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-305" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P3LP-306
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-306 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-306" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P3LP-307
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-307 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-307" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P3LP-507
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-507 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-507" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P3LP-604
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-604 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-604" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P3LP-605
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-605 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-605" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P3LP-606
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF P3LP-606 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "F" -500 200 50 H V L B
+F1 "P3LP-606" -500 -300 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-155
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-155 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-155" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-156
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-156 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-156" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-157
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-157 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-157" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-304
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-304 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-304" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-305
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-305 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-305" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-306
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-306 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-306" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-307
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-307 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-307" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-507
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-507 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-507" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-604
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-604 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-604" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-605
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-605 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-605" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: P7LP-606
+# Package Name: SIP-9
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 8
+#
+DEF P7LP-606 F 0 40 Y Y 8 L N
+# Gate Name: G$1
+# Symbol Name: LPF-7POLES
+F0 "F" -400 200 50 H V L B
+F1 "P7LP-606" -400 -300 50 H V L B
+F2 "filter-coilcraft-SIP-9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -105 -115 70 0 1 0 7~POLES
+X IN P$1 -700 0 200 R 40 40 1 1 B 
+X OUT P$9 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+# Gate Name: G$3
+# Symbol Name: GND
+X GND P$3 -100 0 300 R 40 40 3 1 W 
+# Gate Name: G$4
+# Symbol Name: GND
+X GND P$4 -100 0 300 R 40 40 4 1 W 
+# Gate Name: G$5
+# Symbol Name: GND
+X GND P$5 -100 0 300 R 40 40 5 1 W 
+# Gate Name: G$6
+# Symbol Name: GND
+X GND P$6 -100 0 300 R 40 40 6 1 W 
+# Gate Name: G$7
+# Symbol Name: GND
+X GND P$7 -100 0 300 R 40 40 7 1 W 
+# Gate Name: G$8
+# Symbol Name: GND
+X GND P$8 -100 0 300 R 40 40 8 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3HP156
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF S3HP156 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: HPF-3POLES
+F0 "F" -400 100 50 H V L B
+F1 "S3HP156" -400 -400 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 200 0
+P 2 1 0 0 0 0 -200 -200
+P 2 1 0 0 -400 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -400 -300
+P 2 1 0 0 -400 -300 -400 100
+T 0 225 -225 50 0 1 0 3POLE
+X IN P$1 -600 -100 200 R 40 40 1 1 B 
+X OUT P$3 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3HP157
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF S3HP157 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: HPF-3POLES
+F0 "F" -400 100 50 H V L B
+F1 "S3HP157" -400 -400 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 200 0
+P 2 1 0 0 0 0 -200 -200
+P 2 1 0 0 -400 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -400 -300
+P 2 1 0 0 -400 -300 -400 100
+T 0 225 -225 50 0 1 0 3POLE
+X IN P$1 -600 -100 200 R 40 40 1 1 B 
+X OUT P$3 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3HP306
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF S3HP306 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: HPF-3POLES
+F0 "F" -400 100 50 H V L B
+F1 "S3HP306" -400 -400 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 200 0
+P 2 1 0 0 0 0 -200 -200
+P 2 1 0 0 -400 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -400 -300
+P 2 1 0 0 -400 -300 -400 100
+T 0 225 -225 50 0 1 0 3POLE
+X IN P$1 -600 -100 200 R 40 40 1 1 B 
+X OUT P$3 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3HP307
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF S3HP307 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: HPF-3POLES
+F0 "F" -400 100 50 H V L B
+F1 "S3HP307" -400 -400 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 200 0
+P 2 1 0 0 0 0 -200 -200
+P 2 1 0 0 -400 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -400 -300
+P 2 1 0 0 -400 -300 -400 100
+T 0 225 -225 50 0 1 0 3POLE
+X IN P$1 -600 -100 200 R 40 40 1 1 B 
+X OUT P$3 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3HP507
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF S3HP507 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: HPF-3POLES
+F0 "F" -400 100 50 H V L B
+F1 "S3HP507" -400 -400 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 200 0
+P 2 1 0 0 0 0 -200 -200
+P 2 1 0 0 -400 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -400 -300
+P 2 1 0 0 -400 -300 -400 100
+T 0 225 -225 50 0 1 0 3POLE
+X IN P$1 -600 -100 200 R 40 40 1 1 B 
+X OUT P$3 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3HP606
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF S3HP606 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: HPF-3POLES
+F0 "F" -400 100 50 H V L B
+F1 "S3HP606" -400 -400 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 200 0
+P 2 1 0 0 0 0 -200 -200
+P 2 1 0 0 -400 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -400 -300
+P 2 1 0 0 -400 -300 -400 100
+T 0 225 -225 50 0 1 0 3POLE
+X IN P$1 -600 -100 200 R 40 40 1 1 B 
+X OUT P$3 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3HP807
+# Package Name: SIP-3
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 2
+#
+DEF S3HP807 F 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: HPF-3POLES
+F0 "F" -400 100 50 H V L B
+F1 "S3HP807" -400 -400 50 H V L B
+F2 "filter-coilcraft-SIP-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 200 0
+P 2 1 0 0 0 0 -200 -200
+P 2 1 0 0 -400 100 500 100
+P 2 1 0 0 500 100 500 -300
+P 2 1 0 0 500 -300 -400 -300
+P 2 1 0 0 -400 -300 -400 100
+T 0 225 -225 50 0 1 0 3POLE
+X IN P$1 -600 -100 200 R 40 40 1 1 B 
+X OUT P$3 700 -100 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND P$2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP108
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP108 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP108" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP128
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP128 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP128" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP156
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP156 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP156" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP157
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP157 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP157" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP158
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP158 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP158" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP188
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP188 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP188" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP218
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP218 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP218" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP306
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP306 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP306" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP307
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP307 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP307" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP507
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP507 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP507" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP606
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP606 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP606" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP707
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP707 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP707" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP807
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP807 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP807" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: S3LP907
+# Package Name: SMD-3
+# Dev Tech: ''
+# Dev Prefix: FILTER-
+# Gate count = 2
+#
+DEF S3LP907 FILTER- 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: LPF-3POLES
+F0 "FILTER-" -500 200 50 H V L B
+F1 "S3LP907" -500 -300 50 H V L B
+F2 "filter-coilcraft-SMD-3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 100 0 100
+P 2 1 0 0 0 100 200 -100
+P 2 1 0 0 -500 200 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 200
+T 0 -205 -115 70 0 1 0 3~POLES
+X IN 1 -700 0 200 R 40 40 1 1 B 
+X OUT 3 700 0 200 L 40 40 1 1 B 
+# Gate Name: G$2
+# Symbol Name: GND
+X GND 2 -100 0 300 R 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

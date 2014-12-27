@@ -1,0 +1,79 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:23
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 3
+#
+# Dev Name: AD8211
+# Package Name: RJ-5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF AD8211 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: AD8211
+DRAW
+P 2 1 0 0 -500 400 400 400
+P 2 1 0 0 400 400 400 -400
+P 2 1 0 0 400 -400 -500 -400
+P 2 1 0 0 -500 -400 -500 400
+X GND 2 -200 -600 200 U 40 40 1 1 W 
+X OUT 1 600 -100 200 L 40 40 1 1 O 
+X V+ 5 600 200 200 L 40 40 1 1 W 
+X VIN+ 3 -400 600 200 D 40 40 1 1 I 
+X VIN- 4 0 600 200 D 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AD8212
+# Package Name: RM-8
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF AD8212 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: AD8212
+DRAW
+P 2 1 0 0 -400 500 400 500
+P 2 1 0 0 400 500 400 -500
+P 2 1 0 0 400 -500 -400 -500
+P 2 1 0 0 -400 -500 -400 500
+X ALPHA 6 300 -700 200 U 40 40 1 1 B 
+X BIAS 3 100 -700 200 U 40 40 1 1 B 
+X COM 2 -100 -700 200 U 40 40 1 1 B 
+X IOUT 5 -300 -700 200 U 40 40 1 1 O 
+X V+ 1 -300 700 200 D 40 40 1 1 W 
+X VSENSE 8 100 700 200 D 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: AD8213
+# Package Name: RM-10
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF AD8213 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: AD8213
+DRAW
+P 2 1 0 0 -800 600 800 600
+P 2 1 0 0 800 600 800 -400
+P 2 1 0 0 800 -400 -800 -400
+P 2 1 0 0 -800 -400 -800 600
+X CF1 6 400 -600 200 U 40 40 1 1 B 
+X CF2 5 -400 -600 200 U 40 40 1 1 B 
+X GND 3 0 -600 200 U 40 40 1 1 W 
+X IN1+ 9 200 800 200 D 40 40 1 1 I 
+X IN1- 10 600 800 200 D 40 40 1 1 I 
+X IN2+ 2 -200 800 200 D 40 40 1 1 I 
+X IN2- 1 -600 800 200 D 40 40 1 1 I 
+X OUT1 7 1000 -100 200 L 40 40 1 1 O 
+X OUT2 4 -1000 -100 200 R 40 40 1 1 O 
+X V+ 8 1000 300 200 L 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

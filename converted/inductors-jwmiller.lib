@@ -1,0 +1,950 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:23
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 36
+#
+# Dev Name: FB-085
+# Package Name: FB-085
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB-085 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB
+F0 "L" -100 75 50 H V L B
+F1 "FB-085" -100 -150 50 H V L B
+F2 "inductors-jwmiller-FB-085" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB-226
+# Package Name: FB-226
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB-226 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB
+F0 "L" -100 75 50 H V L B
+F1 "FB-226" -100 -150 50 H V L B
+F2 "inductors-jwmiller-FB-226" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB-287
+# Package Name: FB-287
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB-287 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB
+F0 "L" -100 75 50 H V L B
+F1 "FB-287" -100 -150 50 H V L B
+F2 "inductors-jwmiller-FB-287" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB-422
+# Package Name: FB-422
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB-422 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB
+F0 "L" -100 75 50 H V L B
+F1 "FB-422" -100 -150 50 H V L B
+F2 "inductors-jwmiller-FB-422" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB-M1331
+# Package Name: M1331
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB-M1331 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB
+F0 "L" -100 75 50 H V L B
+F1 "FB-M1331" -100 -150 50 H V L B
+F2 "inductors-jwmiller-M1331" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB-M1332
+# Package Name: M1332
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB-M1332 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB
+F0 "L" -100 75 50 H V L B
+F1 "FB-M1332" -100 -150 50 H V L B
+F2 "inductors-jwmiller-M1332" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FB-M1333
+# Package Name: M1333
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF FB-M1333 L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: FB
+F0 "L" -100 75 50 H V L B
+F1 "FB-M1333" -100 -150 50 H V L B
+F2 "inductors-jwmiller-M1333" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 50 100 50
+P 2 1 0 0 100 50 100 0
+P 2 1 0 0 100 0 100 -50
+P 2 1 0 0 100 -50 0 -50
+P 2 1 0 0 0 -50 0 0
+P 2 1 0 0 0 0 0 50
+P 2 1 0 0 0 0 100 0
+X 1 1 -100 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-77F
+# Package Name: 77F
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-77F L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-77F" -150 -100 50 H V L B
+F2 "inductors-jwmiller-77F" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-78F
+# Package Name: 78F
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-78F L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-78F" -150 -100 50 H V L B
+F2 "inductors-jwmiller-78F" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-79F
+# Package Name: 79F
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-79F L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-79F" -150 -100 50 H V L B
+F2 "inductors-jwmiller-79F" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-3500
+# Package Name: 3500
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-3500 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-3500" -150 -100 50 H V L B
+F2 "inductors-jwmiller-3500" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-4600-A
+# Package Name: 4600-A
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-4600-A L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-4600-A" -150 -100 50 H V L B
+F2 "inductors-jwmiller-4600-A" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-4600-B
+# Package Name: 4600-B
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-4600-B L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-4600-B" -150 -100 50 H V L B
+F2 "inductors-jwmiller-4600-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-4600-C
+# Package Name: 4600-C
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-4600-C L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-4600-C" -150 -100 50 H V L B
+F2 "inductors-jwmiller-4600-C" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-4600-D
+# Package Name: 4600-D
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-4600-D L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-4600-D" -150 -100 50 H V L B
+F2 "inductors-jwmiller-4600-D" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-5200-A
+# Package Name: 5200-A
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-5200-A L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-5200-A" -150 -100 50 H V L B
+F2 "inductors-jwmiller-5200-A" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-5200-B
+# Package Name: 5200-B
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-5200-B L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-5200-B" -150 -100 50 H V L B
+F2 "inductors-jwmiller-5200-B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-5200-C
+# Package Name: 5200-C
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-5200-C L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-5200-C" -150 -100 50 H V L B
+F2 "inductors-jwmiller-5200-C" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-5200-D
+# Package Name: 5200-D
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-5200-D L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-5200-D" -150 -100 50 H V L B
+F2 "inductors-jwmiller-5200-D" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-5200-E
+# Package Name: 5200-E
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-5200-E L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-5200-E" -150 -100 50 H V L B
+F2 "inductors-jwmiller-5200-E" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-5300
+# Package Name: 5300
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-5300 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-5300" -150 -100 50 H V L B
+F2 "inductors-jwmiller-5300" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-8230
+# Package Name: 8230
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-8230 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-8230" -150 -100 50 H V L B
+F2 "inductors-jwmiller-8230" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-8250
+# Package Name: 8250
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-8250 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-8250" -150 -100 50 H V L B
+F2 "inductors-jwmiller-8250" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-9130
+# Package Name: 9130
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-9130 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-9130" -150 -100 50 H V L B
+F2 "inductors-jwmiller-9130" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-9210
+# Package Name: 9210
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-9210 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-9210" -150 -100 50 H V L B
+F2 "inductors-jwmiller-9210" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-9220
+# Package Name: 9220
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-9220 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-9220" -150 -100 50 H V L B
+F2 "inductors-jwmiller-9220" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-9230
+# Package Name: 9230
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-9230 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-9230" -150 -100 50 H V L B
+F2 "inductors-jwmiller-9230" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-9250
+# Package Name: 9250
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-9250 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-9250" -150 -100 50 H V L B
+F2 "inductors-jwmiller-9250" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-9310
+# Package Name: 9310
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-9310 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-9310" -150 -100 50 H V L B
+F2 "inductors-jwmiller-9310" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-FB2000-AB
+# Package Name: FB2000-AB
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-FB2000-AB L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-FB2000-AB" -150 -100 50 H V L B
+F2 "inductors-jwmiller-FB2000-AB" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-FB2000-D
+# Package Name: FB2000-D
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-FB2000-D L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-FB2000-D" -150 -100 50 H V L B
+F2 "inductors-jwmiller-FB2000-D" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-PM1210
+# Package Name: PM1210
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-PM1210 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-PM1210" -150 -100 50 H V L B
+F2 "inductors-jwmiller-PM1210" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-PM1812
+# Package Name: PM1812
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-PM1812 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-PM1812" -150 -100 50 H V L B
+F2 "inductors-jwmiller-PM1812" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-RL8XX
+# Package Name: RL8XX
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-RL8XX L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-RL8XX" -150 -100 50 H V L B
+F2 "inductors-jwmiller-RL8XX" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: L-RL6000
+# Package Name: RL6000
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF L-RL6000 L 0 40 Y Y 1 L N
+# Gate Name: L
+# Symbol Name: DRK
+F0 "L" -150 100 50 H V L B
+F1 "L-RL6000" -150 -100 50 H V L B
+F2 "inductors-jwmiller-RL6000" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 62 100 62
+A -75 12 25 -3599 -1801 1 1 0 N -50 12 -100 12
+A -25 12 25 -3599 -1801 1 1 0 N 0 12 -50 12
+A 25 12 25 -3599 -1801 1 1 0 N 50 12 0 12
+A 75 12 25 -3599 -1801 1 1 0 N 100 12 50 12
+P 2 1 0 0 -100 12 -100 0
+P 2 1 0 0 100 12 100 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: LBFB2000-C
+# Package Name: FB2000-C
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+#
+DEF LBFB2000-C L 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DR-2
+F0 "L" -150 150 50 H V L B
+F1 "LBFB2000-C" -150 -225 50 H V L B
+F2 "inductors-jwmiller-FB2000-C" 0 150 50 H I C C
+DRAW
+A -75 -87 25 -3599 -1801 1 1 0 N -50 -87 -100 -87
+A -25 -87 25 -3599 -1801 1 1 0 N 0 -87 -50 -87
+A 25 -87 25 -3599 -1801 1 1 0 N 50 -87 0 -87
+A 75 -87 25 -3599 -1801 1 1 0 N 100 -87 50 -87
+P 2 1 0 0 -100 -87 -100 -100
+P 2 1 0 0 100 -87 100 -100
+A 75 87 25 -1799 -1 1 1 0 N 50 87 100 87
+A 25 87 25 -1799 -1 1 1 0 N 0 87 50 87
+A -25 87 25 -1799 -1 1 1 0 N -50 87 0 87
+A -75 87 25 -1799 -1 1 1 0 N -100 87 -50 87
+P 2 1 0 0 100 87 100 100
+P 2 1 0 0 -100 87 -100 100
+P 2 1 0 0 100 25 -100 25
+P 2 1 0 0 -100 25 -100 -25
+P 2 1 0 0 -100 -25 100 -25
+X 1 1 -200 100 100 R 40 40 1 1 P 
+X 2 2 200 100 100 L 40 40 1 1 P 
+X 3 3 -200 -100 100 R 40 40 1 1 P 
+X 4 4 200 -100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

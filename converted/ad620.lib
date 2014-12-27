@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:08
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: AD620
+# Package Name: DIL8
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF AD620 IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: AD620
+F0 "IC" -300 200 50 H V L B
+F1 "AD620" -300 100 50 H V L B
+F2 "ad620-DIL8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -600 600 -600 -200
+P 2 1 0 0 -600 -200 400 -200
+P 2 1 0 0 400 -200 400 600
+P 2 1 0 0 400 600 -600 600
+X +VS P7 -300 800 200 D 40 40 1 1 W 
+X -VS P4 100 800 200 D 40 40 1 1 W 
+X IN_+ P3 -800 100 200 R 40 40 1 1 I 
+X IN_- P2 -800 300 200 R 40 40 1 1 I 
+X OUT P6 600 200 200 L 40 40 1 1 O 
+X REF P5 -100 800 200 D 40 40 1 1 W 
+X RG P1 0 -400 200 U 40 40 1 1 I 
+X RG_ P8 -200 -400 200 U 40 40 1 1 I 
+ENDDRAW
+ENDDEF
+
+#End Library

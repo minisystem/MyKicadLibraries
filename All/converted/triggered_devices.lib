@@ -1,0 +1,2926 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:18
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 83
+#
+# Dev Name: 1N5758
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF 1N5758 DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "1N5758" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N5758A
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF 1N5758A DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "1N5758A" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N5759
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF 1N5759 DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "1N5759" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N5759A
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF 1N5759A DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "1N5759A" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N5760
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF 1N5760 DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "1N5760" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N5760A
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF 1N5760A DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "1N5760A" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N5761
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF 1N5761 DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "1N5761" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N5761A
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF 1N5761A DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "1N5761A" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N5762
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF 1N5762 DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "1N5762" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1N5762A
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF 1N5762A DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "1N5762A" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N2646
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N2646 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N2646" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N2647
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N2647 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N2647" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N3980
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N3980 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N3980" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4851
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4851 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4851" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4852
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4852 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4852" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4853
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4853 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4853" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4870
+# Package Name: TO92-C29-02
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4870 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4870" 200 0 50 H V L B
+F2 "triggered_devices-TO92-C29-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4871
+# Package Name: TO92-C29-02
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4871 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4871" 200 0 50 H V L B
+F2 "triggered_devices-TO92-C29-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4948
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4948 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4948" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4948-JAN
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4948-JAN Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4948-JAN" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4948-JANTX
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4948-JANTX Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4948-JANTX" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4949
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4949 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4949" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4949-JAN
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4949-JAN Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4949-JAN" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N4949-JANTX
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N4949-JANTX Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N4949-JANTX" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N5431
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N5431 Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N5431" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N5431-JAN
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N5431-JAN Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N5431-JAN" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 2N5431-JANTX
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: Q
+# Gate count = 1
+#
+DEF 2N5431-JANTX Q 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: UJTN
+F0 "Q" 200 100 50 H V L B
+F1 "2N5431-JANTX" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 3N81
+# Package Name: TO18-C27-01
+# Dev Tech: ''
+# Dev Prefix: SCS
+# Gate count = 1
+#
+DEF 3N81 SCS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCS
+F0 "SCS" 100 0 50 H V L B
+F1 "3N81" 100 -100 50 H V L B
+F2 "triggered_devices-TO18-C27-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X GA GA 100 100 0 U 40 40 1 1 P 
+X GC GC -100 -100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 3N82
+# Package Name: TO18-C27-01
+# Dev Tech: ''
+# Dev Prefix: SCS
+# Gate count = 1
+#
+DEF 3N82 SCS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCS
+F0 "SCS" 100 0 50 H V L B
+F1 "3N82" 100 -100 50 H V L B
+F2 "triggered_devices-TO18-C27-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X GA GA 100 100 0 U 40 40 1 1 P 
+X GC GC -100 -100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 3N83
+# Package Name: TO18-C27-01
+# Dev Tech: ''
+# Dev Prefix: SCS
+# Gate count = 1
+#
+DEF 3N83 SCS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCS
+F0 "SCS" 100 0 50 H V L B
+F1 "3N83" 100 -100 50 H V L B
+F2 "triggered_devices-TO18-C27-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X GA GA 100 100 0 U 40 40 1 1 P 
+X GC GC -100 -100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 3N84
+# Package Name: TO18-C27-01
+# Dev Tech: ''
+# Dev Prefix: SCS
+# Gate count = 1
+#
+DEF 3N84 SCS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCS
+F0 "SCS" 100 0 50 H V L B
+F1 "3N84" 100 -100 50 H V L B
+F2 "triggered_devices-TO18-C27-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X GA GA 100 100 0 U 40 40 1 1 P 
+X GC GC -100 -100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 3N85
+# Package Name: TO18-C27-01
+# Dev Tech: ''
+# Dev Prefix: SCS
+# Gate count = 1
+#
+DEF 3N85 SCS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCS
+F0 "SCS" 100 0 50 H V L B
+F1 "3N85" 100 -100 50 H V L B
+F2 "triggered_devices-TO18-C27-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X GA GA 100 100 0 U 40 40 1 1 P 
+X GC GC -100 -100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 3N86
+# Package Name: TO18-C27-01
+# Dev Tech: ''
+# Dev Prefix: SCS
+# Gate count = 1
+#
+DEF 3N86 SCS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SCS
+F0 "SCS" 100 0 50 H V L B
+F1 "3N86" 100 -100 50 H V L B
+F2 "triggered_devices-TO18-C27-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X GA GA 100 100 0 U 40 40 1 1 P 
+X GC GC -100 -100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BRX44
+# Package Name: SOT54
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF BRX44 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "BRX44" 100 -100 50 H V L B
+F2 "triggered_devices-SOT54" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BT148
+# Package Name: SOT82S
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF BT148 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "BT148" 100 -100 50 H V L B
+F2 "triggered_devices-SOT82S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BT149
+# Package Name: TO92-4
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF BT149 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "BT149" 100 -100 50 H V L B
+F2 "triggered_devices-TO92-4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BT151
+# Package Name: TO220CL
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF BT151 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "BT151" 100 -100 50 H V L B
+F2 "triggered_devices-TO220CL" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BT169
+# Package Name: TO92-2
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF BT169 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "BT169" 100 -100 50 H V L B
+F2 "triggered_devices-TO92-2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BTR59
+# Package Name: SOT93S
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF BTR59 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "BTR59" 100 -100 50 H V L B
+F2 "triggered_devices-SOT93S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BTV58
+# Package Name: TO220CS
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF BTV58 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "BTV58" 100 -100 50 H V L B
+F2 "triggered_devices-TO220CS" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BTW58
+# Package Name: TO220CS
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF BTW58 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "BTW58" 100 -100 50 H V L B
+F2 "triggered_devices-TO220CS" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: BTW68
+# Package Name: TOP3S-2
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF BTW68 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "BTW68" 100 -100 50 H V L B
+F2 "triggered_devices-TOP3S-2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIAC-BR210S
+# Package Name: BR210S
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF DIAC-BR210S D 0 40 Y Y 1 L N
+# Gate Name: -B1
+# Symbol Name: DIAC
+F0 "D" 30 35 50 H V L B
+F1 "DIAC-BR210S" 30 -105 50 H V L B
+F2 "triggered_devices-BR210S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 0 -50
+P 2 1 0 0 0 -50 -100 0
+P 2 1 0 0 0 0 0 -50
+P 2 1 0 0 -100 0 -100 -100
+P 2 1 0 0 0 -50 0 -100
+P 2 1 0 0 -100 100 -100 50
+P 2 1 0 0 -100 50 -100 0
+P 2 1 0 0 0 0 -100 50
+P 2 1 0 0 -100 50 0 100
+P 2 1 0 0 0 100 0 0
+X 1 T1 -200 0 100 R 40 40 1 1 P 
+X 2 T2 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIAC-DO35-10
+# Package Name: DO35-10
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF DIAC-DO35-10 D 0 40 Y Y 1 L N
+# Gate Name: -B1
+# Symbol Name: DIAC
+F0 "D" 30 35 50 H V L B
+F1 "DIAC-DO35-10" 30 -105 50 H V L B
+F2 "triggered_devices-DO35-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 0 -50
+P 2 1 0 0 0 -50 -100 0
+P 2 1 0 0 0 0 0 -50
+P 2 1 0 0 -100 0 -100 -100
+P 2 1 0 0 0 -50 0 -100
+P 2 1 0 0 -100 100 -100 50
+P 2 1 0 0 -100 50 -100 0
+P 2 1 0 0 0 0 -100 50
+P 2 1 0 0 -100 50 0 100
+P 2 1 0 0 0 100 0 0
+X 1 A -200 0 100 R 40 40 1 1 P 
+X 2 C 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIAC-GT32
+# Package Name: GT32
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF DIAC-GT32 D 0 40 Y Y 1 L N
+# Gate Name: -B1
+# Symbol Name: DIAC
+F0 "D" 30 35 50 H V L B
+F1 "DIAC-GT32" 30 -105 50 H V L B
+F2 "triggered_devices-GT32" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 0 -50
+P 2 1 0 0 0 -50 -100 0
+P 2 1 0 0 0 0 0 -50
+P 2 1 0 0 -100 0 -100 -100
+P 2 1 0 0 0 -50 0 -100
+P 2 1 0 0 -100 100 -100 50
+P 2 1 0 0 -100 50 -100 0
+P 2 1 0 0 0 0 -100 50
+P 2 1 0 0 -100 50 0 100
+P 2 1 0 0 0 100 0 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIAC2-BR220H
+# Package Name: BR220S
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF DIAC2-BR220H D 0 40 Y Y 1 L N
+# Gate Name: -B1
+# Symbol Name: BR220
+F0 "D" -170 250 50 H V L B
+F1 "DIAC2-BR220H" -170 170 50 H V L B
+F2 "triggered_devices-BR220S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 -100 -50 -50
+P 2 1 0 0 -50 -50 -150 0
+P 2 1 0 0 -50 0 -50 -50
+P 2 1 0 0 -150 0 -150 -100
+P 2 1 0 0 -50 -50 -50 -100
+P 2 1 0 0 -150 100 -150 50
+P 2 1 0 0 -150 50 -150 0
+P 2 1 0 0 -50 0 -150 50
+P 2 1 0 0 -150 50 -50 100
+P 2 1 0 0 -50 100 -50 0
+P 2 1 0 0 -150 0 -200 0
+P 2 1 0 0 50 -100 150 -50
+P 2 1 0 0 150 -50 50 0
+P 2 1 0 0 150 0 150 -50
+P 2 1 0 0 50 0 50 -100
+P 2 1 0 0 150 -50 150 -100
+P 2 1 0 0 50 100 50 50
+P 2 1 0 0 50 50 50 0
+P 2 1 0 0 150 0 50 50
+P 2 1 0 0 50 50 150 100
+P 2 1 0 0 150 100 150 0
+P 2 1 0 0 200 0 150 0
+P 2 1 0 0 50 0 0 0
+P 2 1 0 0 100 150 -100 150
+P 2 1 0 0 -100 -150 100 -150
+A -100 0 150 -2699 -901 1 1 0 N -100 150 -100 -150
+A 100 0 150 -899 899 1 1 0 N 100 -150 100 150
+P 2 1 0 0 0 -100 0 0
+P 2 1 0 0 0 0 -50 0
+C 0 0 5 1 1 0 F
+X T1 T1 -300 0 100 R 40 40 1 1 P 
+X T2 T2 0 -200 100 U 40 40 1 1 P 
+X T3 T3 300 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ER900
+# Package Name: ER900
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF ER900 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: DIAC-1
+F0 "T" 100 25 50 H V L B
+F1 "ER900" 100 -85 50 H V L B
+F2 "triggered_devices-ER900" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 0 -50
+P 2 1 0 0 0 -50 -100 0
+P 2 1 0 0 0 0 0 -50
+P 2 1 0 0 -100 0 -100 -100
+P 2 1 0 0 0 -50 0 -100
+P 2 1 0 0 -100 100 -100 50
+P 2 1 0 0 -100 50 -100 0
+P 2 1 0 0 0 0 -100 50
+P 2 1 0 0 -100 50 0 100
+P 2 1 0 0 0 100 0 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: GT32
+# Package Name: GT32
+# Dev Tech: ''
+# Dev Prefix: D
+# Gate count = 1
+#
+DEF GT32 D 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: DIAC
+F0 "D" 30 35 50 H V L B
+F1 "GT32" 30 -105 50 H V L B
+F2 "triggered_devices-GT32" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 -100 0 -50
+P 2 1 0 0 0 -50 -100 0
+P 2 1 0 0 0 0 0 -50
+P 2 1 0 0 -100 0 -100 -100
+P 2 1 0 0 0 -50 0 -100
+P 2 1 0 0 -100 100 -100 50
+P 2 1 0 0 -100 50 -100 0
+P 2 1 0 0 0 0 -100 50
+P 2 1 0 0 -100 50 0 100
+P 2 1 0 0 0 100 0 0
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 100 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IL410
+# Package Name: DIL06
+# Dev Tech: ''
+# Dev Prefix: OK
+# Gate count = 1
+#
+DEF IL410 OK 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: OK-TRN
+F0 "OK" -301 324 50 H V L B
+F1 "IL410" -301 -397 50 H V L B
+F2 "triggered_devices-DIL06" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 100 100 200
+P 2 1 0 0 100 200 -25 200
+P 2 1 0 0 -25 200 -25 -50
+P 2 1 0 0 25 0 0 -50
+P 2 1 0 0 25 -50 25 -125
+P 2 1 0 0 25 -200 -125 -200
+P 2 1 0 0 -125 -200 -125 -50
+P 2 1 0 0 -125 -50 -25 -50
+P 2 1 0 0 25 -125 100 -125
+P 2 1 0 0 25 -125 25 -200
+P 2 1 0 0 -65 -160 -50 -160
+P 2 1 0 0 -50 -160 -50 -95
+P 2 1 0 0 -50 -160 -35 -160
+P 2 1 0 0 -50 -95 -65 -110
+P 2 1 0 0 -85 -175 -15 -175
+P 2 1 0 0 -15 -175 -15 -80
+P 2 1 0 0 -15 -80 -85 -80
+P 2 1 0 0 -85 -80 -85 -175
+P 2 1 0 0 0 -50 25 -50
+P 2 1 0 0 -120 5 -65 60
+P 2 1 0 0 -65 60 -100 45
+P 2 1 0 0 -100 45 -80 25
+P 2 1 0 0 -80 25 -65 60
+P 2 1 0 0 -70 105 -105 90
+P 2 1 0 0 -105 90 -85 70
+P 2 1 0 0 -85 70 -70 105
+P 2 1 0 0 -125 50 -70 105
+P 2 1 0 0 -150 100 -200 0
+P 2 1 0 0 -200 0 -250 100
+P 2 1 0 0 -150 0 -200 0
+P 2 1 0 0 -200 0 -250 0
+P 2 1 0 0 -150 100 -200 100
+P 2 1 0 0 -200 100 -200 0
+P 2 1 0 0 -200 100 -250 100
+P 2 1 0 0 -200 0 -200 -200
+P 2 1 0 0 -200 200 -200 100
+P 2 1 0 0 100 100 50 0
+P 2 1 0 0 50 0 0 100
+P 2 1 0 0 100 0 50 0
+P 2 1 0 0 50 0 0 0
+P 2 1 0 0 100 100 0 100
+P 2 1 0 0 100 0 150 100
+P 2 1 0 0 150 100 200 0
+P 2 1 0 0 100 100 150 100
+P 2 1 0 0 150 100 200 100
+P 2 1 0 0 100 0 200 0
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 100 200 300 200
+P 2 1 0 0 100 -125 100 0
+P 2 1 0 0 -200 200 -300 200
+P 2 1 0 0 -300 -300 250 -300
+P 2 1 0 0 100 -125 100 -200
+P 2 1 0 0 100 -200 300 -200
+P 2 1 0 0 -300 300 250 300
+P 2 1 0 0 250 300 250 -300
+P 2 1 0 0 -300 300 -300 200
+P 2 1 0 0 -300 200 -300 -200
+P 2 1 0 0 -300 -200 -300 -300
+P 2 1 0 0 -200 -200 -300 -200
+C 100 200 5 1 1 0 F
+C 100 -125 5 1 1 0 F
+X A 1 -400 200 100 R 40 40 1 1 P 
+X A1 4 400 -200 100 L 40 40 1 1 P 
+X A2 6 400 200 100 L 40 40 1 1 P 
+X C 2 -400 -200 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IL420
+# Package Name: DIL06
+# Dev Tech: ''
+# Dev Prefix: OK
+# Gate count = 1
+#
+DEF IL420 OK 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: OK-TR
+F0 "OK" -276 224 50 H V L B
+F1 "IL420" -276 -297 50 H V L B
+F2 "triggered_devices-DIL06" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 -100 100 -50
+P 2 1 0 0 -95 -45 -40 10
+P 2 1 0 0 -40 10 -75 -5
+P 2 1 0 0 -75 -5 -55 -25
+P 2 1 0 0 -55 -25 -40 10
+P 2 1 0 0 -45 55 -80 40
+P 2 1 0 0 -80 40 -60 20
+P 2 1 0 0 -60 20 -45 55
+P 2 1 0 0 -100 0 -45 55
+P 2 1 0 0 -125 50 -175 -50
+P 2 1 0 0 -175 -50 -225 50
+P 2 1 0 0 -125 -50 -175 -50
+P 2 1 0 0 -175 -50 -225 -50
+P 2 1 0 0 -125 50 -175 50
+P 2 1 0 0 -175 50 -175 -50
+P 2 1 0 0 -175 50 -225 50
+P 2 1 0 0 -175 -50 -175 -100
+P 2 1 0 0 -175 100 -175 50
+P 2 1 0 0 100 50 55 -40
+P 2 1 0 0 50 -50 35 -20
+P 2 1 0 0 100 -50 50 -50
+P 2 1 0 0 50 -50 0 -50
+P 2 1 0 0 100 50 0 50
+P 2 1 0 0 55 -40 35 -20
+P 2 1 0 0 55 -40 50 -50
+P 2 1 0 0 35 -20 0 50
+P 2 1 0 0 100 -50 150 50
+P 2 1 0 0 150 50 200 -50
+P 2 1 0 0 150 50 200 50
+P 2 1 0 0 100 -50 200 -50
+P 2 1 0 0 100 100 100 50
+P 2 1 0 0 100 50 150 50
+P 2 1 0 0 275 -200 275 200
+P 2 1 0 0 -275 -200 275 -200
+P 2 1 0 0 -275 200 -275 -200
+P 2 1 0 0 -275 200 275 200
+P 2 1 0 0 -300 100 -175 100
+P 2 1 0 0 -300 -100 -175 -100
+P 2 1 0 0 100 100 300 100
+P 2 1 0 0 100 -100 300 -100
+X A 1 -400 100 100 R 40 40 1 1 P 
+X A1 4 400 -100 100 L 40 40 1 1 P 
+X A2 6 400 100 100 L 40 40 1 1 P 
+X C 2 -400 -100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MBS4991
+# Package Name: TO92-C29-12
+# Dev Tech: ''
+# Dev Prefix: SBS
+# Gate count = 1
+#
+DEF MBS4991 SBS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SBS
+F0 "SBS" 150 100 50 H V L B
+F1 "MBS4991" 150 0 50 H V L B
+F2 "triggered_devices-TO92-C29-12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -80 60 0 60
+P 2 1 0 0 0 60 80 60
+P 2 1 0 0 -80 -60 0 -60
+P 2 1 0 0 0 -60 80 -60
+P 2 1 0 0 0 60 0 0
+P 2 1 0 0 0 0 0 -60
+P 2 1 0 0 -80 -60 0 60
+P 2 1 0 0 0 -60 80 60
+P 2 1 0 0 -80 0 -70 0
+P 2 1 0 0 -70 0 0 0
+P 2 1 0 0 0 0 80 0
+P 2 1 0 0 0 -100 0 -60
+P 2 1 0 0 -100 0 -70 0
+P 2 1 0 0 0 100 0 60
+X A1 A1 0 200 100 D 40 40 1 1 P 
+X A2 A2 0 -200 100 U 40 40 1 1 P 
+X G G -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MBS4992
+# Package Name: TO92-C29-12
+# Dev Tech: ''
+# Dev Prefix: SBS
+# Gate count = 1
+#
+DEF MBS4992 SBS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SBS
+F0 "SBS" 150 100 50 H V L B
+F1 "MBS4992" 150 0 50 H V L B
+F2 "triggered_devices-TO92-C29-12" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -80 60 0 60
+P 2 1 0 0 0 60 80 60
+P 2 1 0 0 -80 -60 0 -60
+P 2 1 0 0 0 -60 80 -60
+P 2 1 0 0 0 60 0 0
+P 2 1 0 0 0 0 0 -60
+P 2 1 0 0 -80 -60 0 60
+P 2 1 0 0 0 -60 80 60
+P 2 1 0 0 -80 0 -70 0
+P 2 1 0 0 -70 0 0 0
+P 2 1 0 0 0 0 80 0
+P 2 1 0 0 0 -100 0 -60
+P 2 1 0 0 -100 0 -70 0
+P 2 1 0 0 0 100 0 60
+X A1 A1 0 200 100 D 40 40 1 1 P 
+X A2 A2 0 -200 100 U 40 40 1 1 P 
+X G G -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCR106
+# Package Name: TO126L
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF MCR106 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "MCR106" 100 -100 50 H V L B
+F2 "triggered_devices-TO126L" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MPT20
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF MPT20 DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "MPT20" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MPT28
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF MPT28 DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "MPT28" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MPT32
+# Package Name: CASE182-03
+# Dev Tech: ''
+# Dev Prefix: DIAC
+# Gate count = 1
+#
+DEF MPT32 DIAC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: DIAC2
+F0 "DIAC" -400 300 50 H V L B
+F1 "MPT32" -400 200 50 H V L B
+F2 "triggered_devices-CASE182-03" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 70 -60 100 -100
+P 2 1 0 0 100 -100 50 -100
+P 2 1 0 0 50 -100 70 -60
+P 2 1 0 0 60 -80 12 -56
+P 2 1 0 0 70 60 100 100
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 70 60
+P 2 1 0 0 60 80 12 56
+S -10 -100 20 100 1 1 0 F
+X M1 M1 100 200 100 D 40 40 1 1 P 
+X M2 M2 100 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MPU131
+# Package Name: TO92-10
+# Dev Tech: ''
+# Dev Prefix: PUT
+# Gate count = 1
+#
+DEF MPU131 PUT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PUT
+F0 "PUT" 100 0 50 H V L B
+F1 "MPU131" 100 -100 50 H V L B
+F2 "triggered_devices-TO92-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G 100 100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MPU132
+# Package Name: TO92-10
+# Dev Tech: ''
+# Dev Prefix: PUT
+# Gate count = 1
+#
+DEF MPU132 PUT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PUT
+F0 "PUT" 100 0 50 H V L B
+F1 "MPU132" 100 -100 50 H V L B
+F2 "triggered_devices-TO92-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G 100 100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MPU133
+# Package Name: TO92-10
+# Dev Tech: ''
+# Dev Prefix: PUT
+# Gate count = 1
+#
+DEF MPU133 PUT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PUT
+F0 "PUT" 100 0 50 H V L B
+F1 "MPU133" 100 -100 50 H V L B
+F2 "triggered_devices-TO92-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G 100 100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MPU231
+# Package Name: TO18-6
+# Dev Tech: ''
+# Dev Prefix: PUT
+# Gate count = 1
+#
+DEF MPU231 PUT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PUT
+F0 "PUT" 100 0 50 H V L B
+F1 "MPU231" 100 -100 50 H V L B
+F2 "triggered_devices-TO18-6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G 100 100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MPU232
+# Package Name: TO18-6
+# Dev Tech: ''
+# Dev Prefix: PUT
+# Gate count = 1
+#
+DEF MPU232 PUT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PUT
+F0 "PUT" 100 0 50 H V L B
+F1 "MPU232" 100 -100 50 H V L B
+F2 "triggered_devices-TO18-6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G 100 100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MPU233
+# Package Name: TO18-6
+# Dev Tech: ''
+# Dev Prefix: PUT
+# Gate count = 1
+#
+DEF MPU233 PUT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PUT
+F0 "PUT" 100 0 50 H V L B
+F1 "MPU233" 100 -100 50 H V L B
+F2 "triggered_devices-TO18-6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 50 50 50
+P 2 1 0 0 25 50 50 100
+P 2 1 0 0 50 100 100 100
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G 100 100 0 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MU10
+# Package Name: TO92-C29-02
+# Dev Tech: ''
+# Dev Prefix: UJT
+# Gate count = 1
+#
+DEF MU10 UJT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: UJTN
+F0 "UJT" 200 100 50 H V L B
+F1 "MU10" 200 0 50 H V L B
+F2 "triggered_devices-TO92-C29-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MU20
+# Package Name: TO18-C22A-01
+# Dev Tech: ''
+# Dev Prefix: UJT
+# Gate count = 1
+#
+DEF MU20 UJT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: UJTN
+F0 "UJT" 200 100 50 H V L B
+F1 "MU20" 200 0 50 H V L B
+F2 "triggered_devices-TO18-C22A-01" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MU2646
+# Package Name: TO92-C29-02
+# Dev Tech: ''
+# Dev Prefix: UJT
+# Gate count = 1
+#
+DEF MU2646 UJT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: UJTN
+F0 "UJT" 200 100 50 H V L B
+F1 "MU2646" 200 0 50 H V L B
+F2 "triggered_devices-TO92-C29-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MU4891
+# Package Name: TO92-C29-02
+# Dev Tech: ''
+# Dev Prefix: UJT
+# Gate count = 1
+#
+DEF MU4891 UJT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: UJTN
+F0 "UJT" 200 100 50 H V L B
+F1 "MU4891" 200 0 50 H V L B
+F2 "triggered_devices-TO92-C29-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MU4892
+# Package Name: TO92-C29-02
+# Dev Tech: ''
+# Dev Prefix: UJT
+# Gate count = 1
+#
+DEF MU4892 UJT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: UJTN
+F0 "UJT" 200 100 50 H V L B
+F1 "MU4892" 200 0 50 H V L B
+F2 "triggered_devices-TO92-C29-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MU4893
+# Package Name: TO92-C29-02
+# Dev Tech: ''
+# Dev Prefix: UJT
+# Gate count = 1
+#
+DEF MU4893 UJT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: UJTN
+F0 "UJT" 200 100 50 H V L B
+F1 "MU4893" 200 0 50 H V L B
+F2 "triggered_devices-TO92-C29-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MU4894
+# Package Name: TO92-C29-02
+# Dev Tech: ''
+# Dev Prefix: UJT
+# Gate count = 1
+#
+DEF MU4894 UJT 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: UJTN
+F0 "UJT" 200 100 50 H V L B
+F1 "MU4894" 200 0 50 H V L B
+F2 "triggered_devices-TO92-C29-02" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 75 21 75
+P 2 1 0 0 100 -75 21 -75
+P 2 1 0 0 100 -100 100 -75
+P 2 1 0 0 100 100 100 75
+P 2 1 0 0 -100 100 -10 10
+P 2 1 0 0 -75 45 -45 75
+P 2 1 0 0 -10 10 -75 45
+P 2 1 0 0 -45 75 -10 10
+S -10 -100 20 100 1 1 0 F
+T 0 62 -104 32 0 1 0 B2
+T 0 67 111 32 0 1 0 B1
+T 0 -109 66 32 0 1 0 E
+X B1 B1 100 200 100 D 40 40 1 1 P 
+X B2 B2 100 -200 100 U 40 40 1 1 P 
+X E E -200 100 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MUS4987
+# Package Name: TO92-C29-13
+# Dev Tech: ''
+# Dev Prefix: SUS
+# Gate count = 1
+#
+DEF MUS4987 SUS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SUS
+F0 "SUS" 150 100 50 H V L B
+F1 "MUS4987" 150 0 50 H V L B
+F2 "triggered_devices-TO92-C29-13" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 0 -60
+P 2 1 0 0 0 -60 60 0
+P 2 1 0 0 0 0 60 0
+P 2 1 0 0 0 -100 0 -60
+P 2 1 0 0 -100 0 60 0
+P 2 1 0 0 0 100 0 0
+X A1 A1 0 200 100 D 40 40 1 1 P 
+X C2 C2 0 -200 100 U 40 40 1 1 P 
+X G G -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MUS4988
+# Package Name: TO92-C29-13
+# Dev Tech: ''
+# Dev Prefix: SUS
+# Gate count = 1
+#
+DEF MUS4988 SUS 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SUS
+F0 "SUS" 150 100 50 H V L B
+F1 "MUS4988" 150 0 50 H V L B
+F2 "triggered_devices-TO92-C29-13" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 0 -60
+P 2 1 0 0 0 -60 60 0
+P 2 1 0 0 0 0 60 0
+P 2 1 0 0 0 -100 0 -60
+P 2 1 0 0 -100 0 60 0
+P 2 1 0 0 0 100 0 0
+X A1 A1 0 200 100 D 40 40 1 1 P 
+X C2 C2 0 -200 100 U 40 40 1 1 P 
+X G G -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SSR1-S102S02
+# Package Name: SIP4
+# Dev Tech: ''
+# Dev Prefix: SSR
+# Gate count = 1
+#
+DEF SSR1-S102S02 SSR 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SX02S02
+F0 "SSR" 1 324 50 H V L B
+F1 "SSR1-S102S02" 101 -397 50 H V L B
+F2 "triggered_devices-SIP4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 100 100 200
+P 2 1 0 0 100 200 225 200
+P 2 1 0 0 225 200 225 -50
+P 2 1 0 0 175 0 200 -50
+P 2 1 0 0 175 -50 175 -125
+P 2 1 0 0 175 -200 325 -200
+P 2 1 0 0 325 -200 325 -50
+P 2 1 0 0 325 -50 225 -50
+P 2 1 0 0 175 -125 101 -125
+P 2 1 0 0 175 -125 175 -200
+P 2 1 0 0 265 -160 250 -160
+P 2 1 0 0 250 -160 250 -95
+P 2 1 0 0 250 -160 235 -160
+P 2 1 0 0 250 -95 265 -110
+P 2 1 0 0 285 -175 215 -175
+P 2 1 0 0 215 -175 215 -80
+P 2 1 0 0 215 -80 285 -80
+P 2 1 0 0 285 -80 285 -175
+P 2 1 0 0 200 -50 175 -50
+P 2 1 0 0 320 5 265 60
+P 2 1 0 0 265 60 300 45
+P 2 1 0 0 300 45 280 25
+P 2 1 0 0 280 25 265 60
+P 2 1 0 0 270 105 305 90
+P 2 1 0 0 305 90 285 70
+P 2 1 0 0 285 70 270 105
+P 2 1 0 0 325 50 270 105
+P 2 1 0 0 350 100 400 0
+P 2 1 0 0 400 0 450 100
+P 2 1 0 0 350 0 400 0
+P 2 1 0 0 400 0 450 0
+P 2 1 0 0 350 100 400 100
+P 2 1 0 0 400 100 400 0
+P 2 1 0 0 400 100 450 100
+P 2 1 0 0 400 0 400 -200
+P 2 1 0 0 400 200 400 100
+P 2 1 0 0 100 100 150 0
+P 2 1 0 0 150 0 200 100
+P 2 1 0 0 100 0 150 0
+P 2 1 0 0 150 0 200 0
+P 2 1 0 0 100 100 200 100
+P 2 1 0 0 100 0 50 100
+P 2 1 0 0 50 100 0 0
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 0 100
+P 2 1 0 0 100 0 0 0
+P 2 1 0 0 225 -50 200 -50
+P 2 1 0 0 100 200 -400 200
+P 2 1 0 0 101 -125 100 -125
+P 2 1 0 0 100 -125 100 0
+P 2 1 0 0 400 200 500 200
+P 2 1 0 0 500 -300 -350 -300
+P 2 1 0 0 500 300 -350 300
+P 2 1 0 0 -350 300 -350 -300
+P 2 1 0 0 500 300 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 500 -300
+P 2 1 0 0 400 -200 500 -200
+P 2 1 0 0 -200 100 -200 200
+P 2 1 0 0 -200 100 -150 0
+P 2 1 0 0 -150 0 -100 100
+P 2 1 0 0 -200 0 -150 0
+P 2 1 0 0 -150 0 -100 0
+P 2 1 0 0 -200 100 -100 100
+P 2 1 0 0 -200 0 -250 100
+P 2 1 0 0 -250 100 -300 0
+P 2 1 0 0 -200 100 -250 100
+P 2 1 0 0 -250 100 -300 100
+P 2 1 0 0 -200 0 -300 0
+P 2 1 0 0 -200 -125 -200 -120
+P 2 1 0 0 -200 -120 -200 0
+P 2 1 0 0 -400 -200 -200 -200
+P 2 1 0 0 -200 -200 -200 -190
+P 2 1 0 0 -200 -190 -200 -120
+P 2 1 0 0 -64 -125 100 -125
+P 2 1 0 0 -125 -1 -64 -125
+C 100 200 5 1 1 0 F
+C 101 -125 5 1 1 0 F
+C -200 200 5 1 1 0 F
+X A 3 600 200 100 L 40 40 1 1 P 
+X A1 2 -500 -200 100 R 40 40 1 1 P 
+X A2 1 -500 200 100 R 40 40 1 1 P 
+X C 4 600 -200 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SSR1-S202S02
+# Package Name: SIP4
+# Dev Tech: ''
+# Dev Prefix: SSR
+# Gate count = 1
+#
+DEF SSR1-S202S02 SSR 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SX02S02
+F0 "SSR" 1 324 50 H V L B
+F1 "SSR1-S202S02" 101 -397 50 H V L B
+F2 "triggered_devices-SIP4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 100 100 200
+P 2 1 0 0 100 200 225 200
+P 2 1 0 0 225 200 225 -50
+P 2 1 0 0 175 0 200 -50
+P 2 1 0 0 175 -50 175 -125
+P 2 1 0 0 175 -200 325 -200
+P 2 1 0 0 325 -200 325 -50
+P 2 1 0 0 325 -50 225 -50
+P 2 1 0 0 175 -125 101 -125
+P 2 1 0 0 175 -125 175 -200
+P 2 1 0 0 265 -160 250 -160
+P 2 1 0 0 250 -160 250 -95
+P 2 1 0 0 250 -160 235 -160
+P 2 1 0 0 250 -95 265 -110
+P 2 1 0 0 285 -175 215 -175
+P 2 1 0 0 215 -175 215 -80
+P 2 1 0 0 215 -80 285 -80
+P 2 1 0 0 285 -80 285 -175
+P 2 1 0 0 200 -50 175 -50
+P 2 1 0 0 320 5 265 60
+P 2 1 0 0 265 60 300 45
+P 2 1 0 0 300 45 280 25
+P 2 1 0 0 280 25 265 60
+P 2 1 0 0 270 105 305 90
+P 2 1 0 0 305 90 285 70
+P 2 1 0 0 285 70 270 105
+P 2 1 0 0 325 50 270 105
+P 2 1 0 0 350 100 400 0
+P 2 1 0 0 400 0 450 100
+P 2 1 0 0 350 0 400 0
+P 2 1 0 0 400 0 450 0
+P 2 1 0 0 350 100 400 100
+P 2 1 0 0 400 100 400 0
+P 2 1 0 0 400 100 450 100
+P 2 1 0 0 400 0 400 -200
+P 2 1 0 0 400 200 400 100
+P 2 1 0 0 100 100 150 0
+P 2 1 0 0 150 0 200 100
+P 2 1 0 0 100 0 150 0
+P 2 1 0 0 150 0 200 0
+P 2 1 0 0 100 100 200 100
+P 2 1 0 0 100 0 50 100
+P 2 1 0 0 50 100 0 0
+P 2 1 0 0 100 100 50 100
+P 2 1 0 0 50 100 0 100
+P 2 1 0 0 100 0 0 0
+P 2 1 0 0 225 -50 200 -50
+P 2 1 0 0 100 200 -400 200
+P 2 1 0 0 101 -125 100 -125
+P 2 1 0 0 100 -125 100 0
+P 2 1 0 0 400 200 500 200
+P 2 1 0 0 500 -300 -350 -300
+P 2 1 0 0 500 300 -350 300
+P 2 1 0 0 -350 300 -350 -300
+P 2 1 0 0 500 300 500 200
+P 2 1 0 0 500 200 500 -200
+P 2 1 0 0 500 -200 500 -300
+P 2 1 0 0 400 -200 500 -200
+P 2 1 0 0 -200 100 -200 200
+P 2 1 0 0 -200 100 -150 0
+P 2 1 0 0 -150 0 -100 100
+P 2 1 0 0 -200 0 -150 0
+P 2 1 0 0 -150 0 -100 0
+P 2 1 0 0 -200 100 -100 100
+P 2 1 0 0 -200 0 -250 100
+P 2 1 0 0 -250 100 -300 0
+P 2 1 0 0 -200 100 -250 100
+P 2 1 0 0 -250 100 -300 100
+P 2 1 0 0 -200 0 -300 0
+P 2 1 0 0 -200 -125 -200 -120
+P 2 1 0 0 -200 -120 -200 0
+P 2 1 0 0 -400 -200 -200 -200
+P 2 1 0 0 -200 -200 -200 -190
+P 2 1 0 0 -200 -190 -200 -120
+P 2 1 0 0 -64 -125 100 -125
+P 2 1 0 0 -125 -1 -64 -125
+C 100 200 5 1 1 0 F
+C 101 -125 5 1 1 0 F
+C -200 200 5 1 1 0 F
+X A 3 600 200 100 L 40 40 1 1 P 
+X A1 2 -500 -200 100 R 40 40 1 1 P 
+X A2 1 -500 200 100 R 40 40 1 1 P 
+X C 4 600 -200 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SSR2-S102S11
+# Package Name: SIP4
+# Dev Tech: ''
+# Dev Prefix: SSR
+# Gate count = 1
+#
+DEF SSR2-S102S11 SSR 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SX02S11
+F0 "SSR" -99 324 50 H V L B
+F1 "SSR2-S102S11" 1 -397 50 H V L B
+F2 "triggered_devices-SIP4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 100 0 200
+P 2 1 0 0 220 5 165 60
+P 2 1 0 0 165 60 200 45
+P 2 1 0 0 200 45 180 25
+P 2 1 0 0 180 25 165 60
+P 2 1 0 0 170 105 205 90
+P 2 1 0 0 205 90 185 70
+P 2 1 0 0 185 70 170 105
+P 2 1 0 0 225 50 170 105
+P 2 1 0 0 250 100 300 0
+P 2 1 0 0 300 0 350 100
+P 2 1 0 0 250 0 300 0
+P 2 1 0 0 300 0 350 0
+P 2 1 0 0 250 100 300 100
+P 2 1 0 0 300 100 300 0
+P 2 1 0 0 300 100 350 100
+P 2 1 0 0 300 0 300 -200
+P 2 1 0 0 300 200 300 100
+P 2 1 0 0 0 100 50 0
+P 2 1 0 0 50 0 100 100
+P 2 1 0 0 0 0 50 0
+P 2 1 0 0 50 0 100 0
+P 2 1 0 0 0 100 100 100
+P 2 1 0 0 0 0 -50 100
+P 2 1 0 0 -50 100 -100 0
+P 2 1 0 0 0 100 -50 100
+P 2 1 0 0 -50 100 -100 100
+P 2 1 0 0 0 0 -100 0
+P 2 1 0 0 0 200 -700 200
+P 2 1 0 0 0 -125 0 0
+P 2 1 0 0 300 200 400 200
+P 2 1 0 0 400 -300 -650 -300
+P 2 1 0 0 400 300 -650 300
+P 2 1 0 0 -650 300 -650 -300
+P 2 1 0 0 400 300 400 200
+P 2 1 0 0 400 200 400 -200
+P 2 1 0 0 400 -200 400 -300
+P 2 1 0 0 300 -200 400 -200
+P 2 1 0 0 -300 100 -300 200
+P 2 1 0 0 -300 100 -250 0
+P 2 1 0 0 -250 0 -200 100
+P 2 1 0 0 -300 0 -250 0
+P 2 1 0 0 -250 0 -200 0
+P 2 1 0 0 -300 100 -200 100
+P 2 1 0 0 -300 0 -350 100
+P 2 1 0 0 -350 100 -400 0
+P 2 1 0 0 -300 100 -350 100
+P 2 1 0 0 -350 100 -400 100
+P 2 1 0 0 -300 0 -400 0
+P 2 1 0 0 -300 -125 -300 -120
+P 2 1 0 0 -300 -120 -300 0
+P 2 1 0 0 -300 -200 -300 -190
+P 2 1 0 0 -300 -190 -300 -120
+P 2 1 0 0 -164 -125 0 -125
+P 2 1 0 0 -225 -1 -164 -125
+P 2 1 0 0 -360 -200 -300 -200
+P 2 1 0 0 -710 -200 -590 -200
+P 2 1 0 0 -590 -200 -580 -180
+P 2 1 0 0 -580 -180 -560 -220
+P 2 1 0 0 -560 -220 -540 -180
+P 2 1 0 0 -540 -180 -520 -220
+P 2 1 0 0 -520 -220 -500 -180
+P 2 1 0 0 -500 -180 -480 -220
+P 2 1 0 0 -480 -220 -460 -180
+P 2 1 0 0 -460 -180 -440 -220
+P 2 1 0 0 -440 -220 -430 -200
+P 2 1 0 0 -430 -200 -390 -200
+P 2 1 0 0 -390 -160 -390 -200
+P 2 1 0 0 -390 -200 -390 -240
+P 2 1 0 0 -360 -160 -360 -200
+P 2 1 0 0 -360 -200 -360 -230
+P 2 1 0 0 -360 -230 -360 -240
+C -300 200 5 1 1 0 F
+X A 3 500 200 100 L 40 40 1 1 P 
+X A1 2 -800 -200 100 R 40 40 1 1 P 
+X A2 1 -800 200 100 R 40 40 1 1 P 
+X C 4 500 -200 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SSR2-S202S11
+# Package Name: SIP4
+# Dev Tech: ''
+# Dev Prefix: SSR
+# Gate count = 1
+#
+DEF SSR2-S202S11 SSR 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SX02S11
+F0 "SSR" -99 324 50 H V L B
+F1 "SSR2-S202S11" 1 -397 50 H V L B
+F2 "triggered_devices-SIP4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 100 0 200
+P 2 1 0 0 220 5 165 60
+P 2 1 0 0 165 60 200 45
+P 2 1 0 0 200 45 180 25
+P 2 1 0 0 180 25 165 60
+P 2 1 0 0 170 105 205 90
+P 2 1 0 0 205 90 185 70
+P 2 1 0 0 185 70 170 105
+P 2 1 0 0 225 50 170 105
+P 2 1 0 0 250 100 300 0
+P 2 1 0 0 300 0 350 100
+P 2 1 0 0 250 0 300 0
+P 2 1 0 0 300 0 350 0
+P 2 1 0 0 250 100 300 100
+P 2 1 0 0 300 100 300 0
+P 2 1 0 0 300 100 350 100
+P 2 1 0 0 300 0 300 -200
+P 2 1 0 0 300 200 300 100
+P 2 1 0 0 0 100 50 0
+P 2 1 0 0 50 0 100 100
+P 2 1 0 0 0 0 50 0
+P 2 1 0 0 50 0 100 0
+P 2 1 0 0 0 100 100 100
+P 2 1 0 0 0 0 -50 100
+P 2 1 0 0 -50 100 -100 0
+P 2 1 0 0 0 100 -50 100
+P 2 1 0 0 -50 100 -100 100
+P 2 1 0 0 0 0 -100 0
+P 2 1 0 0 0 200 -700 200
+P 2 1 0 0 0 -125 0 0
+P 2 1 0 0 300 200 400 200
+P 2 1 0 0 400 -300 -650 -300
+P 2 1 0 0 400 300 -650 300
+P 2 1 0 0 -650 300 -650 -300
+P 2 1 0 0 400 300 400 200
+P 2 1 0 0 400 200 400 -200
+P 2 1 0 0 400 -200 400 -300
+P 2 1 0 0 300 -200 400 -200
+P 2 1 0 0 -300 100 -300 200
+P 2 1 0 0 -300 100 -250 0
+P 2 1 0 0 -250 0 -200 100
+P 2 1 0 0 -300 0 -250 0
+P 2 1 0 0 -250 0 -200 0
+P 2 1 0 0 -300 100 -200 100
+P 2 1 0 0 -300 0 -350 100
+P 2 1 0 0 -350 100 -400 0
+P 2 1 0 0 -300 100 -350 100
+P 2 1 0 0 -350 100 -400 100
+P 2 1 0 0 -300 0 -400 0
+P 2 1 0 0 -300 -125 -300 -120
+P 2 1 0 0 -300 -120 -300 0
+P 2 1 0 0 -300 -200 -300 -190
+P 2 1 0 0 -300 -190 -300 -120
+P 2 1 0 0 -164 -125 0 -125
+P 2 1 0 0 -225 -1 -164 -125
+P 2 1 0 0 -360 -200 -300 -200
+P 2 1 0 0 -710 -200 -590 -200
+P 2 1 0 0 -590 -200 -580 -180
+P 2 1 0 0 -580 -180 -560 -220
+P 2 1 0 0 -560 -220 -540 -180
+P 2 1 0 0 -540 -180 -520 -220
+P 2 1 0 0 -520 -220 -500 -180
+P 2 1 0 0 -500 -180 -480 -220
+P 2 1 0 0 -480 -220 -460 -180
+P 2 1 0 0 -460 -180 -440 -220
+P 2 1 0 0 -440 -220 -430 -200
+P 2 1 0 0 -430 -200 -390 -200
+P 2 1 0 0 -390 -160 -390 -200
+P 2 1 0 0 -390 -200 -390 -240
+P 2 1 0 0 -360 -160 -360 -200
+P 2 1 0 0 -360 -200 -360 -230
+P 2 1 0 0 -360 -230 -360 -240
+C -300 200 5 1 1 0 F
+X A 3 500 200 100 L 40 40 1 1 P 
+X A1 2 -800 -200 100 R 40 40 1 1 P 
+X A2 1 -800 200 100 R 40 40 1 1 P 
+X C 4 500 -200 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TIC106S
+# Package Name: TIC106S
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF TIC106S T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "TIC106S" 100 -100 50 H V L B
+F2 "triggered_devices-TIC106S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TIC116
+# Package Name: TO220CS
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF TIC116 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "TIC116" 100 -100 50 H V L B
+F2 "triggered_devices-TO220CS" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TIC126
+# Package Name: TO220CS
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF TIC126 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "TIC126" 100 -100 50 H V L B
+F2 "triggered_devices-TO220CS" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TIC225S
+# Package Name: TO220DS
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF TIC225S T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: TRIAC
+F0 "T" 150 100 50 H V L B
+F1 "TIC225S" 150 0 50 H V L B
+F2 "triggered_devices-TO220DS" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 110 -40 20
+P 2 1 0 0 -40 20 10 110
+P 2 1 0 0 10 110 -100 110
+P 2 1 0 0 40 110 10 110
+P 2 1 0 0 -10 20 40 110
+P 2 1 0 0 40 110 100 20
+P 2 1 0 0 100 20 0 20
+P 2 1 0 0 0 20 -10 20
+P 2 1 0 0 40 110 100 110
+P 2 1 0 0 -75 20 -100 0
+P 2 1 0 0 -40 20 -75 20
+P 2 1 0 0 -75 20 -100 20
+P 2 1 0 0 -40 20 -10 20
+P 2 1 0 0 0 0 0 20
+X A1 A1 0 -100 100 U 40 40 1 1 P 
+X A2 A2 0 200 100 D 40 40 1 1 P 
+X G G -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TIC253
+# Package Name: TO218DS
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF TIC253 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: TRIAC
+F0 "T" 150 100 50 H V L B
+F1 "TIC253" 150 0 50 H V L B
+F2 "triggered_devices-TO218DS" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 110 -40 20
+P 2 1 0 0 -40 20 10 110
+P 2 1 0 0 10 110 -100 110
+P 2 1 0 0 40 110 10 110
+P 2 1 0 0 -10 20 40 110
+P 2 1 0 0 40 110 100 20
+P 2 1 0 0 100 20 0 20
+P 2 1 0 0 0 20 -10 20
+P 2 1 0 0 40 110 100 110
+P 2 1 0 0 -75 20 -100 0
+P 2 1 0 0 -40 20 -75 20
+P 2 1 0 0 -75 20 -100 20
+P 2 1 0 0 -40 20 -10 20
+P 2 1 0 0 0 0 0 20
+X A1 A1 0 -100 100 U 40 40 1 1 P 
+X A2 A2 0 200 100 D 40 40 1 1 P 
+X G G -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TICP106
+# Package Name: TO92-5
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF TICP106 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: THYR
+F0 "T" 100 0 50 H V L B
+F1 "TICP106" 100 -100 50 H V L B
+F2 "triggered_devices-TO92-5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -50 50 -50
+P 2 1 0 0 -50 -50 -25 -50
+P 2 1 0 0 50 50 0 -50
+P 2 1 0 0 0 -50 -50 50
+P 2 1 0 0 -25 -50 -50 -100
+P 2 1 0 0 -25 -50 0 -50
+P 2 1 0 0 -50 -100 -100 -100
+P 2 1 0 0 -50 50 50 50
+X A A 0 100 100 D 40 40 1 1 P 
+X C C 0 -100 100 U 40 40 1 1 P 
+X G G -100 -100 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TICP206
+# Package Name: TO92-6
+# Dev Tech: ''
+# Dev Prefix: T
+# Gate count = 1
+#
+DEF TICP206 T 0 40 Y Y 1 L N
+# Gate Name: 1
+# Symbol Name: TRIAC
+F0 "T" 150 100 50 H V L B
+F1 "TICP206" 150 0 50 H V L B
+F2 "triggered_devices-TO92-6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 110 -40 20
+P 2 1 0 0 -40 20 10 110
+P 2 1 0 0 10 110 -100 110
+P 2 1 0 0 40 110 10 110
+P 2 1 0 0 -10 20 40 110
+P 2 1 0 0 40 110 100 20
+P 2 1 0 0 100 20 0 20
+P 2 1 0 0 0 20 -10 20
+P 2 1 0 0 40 110 100 110
+P 2 1 0 0 -75 20 -100 0
+P 2 1 0 0 -40 20 -75 20
+P 2 1 0 0 -75 20 -100 20
+P 2 1 0 0 -40 20 -10 20
+P 2 1 0 0 0 0 0 20
+X A1 A1 0 -100 100 U 40 40 1 1 P 
+X A2 A2 0 200 100 D 40 40 1 1 P 
+X G G -200 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: U217B
+# Package Name: DIL08
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF U217B IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: U217B
+F0 "IC" -700 -500 50 H V L B
+F1 "U217B" -100 -500 50 H V L B
+F2 "triggered_devices-DIL08" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -700 500 -700 300
+P 2 1 0 0 -700 300 -700 0
+P 2 1 0 0 -700 0 -700 -200
+P 2 1 0 0 -700 -200 -700 -400
+P 2 1 0 0 -700 -400 700 -400
+P 2 1 0 0 700 -400 700 -100
+P 2 1 0 0 700 -100 700 300
+P 2 1 0 0 700 300 700 500
+P 2 1 0 0 700 500 400 500
+P 2 1 0 0 400 500 0 500
+P 2 1 0 0 0 500 -400 500
+P 2 1 0 0 -400 500 -700 500
+P 2 1 0 0 -600 400 -600 300
+P 2 1 0 0 -600 300 -600 200
+P 2 1 0 0 -600 200 -250 200
+P 2 1 0 0 -250 200 -250 300
+P 2 1 0 0 -250 300 -250 400
+P 2 1 0 0 -250 400 -400 400
+P 2 1 0 0 -400 400 -600 400
+P 2 1 0 0 -150 400 -150 300
+P 2 1 0 0 -150 300 -150 200
+P 2 1 0 0 -150 200 0 200
+P 2 1 0 0 0 200 150 200
+P 2 1 0 0 150 200 150 400
+P 2 1 0 0 150 400 0 400
+P 2 1 0 0 0 400 -150 400
+P 2 1 0 0 300 400 400 400
+P 2 1 0 0 400 400 600 400
+P 2 1 0 0 600 400 600 300
+P 2 1 0 0 600 300 600 200
+P 2 1 0 0 600 200 300 200
+P 2 1 0 0 300 200 300 400
+P 2 1 0 0 -600 100 -600 0
+P 2 1 0 0 -600 0 -600 -300
+P 2 1 0 0 -600 -300 -250 -100
+P 2 1 0 0 -250 -100 -600 100
+P 2 1 0 0 -150 -25 -150 -100
+P 2 1 0 0 -150 -100 -150 -175
+P 2 1 0 0 -150 -175 150 -175
+P 2 1 0 0 150 -175 150 -100
+P 2 1 0 0 150 -100 150 -25
+P 2 1 0 0 150 -25 0 -25
+P 2 1 0 0 0 -25 -150 -25
+P 2 1 0 0 350 0 350 -100
+P 2 1 0 0 350 -100 350 -200
+P 2 1 0 0 350 -200 500 -100
+P 2 1 0 0 500 -100 350 0
+P 2 1 0 0 0 200 0 -25
+P 2 1 0 0 -250 -100 -150 -100
+P 2 1 0 0 150 -100 350 -100
+P 2 1 0 0 500 -100 700 -100
+P 2 1 0 0 600 300 700 300
+P 2 1 0 0 -250 300 -150 300
+P 2 1 0 0 -550 300 -550 250
+P 2 1 0 0 -550 250 -425 350
+P 2 1 0 0 -425 350 -425 250
+P 2 1 0 0 400 400 400 500
+P 2 1 0 0 0 400 0 500
+P 2 1 0 0 -400 400 -400 500
+P 2 1 0 0 -700 300 -600 300
+P 2 1 0 0 -700 0 -600 0
+P 2 1 0 0 -700 -200 -600 -200
+P 2 1 0 0 -575 0 -525 0
+P 2 1 0 0 -525 -200 -575 -200
+P 2 1 0 0 -550 -25 -550 25
+P 2 1 0 0 -425 250 -300 350
+P 2 1 0 0 -300 350 -300 300
+T 0 -20 320 40 0 1 0 Sync
+T 0 470 320 40 0 1 0 Supply
+T 0 480 -230 40 0 1 0 Amp.
+T 0 15 -105 40 0 1 0 V-Logic
+X + 3 -800 0 100 R 40 40 1 1 B 
+X - 4 -800 -200 100 R 40 40 1 1 B 
+X PO 6 800 -100 100 L 40 40 1 1 B 
+X RI 1 -800 300 100 R 40 40 1 1 B 
+X RO 2 -400 600 100 D 40 40 1 1 B 
+X SY 8 0 600 100 D 40 40 1 1 B 
+X VN 7 800 300 100 L 40 40 1 1 B 
+X VS 5 400 600 100 D 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

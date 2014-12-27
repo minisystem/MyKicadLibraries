@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:21
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: KA278R05C
+# Package Name: KA278R05C
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF KA278R05C IC 0 40 Y Y 1 L N
+# Gate Name: KA278R05C
+# Symbol Name: KA278R05C
+F0 "IC" 90 -300 50 H V L B
+F1 "KA278R05C" 100 -400 50 H V L B
+F2 "v-reg-fairchild-KA278R05C" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -300 200 -300 -200
+P 2 1 0 0 -300 -200 300 -200
+P 2 1 0 0 300 -200 300 200
+P 2 1 0 0 300 200 -300 200
+T 0 -200 100 60 0 1 0 IN
+T 0 20 -150 60 0 1 0 DIS
+T 0 190 -100 60 0 1 0 GND
+T 0 190 100 60 0 1 0 OUT
+X GND GND 500 -100 200 L 40 40 1 1 I 
+X VDIS VDIS 0 -400 200 U 40 40 1 1 I 
+X VIN VIN -500 100 200 R 40 40 1 1 I 
+X VOUT VOUT 500 100 200 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

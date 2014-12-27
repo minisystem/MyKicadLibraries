@@ -1,0 +1,7504 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:49
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 16
+#
+# Dev Name: CPCI-SHIELD_B19
+# Package Name: 064782
+# Dev Tech: ''
+# Dev Prefix: XS
+# Gate count = 9
+#
+DEF CPCI-SHIELD_B19 XS 0 40 Y Y 9 L N
+# Gate Name: -1
+# Symbol Name: PINV
+F0 "XS" 70 -30 50 H V L B
+F1 "CPCI-SHIELD_B19" -200 100 50 H V L B
+F2 "con-cpci-064782" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 S1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 S2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 S3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 S4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 S5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 S6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 S7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 S8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 S9 -100 0 100 R 40 40 9 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI-SHIELD_B22
+# Package Name: 064783
+# Dev Tech: ''
+# Dev Prefix: XS
+# Gate count = 11
+#
+DEF CPCI-SHIELD_B22 XS 0 40 Y Y 11 L N
+# Gate Name: -1
+# Symbol Name: PINV
+F0 "XS" 70 -30 50 H V L B
+F1 "CPCI-SHIELD_B22" -200 100 50 H V L B
+F2 "con-cpci-064783" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 S1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 S2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 S3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 S4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 S5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 S6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 S7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 S8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 S9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 S10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 S11 -100 0 100 R 40 40 11 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_A25-064176
+# Package Name: 064176
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 110
+#
+DEF CPCI_A25-064176 X 0 40 Y Y 110 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_A25-064176" -200 100 50 H V L B
+F2 "con-cpci-064176" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A15 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A16 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A17 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A18 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A19 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A20
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A20 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A21
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A21 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A22
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A22 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -A23
+# Symbol Name: PIN
+S 0 -10 50 10 20 1 0 F
+X 1 A23 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -A24
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 A24 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -A25
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 A25 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 23 1 0 F
+X 1 B1 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B2 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B3 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B4 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B5 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B6 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B7 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B8 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B9 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B10 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B11 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B15 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B16 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B17 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B18 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B19 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -B20
+# Symbol Name: PIN
+S 0 -10 50 10 39 1 0 F
+X 1 B20 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -B21
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 B21 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -B22
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 B22 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -B23
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 B23 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -B24
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 B24 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -B25
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 B25 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 45 1 0 F
+X 1 C1 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C2 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C3 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C4 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C5 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C6 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C7 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C8 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C9 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C10 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C11 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C15 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C16 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 58 1 0 F
+X 1 C17 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 C18 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 C19 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -C20
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 C20 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -C21
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 C21 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -C22
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 C22 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -C23
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 C23 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -C24
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 C24 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -C25
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 C25 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 67 1 0 F
+X 1 D1 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D2 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D3 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D4 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D5 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D6 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D7 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D8 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D9 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D10 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 77 1 0 F
+X 1 D11 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 D15 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 D16 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 D17 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 D18 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 D19 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -D20
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 D20 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -D21
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 D21 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -D22
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 D22 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -D23
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 D23 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -D24
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 D24 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -D25
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 D25 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 89 1 0 F
+X 1 E1 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E2 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E3 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E4 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E5 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E6 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E7 -100 0 100 R 40 40 95 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 96 1 0 F
+X 1 E8 -100 0 100 R 40 40 96 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 97 1 0 F
+X 1 E9 -100 0 100 R 40 40 97 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 98 1 0 F
+X 1 E10 -100 0 100 R 40 40 98 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 99 1 0 F
+X 1 E11 -100 0 100 R 40 40 99 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 100 1 0 F
+X 1 E15 -100 0 100 R 40 40 100 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 101 1 0 F
+X 1 E16 -100 0 100 R 40 40 101 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 102 1 0 F
+X 1 E17 -100 0 100 R 40 40 102 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 103 1 0 F
+X 1 E18 -100 0 100 R 40 40 103 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 104 1 0 F
+X 1 E19 -100 0 100 R 40 40 104 1 I 
+# Gate Name: -E20
+# Symbol Name: PIN
+S 0 -10 50 10 105 1 0 F
+X 1 E20 -100 0 100 R 40 40 105 1 I 
+# Gate Name: -E21
+# Symbol Name: PIN
+S 0 -10 50 10 106 1 0 F
+X 1 E21 -100 0 100 R 40 40 106 1 I 
+# Gate Name: -E22
+# Symbol Name: PIN
+S 0 -10 50 10 107 1 0 F
+X 1 E22 -100 0 100 R 40 40 107 1 I 
+# Gate Name: -E23
+# Symbol Name: PIN
+S 0 -10 50 10 108 1 0 F
+X 1 E23 -100 0 100 R 40 40 108 1 I 
+# Gate Name: -E24
+# Symbol Name: PIN
+S 0 -10 50 10 109 1 0 F
+X 1 E24 -100 0 100 R 40 40 109 1 I 
+# Gate Name: -E25
+# Symbol Name: PIN
+S 0 -10 50 10 110 1 0 F
+X 1 E25 -100 0 100 R 40 40 110 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_AB19-114529
+# Package Name: 114529
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 95
+#
+DEF CPCI_AB19-114529 X 0 40 Y Y 95 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_AB19-114529" -200 100 50 H V L B
+F2 "con-cpci-114529" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 20 1 0 F
+X 1 B1 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 B2 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 B3 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 23 1 0 F
+X 1 B4 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B5 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B6 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B7 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B8 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B9 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B10 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B11 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B12 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B13 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B14 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B15 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B16 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B17 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B18 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B19 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 39 1 0 F
+X 1 C1 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 C2 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 C3 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 C4 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 C5 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 C6 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 45 1 0 F
+X 1 C7 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C8 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C9 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C10 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C11 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C12 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C13 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C14 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C15 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C16 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C17 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C18 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C19 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 58 1 0 F
+X 1 D1 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 D2 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 D3 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 D4 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 D5 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 D6 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 D7 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 D8 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 D9 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 67 1 0 F
+X 1 D10 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D11 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D12 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D13 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D14 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D15 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D16 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D17 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D18 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D19 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 77 1 0 F
+X 1 E1 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 E2 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 E3 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 E4 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 E5 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 E6 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 E7 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 E8 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 E9 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 E10 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 E11 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 E12 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 89 1 0 F
+X 1 E13 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E14 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E15 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E16 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E17 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E18 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E19 -100 0 100 R 40 40 95 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_AB19-134075
+# Package Name: 134075
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 95
+#
+DEF CPCI_AB19-134075 X 0 40 Y Y 95 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_AB19-134075" -200 100 50 H V L B
+F2 "con-cpci-134075" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 20 1 0 F
+X 1 B1 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 B2 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 B3 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 23 1 0 F
+X 1 B4 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B5 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B6 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B7 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B8 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B9 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B10 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B11 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B12 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B13 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B14 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B15 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B16 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B17 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B18 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B19 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 39 1 0 F
+X 1 C1 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 C2 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 C3 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 C4 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 C5 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 C6 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 45 1 0 F
+X 1 C7 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C8 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C9 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C10 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C11 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C12 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C13 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C14 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C15 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C16 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C17 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C18 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C19 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 58 1 0 F
+X 1 D1 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 D2 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 D3 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 D4 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 D5 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 D6 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 D7 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 D8 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 D9 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 67 1 0 F
+X 1 D10 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D11 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D12 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D13 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D14 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D15 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D16 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D17 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D18 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D19 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 77 1 0 F
+X 1 E1 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 E2 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 E3 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 E4 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 E5 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 E6 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 E7 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 E8 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 E9 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 E10 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 E11 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 E12 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 89 1 0 F
+X 1 E13 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E14 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E15 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E16 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E17 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E18 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E19 -100 0 100 R 40 40 95 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_AB22-104933
+# Package Name: 104933
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 110
+#
+DEF CPCI_AB22-104933 X 0 40 Y Y 110 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_AB22-104933" -200 100 50 H V L B
+F2 "con-cpci-104933" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -A20
+# Symbol Name: PIN
+S 0 -10 50 10 20 1 0 F
+X 1 A20 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -A21
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 A21 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -A22
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 A22 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 23 1 0 F
+X 1 B1 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B2 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B3 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B4 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B5 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B6 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B7 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B8 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B9 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B10 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B11 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B12 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B13 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B14 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B15 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B16 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 39 1 0 F
+X 1 B17 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 B18 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 B19 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -B20
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 B20 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -B21
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 B21 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -B22
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 B22 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 45 1 0 F
+X 1 C1 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C2 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C3 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C4 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C5 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C6 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C7 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C8 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C9 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C10 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C11 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C12 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C13 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 58 1 0 F
+X 1 C14 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 C15 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 C16 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 C17 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 C18 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 C19 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -C20
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 C20 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -C21
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 C21 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -C22
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 C22 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 67 1 0 F
+X 1 D1 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D2 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D3 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D4 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D5 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D6 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D7 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D8 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D9 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D10 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 77 1 0 F
+X 1 D11 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 D12 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 D13 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 D14 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 D15 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 D16 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 D17 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 D18 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 D19 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -D20
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 D20 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -D21
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 D21 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -D22
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 D22 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 89 1 0 F
+X 1 E1 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E2 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E3 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E4 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E5 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E6 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E7 -100 0 100 R 40 40 95 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 96 1 0 F
+X 1 E8 -100 0 100 R 40 40 96 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 97 1 0 F
+X 1 E9 -100 0 100 R 40 40 97 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 98 1 0 F
+X 1 E10 -100 0 100 R 40 40 98 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 99 1 0 F
+X 1 E11 -100 0 100 R 40 40 99 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 100 1 0 F
+X 1 E12 -100 0 100 R 40 40 100 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 101 1 0 F
+X 1 E13 -100 0 100 R 40 40 101 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 102 1 0 F
+X 1 E14 -100 0 100 R 40 40 102 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 103 1 0 F
+X 1 E15 -100 0 100 R 40 40 103 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 104 1 0 F
+X 1 E16 -100 0 100 R 40 40 104 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 105 1 0 F
+X 1 E17 -100 0 100 R 40 40 105 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 106 1 0 F
+X 1 E18 -100 0 100 R 40 40 106 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 107 1 0 F
+X 1 E19 -100 0 100 R 40 40 107 1 I 
+# Gate Name: -E20
+# Symbol Name: PIN
+S 0 -10 50 10 108 1 0 F
+X 1 E20 -100 0 100 R 40 40 108 1 I 
+# Gate Name: -E21
+# Symbol Name: PIN
+S 0 -10 50 10 109 1 0 F
+X 1 E21 -100 0 100 R 40 40 109 1 I 
+# Gate Name: -E22
+# Symbol Name: PIN
+S 0 -10 50 10 110 1 0 F
+X 1 E22 -100 0 100 R 40 40 110 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_AB22-114809
+# Package Name: 114809
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 110
+#
+DEF CPCI_AB22-114809 X 0 40 Y Y 110 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_AB22-114809" -200 100 50 H V L B
+F2 "con-cpci-114809" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -A20
+# Symbol Name: PIN
+S 0 -10 50 10 20 1 0 F
+X 1 A20 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -A21
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 A21 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -A22
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 A22 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 23 1 0 F
+X 1 B1 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B2 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B3 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B4 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B5 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B6 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B7 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B8 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B9 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B10 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B11 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B12 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B13 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B14 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B15 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B16 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 39 1 0 F
+X 1 B17 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 B18 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 B19 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -B20
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 B20 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -B21
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 B21 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -B22
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 B22 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 45 1 0 F
+X 1 C1 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C2 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C3 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C4 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C5 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C6 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C7 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C8 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C9 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C10 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C11 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C12 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C13 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 58 1 0 F
+X 1 C14 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 C15 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 C16 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 C17 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 C18 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 C19 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -C20
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 C20 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -C21
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 C21 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -C22
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 C22 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 67 1 0 F
+X 1 D1 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D2 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D3 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D4 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D5 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D6 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D7 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D8 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D9 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D10 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 77 1 0 F
+X 1 D11 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 D12 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 D13 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 D14 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 D15 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 D16 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 D17 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 D18 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 D19 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -D20
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 D20 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -D21
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 D21 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -D22
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 D22 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 89 1 0 F
+X 1 E1 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E2 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E3 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E4 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E5 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E6 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E7 -100 0 100 R 40 40 95 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 96 1 0 F
+X 1 E8 -100 0 100 R 40 40 96 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 97 1 0 F
+X 1 E9 -100 0 100 R 40 40 97 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 98 1 0 F
+X 1 E10 -100 0 100 R 40 40 98 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 99 1 0 F
+X 1 E11 -100 0 100 R 40 40 99 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 100 1 0 F
+X 1 E12 -100 0 100 R 40 40 100 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 101 1 0 F
+X 1 E13 -100 0 100 R 40 40 101 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 102 1 0 F
+X 1 E14 -100 0 100 R 40 40 102 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 103 1 0 F
+X 1 E15 -100 0 100 R 40 40 103 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 104 1 0 F
+X 1 E16 -100 0 100 R 40 40 104 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 105 1 0 F
+X 1 E17 -100 0 100 R 40 40 105 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 106 1 0 F
+X 1 E18 -100 0 100 R 40 40 106 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 107 1 0 F
+X 1 E19 -100 0 100 R 40 40 107 1 I 
+# Gate Name: -E20
+# Symbol Name: PIN
+S 0 -10 50 10 108 1 0 F
+X 1 E20 -100 0 100 R 40 40 108 1 I 
+# Gate Name: -E21
+# Symbol Name: PIN
+S 0 -10 50 10 109 1 0 F
+X 1 E21 -100 0 100 R 40 40 109 1 I 
+# Gate Name: -E22
+# Symbol Name: PIN
+S 0 -10 50 10 110 1 0 F
+X 1 E22 -100 0 100 R 40 40 110 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_AB47-104732
+# Package Name: 104732
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 220
+#
+DEF CPCI_AB47-104732 X 0 40 Y Y 220 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_AB47-104732" -200 100 50 H V L B
+F2 "con-cpci-104732" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -A20
+# Symbol Name: PIN
+S 0 -10 50 10 20 1 0 F
+X 1 A20 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -A21
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 A21 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -A22
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 A22 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -A23
+# Symbol Name: PIN
+S 0 -10 50 10 23 1 0 F
+X 1 A23 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -A24
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 A24 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -A25
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 A25 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -A26
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 A26 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -A27
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 A27 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -A28
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 A28 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -A29
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 A29 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -A30
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 A30 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -A31
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 A31 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -A32
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 A32 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -A33
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 A33 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -A37
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 A37 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -A38
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 A38 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -A39
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 A39 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -A40
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 A40 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -A41
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 A41 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -A42
+# Symbol Name: PIN
+S 0 -10 50 10 39 1 0 F
+X 1 A42 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -A43
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 A43 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -A44
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 A44 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -A45
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 A45 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -A46
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 A46 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -A47
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 A47 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 45 1 0 F
+X 1 B1 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 B2 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 B3 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 B4 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 B5 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 B6 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 B7 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 B8 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 B9 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 B10 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 B11 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 B12 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 B13 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 58 1 0 F
+X 1 B14 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 B15 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 B16 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 B17 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 B18 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 B19 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -B20
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 B20 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -B21
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 B21 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -B22
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 B22 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -B23
+# Symbol Name: PIN
+S 0 -10 50 10 67 1 0 F
+X 1 B23 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -B24
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 B24 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -B25
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 B25 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -B26
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 B26 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -B27
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 B27 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -B28
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 B28 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -B29
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 B29 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -B30
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 B30 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -B31
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 B31 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -B32
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 B32 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -B33
+# Symbol Name: PIN
+S 0 -10 50 10 77 1 0 F
+X 1 B33 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -B37
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 B37 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -B38
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 B38 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -B39
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 B39 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -B40
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 B40 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -B41
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 B41 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -B42
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 B42 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -B43
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 B43 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -B44
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 B44 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -B45
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 B45 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -B46
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 B46 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -B47
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 B47 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 89 1 0 F
+X 1 C1 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 C2 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 C3 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 C4 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 C5 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 C6 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 C7 -100 0 100 R 40 40 95 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 96 1 0 F
+X 1 C8 -100 0 100 R 40 40 96 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 97 1 0 F
+X 1 C9 -100 0 100 R 40 40 97 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 98 1 0 F
+X 1 C10 -100 0 100 R 40 40 98 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 99 1 0 F
+X 1 C11 -100 0 100 R 40 40 99 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 100 1 0 F
+X 1 C12 -100 0 100 R 40 40 100 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 101 1 0 F
+X 1 C13 -100 0 100 R 40 40 101 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 102 1 0 F
+X 1 C14 -100 0 100 R 40 40 102 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 103 1 0 F
+X 1 C15 -100 0 100 R 40 40 103 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 104 1 0 F
+X 1 C16 -100 0 100 R 40 40 104 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 105 1 0 F
+X 1 C17 -100 0 100 R 40 40 105 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 106 1 0 F
+X 1 C18 -100 0 100 R 40 40 106 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 107 1 0 F
+X 1 C19 -100 0 100 R 40 40 107 1 I 
+# Gate Name: -C20
+# Symbol Name: PIN
+S 0 -10 50 10 108 1 0 F
+X 1 C20 -100 0 100 R 40 40 108 1 I 
+# Gate Name: -C21
+# Symbol Name: PIN
+S 0 -10 50 10 109 1 0 F
+X 1 C21 -100 0 100 R 40 40 109 1 I 
+# Gate Name: -C22
+# Symbol Name: PIN
+S 0 -10 50 10 110 1 0 F
+X 1 C22 -100 0 100 R 40 40 110 1 I 
+# Gate Name: -C23
+# Symbol Name: PIN
+S 0 -10 50 10 111 1 0 F
+X 1 C23 -100 0 100 R 40 40 111 1 I 
+# Gate Name: -C24
+# Symbol Name: PIN
+S 0 -10 50 10 112 1 0 F
+X 1 C24 -100 0 100 R 40 40 112 1 I 
+# Gate Name: -C25
+# Symbol Name: PIN
+S 0 -10 50 10 113 1 0 F
+X 1 C25 -100 0 100 R 40 40 113 1 I 
+# Gate Name: -C26
+# Symbol Name: PIN
+S 0 -10 50 10 114 1 0 F
+X 1 C26 -100 0 100 R 40 40 114 1 I 
+# Gate Name: -C27
+# Symbol Name: PIN
+S 0 -10 50 10 115 1 0 F
+X 1 C27 -100 0 100 R 40 40 115 1 I 
+# Gate Name: -C28
+# Symbol Name: PIN
+S 0 -10 50 10 116 1 0 F
+X 1 C28 -100 0 100 R 40 40 116 1 I 
+# Gate Name: -C29
+# Symbol Name: PIN
+S 0 -10 50 10 117 1 0 F
+X 1 C29 -100 0 100 R 40 40 117 1 I 
+# Gate Name: -C30
+# Symbol Name: PIN
+S 0 -10 50 10 118 1 0 F
+X 1 C30 -100 0 100 R 40 40 118 1 I 
+# Gate Name: -C31
+# Symbol Name: PIN
+S 0 -10 50 10 119 1 0 F
+X 1 C31 -100 0 100 R 40 40 119 1 I 
+# Gate Name: -C32
+# Symbol Name: PIN
+S 0 -10 50 10 120 1 0 F
+X 1 C32 -100 0 100 R 40 40 120 1 I 
+# Gate Name: -C33
+# Symbol Name: PIN
+S 0 -10 50 10 121 1 0 F
+X 1 C33 -100 0 100 R 40 40 121 1 I 
+# Gate Name: -C37
+# Symbol Name: PIN
+S 0 -10 50 10 122 1 0 F
+X 1 C37 -100 0 100 R 40 40 122 1 I 
+# Gate Name: -C38
+# Symbol Name: PIN
+S 0 -10 50 10 123 1 0 F
+X 1 C38 -100 0 100 R 40 40 123 1 I 
+# Gate Name: -C39
+# Symbol Name: PIN
+S 0 -10 50 10 124 1 0 F
+X 1 C39 -100 0 100 R 40 40 124 1 I 
+# Gate Name: -C40
+# Symbol Name: PIN
+S 0 -10 50 10 125 1 0 F
+X 1 C40 -100 0 100 R 40 40 125 1 I 
+# Gate Name: -C41
+# Symbol Name: PIN
+S 0 -10 50 10 126 1 0 F
+X 1 C41 -100 0 100 R 40 40 126 1 I 
+# Gate Name: -C42
+# Symbol Name: PIN
+S 0 -10 50 10 127 1 0 F
+X 1 C42 -100 0 100 R 40 40 127 1 I 
+# Gate Name: -C43
+# Symbol Name: PIN
+S 0 -10 50 10 128 1 0 F
+X 1 C43 -100 0 100 R 40 40 128 1 I 
+# Gate Name: -C44
+# Symbol Name: PIN
+S 0 -10 50 10 129 1 0 F
+X 1 C44 -100 0 100 R 40 40 129 1 I 
+# Gate Name: -C45
+# Symbol Name: PIN
+S 0 -10 50 10 130 1 0 F
+X 1 C45 -100 0 100 R 40 40 130 1 I 
+# Gate Name: -C46
+# Symbol Name: PIN
+S 0 -10 50 10 131 1 0 F
+X 1 C46 -100 0 100 R 40 40 131 1 I 
+# Gate Name: -C47
+# Symbol Name: PIN
+S 0 -10 50 10 132 1 0 F
+X 1 C47 -100 0 100 R 40 40 132 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 133 1 0 F
+X 1 D1 -100 0 100 R 40 40 133 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 134 1 0 F
+X 1 D2 -100 0 100 R 40 40 134 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 135 1 0 F
+X 1 D3 -100 0 100 R 40 40 135 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 136 1 0 F
+X 1 D4 -100 0 100 R 40 40 136 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 137 1 0 F
+X 1 D5 -100 0 100 R 40 40 137 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 138 1 0 F
+X 1 D6 -100 0 100 R 40 40 138 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 139 1 0 F
+X 1 D7 -100 0 100 R 40 40 139 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 140 1 0 F
+X 1 D8 -100 0 100 R 40 40 140 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 141 1 0 F
+X 1 D9 -100 0 100 R 40 40 141 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 142 1 0 F
+X 1 D10 -100 0 100 R 40 40 142 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 143 1 0 F
+X 1 D11 -100 0 100 R 40 40 143 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 144 1 0 F
+X 1 D12 -100 0 100 R 40 40 144 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 145 1 0 F
+X 1 D13 -100 0 100 R 40 40 145 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 146 1 0 F
+X 1 D14 -100 0 100 R 40 40 146 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 147 1 0 F
+X 1 D15 -100 0 100 R 40 40 147 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 148 1 0 F
+X 1 D16 -100 0 100 R 40 40 148 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 149 1 0 F
+X 1 D17 -100 0 100 R 40 40 149 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 150 1 0 F
+X 1 D18 -100 0 100 R 40 40 150 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 151 1 0 F
+X 1 D19 -100 0 100 R 40 40 151 1 I 
+# Gate Name: -D20
+# Symbol Name: PIN
+S 0 -10 50 10 152 1 0 F
+X 1 D20 -100 0 100 R 40 40 152 1 I 
+# Gate Name: -D21
+# Symbol Name: PIN
+S 0 -10 50 10 153 1 0 F
+X 1 D21 -100 0 100 R 40 40 153 1 I 
+# Gate Name: -D22
+# Symbol Name: PIN
+S 0 -10 50 10 154 1 0 F
+X 1 D22 -100 0 100 R 40 40 154 1 I 
+# Gate Name: -D23
+# Symbol Name: PIN
+S 0 -10 50 10 155 1 0 F
+X 1 D23 -100 0 100 R 40 40 155 1 I 
+# Gate Name: -D24
+# Symbol Name: PIN
+S 0 -10 50 10 156 1 0 F
+X 1 D24 -100 0 100 R 40 40 156 1 I 
+# Gate Name: -D25
+# Symbol Name: PIN
+S 0 -10 50 10 157 1 0 F
+X 1 D25 -100 0 100 R 40 40 157 1 I 
+# Gate Name: -D26
+# Symbol Name: PIN
+S 0 -10 50 10 158 1 0 F
+X 1 D26 -100 0 100 R 40 40 158 1 I 
+# Gate Name: -D27
+# Symbol Name: PIN
+S 0 -10 50 10 159 1 0 F
+X 1 D27 -100 0 100 R 40 40 159 1 I 
+# Gate Name: -D28
+# Symbol Name: PIN
+S 0 -10 50 10 160 1 0 F
+X 1 D28 -100 0 100 R 40 40 160 1 I 
+# Gate Name: -D29
+# Symbol Name: PIN
+S 0 -10 50 10 161 1 0 F
+X 1 D29 -100 0 100 R 40 40 161 1 I 
+# Gate Name: -D30
+# Symbol Name: PIN
+S 0 -10 50 10 162 1 0 F
+X 1 D30 -100 0 100 R 40 40 162 1 I 
+# Gate Name: -D31
+# Symbol Name: PIN
+S 0 -10 50 10 163 1 0 F
+X 1 D31 -100 0 100 R 40 40 163 1 I 
+# Gate Name: -D32
+# Symbol Name: PIN
+S 0 -10 50 10 164 1 0 F
+X 1 D32 -100 0 100 R 40 40 164 1 I 
+# Gate Name: -D33
+# Symbol Name: PIN
+S 0 -10 50 10 165 1 0 F
+X 1 D33 -100 0 100 R 40 40 165 1 I 
+# Gate Name: -D37
+# Symbol Name: PIN
+S 0 -10 50 10 166 1 0 F
+X 1 D37 -100 0 100 R 40 40 166 1 I 
+# Gate Name: -D38
+# Symbol Name: PIN
+S 0 -10 50 10 167 1 0 F
+X 1 D38 -100 0 100 R 40 40 167 1 I 
+# Gate Name: -D39
+# Symbol Name: PIN
+S 0 -10 50 10 168 1 0 F
+X 1 D39 -100 0 100 R 40 40 168 1 I 
+# Gate Name: -D40
+# Symbol Name: PIN
+S 0 -10 50 10 169 1 0 F
+X 1 D40 -100 0 100 R 40 40 169 1 I 
+# Gate Name: -D41
+# Symbol Name: PIN
+S 0 -10 50 10 170 1 0 F
+X 1 D41 -100 0 100 R 40 40 170 1 I 
+# Gate Name: -D42
+# Symbol Name: PIN
+S 0 -10 50 10 171 1 0 F
+X 1 D42 -100 0 100 R 40 40 171 1 I 
+# Gate Name: -D43
+# Symbol Name: PIN
+S 0 -10 50 10 172 1 0 F
+X 1 D43 -100 0 100 R 40 40 172 1 I 
+# Gate Name: -D44
+# Symbol Name: PIN
+S 0 -10 50 10 173 1 0 F
+X 1 D44 -100 0 100 R 40 40 173 1 I 
+# Gate Name: -D45
+# Symbol Name: PIN
+S 0 -10 50 10 174 1 0 F
+X 1 D45 -100 0 100 R 40 40 174 1 I 
+# Gate Name: -D46
+# Symbol Name: PIN
+S 0 -10 50 10 175 1 0 F
+X 1 D46 -100 0 100 R 40 40 175 1 I 
+# Gate Name: -D47
+# Symbol Name: PIN
+S 0 -10 50 10 176 1 0 F
+X 1 D47 -100 0 100 R 40 40 176 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 177 1 0 F
+X 1 E1 -100 0 100 R 40 40 177 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 178 1 0 F
+X 1 E2 -100 0 100 R 40 40 178 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 179 1 0 F
+X 1 E3 -100 0 100 R 40 40 179 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 180 1 0 F
+X 1 E4 -100 0 100 R 40 40 180 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 181 1 0 F
+X 1 E5 -100 0 100 R 40 40 181 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 182 1 0 F
+X 1 E6 -100 0 100 R 40 40 182 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 183 1 0 F
+X 1 E7 -100 0 100 R 40 40 183 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 184 1 0 F
+X 1 E8 -100 0 100 R 40 40 184 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 185 1 0 F
+X 1 E9 -100 0 100 R 40 40 185 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 186 1 0 F
+X 1 E10 -100 0 100 R 40 40 186 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 187 1 0 F
+X 1 E11 -100 0 100 R 40 40 187 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 188 1 0 F
+X 1 E12 -100 0 100 R 40 40 188 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 189 1 0 F
+X 1 E13 -100 0 100 R 40 40 189 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 190 1 0 F
+X 1 E14 -100 0 100 R 40 40 190 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 191 1 0 F
+X 1 E15 -100 0 100 R 40 40 191 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 192 1 0 F
+X 1 E16 -100 0 100 R 40 40 192 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 193 1 0 F
+X 1 E17 -100 0 100 R 40 40 193 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 194 1 0 F
+X 1 E18 -100 0 100 R 40 40 194 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 195 1 0 F
+X 1 E19 -100 0 100 R 40 40 195 1 I 
+# Gate Name: -E20
+# Symbol Name: PIN
+S 0 -10 50 10 196 1 0 F
+X 1 E20 -100 0 100 R 40 40 196 1 I 
+# Gate Name: -E21
+# Symbol Name: PIN
+S 0 -10 50 10 197 1 0 F
+X 1 E21 -100 0 100 R 40 40 197 1 I 
+# Gate Name: -E22
+# Symbol Name: PIN
+S 0 -10 50 10 198 1 0 F
+X 1 E22 -100 0 100 R 40 40 198 1 I 
+# Gate Name: -E23
+# Symbol Name: PIN
+S 0 -10 50 10 199 1 0 F
+X 1 E23 -100 0 100 R 40 40 199 1 I 
+# Gate Name: -E24
+# Symbol Name: PIN
+S 0 -10 50 10 200 1 0 F
+X 1 E24 -100 0 100 R 40 40 200 1 I 
+# Gate Name: -E25
+# Symbol Name: PIN
+S 0 -10 50 10 201 1 0 F
+X 1 E25 -100 0 100 R 40 40 201 1 I 
+# Gate Name: -E26
+# Symbol Name: PIN
+S 0 -10 50 10 202 1 0 F
+X 1 E26 -100 0 100 R 40 40 202 1 I 
+# Gate Name: -E27
+# Symbol Name: PIN
+S 0 -10 50 10 203 1 0 F
+X 1 E27 -100 0 100 R 40 40 203 1 I 
+# Gate Name: -E28
+# Symbol Name: PIN
+S 0 -10 50 10 204 1 0 F
+X 1 E28 -100 0 100 R 40 40 204 1 I 
+# Gate Name: -E29
+# Symbol Name: PIN
+S 0 -10 50 10 205 1 0 F
+X 1 E29 -100 0 100 R 40 40 205 1 I 
+# Gate Name: -E30
+# Symbol Name: PIN
+S 0 -10 50 10 206 1 0 F
+X 1 E30 -100 0 100 R 40 40 206 1 I 
+# Gate Name: -E31
+# Symbol Name: PIN
+S 0 -10 50 10 207 1 0 F
+X 1 E31 -100 0 100 R 40 40 207 1 I 
+# Gate Name: -E32
+# Symbol Name: PIN
+S 0 -10 50 10 208 1 0 F
+X 1 E32 -100 0 100 R 40 40 208 1 I 
+# Gate Name: -E33
+# Symbol Name: PIN
+S 0 -10 50 10 209 1 0 F
+X 1 E33 -100 0 100 R 40 40 209 1 I 
+# Gate Name: -E37
+# Symbol Name: PIN
+S 0 -10 50 10 210 1 0 F
+X 1 E37 -100 0 100 R 40 40 210 1 I 
+# Gate Name: -E38
+# Symbol Name: PIN
+S 0 -10 50 10 211 1 0 F
+X 1 E38 -100 0 100 R 40 40 211 1 I 
+# Gate Name: -E39
+# Symbol Name: PIN
+S 0 -10 50 10 212 1 0 F
+X 1 E39 -100 0 100 R 40 40 212 1 I 
+# Gate Name: -E40
+# Symbol Name: PIN
+S 0 -10 50 10 213 1 0 F
+X 1 E40 -100 0 100 R 40 40 213 1 I 
+# Gate Name: -E41
+# Symbol Name: PIN
+S 0 -10 50 10 214 1 0 F
+X 1 E41 -100 0 100 R 40 40 214 1 I 
+# Gate Name: -E42
+# Symbol Name: PIN
+S 0 -10 50 10 215 1 0 F
+X 1 E42 -100 0 100 R 40 40 215 1 I 
+# Gate Name: -E43
+# Symbol Name: PIN
+S 0 -10 50 10 216 1 0 F
+X 1 E43 -100 0 100 R 40 40 216 1 I 
+# Gate Name: -E44
+# Symbol Name: PIN
+S 0 -10 50 10 217 1 0 F
+X 1 E44 -100 0 100 R 40 40 217 1 I 
+# Gate Name: -E45
+# Symbol Name: PIN
+S 0 -10 50 10 218 1 0 F
+X 1 E45 -100 0 100 R 40 40 218 1 I 
+# Gate Name: -E46
+# Symbol Name: PIN
+S 0 -10 50 10 219 1 0 F
+X 1 E46 -100 0 100 R 40 40 219 1 I 
+# Gate Name: -E47
+# Symbol Name: PIN
+S 0 -10 50 10 220 1 0 F
+X 1 E47 -100 0 100 R 40 40 220 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_AB47-104733
+# Package Name: 104733
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 220
+#
+DEF CPCI_AB47-104733 X 0 40 Y Y 220 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_AB47-104733" -200 100 50 H V L B
+F2 "con-cpci-104733" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -A20
+# Symbol Name: PIN
+S 0 -10 50 10 20 1 0 F
+X 1 A20 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -A21
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 A21 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -A22
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 A22 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -A23
+# Symbol Name: PIN
+S 0 -10 50 10 23 1 0 F
+X 1 A23 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -A24
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 A24 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -A25
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 A25 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -A26
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 A26 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -A27
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 A27 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -A28
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 A28 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -A29
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 A29 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -A30
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 A30 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -A31
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 A31 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -A32
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 A32 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -A33
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 A33 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -A37
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 A37 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -A38
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 A38 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -A39
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 A39 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -A40
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 A40 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -A41
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 A41 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -A42
+# Symbol Name: PIN
+S 0 -10 50 10 39 1 0 F
+X 1 A42 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -A43
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 A43 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -A44
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 A44 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -A45
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 A45 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -A46
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 A46 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -A47
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 A47 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 45 1 0 F
+X 1 B1 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 B2 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 B3 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 B4 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 B5 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 B6 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 B7 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 B8 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 B9 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 B10 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 B11 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 B12 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 B13 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 58 1 0 F
+X 1 B14 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 B15 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 B16 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 B17 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 B18 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 B19 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -B20
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 B20 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -B21
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 B21 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -B22
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 B22 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -B23
+# Symbol Name: PIN
+S 0 -10 50 10 67 1 0 F
+X 1 B23 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -B24
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 B24 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -B25
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 B25 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -B26
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 B26 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -B27
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 B27 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -B28
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 B28 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -B29
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 B29 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -B30
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 B30 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -B31
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 B31 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -B32
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 B32 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -B33
+# Symbol Name: PIN
+S 0 -10 50 10 77 1 0 F
+X 1 B33 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -B37
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 B37 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -B38
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 B38 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -B39
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 B39 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -B40
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 B40 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -B41
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 B41 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -B42
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 B42 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -B43
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 B43 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -B44
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 B44 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -B45
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 B45 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -B46
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 B46 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -B47
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 B47 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 89 1 0 F
+X 1 C1 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 C2 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 C3 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 C4 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 C5 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 C6 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 C7 -100 0 100 R 40 40 95 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 96 1 0 F
+X 1 C8 -100 0 100 R 40 40 96 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 97 1 0 F
+X 1 C9 -100 0 100 R 40 40 97 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 98 1 0 F
+X 1 C10 -100 0 100 R 40 40 98 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 99 1 0 F
+X 1 C11 -100 0 100 R 40 40 99 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 100 1 0 F
+X 1 C12 -100 0 100 R 40 40 100 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 101 1 0 F
+X 1 C13 -100 0 100 R 40 40 101 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 102 1 0 F
+X 1 C14 -100 0 100 R 40 40 102 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 103 1 0 F
+X 1 C15 -100 0 100 R 40 40 103 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 104 1 0 F
+X 1 C16 -100 0 100 R 40 40 104 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 105 1 0 F
+X 1 C17 -100 0 100 R 40 40 105 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 106 1 0 F
+X 1 C18 -100 0 100 R 40 40 106 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 107 1 0 F
+X 1 C19 -100 0 100 R 40 40 107 1 I 
+# Gate Name: -C20
+# Symbol Name: PIN
+S 0 -10 50 10 108 1 0 F
+X 1 C20 -100 0 100 R 40 40 108 1 I 
+# Gate Name: -C21
+# Symbol Name: PIN
+S 0 -10 50 10 109 1 0 F
+X 1 C21 -100 0 100 R 40 40 109 1 I 
+# Gate Name: -C22
+# Symbol Name: PIN
+S 0 -10 50 10 110 1 0 F
+X 1 C22 -100 0 100 R 40 40 110 1 I 
+# Gate Name: -C23
+# Symbol Name: PIN
+S 0 -10 50 10 111 1 0 F
+X 1 C23 -100 0 100 R 40 40 111 1 I 
+# Gate Name: -C24
+# Symbol Name: PIN
+S 0 -10 50 10 112 1 0 F
+X 1 C24 -100 0 100 R 40 40 112 1 I 
+# Gate Name: -C25
+# Symbol Name: PIN
+S 0 -10 50 10 113 1 0 F
+X 1 C25 -100 0 100 R 40 40 113 1 I 
+# Gate Name: -C26
+# Symbol Name: PIN
+S 0 -10 50 10 114 1 0 F
+X 1 C26 -100 0 100 R 40 40 114 1 I 
+# Gate Name: -C27
+# Symbol Name: PIN
+S 0 -10 50 10 115 1 0 F
+X 1 C27 -100 0 100 R 40 40 115 1 I 
+# Gate Name: -C28
+# Symbol Name: PIN
+S 0 -10 50 10 116 1 0 F
+X 1 C28 -100 0 100 R 40 40 116 1 I 
+# Gate Name: -C29
+# Symbol Name: PIN
+S 0 -10 50 10 117 1 0 F
+X 1 C29 -100 0 100 R 40 40 117 1 I 
+# Gate Name: -C30
+# Symbol Name: PIN
+S 0 -10 50 10 118 1 0 F
+X 1 C30 -100 0 100 R 40 40 118 1 I 
+# Gate Name: -C31
+# Symbol Name: PIN
+S 0 -10 50 10 119 1 0 F
+X 1 C31 -100 0 100 R 40 40 119 1 I 
+# Gate Name: -C32
+# Symbol Name: PIN
+S 0 -10 50 10 120 1 0 F
+X 1 C32 -100 0 100 R 40 40 120 1 I 
+# Gate Name: -C33
+# Symbol Name: PIN
+S 0 -10 50 10 121 1 0 F
+X 1 C33 -100 0 100 R 40 40 121 1 I 
+# Gate Name: -C37
+# Symbol Name: PIN
+S 0 -10 50 10 122 1 0 F
+X 1 C37 -100 0 100 R 40 40 122 1 I 
+# Gate Name: -C38
+# Symbol Name: PIN
+S 0 -10 50 10 123 1 0 F
+X 1 C38 -100 0 100 R 40 40 123 1 I 
+# Gate Name: -C39
+# Symbol Name: PIN
+S 0 -10 50 10 124 1 0 F
+X 1 C39 -100 0 100 R 40 40 124 1 I 
+# Gate Name: -C40
+# Symbol Name: PIN
+S 0 -10 50 10 125 1 0 F
+X 1 C40 -100 0 100 R 40 40 125 1 I 
+# Gate Name: -C41
+# Symbol Name: PIN
+S 0 -10 50 10 126 1 0 F
+X 1 C41 -100 0 100 R 40 40 126 1 I 
+# Gate Name: -C42
+# Symbol Name: PIN
+S 0 -10 50 10 127 1 0 F
+X 1 C42 -100 0 100 R 40 40 127 1 I 
+# Gate Name: -C43
+# Symbol Name: PIN
+S 0 -10 50 10 128 1 0 F
+X 1 C43 -100 0 100 R 40 40 128 1 I 
+# Gate Name: -C44
+# Symbol Name: PIN
+S 0 -10 50 10 129 1 0 F
+X 1 C44 -100 0 100 R 40 40 129 1 I 
+# Gate Name: -C45
+# Symbol Name: PIN
+S 0 -10 50 10 130 1 0 F
+X 1 C45 -100 0 100 R 40 40 130 1 I 
+# Gate Name: -C46
+# Symbol Name: PIN
+S 0 -10 50 10 131 1 0 F
+X 1 C46 -100 0 100 R 40 40 131 1 I 
+# Gate Name: -C47
+# Symbol Name: PIN
+S 0 -10 50 10 132 1 0 F
+X 1 C47 -100 0 100 R 40 40 132 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 133 1 0 F
+X 1 D1 -100 0 100 R 40 40 133 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 134 1 0 F
+X 1 D2 -100 0 100 R 40 40 134 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 135 1 0 F
+X 1 D3 -100 0 100 R 40 40 135 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 136 1 0 F
+X 1 D4 -100 0 100 R 40 40 136 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 137 1 0 F
+X 1 D5 -100 0 100 R 40 40 137 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 138 1 0 F
+X 1 D6 -100 0 100 R 40 40 138 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 139 1 0 F
+X 1 D7 -100 0 100 R 40 40 139 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 140 1 0 F
+X 1 D8 -100 0 100 R 40 40 140 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 141 1 0 F
+X 1 D9 -100 0 100 R 40 40 141 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 142 1 0 F
+X 1 D10 -100 0 100 R 40 40 142 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 143 1 0 F
+X 1 D11 -100 0 100 R 40 40 143 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 144 1 0 F
+X 1 D12 -100 0 100 R 40 40 144 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 145 1 0 F
+X 1 D13 -100 0 100 R 40 40 145 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 146 1 0 F
+X 1 D14 -100 0 100 R 40 40 146 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 147 1 0 F
+X 1 D15 -100 0 100 R 40 40 147 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 148 1 0 F
+X 1 D16 -100 0 100 R 40 40 148 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 149 1 0 F
+X 1 D17 -100 0 100 R 40 40 149 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 150 1 0 F
+X 1 D18 -100 0 100 R 40 40 150 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 151 1 0 F
+X 1 D19 -100 0 100 R 40 40 151 1 I 
+# Gate Name: -D20
+# Symbol Name: PIN
+S 0 -10 50 10 152 1 0 F
+X 1 D20 -100 0 100 R 40 40 152 1 I 
+# Gate Name: -D21
+# Symbol Name: PIN
+S 0 -10 50 10 153 1 0 F
+X 1 D21 -100 0 100 R 40 40 153 1 I 
+# Gate Name: -D22
+# Symbol Name: PIN
+S 0 -10 50 10 154 1 0 F
+X 1 D22 -100 0 100 R 40 40 154 1 I 
+# Gate Name: -D23
+# Symbol Name: PIN
+S 0 -10 50 10 155 1 0 F
+X 1 D23 -100 0 100 R 40 40 155 1 I 
+# Gate Name: -D24
+# Symbol Name: PIN
+S 0 -10 50 10 156 1 0 F
+X 1 D24 -100 0 100 R 40 40 156 1 I 
+# Gate Name: -D25
+# Symbol Name: PIN
+S 0 -10 50 10 157 1 0 F
+X 1 D25 -100 0 100 R 40 40 157 1 I 
+# Gate Name: -D26
+# Symbol Name: PIN
+S 0 -10 50 10 158 1 0 F
+X 1 D26 -100 0 100 R 40 40 158 1 I 
+# Gate Name: -D27
+# Symbol Name: PIN
+S 0 -10 50 10 159 1 0 F
+X 1 D27 -100 0 100 R 40 40 159 1 I 
+# Gate Name: -D28
+# Symbol Name: PIN
+S 0 -10 50 10 160 1 0 F
+X 1 D28 -100 0 100 R 40 40 160 1 I 
+# Gate Name: -D29
+# Symbol Name: PIN
+S 0 -10 50 10 161 1 0 F
+X 1 D29 -100 0 100 R 40 40 161 1 I 
+# Gate Name: -D30
+# Symbol Name: PIN
+S 0 -10 50 10 162 1 0 F
+X 1 D30 -100 0 100 R 40 40 162 1 I 
+# Gate Name: -D31
+# Symbol Name: PIN
+S 0 -10 50 10 163 1 0 F
+X 1 D31 -100 0 100 R 40 40 163 1 I 
+# Gate Name: -D32
+# Symbol Name: PIN
+S 0 -10 50 10 164 1 0 F
+X 1 D32 -100 0 100 R 40 40 164 1 I 
+# Gate Name: -D33
+# Symbol Name: PIN
+S 0 -10 50 10 165 1 0 F
+X 1 D33 -100 0 100 R 40 40 165 1 I 
+# Gate Name: -D37
+# Symbol Name: PIN
+S 0 -10 50 10 166 1 0 F
+X 1 D37 -100 0 100 R 40 40 166 1 I 
+# Gate Name: -D38
+# Symbol Name: PIN
+S 0 -10 50 10 167 1 0 F
+X 1 D38 -100 0 100 R 40 40 167 1 I 
+# Gate Name: -D39
+# Symbol Name: PIN
+S 0 -10 50 10 168 1 0 F
+X 1 D39 -100 0 100 R 40 40 168 1 I 
+# Gate Name: -D40
+# Symbol Name: PIN
+S 0 -10 50 10 169 1 0 F
+X 1 D40 -100 0 100 R 40 40 169 1 I 
+# Gate Name: -D41
+# Symbol Name: PIN
+S 0 -10 50 10 170 1 0 F
+X 1 D41 -100 0 100 R 40 40 170 1 I 
+# Gate Name: -D42
+# Symbol Name: PIN
+S 0 -10 50 10 171 1 0 F
+X 1 D42 -100 0 100 R 40 40 171 1 I 
+# Gate Name: -D43
+# Symbol Name: PIN
+S 0 -10 50 10 172 1 0 F
+X 1 D43 -100 0 100 R 40 40 172 1 I 
+# Gate Name: -D44
+# Symbol Name: PIN
+S 0 -10 50 10 173 1 0 F
+X 1 D44 -100 0 100 R 40 40 173 1 I 
+# Gate Name: -D45
+# Symbol Name: PIN
+S 0 -10 50 10 174 1 0 F
+X 1 D45 -100 0 100 R 40 40 174 1 I 
+# Gate Name: -D46
+# Symbol Name: PIN
+S 0 -10 50 10 175 1 0 F
+X 1 D46 -100 0 100 R 40 40 175 1 I 
+# Gate Name: -D47
+# Symbol Name: PIN
+S 0 -10 50 10 176 1 0 F
+X 1 D47 -100 0 100 R 40 40 176 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 177 1 0 F
+X 1 E1 -100 0 100 R 40 40 177 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 178 1 0 F
+X 1 E2 -100 0 100 R 40 40 178 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 179 1 0 F
+X 1 E3 -100 0 100 R 40 40 179 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 180 1 0 F
+X 1 E4 -100 0 100 R 40 40 180 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 181 1 0 F
+X 1 E5 -100 0 100 R 40 40 181 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 182 1 0 F
+X 1 E6 -100 0 100 R 40 40 182 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 183 1 0 F
+X 1 E7 -100 0 100 R 40 40 183 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 184 1 0 F
+X 1 E8 -100 0 100 R 40 40 184 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 185 1 0 F
+X 1 E9 -100 0 100 R 40 40 185 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 186 1 0 F
+X 1 E10 -100 0 100 R 40 40 186 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 187 1 0 F
+X 1 E11 -100 0 100 R 40 40 187 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 188 1 0 F
+X 1 E12 -100 0 100 R 40 40 188 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 189 1 0 F
+X 1 E13 -100 0 100 R 40 40 189 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 190 1 0 F
+X 1 E14 -100 0 100 R 40 40 190 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 191 1 0 F
+X 1 E15 -100 0 100 R 40 40 191 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 192 1 0 F
+X 1 E16 -100 0 100 R 40 40 192 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 193 1 0 F
+X 1 E17 -100 0 100 R 40 40 193 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 194 1 0 F
+X 1 E18 -100 0 100 R 40 40 194 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 195 1 0 F
+X 1 E19 -100 0 100 R 40 40 195 1 I 
+# Gate Name: -E20
+# Symbol Name: PIN
+S 0 -10 50 10 196 1 0 F
+X 1 E20 -100 0 100 R 40 40 196 1 I 
+# Gate Name: -E21
+# Symbol Name: PIN
+S 0 -10 50 10 197 1 0 F
+X 1 E21 -100 0 100 R 40 40 197 1 I 
+# Gate Name: -E22
+# Symbol Name: PIN
+S 0 -10 50 10 198 1 0 F
+X 1 E22 -100 0 100 R 40 40 198 1 I 
+# Gate Name: -E23
+# Symbol Name: PIN
+S 0 -10 50 10 199 1 0 F
+X 1 E23 -100 0 100 R 40 40 199 1 I 
+# Gate Name: -E24
+# Symbol Name: PIN
+S 0 -10 50 10 200 1 0 F
+X 1 E24 -100 0 100 R 40 40 200 1 I 
+# Gate Name: -E25
+# Symbol Name: PIN
+S 0 -10 50 10 201 1 0 F
+X 1 E25 -100 0 100 R 40 40 201 1 I 
+# Gate Name: -E26
+# Symbol Name: PIN
+S 0 -10 50 10 202 1 0 F
+X 1 E26 -100 0 100 R 40 40 202 1 I 
+# Gate Name: -E27
+# Symbol Name: PIN
+S 0 -10 50 10 203 1 0 F
+X 1 E27 -100 0 100 R 40 40 203 1 I 
+# Gate Name: -E28
+# Symbol Name: PIN
+S 0 -10 50 10 204 1 0 F
+X 1 E28 -100 0 100 R 40 40 204 1 I 
+# Gate Name: -E29
+# Symbol Name: PIN
+S 0 -10 50 10 205 1 0 F
+X 1 E29 -100 0 100 R 40 40 205 1 I 
+# Gate Name: -E30
+# Symbol Name: PIN
+S 0 -10 50 10 206 1 0 F
+X 1 E30 -100 0 100 R 40 40 206 1 I 
+# Gate Name: -E31
+# Symbol Name: PIN
+S 0 -10 50 10 207 1 0 F
+X 1 E31 -100 0 100 R 40 40 207 1 I 
+# Gate Name: -E32
+# Symbol Name: PIN
+S 0 -10 50 10 208 1 0 F
+X 1 E32 -100 0 100 R 40 40 208 1 I 
+# Gate Name: -E33
+# Symbol Name: PIN
+S 0 -10 50 10 209 1 0 F
+X 1 E33 -100 0 100 R 40 40 209 1 I 
+# Gate Name: -E37
+# Symbol Name: PIN
+S 0 -10 50 10 210 1 0 F
+X 1 E37 -100 0 100 R 40 40 210 1 I 
+# Gate Name: -E38
+# Symbol Name: PIN
+S 0 -10 50 10 211 1 0 F
+X 1 E38 -100 0 100 R 40 40 211 1 I 
+# Gate Name: -E39
+# Symbol Name: PIN
+S 0 -10 50 10 212 1 0 F
+X 1 E39 -100 0 100 R 40 40 212 1 I 
+# Gate Name: -E40
+# Symbol Name: PIN
+S 0 -10 50 10 213 1 0 F
+X 1 E40 -100 0 100 R 40 40 213 1 I 
+# Gate Name: -E41
+# Symbol Name: PIN
+S 0 -10 50 10 214 1 0 F
+X 1 E41 -100 0 100 R 40 40 214 1 I 
+# Gate Name: -E42
+# Symbol Name: PIN
+S 0 -10 50 10 215 1 0 F
+X 1 E42 -100 0 100 R 40 40 215 1 I 
+# Gate Name: -E43
+# Symbol Name: PIN
+S 0 -10 50 10 216 1 0 F
+X 1 E43 -100 0 100 R 40 40 216 1 I 
+# Gate Name: -E44
+# Symbol Name: PIN
+S 0 -10 50 10 217 1 0 F
+X 1 E44 -100 0 100 R 40 40 217 1 I 
+# Gate Name: -E45
+# Symbol Name: PIN
+S 0 -10 50 10 218 1 0 F
+X 1 E45 -100 0 100 R 40 40 218 1 I 
+# Gate Name: -E46
+# Symbol Name: PIN
+S 0 -10 50 10 219 1 0 F
+X 1 E46 -100 0 100 R 40 40 219 1 I 
+# Gate Name: -E47
+# Symbol Name: PIN
+S 0 -10 50 10 220 1 0 F
+X 1 E47 -100 0 100 R 40 40 220 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_AB47-104734
+# Package Name: 104734
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 220
+#
+DEF CPCI_AB47-104734 X 0 40 Y Y 220 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_AB47-104734" -200 100 50 H V L B
+F2 "con-cpci-104734" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -A20
+# Symbol Name: PIN
+S 0 -10 50 10 20 1 0 F
+X 1 A20 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -A21
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 A21 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -A22
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 A22 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -A23
+# Symbol Name: PIN
+S 0 -10 50 10 23 1 0 F
+X 1 A23 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -A24
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 A24 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -A25
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 A25 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -A26
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 A26 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -A27
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 A27 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -A28
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 A28 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -A29
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 A29 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -A30
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 A30 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -A31
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 A31 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -A32
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 A32 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -A33
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 A33 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -A37
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 A37 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -A38
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 A38 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -A39
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 A39 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -A40
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 A40 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -A41
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 A41 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -A42
+# Symbol Name: PIN
+S 0 -10 50 10 39 1 0 F
+X 1 A42 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -A43
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 A43 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -A44
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 A44 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -A45
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 A45 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -A46
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 A46 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -A47
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 A47 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 45 1 0 F
+X 1 B1 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 B2 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 B3 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 B4 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 B5 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 B6 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 B7 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 B8 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 B9 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 B10 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 B11 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 B12 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 B13 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 58 1 0 F
+X 1 B14 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 B15 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 B16 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 B17 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 B18 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 B19 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -B20
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 B20 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -B21
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 B21 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -B22
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 B22 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -B23
+# Symbol Name: PIN
+S 0 -10 50 10 67 1 0 F
+X 1 B23 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -B24
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 B24 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -B25
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 B25 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -B26
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 B26 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -B27
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 B27 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -B28
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 B28 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -B29
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 B29 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -B30
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 B30 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -B31
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 B31 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -B32
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 B32 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -B33
+# Symbol Name: PIN
+S 0 -10 50 10 77 1 0 F
+X 1 B33 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -B37
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 B37 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -B38
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 B38 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -B39
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 B39 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -B40
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 B40 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -B41
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 B41 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -B42
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 B42 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -B43
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 B43 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -B44
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 B44 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -B45
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 B45 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -B46
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 B46 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -B47
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 B47 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 89 1 0 F
+X 1 C1 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 C2 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 C3 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 C4 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 C5 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 C6 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 C7 -100 0 100 R 40 40 95 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 96 1 0 F
+X 1 C8 -100 0 100 R 40 40 96 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 97 1 0 F
+X 1 C9 -100 0 100 R 40 40 97 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 98 1 0 F
+X 1 C10 -100 0 100 R 40 40 98 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 99 1 0 F
+X 1 C11 -100 0 100 R 40 40 99 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 100 1 0 F
+X 1 C12 -100 0 100 R 40 40 100 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 101 1 0 F
+X 1 C13 -100 0 100 R 40 40 101 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 102 1 0 F
+X 1 C14 -100 0 100 R 40 40 102 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 103 1 0 F
+X 1 C15 -100 0 100 R 40 40 103 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 104 1 0 F
+X 1 C16 -100 0 100 R 40 40 104 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 105 1 0 F
+X 1 C17 -100 0 100 R 40 40 105 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 106 1 0 F
+X 1 C18 -100 0 100 R 40 40 106 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 107 1 0 F
+X 1 C19 -100 0 100 R 40 40 107 1 I 
+# Gate Name: -C20
+# Symbol Name: PIN
+S 0 -10 50 10 108 1 0 F
+X 1 C20 -100 0 100 R 40 40 108 1 I 
+# Gate Name: -C21
+# Symbol Name: PIN
+S 0 -10 50 10 109 1 0 F
+X 1 C21 -100 0 100 R 40 40 109 1 I 
+# Gate Name: -C22
+# Symbol Name: PIN
+S 0 -10 50 10 110 1 0 F
+X 1 C22 -100 0 100 R 40 40 110 1 I 
+# Gate Name: -C23
+# Symbol Name: PIN
+S 0 -10 50 10 111 1 0 F
+X 1 C23 -100 0 100 R 40 40 111 1 I 
+# Gate Name: -C24
+# Symbol Name: PIN
+S 0 -10 50 10 112 1 0 F
+X 1 C24 -100 0 100 R 40 40 112 1 I 
+# Gate Name: -C25
+# Symbol Name: PIN
+S 0 -10 50 10 113 1 0 F
+X 1 C25 -100 0 100 R 40 40 113 1 I 
+# Gate Name: -C26
+# Symbol Name: PIN
+S 0 -10 50 10 114 1 0 F
+X 1 C26 -100 0 100 R 40 40 114 1 I 
+# Gate Name: -C27
+# Symbol Name: PIN
+S 0 -10 50 10 115 1 0 F
+X 1 C27 -100 0 100 R 40 40 115 1 I 
+# Gate Name: -C28
+# Symbol Name: PIN
+S 0 -10 50 10 116 1 0 F
+X 1 C28 -100 0 100 R 40 40 116 1 I 
+# Gate Name: -C29
+# Symbol Name: PIN
+S 0 -10 50 10 117 1 0 F
+X 1 C29 -100 0 100 R 40 40 117 1 I 
+# Gate Name: -C30
+# Symbol Name: PIN
+S 0 -10 50 10 118 1 0 F
+X 1 C30 -100 0 100 R 40 40 118 1 I 
+# Gate Name: -C31
+# Symbol Name: PIN
+S 0 -10 50 10 119 1 0 F
+X 1 C31 -100 0 100 R 40 40 119 1 I 
+# Gate Name: -C32
+# Symbol Name: PIN
+S 0 -10 50 10 120 1 0 F
+X 1 C32 -100 0 100 R 40 40 120 1 I 
+# Gate Name: -C33
+# Symbol Name: PIN
+S 0 -10 50 10 121 1 0 F
+X 1 C33 -100 0 100 R 40 40 121 1 I 
+# Gate Name: -C37
+# Symbol Name: PIN
+S 0 -10 50 10 122 1 0 F
+X 1 C37 -100 0 100 R 40 40 122 1 I 
+# Gate Name: -C38
+# Symbol Name: PIN
+S 0 -10 50 10 123 1 0 F
+X 1 C38 -100 0 100 R 40 40 123 1 I 
+# Gate Name: -C39
+# Symbol Name: PIN
+S 0 -10 50 10 124 1 0 F
+X 1 C39 -100 0 100 R 40 40 124 1 I 
+# Gate Name: -C40
+# Symbol Name: PIN
+S 0 -10 50 10 125 1 0 F
+X 1 C40 -100 0 100 R 40 40 125 1 I 
+# Gate Name: -C41
+# Symbol Name: PIN
+S 0 -10 50 10 126 1 0 F
+X 1 C41 -100 0 100 R 40 40 126 1 I 
+# Gate Name: -C42
+# Symbol Name: PIN
+S 0 -10 50 10 127 1 0 F
+X 1 C42 -100 0 100 R 40 40 127 1 I 
+# Gate Name: -C43
+# Symbol Name: PIN
+S 0 -10 50 10 128 1 0 F
+X 1 C43 -100 0 100 R 40 40 128 1 I 
+# Gate Name: -C44
+# Symbol Name: PIN
+S 0 -10 50 10 129 1 0 F
+X 1 C44 -100 0 100 R 40 40 129 1 I 
+# Gate Name: -C45
+# Symbol Name: PIN
+S 0 -10 50 10 130 1 0 F
+X 1 C45 -100 0 100 R 40 40 130 1 I 
+# Gate Name: -C46
+# Symbol Name: PIN
+S 0 -10 50 10 131 1 0 F
+X 1 C46 -100 0 100 R 40 40 131 1 I 
+# Gate Name: -C47
+# Symbol Name: PIN
+S 0 -10 50 10 132 1 0 F
+X 1 C47 -100 0 100 R 40 40 132 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 133 1 0 F
+X 1 D1 -100 0 100 R 40 40 133 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 134 1 0 F
+X 1 D2 -100 0 100 R 40 40 134 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 135 1 0 F
+X 1 D3 -100 0 100 R 40 40 135 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 136 1 0 F
+X 1 D4 -100 0 100 R 40 40 136 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 137 1 0 F
+X 1 D5 -100 0 100 R 40 40 137 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 138 1 0 F
+X 1 D6 -100 0 100 R 40 40 138 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 139 1 0 F
+X 1 D7 -100 0 100 R 40 40 139 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 140 1 0 F
+X 1 D8 -100 0 100 R 40 40 140 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 141 1 0 F
+X 1 D9 -100 0 100 R 40 40 141 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 142 1 0 F
+X 1 D10 -100 0 100 R 40 40 142 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 143 1 0 F
+X 1 D11 -100 0 100 R 40 40 143 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 144 1 0 F
+X 1 D12 -100 0 100 R 40 40 144 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 145 1 0 F
+X 1 D13 -100 0 100 R 40 40 145 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 146 1 0 F
+X 1 D14 -100 0 100 R 40 40 146 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 147 1 0 F
+X 1 D15 -100 0 100 R 40 40 147 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 148 1 0 F
+X 1 D16 -100 0 100 R 40 40 148 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 149 1 0 F
+X 1 D17 -100 0 100 R 40 40 149 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 150 1 0 F
+X 1 D18 -100 0 100 R 40 40 150 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 151 1 0 F
+X 1 D19 -100 0 100 R 40 40 151 1 I 
+# Gate Name: -D20
+# Symbol Name: PIN
+S 0 -10 50 10 152 1 0 F
+X 1 D20 -100 0 100 R 40 40 152 1 I 
+# Gate Name: -D21
+# Symbol Name: PIN
+S 0 -10 50 10 153 1 0 F
+X 1 D21 -100 0 100 R 40 40 153 1 I 
+# Gate Name: -D22
+# Symbol Name: PIN
+S 0 -10 50 10 154 1 0 F
+X 1 D22 -100 0 100 R 40 40 154 1 I 
+# Gate Name: -D23
+# Symbol Name: PIN
+S 0 -10 50 10 155 1 0 F
+X 1 D23 -100 0 100 R 40 40 155 1 I 
+# Gate Name: -D24
+# Symbol Name: PIN
+S 0 -10 50 10 156 1 0 F
+X 1 D24 -100 0 100 R 40 40 156 1 I 
+# Gate Name: -D25
+# Symbol Name: PIN
+S 0 -10 50 10 157 1 0 F
+X 1 D25 -100 0 100 R 40 40 157 1 I 
+# Gate Name: -D26
+# Symbol Name: PIN
+S 0 -10 50 10 158 1 0 F
+X 1 D26 -100 0 100 R 40 40 158 1 I 
+# Gate Name: -D27
+# Symbol Name: PIN
+S 0 -10 50 10 159 1 0 F
+X 1 D27 -100 0 100 R 40 40 159 1 I 
+# Gate Name: -D28
+# Symbol Name: PIN
+S 0 -10 50 10 160 1 0 F
+X 1 D28 -100 0 100 R 40 40 160 1 I 
+# Gate Name: -D29
+# Symbol Name: PIN
+S 0 -10 50 10 161 1 0 F
+X 1 D29 -100 0 100 R 40 40 161 1 I 
+# Gate Name: -D30
+# Symbol Name: PIN
+S 0 -10 50 10 162 1 0 F
+X 1 D30 -100 0 100 R 40 40 162 1 I 
+# Gate Name: -D31
+# Symbol Name: PIN
+S 0 -10 50 10 163 1 0 F
+X 1 D31 -100 0 100 R 40 40 163 1 I 
+# Gate Name: -D32
+# Symbol Name: PIN
+S 0 -10 50 10 164 1 0 F
+X 1 D32 -100 0 100 R 40 40 164 1 I 
+# Gate Name: -D33
+# Symbol Name: PIN
+S 0 -10 50 10 165 1 0 F
+X 1 D33 -100 0 100 R 40 40 165 1 I 
+# Gate Name: -D37
+# Symbol Name: PIN
+S 0 -10 50 10 166 1 0 F
+X 1 D37 -100 0 100 R 40 40 166 1 I 
+# Gate Name: -D38
+# Symbol Name: PIN
+S 0 -10 50 10 167 1 0 F
+X 1 D38 -100 0 100 R 40 40 167 1 I 
+# Gate Name: -D39
+# Symbol Name: PIN
+S 0 -10 50 10 168 1 0 F
+X 1 D39 -100 0 100 R 40 40 168 1 I 
+# Gate Name: -D40
+# Symbol Name: PIN
+S 0 -10 50 10 169 1 0 F
+X 1 D40 -100 0 100 R 40 40 169 1 I 
+# Gate Name: -D41
+# Symbol Name: PIN
+S 0 -10 50 10 170 1 0 F
+X 1 D41 -100 0 100 R 40 40 170 1 I 
+# Gate Name: -D42
+# Symbol Name: PIN
+S 0 -10 50 10 171 1 0 F
+X 1 D42 -100 0 100 R 40 40 171 1 I 
+# Gate Name: -D43
+# Symbol Name: PIN
+S 0 -10 50 10 172 1 0 F
+X 1 D43 -100 0 100 R 40 40 172 1 I 
+# Gate Name: -D44
+# Symbol Name: PIN
+S 0 -10 50 10 173 1 0 F
+X 1 D44 -100 0 100 R 40 40 173 1 I 
+# Gate Name: -D45
+# Symbol Name: PIN
+S 0 -10 50 10 174 1 0 F
+X 1 D45 -100 0 100 R 40 40 174 1 I 
+# Gate Name: -D46
+# Symbol Name: PIN
+S 0 -10 50 10 175 1 0 F
+X 1 D46 -100 0 100 R 40 40 175 1 I 
+# Gate Name: -D47
+# Symbol Name: PIN
+S 0 -10 50 10 176 1 0 F
+X 1 D47 -100 0 100 R 40 40 176 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 177 1 0 F
+X 1 E1 -100 0 100 R 40 40 177 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 178 1 0 F
+X 1 E2 -100 0 100 R 40 40 178 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 179 1 0 F
+X 1 E3 -100 0 100 R 40 40 179 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 180 1 0 F
+X 1 E4 -100 0 100 R 40 40 180 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 181 1 0 F
+X 1 E5 -100 0 100 R 40 40 181 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 182 1 0 F
+X 1 E6 -100 0 100 R 40 40 182 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 183 1 0 F
+X 1 E7 -100 0 100 R 40 40 183 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 184 1 0 F
+X 1 E8 -100 0 100 R 40 40 184 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 185 1 0 F
+X 1 E9 -100 0 100 R 40 40 185 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 186 1 0 F
+X 1 E10 -100 0 100 R 40 40 186 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 187 1 0 F
+X 1 E11 -100 0 100 R 40 40 187 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 188 1 0 F
+X 1 E12 -100 0 100 R 40 40 188 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 189 1 0 F
+X 1 E13 -100 0 100 R 40 40 189 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 190 1 0 F
+X 1 E14 -100 0 100 R 40 40 190 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 191 1 0 F
+X 1 E15 -100 0 100 R 40 40 191 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 192 1 0 F
+X 1 E16 -100 0 100 R 40 40 192 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 193 1 0 F
+X 1 E17 -100 0 100 R 40 40 193 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 194 1 0 F
+X 1 E18 -100 0 100 R 40 40 194 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 195 1 0 F
+X 1 E19 -100 0 100 R 40 40 195 1 I 
+# Gate Name: -E20
+# Symbol Name: PIN
+S 0 -10 50 10 196 1 0 F
+X 1 E20 -100 0 100 R 40 40 196 1 I 
+# Gate Name: -E21
+# Symbol Name: PIN
+S 0 -10 50 10 197 1 0 F
+X 1 E21 -100 0 100 R 40 40 197 1 I 
+# Gate Name: -E22
+# Symbol Name: PIN
+S 0 -10 50 10 198 1 0 F
+X 1 E22 -100 0 100 R 40 40 198 1 I 
+# Gate Name: -E23
+# Symbol Name: PIN
+S 0 -10 50 10 199 1 0 F
+X 1 E23 -100 0 100 R 40 40 199 1 I 
+# Gate Name: -E24
+# Symbol Name: PIN
+S 0 -10 50 10 200 1 0 F
+X 1 E24 -100 0 100 R 40 40 200 1 I 
+# Gate Name: -E25
+# Symbol Name: PIN
+S 0 -10 50 10 201 1 0 F
+X 1 E25 -100 0 100 R 40 40 201 1 I 
+# Gate Name: -E26
+# Symbol Name: PIN
+S 0 -10 50 10 202 1 0 F
+X 1 E26 -100 0 100 R 40 40 202 1 I 
+# Gate Name: -E27
+# Symbol Name: PIN
+S 0 -10 50 10 203 1 0 F
+X 1 E27 -100 0 100 R 40 40 203 1 I 
+# Gate Name: -E28
+# Symbol Name: PIN
+S 0 -10 50 10 204 1 0 F
+X 1 E28 -100 0 100 R 40 40 204 1 I 
+# Gate Name: -E29
+# Symbol Name: PIN
+S 0 -10 50 10 205 1 0 F
+X 1 E29 -100 0 100 R 40 40 205 1 I 
+# Gate Name: -E30
+# Symbol Name: PIN
+S 0 -10 50 10 206 1 0 F
+X 1 E30 -100 0 100 R 40 40 206 1 I 
+# Gate Name: -E31
+# Symbol Name: PIN
+S 0 -10 50 10 207 1 0 F
+X 1 E31 -100 0 100 R 40 40 207 1 I 
+# Gate Name: -E32
+# Symbol Name: PIN
+S 0 -10 50 10 208 1 0 F
+X 1 E32 -100 0 100 R 40 40 208 1 I 
+# Gate Name: -E33
+# Symbol Name: PIN
+S 0 -10 50 10 209 1 0 F
+X 1 E33 -100 0 100 R 40 40 209 1 I 
+# Gate Name: -E37
+# Symbol Name: PIN
+S 0 -10 50 10 210 1 0 F
+X 1 E37 -100 0 100 R 40 40 210 1 I 
+# Gate Name: -E38
+# Symbol Name: PIN
+S 0 -10 50 10 211 1 0 F
+X 1 E38 -100 0 100 R 40 40 211 1 I 
+# Gate Name: -E39
+# Symbol Name: PIN
+S 0 -10 50 10 212 1 0 F
+X 1 E39 -100 0 100 R 40 40 212 1 I 
+# Gate Name: -E40
+# Symbol Name: PIN
+S 0 -10 50 10 213 1 0 F
+X 1 E40 -100 0 100 R 40 40 213 1 I 
+# Gate Name: -E41
+# Symbol Name: PIN
+S 0 -10 50 10 214 1 0 F
+X 1 E41 -100 0 100 R 40 40 214 1 I 
+# Gate Name: -E42
+# Symbol Name: PIN
+S 0 -10 50 10 215 1 0 F
+X 1 E42 -100 0 100 R 40 40 215 1 I 
+# Gate Name: -E43
+# Symbol Name: PIN
+S 0 -10 50 10 216 1 0 F
+X 1 E43 -100 0 100 R 40 40 216 1 I 
+# Gate Name: -E44
+# Symbol Name: PIN
+S 0 -10 50 10 217 1 0 F
+X 1 E44 -100 0 100 R 40 40 217 1 I 
+# Gate Name: -E45
+# Symbol Name: PIN
+S 0 -10 50 10 218 1 0 F
+X 1 E45 -100 0 100 R 40 40 218 1 I 
+# Gate Name: -E46
+# Symbol Name: PIN
+S 0 -10 50 10 219 1 0 F
+X 1 E46 -100 0 100 R 40 40 219 1 I 
+# Gate Name: -E47
+# Symbol Name: PIN
+S 0 -10 50 10 220 1 0 F
+X 1 E47 -100 0 100 R 40 40 220 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_B19-064784
+# Package Name: 064784
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 95
+#
+DEF CPCI_B19-064784 X 0 40 Y Y 95 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_B19-064784" -200 100 50 H V L B
+F2 "con-cpci-064784" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 20 1 0 F
+X 1 B1 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 B2 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 B3 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 23 1 0 F
+X 1 B4 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B5 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B6 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B7 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B8 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B9 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B10 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B11 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B12 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B13 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B14 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B15 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B16 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B17 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B18 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B19 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 39 1 0 F
+X 1 C1 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 C2 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 C3 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 C4 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 C5 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 C6 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 45 1 0 F
+X 1 C7 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C8 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C9 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C10 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C11 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C12 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C13 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C14 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C15 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C16 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C17 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C18 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C19 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 58 1 0 F
+X 1 D1 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 D2 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 D3 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 D4 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 D5 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 D6 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 D7 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 D8 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 D9 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 67 1 0 F
+X 1 D10 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D11 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D12 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D13 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D14 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D15 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D16 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D17 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D18 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D19 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 77 1 0 F
+X 1 E1 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 E2 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 E3 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 E4 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 E5 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 E6 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 E7 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 E8 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 E9 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 E10 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 E11 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 E12 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 89 1 0 F
+X 1 E13 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E14 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E15 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E16 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E17 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E18 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E19 -100 0 100 R 40 40 95 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_B19-114133
+# Package Name: 114133
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 95
+#
+DEF CPCI_B19-114133 X 0 40 Y Y 95 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_B19-114133" -200 100 50 H V L B
+F2 "con-cpci-114133" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 20 1 0 F
+X 1 B1 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 B2 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 B3 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 23 1 0 F
+X 1 B4 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B5 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B6 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B7 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B8 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B9 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B10 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B11 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B12 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B13 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B14 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B15 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B16 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B17 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B18 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B19 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 39 1 0 F
+X 1 C1 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 C2 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 C3 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 C4 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 C5 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 C6 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 45 1 0 F
+X 1 C7 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C8 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C9 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C10 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C11 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C12 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C13 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C14 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C15 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C16 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C17 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C18 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C19 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 58 1 0 F
+X 1 D1 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 D2 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 D3 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 D4 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 D5 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 D6 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 D7 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 D8 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 D9 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 67 1 0 F
+X 1 D10 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D11 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D12 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D13 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D14 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D15 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D16 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D17 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D18 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D19 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 77 1 0 F
+X 1 E1 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 E2 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 E3 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 E4 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 E5 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 E6 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 E7 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 E8 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 E9 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 E10 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 E11 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 E12 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 89 1 0 F
+X 1 E13 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E14 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E15 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E16 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E17 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E18 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E19 -100 0 100 R 40 40 95 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_B19-914794
+# Package Name: 914794
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 95
+#
+DEF CPCI_B19-914794 X 0 40 Y Y 95 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_B19-914794" -200 100 50 H V L B
+F2 "con-cpci-914794" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 20 1 0 F
+X 1 B1 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 B2 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 B3 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 23 1 0 F
+X 1 B4 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B5 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B6 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B7 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B8 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B9 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B10 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B11 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B12 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B13 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B14 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B15 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B16 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B17 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B18 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B19 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 39 1 0 F
+X 1 C1 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 C2 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 C3 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 C4 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 C5 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 C6 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 45 1 0 F
+X 1 C7 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C8 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C9 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C10 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C11 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C12 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C13 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C14 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C15 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C16 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C17 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C18 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C19 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 58 1 0 F
+X 1 D1 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 D2 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 D3 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 D4 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 D5 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 D6 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 D7 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 D8 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 D9 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 67 1 0 F
+X 1 D10 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D11 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D12 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D13 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D14 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D15 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D16 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D17 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D18 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D19 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 77 1 0 F
+X 1 E1 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 E2 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 E3 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 E4 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 E5 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 E6 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 E7 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 E8 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 E9 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 E10 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 E11 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 E12 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 89 1 0 F
+X 1 E13 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E14 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E15 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E16 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E17 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E18 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E19 -100 0 100 R 40 40 95 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_B22-064785
+# Package Name: 064785
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 110
+#
+DEF CPCI_B22-064785 X 0 40 Y Y 110 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_B22-064785" -200 100 50 H V L B
+F2 "con-cpci-064785" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -A20
+# Symbol Name: PIN
+S 0 -10 50 10 20 1 0 F
+X 1 A20 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -A21
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 A21 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -A22
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 A22 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 23 1 0 F
+X 1 B1 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B2 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B3 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B4 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B5 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B6 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B7 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B8 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B9 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B10 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B11 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B12 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B13 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B14 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B15 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B16 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 39 1 0 F
+X 1 B17 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 B18 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 B19 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -B20
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 B20 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -B21
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 B21 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -B22
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 B22 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 45 1 0 F
+X 1 C1 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C2 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C3 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C4 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C5 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C6 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C7 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C8 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C9 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C10 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C11 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C12 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C13 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 58 1 0 F
+X 1 C14 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 C15 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 C16 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 C17 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 C18 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 C19 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -C20
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 C20 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -C21
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 C21 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -C22
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 C22 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 67 1 0 F
+X 1 D1 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D2 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D3 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D4 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D5 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D6 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D7 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D8 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D9 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D10 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 77 1 0 F
+X 1 D11 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 D12 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 D13 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 D14 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 D15 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 D16 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 D17 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 D18 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 D19 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -D20
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 D20 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -D21
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 D21 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -D22
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 D22 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 89 1 0 F
+X 1 E1 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E2 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E3 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E4 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E5 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E6 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E7 -100 0 100 R 40 40 95 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 96 1 0 F
+X 1 E8 -100 0 100 R 40 40 96 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 97 1 0 F
+X 1 E9 -100 0 100 R 40 40 97 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 98 1 0 F
+X 1 E10 -100 0 100 R 40 40 98 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 99 1 0 F
+X 1 E11 -100 0 100 R 40 40 99 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 100 1 0 F
+X 1 E12 -100 0 100 R 40 40 100 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 101 1 0 F
+X 1 E13 -100 0 100 R 40 40 101 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 102 1 0 F
+X 1 E14 -100 0 100 R 40 40 102 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 103 1 0 F
+X 1 E15 -100 0 100 R 40 40 103 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 104 1 0 F
+X 1 E16 -100 0 100 R 40 40 104 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 105 1 0 F
+X 1 E17 -100 0 100 R 40 40 105 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 106 1 0 F
+X 1 E18 -100 0 100 R 40 40 106 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 107 1 0 F
+X 1 E19 -100 0 100 R 40 40 107 1 I 
+# Gate Name: -E20
+# Symbol Name: PIN
+S 0 -10 50 10 108 1 0 F
+X 1 E20 -100 0 100 R 40 40 108 1 I 
+# Gate Name: -E21
+# Symbol Name: PIN
+S 0 -10 50 10 109 1 0 F
+X 1 E21 -100 0 100 R 40 40 109 1 I 
+# Gate Name: -E22
+# Symbol Name: PIN
+S 0 -10 50 10 110 1 0 F
+X 1 E22 -100 0 100 R 40 40 110 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_B22-114134
+# Package Name: 114134
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 110
+#
+DEF CPCI_B22-114134 X 0 40 Y Y 110 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_B22-114134" -200 100 50 H V L B
+F2 "con-cpci-114134" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -A20
+# Symbol Name: PIN
+S 0 -10 50 10 20 1 0 F
+X 1 A20 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -A21
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 A21 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -A22
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 A22 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 23 1 0 F
+X 1 B1 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B2 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B3 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B4 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B5 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B6 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B7 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B8 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B9 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B10 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B11 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B12 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B13 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B14 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B15 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B16 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 39 1 0 F
+X 1 B17 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 B18 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 B19 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -B20
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 B20 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -B21
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 B21 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -B22
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 B22 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 45 1 0 F
+X 1 C1 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C2 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C3 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C4 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C5 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C6 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C7 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C8 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C9 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C10 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C11 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C12 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C13 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 58 1 0 F
+X 1 C14 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 C15 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 C16 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 C17 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 C18 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 C19 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -C20
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 C20 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -C21
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 C21 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -C22
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 C22 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 67 1 0 F
+X 1 D1 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D2 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D3 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D4 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D5 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D6 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D7 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D8 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D9 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D10 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 77 1 0 F
+X 1 D11 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 D12 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 D13 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 D14 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 D15 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 D16 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 D17 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 D18 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 D19 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -D20
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 D20 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -D21
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 D21 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -D22
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 D22 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 89 1 0 F
+X 1 E1 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E2 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E3 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E4 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E5 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E6 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E7 -100 0 100 R 40 40 95 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 96 1 0 F
+X 1 E8 -100 0 100 R 40 40 96 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 97 1 0 F
+X 1 E9 -100 0 100 R 40 40 97 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 98 1 0 F
+X 1 E10 -100 0 100 R 40 40 98 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 99 1 0 F
+X 1 E11 -100 0 100 R 40 40 99 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 100 1 0 F
+X 1 E12 -100 0 100 R 40 40 100 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 101 1 0 F
+X 1 E13 -100 0 100 R 40 40 101 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 102 1 0 F
+X 1 E14 -100 0 100 R 40 40 102 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 103 1 0 F
+X 1 E15 -100 0 100 R 40 40 103 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 104 1 0 F
+X 1 E16 -100 0 100 R 40 40 104 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 105 1 0 F
+X 1 E17 -100 0 100 R 40 40 105 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 106 1 0 F
+X 1 E18 -100 0 100 R 40 40 106 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 107 1 0 F
+X 1 E19 -100 0 100 R 40 40 107 1 I 
+# Gate Name: -E20
+# Symbol Name: PIN
+S 0 -10 50 10 108 1 0 F
+X 1 E20 -100 0 100 R 40 40 108 1 I 
+# Gate Name: -E21
+# Symbol Name: PIN
+S 0 -10 50 10 109 1 0 F
+X 1 E21 -100 0 100 R 40 40 109 1 I 
+# Gate Name: -E22
+# Symbol Name: PIN
+S 0 -10 50 10 110 1 0 F
+X 1 E22 -100 0 100 R 40 40 110 1 I 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CPCI_B22-914797I
+# Package Name: 914797I
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 110
+#
+DEF CPCI_B22-914797I X 0 40 Y Y 110 L N
+# Gate Name: -A1
+# Symbol Name: PINV
+F0 "X" 70 -30 50 H V L B
+F1 "CPCI_B22-914797I" -200 100 50 H V L B
+F2 "con-cpci-914797I" 0 150 50 H I C C
+DRAW
+S 0 -10 50 10 1 1 0 F
+X 1 A1 -100 0 100 R 40 40 1 1 I 
+# Gate Name: -A2
+# Symbol Name: PIN
+S 0 -10 50 10 2 1 0 F
+X 1 A2 -100 0 100 R 40 40 2 1 I 
+# Gate Name: -A3
+# Symbol Name: PIN
+S 0 -10 50 10 3 1 0 F
+X 1 A3 -100 0 100 R 40 40 3 1 I 
+# Gate Name: -A4
+# Symbol Name: PIN
+S 0 -10 50 10 4 1 0 F
+X 1 A4 -100 0 100 R 40 40 4 1 I 
+# Gate Name: -A5
+# Symbol Name: PIN
+S 0 -10 50 10 5 1 0 F
+X 1 A5 -100 0 100 R 40 40 5 1 I 
+# Gate Name: -A6
+# Symbol Name: PIN
+S 0 -10 50 10 6 1 0 F
+X 1 A6 -100 0 100 R 40 40 6 1 I 
+# Gate Name: -A7
+# Symbol Name: PIN
+S 0 -10 50 10 7 1 0 F
+X 1 A7 -100 0 100 R 40 40 7 1 I 
+# Gate Name: -A8
+# Symbol Name: PIN
+S 0 -10 50 10 8 1 0 F
+X 1 A8 -100 0 100 R 40 40 8 1 I 
+# Gate Name: -A9
+# Symbol Name: PIN
+S 0 -10 50 10 9 1 0 F
+X 1 A9 -100 0 100 R 40 40 9 1 I 
+# Gate Name: -A10
+# Symbol Name: PIN
+S 0 -10 50 10 10 1 0 F
+X 1 A10 -100 0 100 R 40 40 10 1 I 
+# Gate Name: -A11
+# Symbol Name: PIN
+S 0 -10 50 10 11 1 0 F
+X 1 A11 -100 0 100 R 40 40 11 1 I 
+# Gate Name: -A12
+# Symbol Name: PIN
+S 0 -10 50 10 12 1 0 F
+X 1 A12 -100 0 100 R 40 40 12 1 I 
+# Gate Name: -A13
+# Symbol Name: PIN
+S 0 -10 50 10 13 1 0 F
+X 1 A13 -100 0 100 R 40 40 13 1 I 
+# Gate Name: -A14
+# Symbol Name: PIN
+S 0 -10 50 10 14 1 0 F
+X 1 A14 -100 0 100 R 40 40 14 1 I 
+# Gate Name: -A15
+# Symbol Name: PIN
+S 0 -10 50 10 15 1 0 F
+X 1 A15 -100 0 100 R 40 40 15 1 I 
+# Gate Name: -A16
+# Symbol Name: PIN
+S 0 -10 50 10 16 1 0 F
+X 1 A16 -100 0 100 R 40 40 16 1 I 
+# Gate Name: -A17
+# Symbol Name: PIN
+S 0 -10 50 10 17 1 0 F
+X 1 A17 -100 0 100 R 40 40 17 1 I 
+# Gate Name: -A18
+# Symbol Name: PIN
+S 0 -10 50 10 18 1 0 F
+X 1 A18 -100 0 100 R 40 40 18 1 I 
+# Gate Name: -A19
+# Symbol Name: PIN
+S 0 -10 50 10 19 1 0 F
+X 1 A19 -100 0 100 R 40 40 19 1 I 
+# Gate Name: -A20
+# Symbol Name: PIN
+S 0 -10 50 10 20 1 0 F
+X 1 A20 -100 0 100 R 40 40 20 1 I 
+# Gate Name: -A21
+# Symbol Name: PIN
+S 0 -10 50 10 21 1 0 F
+X 1 A21 -100 0 100 R 40 40 21 1 I 
+# Gate Name: -A22
+# Symbol Name: PIN
+S 0 -10 50 10 22 1 0 F
+X 1 A22 -100 0 100 R 40 40 22 1 I 
+# Gate Name: -B1
+# Symbol Name: PINV
+S 0 -10 50 10 23 1 0 F
+X 1 B1 -100 0 100 R 40 40 23 1 I 
+# Gate Name: -B2
+# Symbol Name: PIN
+S 0 -10 50 10 24 1 0 F
+X 1 B2 -100 0 100 R 40 40 24 1 I 
+# Gate Name: -B3
+# Symbol Name: PIN
+S 0 -10 50 10 25 1 0 F
+X 1 B3 -100 0 100 R 40 40 25 1 I 
+# Gate Name: -B4
+# Symbol Name: PIN
+S 0 -10 50 10 26 1 0 F
+X 1 B4 -100 0 100 R 40 40 26 1 I 
+# Gate Name: -B5
+# Symbol Name: PIN
+S 0 -10 50 10 27 1 0 F
+X 1 B5 -100 0 100 R 40 40 27 1 I 
+# Gate Name: -B6
+# Symbol Name: PIN
+S 0 -10 50 10 28 1 0 F
+X 1 B6 -100 0 100 R 40 40 28 1 I 
+# Gate Name: -B7
+# Symbol Name: PIN
+S 0 -10 50 10 29 1 0 F
+X 1 B7 -100 0 100 R 40 40 29 1 I 
+# Gate Name: -B8
+# Symbol Name: PIN
+S 0 -10 50 10 30 1 0 F
+X 1 B8 -100 0 100 R 40 40 30 1 I 
+# Gate Name: -B9
+# Symbol Name: PIN
+S 0 -10 50 10 31 1 0 F
+X 1 B9 -100 0 100 R 40 40 31 1 I 
+# Gate Name: -B10
+# Symbol Name: PIN
+S 0 -10 50 10 32 1 0 F
+X 1 B10 -100 0 100 R 40 40 32 1 I 
+# Gate Name: -B11
+# Symbol Name: PIN
+S 0 -10 50 10 33 1 0 F
+X 1 B11 -100 0 100 R 40 40 33 1 I 
+# Gate Name: -B12
+# Symbol Name: PIN
+S 0 -10 50 10 34 1 0 F
+X 1 B12 -100 0 100 R 40 40 34 1 I 
+# Gate Name: -B13
+# Symbol Name: PIN
+S 0 -10 50 10 35 1 0 F
+X 1 B13 -100 0 100 R 40 40 35 1 I 
+# Gate Name: -B14
+# Symbol Name: PIN
+S 0 -10 50 10 36 1 0 F
+X 1 B14 -100 0 100 R 40 40 36 1 I 
+# Gate Name: -B15
+# Symbol Name: PIN
+S 0 -10 50 10 37 1 0 F
+X 1 B15 -100 0 100 R 40 40 37 1 I 
+# Gate Name: -B16
+# Symbol Name: PIN
+S 0 -10 50 10 38 1 0 F
+X 1 B16 -100 0 100 R 40 40 38 1 I 
+# Gate Name: -B17
+# Symbol Name: PIN
+S 0 -10 50 10 39 1 0 F
+X 1 B17 -100 0 100 R 40 40 39 1 I 
+# Gate Name: -B18
+# Symbol Name: PIN
+S 0 -10 50 10 40 1 0 F
+X 1 B18 -100 0 100 R 40 40 40 1 I 
+# Gate Name: -B19
+# Symbol Name: PIN
+S 0 -10 50 10 41 1 0 F
+X 1 B19 -100 0 100 R 40 40 41 1 I 
+# Gate Name: -B20
+# Symbol Name: PIN
+S 0 -10 50 10 42 1 0 F
+X 1 B20 -100 0 100 R 40 40 42 1 I 
+# Gate Name: -B21
+# Symbol Name: PIN
+S 0 -10 50 10 43 1 0 F
+X 1 B21 -100 0 100 R 40 40 43 1 I 
+# Gate Name: -B22
+# Symbol Name: PIN
+S 0 -10 50 10 44 1 0 F
+X 1 B22 -100 0 100 R 40 40 44 1 I 
+# Gate Name: -C1
+# Symbol Name: PINV
+S 0 -10 50 10 45 1 0 F
+X 1 C1 -100 0 100 R 40 40 45 1 I 
+# Gate Name: -C2
+# Symbol Name: PIN
+S 0 -10 50 10 46 1 0 F
+X 1 C2 -100 0 100 R 40 40 46 1 I 
+# Gate Name: -C3
+# Symbol Name: PIN
+S 0 -10 50 10 47 1 0 F
+X 1 C3 -100 0 100 R 40 40 47 1 I 
+# Gate Name: -C4
+# Symbol Name: PIN
+S 0 -10 50 10 48 1 0 F
+X 1 C4 -100 0 100 R 40 40 48 1 I 
+# Gate Name: -C5
+# Symbol Name: PIN
+S 0 -10 50 10 49 1 0 F
+X 1 C5 -100 0 100 R 40 40 49 1 I 
+# Gate Name: -C6
+# Symbol Name: PIN
+S 0 -10 50 10 50 1 0 F
+X 1 C6 -100 0 100 R 40 40 50 1 I 
+# Gate Name: -C7
+# Symbol Name: PIN
+S 0 -10 50 10 51 1 0 F
+X 1 C7 -100 0 100 R 40 40 51 1 I 
+# Gate Name: -C8
+# Symbol Name: PIN
+S 0 -10 50 10 52 1 0 F
+X 1 C8 -100 0 100 R 40 40 52 1 I 
+# Gate Name: -C9
+# Symbol Name: PIN
+S 0 -10 50 10 53 1 0 F
+X 1 C9 -100 0 100 R 40 40 53 1 I 
+# Gate Name: -C10
+# Symbol Name: PIN
+S 0 -10 50 10 54 1 0 F
+X 1 C10 -100 0 100 R 40 40 54 1 I 
+# Gate Name: -C11
+# Symbol Name: PIN
+S 0 -10 50 10 55 1 0 F
+X 1 C11 -100 0 100 R 40 40 55 1 I 
+# Gate Name: -C12
+# Symbol Name: PIN
+S 0 -10 50 10 56 1 0 F
+X 1 C12 -100 0 100 R 40 40 56 1 I 
+# Gate Name: -C13
+# Symbol Name: PIN
+S 0 -10 50 10 57 1 0 F
+X 1 C13 -100 0 100 R 40 40 57 1 I 
+# Gate Name: -C14
+# Symbol Name: PIN
+S 0 -10 50 10 58 1 0 F
+X 1 C14 -100 0 100 R 40 40 58 1 I 
+# Gate Name: -C15
+# Symbol Name: PIN
+S 0 -10 50 10 59 1 0 F
+X 1 C15 -100 0 100 R 40 40 59 1 I 
+# Gate Name: -C16
+# Symbol Name: PIN
+S 0 -10 50 10 60 1 0 F
+X 1 C16 -100 0 100 R 40 40 60 1 I 
+# Gate Name: -C17
+# Symbol Name: PIN
+S 0 -10 50 10 61 1 0 F
+X 1 C17 -100 0 100 R 40 40 61 1 I 
+# Gate Name: -C18
+# Symbol Name: PIN
+S 0 -10 50 10 62 1 0 F
+X 1 C18 -100 0 100 R 40 40 62 1 I 
+# Gate Name: -C19
+# Symbol Name: PIN
+S 0 -10 50 10 63 1 0 F
+X 1 C19 -100 0 100 R 40 40 63 1 I 
+# Gate Name: -C20
+# Symbol Name: PIN
+S 0 -10 50 10 64 1 0 F
+X 1 C20 -100 0 100 R 40 40 64 1 I 
+# Gate Name: -C21
+# Symbol Name: PIN
+S 0 -10 50 10 65 1 0 F
+X 1 C21 -100 0 100 R 40 40 65 1 I 
+# Gate Name: -C22
+# Symbol Name: PIN
+S 0 -10 50 10 66 1 0 F
+X 1 C22 -100 0 100 R 40 40 66 1 I 
+# Gate Name: -D1
+# Symbol Name: PINV
+S 0 -10 50 10 67 1 0 F
+X 1 D1 -100 0 100 R 40 40 67 1 I 
+# Gate Name: -D2
+# Symbol Name: PIN
+S 0 -10 50 10 68 1 0 F
+X 1 D2 -100 0 100 R 40 40 68 1 I 
+# Gate Name: -D3
+# Symbol Name: PIN
+S 0 -10 50 10 69 1 0 F
+X 1 D3 -100 0 100 R 40 40 69 1 I 
+# Gate Name: -D4
+# Symbol Name: PIN
+S 0 -10 50 10 70 1 0 F
+X 1 D4 -100 0 100 R 40 40 70 1 I 
+# Gate Name: -D5
+# Symbol Name: PIN
+S 0 -10 50 10 71 1 0 F
+X 1 D5 -100 0 100 R 40 40 71 1 I 
+# Gate Name: -D6
+# Symbol Name: PIN
+S 0 -10 50 10 72 1 0 F
+X 1 D6 -100 0 100 R 40 40 72 1 I 
+# Gate Name: -D7
+# Symbol Name: PIN
+S 0 -10 50 10 73 1 0 F
+X 1 D7 -100 0 100 R 40 40 73 1 I 
+# Gate Name: -D8
+# Symbol Name: PIN
+S 0 -10 50 10 74 1 0 F
+X 1 D8 -100 0 100 R 40 40 74 1 I 
+# Gate Name: -D9
+# Symbol Name: PIN
+S 0 -10 50 10 75 1 0 F
+X 1 D9 -100 0 100 R 40 40 75 1 I 
+# Gate Name: -D10
+# Symbol Name: PIN
+S 0 -10 50 10 76 1 0 F
+X 1 D10 -100 0 100 R 40 40 76 1 I 
+# Gate Name: -D11
+# Symbol Name: PIN
+S 0 -10 50 10 77 1 0 F
+X 1 D11 -100 0 100 R 40 40 77 1 I 
+# Gate Name: -D12
+# Symbol Name: PIN
+S 0 -10 50 10 78 1 0 F
+X 1 D12 -100 0 100 R 40 40 78 1 I 
+# Gate Name: -D13
+# Symbol Name: PIN
+S 0 -10 50 10 79 1 0 F
+X 1 D13 -100 0 100 R 40 40 79 1 I 
+# Gate Name: -D14
+# Symbol Name: PIN
+S 0 -10 50 10 80 1 0 F
+X 1 D14 -100 0 100 R 40 40 80 1 I 
+# Gate Name: -D15
+# Symbol Name: PIN
+S 0 -10 50 10 81 1 0 F
+X 1 D15 -100 0 100 R 40 40 81 1 I 
+# Gate Name: -D16
+# Symbol Name: PIN
+S 0 -10 50 10 82 1 0 F
+X 1 D16 -100 0 100 R 40 40 82 1 I 
+# Gate Name: -D17
+# Symbol Name: PIN
+S 0 -10 50 10 83 1 0 F
+X 1 D17 -100 0 100 R 40 40 83 1 I 
+# Gate Name: -D18
+# Symbol Name: PIN
+S 0 -10 50 10 84 1 0 F
+X 1 D18 -100 0 100 R 40 40 84 1 I 
+# Gate Name: -D19
+# Symbol Name: PIN
+S 0 -10 50 10 85 1 0 F
+X 1 D19 -100 0 100 R 40 40 85 1 I 
+# Gate Name: -D20
+# Symbol Name: PIN
+S 0 -10 50 10 86 1 0 F
+X 1 D20 -100 0 100 R 40 40 86 1 I 
+# Gate Name: -D21
+# Symbol Name: PIN
+S 0 -10 50 10 87 1 0 F
+X 1 D21 -100 0 100 R 40 40 87 1 I 
+# Gate Name: -D22
+# Symbol Name: PIN
+S 0 -10 50 10 88 1 0 F
+X 1 D22 -100 0 100 R 40 40 88 1 I 
+# Gate Name: -E1
+# Symbol Name: PINV
+S 0 -10 50 10 89 1 0 F
+X 1 E1 -100 0 100 R 40 40 89 1 I 
+# Gate Name: -E2
+# Symbol Name: PIN
+S 0 -10 50 10 90 1 0 F
+X 1 E2 -100 0 100 R 40 40 90 1 I 
+# Gate Name: -E3
+# Symbol Name: PIN
+S 0 -10 50 10 91 1 0 F
+X 1 E3 -100 0 100 R 40 40 91 1 I 
+# Gate Name: -E4
+# Symbol Name: PIN
+S 0 -10 50 10 92 1 0 F
+X 1 E4 -100 0 100 R 40 40 92 1 I 
+# Gate Name: -E5
+# Symbol Name: PIN
+S 0 -10 50 10 93 1 0 F
+X 1 E5 -100 0 100 R 40 40 93 1 I 
+# Gate Name: -E6
+# Symbol Name: PIN
+S 0 -10 50 10 94 1 0 F
+X 1 E6 -100 0 100 R 40 40 94 1 I 
+# Gate Name: -E7
+# Symbol Name: PIN
+S 0 -10 50 10 95 1 0 F
+X 1 E7 -100 0 100 R 40 40 95 1 I 
+# Gate Name: -E8
+# Symbol Name: PIN
+S 0 -10 50 10 96 1 0 F
+X 1 E8 -100 0 100 R 40 40 96 1 I 
+# Gate Name: -E9
+# Symbol Name: PIN
+S 0 -10 50 10 97 1 0 F
+X 1 E9 -100 0 100 R 40 40 97 1 I 
+# Gate Name: -E10
+# Symbol Name: PIN
+S 0 -10 50 10 98 1 0 F
+X 1 E10 -100 0 100 R 40 40 98 1 I 
+# Gate Name: -E11
+# Symbol Name: PIN
+S 0 -10 50 10 99 1 0 F
+X 1 E11 -100 0 100 R 40 40 99 1 I 
+# Gate Name: -E12
+# Symbol Name: PIN
+S 0 -10 50 10 100 1 0 F
+X 1 E12 -100 0 100 R 40 40 100 1 I 
+# Gate Name: -E13
+# Symbol Name: PIN
+S 0 -10 50 10 101 1 0 F
+X 1 E13 -100 0 100 R 40 40 101 1 I 
+# Gate Name: -E14
+# Symbol Name: PIN
+S 0 -10 50 10 102 1 0 F
+X 1 E14 -100 0 100 R 40 40 102 1 I 
+# Gate Name: -E15
+# Symbol Name: PIN
+S 0 -10 50 10 103 1 0 F
+X 1 E15 -100 0 100 R 40 40 103 1 I 
+# Gate Name: -E16
+# Symbol Name: PIN
+S 0 -10 50 10 104 1 0 F
+X 1 E16 -100 0 100 R 40 40 104 1 I 
+# Gate Name: -E17
+# Symbol Name: PIN
+S 0 -10 50 10 105 1 0 F
+X 1 E17 -100 0 100 R 40 40 105 1 I 
+# Gate Name: -E18
+# Symbol Name: PIN
+S 0 -10 50 10 106 1 0 F
+X 1 E18 -100 0 100 R 40 40 106 1 I 
+# Gate Name: -E19
+# Symbol Name: PIN
+S 0 -10 50 10 107 1 0 F
+X 1 E19 -100 0 100 R 40 40 107 1 I 
+# Gate Name: -E20
+# Symbol Name: PIN
+S 0 -10 50 10 108 1 0 F
+X 1 E20 -100 0 100 R 40 40 108 1 I 
+# Gate Name: -E21
+# Symbol Name: PIN
+S 0 -10 50 10 109 1 0 F
+X 1 E21 -100 0 100 R 40 40 109 1 I 
+# Gate Name: -E22
+# Symbol Name: PIN
+S 0 -10 50 10 110 1 0 F
+X 1 E22 -100 0 100 R 40 40 110 1 I 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:20
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: DIN 5 C
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 0
+#
+DEF DIN 5 C ?? 0 40 Y Y 0 L N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PC POWER
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 0
+#
+DEF PC POWER ?? 0 40 Y Y 0 L N
+ENDDRAW
+ENDDEF
+
+#End Library

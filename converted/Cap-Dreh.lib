@@ -1,0 +1,85 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:41
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 3
+#
+# Dev Name: 808/1
+# Package Name: 808/1
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF 808/1 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TRIMM
+F0 "C" 20 -100 50 H V L B
+F1 "808/1" -150 -175 50 H V L B
+F2 "Cap-Dreh-808/1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 75 -125 -75
+P 2 1 0 0 40 60 25 75
+P 2 1 0 0 25 75 10 90
+S -100 -60 -70 60 1 1 0 F
+S -30 -60 0 60 1 1 0 F
+T 0 107 -33 34 0 1 0 3
+T 0 -198 -33 34 0 1 0 2
+X 1 1 100 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+X 3 3 0 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 808/2
+# Package Name: 808/2
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF 808/2 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TRIMM
+F0 "C" 20 -100 50 H V L B
+F1 "808/2" -150 -175 50 H V L B
+F2 "Cap-Dreh-808/2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 75 -125 -75
+P 2 1 0 0 40 60 25 75
+P 2 1 0 0 25 75 10 90
+S -100 -60 -70 60 1 1 0 F
+S -30 -60 0 60 1 1 0 F
+T 0 107 -33 34 0 1 0 3
+T 0 -198 -33 34 0 1 0 2
+X 1 1 100 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+X 3 3 0 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 808/3
+# Package Name: 808/3
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF 808/3 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TRIMM
+F0 "C" 20 -100 50 H V L B
+F1 "808/3" -150 -175 50 H V L B
+F2 "Cap-Dreh-808/3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 25 75 -125 -75
+P 2 1 0 0 40 60 25 75
+P 2 1 0 0 25 75 10 90
+S -100 -60 -70 60 1 1 0 F
+S -30 -60 0 60 1 1 0 F
+T 0 107 -33 34 0 1 0 3
+T 0 -198 -33 34 0 1 0 2
+X 1 1 100 0 100 L 40 40 1 1 P 
+X 2 2 -200 0 100 R 40 40 1 1 P 
+X 3 3 0 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

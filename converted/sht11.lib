@@ -1,0 +1,77 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:24:01
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 3
+#
+# Dev Name: SHT7XB
+# Package Name: SHT7XB
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF SHT7XB ?? 0 40 Y Y 1 L N
+# Gate Name: SHT7XH
+# Symbol Name: SHT7X
+DRAW
+P 2 1 0 0 0 300 800 300
+P 2 1 0 0 800 300 800 700
+P 2 1 0 0 800 700 0 700
+P 2 1 0 0 0 700 0 300
+X DATA 4 700 100 200 U 40 40 1 1 B 
+X GND 3 500 100 200 U 40 40 1 1 W 
+X SCK 1 100 100 200 U 40 40 1 1 I 
+X VDD 2 300 100 200 U 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SHT11
+# Package Name: SHT11
+# Dev Tech: ''
+# Dev Prefix: SHT11
+# Gate count = 1
+#
+DEF SHT11 SHT11 0 40 Y Y 1 L N
+# Gate Name: SHT1X
+# Symbol Name: SHT11
+F0 "SHT11" 0 0 50 H V C C
+F1 "SHT11" 0 0 50 H V C C
+F2 "sht11-SHT11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 200 1000 800 1000
+P 2 1 0 0 800 200 200 200
+P 2 1 0 0 200 1000 200 200
+P 2 1 0 0 800 1000 800 200
+X 5 5 1000 300 200 L 40 40 1 1 U 
+X 6 6 1000 500 200 L 40 40 1 1 U 
+X 7 7 1000 700 200 L 40 40 1 1 U 
+X 8 8 1000 900 200 L 40 40 1 1 U 
+X DATA DATA 0 700 200 R 40 40 1 1 B 
+X GND GND 0 900 200 R 40 40 1 1 W 
+X SCK SCK 0 500 200 R 40 40 1 1 I 
+X VDD VDD 0 300 200 R 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SHT71
+# Package Name: SHT7X
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF SHT71 ?? 0 40 Y Y 1 L N
+# Gate Name: SHT7X
+# Symbol Name: SHT7X
+DRAW
+P 2 1 0 0 0 300 800 300
+P 2 1 0 0 800 300 800 700
+P 2 1 0 0 800 700 0 700
+P 2 1 0 0 0 700 0 300
+X DATA 4 700 100 200 U 40 40 1 1 B 
+X GND 3 500 100 200 U 40 40 1 1 W 
+X SCK 1 100 100 200 U 40 40 1 1 I 
+X VDD 2 300 100 200 U 40 40 1 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,54 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:24
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: LNA
+# Package Name: LNA
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF LNA ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: LNA_NEW
+DRAW
+P 2 1 0 0 -1400 700 1500 700
+P 2 1 0 0 1500 700 1500 -1200
+P 2 1 0 0 1500 -1200 -1400 -1200
+P 2 1 0 0 -1400 -1200 -1400 700
+T 0 -1165 -765 70 0 1 0 1
+X BIAS ~ -1000 -1400 200 U 40 40 1 1 B 
+X GND2 ~ 0 -1400 200 U 40 40 1 1 B 
+X GND5 ~ 0 900 200 D 40 40 1 1 B 
+X RFIN ~ 1000 -1400 200 U 40 40 1 1 B 
+X RFOUT ~ -1000 900 200 D 40 40 1 1 B 
+X VCC4 ~ 1000 900 200 D 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: LNALNA_NEW
+# Package Name: LNA
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF LNALNA_NEW ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: LNA_NEW
+DRAW
+P 2 1 0 0 -1400 700 1500 700
+P 2 1 0 0 1500 700 1500 -1200
+P 2 1 0 0 1500 -1200 -1400 -1200
+P 2 1 0 0 -1400 -1200 -1400 700
+T 0 -1165 -765 70 0 1 0 1
+X BIAS 1 -1000 -1400 200 U 40 40 1 1 B 
+X GND2 2 0 -1400 200 U 40 40 1 1 B 
+X GND5 5 0 900 200 D 40 40 1 1 B 
+X RFIN 3 1000 -1400 200 U 40 40 1 1 B 
+X RFOUT 6 -1000 900 200 D 40 40 1 1 B 
+X VCC4 4 1000 900 200 D 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

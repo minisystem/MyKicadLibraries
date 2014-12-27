@@ -1,0 +1,72 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:41
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: CAP-13,5
+# Package Name: PAC-G-1
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF CAP-13,5 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ELKO
+F0 "C" 145 19 50 H V L B
+F1 "CAP-13,5" 145 -81 50 H V L B
+F2 "Cap-Gold-PAC-G-1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 -20 60 -20 -60
+P 2 1 0 0 25 60 25 -60
+P 2 1 0 0 25 -60 55 -60
+P 2 1 0 0 55 60 25 60
+P 2 1 0 0 55 0 200 0
+P 2 1 0 0 55 60 55 0
+P 2 1 0 0 55 0 55 -60
+P 2 1 0 0 -30 60 -20 60
+P 2 1 0 0 -20 60 -10 60
+P 2 1 0 0 -10 60 -10 -60
+P 2 1 0 0 -10 -60 -30 -60
+P 2 1 0 0 -30 -60 -30 60
+P 2 1 0 0 101 71 101 34
+P 2 1 0 0 83 53 120 53
+X + + 200 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PAC-21,5
+# Package Name: PAC-G-2
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+#
+DEF PAC-21,5 C 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ELKO
+F0 "C" 145 19 50 H V L B
+F1 "PAC-21,5" 145 -81 50 H V L B
+F2 "Cap-Gold-PAC-G-2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 0 -20 0
+P 2 1 0 0 -20 60 -20 -60
+P 2 1 0 0 25 60 25 -60
+P 2 1 0 0 25 -60 55 -60
+P 2 1 0 0 55 60 25 60
+P 2 1 0 0 55 0 200 0
+P 2 1 0 0 55 60 55 0
+P 2 1 0 0 55 0 55 -60
+P 2 1 0 0 -30 60 -20 60
+P 2 1 0 0 -20 60 -10 60
+P 2 1 0 0 -10 60 -10 -60
+P 2 1 0 0 -10 -60 -30 -60
+P 2 1 0 0 -30 -60 -30 60
+P 2 1 0 0 101 71 101 34
+P 2 1 0 0 83 53 120 53
+X + + 200 0 0 L 40 40 1 1 P 
+X - - -100 0 0 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

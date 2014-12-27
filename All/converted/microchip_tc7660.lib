@@ -1,0 +1,60 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:04
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 2
+#
+# Dev Name: TC7660DIL8
+# Package Name: DIL8
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF TC7660DIL8 IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TC7660
+F0 "IC" -500 500 50 H V L B
+F1 "TC7660DIL8" 100 500 50 H V L B
+F2 "microchip_tc7660-DIL8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -500 400 -500 -400
+P 2 1 0 0 -500 -400 500 -400
+P 2 1 0 0 500 -400 500 400
+P 2 1 0 0 -500 400 500 400
+X CAP+ 2 -600 200 100 R 40 40 1 1 B 
+X CAP- 4 -600 -100 100 R 40 40 1 1 B 
+X GND 3 0 -500 100 U 40 40 1 1 B 
+X LV 6 -200 -500 100 U 40 40 1 1 B 
+X OSC 7 200 -500 100 U 40 40 1 1 B 
+X V+ 8 0 500 100 D 40 40 1 1 B 
+X VOUT 5 600 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TC7660SO-08
+# Package Name: SO-08
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF TC7660SO-08 IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: TC7660
+F0 "IC" -500 500 50 H V L B
+F1 "TC7660SO-08" 100 500 50 H V L B
+F2 "microchip_tc7660-SO-08" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -500 400 -500 -400
+P 2 1 0 0 -500 -400 500 -400
+P 2 1 0 0 500 -400 500 400
+P 2 1 0 0 -500 400 500 400
+X CAP+ 2 -600 200 100 R 40 40 1 1 B 
+X CAP- 4 -600 -100 100 R 40 40 1 1 B 
+X GND 3 0 -500 100 U 40 40 1 1 B 
+X LV 6 -200 -500 100 U 40 40 1 1 B 
+X OSC 7 200 -500 100 U 40 40 1 1 B 
+X V+ 8 0 500 100 D 40 40 1 1 B 
+X VOUT 5 600 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

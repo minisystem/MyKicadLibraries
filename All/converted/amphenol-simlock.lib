@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:22
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: SIMLOCK492
+# Package Name: 5002
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 1
+#
+DEF SIMLOCK492 J 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: SIMLOCK
+F0 "J" 240 630 50 H V L B
+F1 "SIMLOCK492" 240 -90 50 H V L B
+F2 "amphenol-simlock-5002" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 0 0 600
+P 2 1 0 0 0 600 900 600
+P 2 1 0 0 900 600 900 0
+P 2 1 0 0 900 0 0 0
+T 0 435 335 70 0 1 0 SIM
+X CLK 3 -200 500 200 R 40 40 1 1 B 
+X GND 5 1100 100 200 L 40 40 1 1 B 
+X I/O 7 1100 500 200 L 40 40 1 1 B 
+X RST 2 -200 300 200 R 40 40 1 1 B 
+X VCC 1 -200 100 200 R 40 40 1 1 B 
+X VPP 6 1100 300 200 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

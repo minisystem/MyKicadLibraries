@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:22
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: ADXL202E
+# Package Name: LCC8
+# Dev Tech: ''
+# Dev Prefix: IC
+# Gate count = 1
+#
+DEF ADXL202E IC 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: ADXL202E
+F0 "IC" 0 0 50 H V C C
+F1 "ADXL202E" 0 0 50 H V C C
+F2 "analog_device_adxl202e-LCC8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -400 500 400 500
+P 2 1 0 0 400 500 400 -500
+P 2 1 0 0 400 -500 -400 -500
+P 2 1 0 0 -400 -500 -400 500
+T 0 -25 635 70 0 1 0 >Name
+T 0 10 -665 70 0 1 0 >Value
+X GND 3 -600 -400 200 R 40 40 1 1 W 
+X ST 1 600 300 200 L 40 40 1 1 I 
+X T2 2 600 100 200 L 40 40 1 1 I 
+X VDD 8 -600 400 200 R 40 40 1 1 W 
+X X-FILT 7 600 -100 200 L 40 40 1 1 I 
+X X-OUT 5 -600 100 200 R 40 40 1 1 O 
+X Y-FILT 6 600 -300 200 L 40 40 1 1 I 
+X Y-OUT 4 -600 -100 200 R 40 40 1 1 O 
+ENDDRAW
+ENDDEF
+
+#End Library

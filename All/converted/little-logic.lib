@@ -1,0 +1,227 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:33
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 8
+#
+# Dev Name: 1G00
+# Package Name: SOT23-5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF 1G00 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: NAND
+DRAW
+P 2 1 0 0 0 200 -100 200
+P 2 1 0 0 -100 200 -100 -200
+P 2 1 0 0 -100 -200 0 -200
+A 0 0 200 -899 899 1 1 0 N 0 -200 0 200
+X A 1 -300 100 200 R 40 40 1 1 B 
+X B 2 -300 -100 200 R 40 40 1 1 B 
+X Q 4 400 0 200 L 40 40 1 1 B I
+# Gate Name: P
+# Symbol Name: PWR
+T 1 65 105 70 0 2 0 VDD
+T 1 65 -395 70 0 2 0 VSS
+X VDD 5 0 300 300 D 40 40 2 1 B 
+X VSS 3 0 -600 300 U 40 40 2 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1G02
+# Package Name: SOT23-5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF 1G02 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: NOR
+DRAW
+P 2 1 0 0 100 200 -200 200
+P 2 1 0 0 -200 -200 100 -200
+A -200 0 200 -899 899 1 1 0 N -200 -200 -200 200
+A 100 0 200 -899 899 1 1 0 N 100 -200 100 200
+X A 1 -400 200 200 R 40 40 1 1 B 
+X B 2 -400 -200 200 R 40 40 1 1 B 
+X Q 4 500 0 200 L 40 40 1 1 B I
+# Gate Name: P
+# Symbol Name: PWR
+T 1 65 105 70 0 2 0 VDD
+T 1 65 -395 70 0 2 0 VSS
+X VDD 5 0 300 300 D 40 40 2 1 B 
+X VSS 3 0 -600 300 U 40 40 2 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1G04
+# Package Name: SOT23-5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF 1G04 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: NOT
+DRAW
+P 2 1 0 0 -100 200 -100 -200
+P 2 1 0 0 -100 -200 200 0
+P 2 1 0 0 -100 200 200 0
+X A 2 -300 0 200 R 40 40 1 1 B 
+X Q 4 400 0 200 L 40 40 1 1 B I
+# Gate Name: P
+# Symbol Name: PWR
+T 1 65 105 70 0 2 0 VDD
+T 1 65 -395 70 0 2 0 VSS
+X VDD 5 0 300 300 D 40 40 2 1 B 
+X VSS 3 0 -600 300 U 40 40 2 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1G08
+# Package Name: SOT23-5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF 1G08 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: AND
+DRAW
+A 0 0 200 -899 899 1 1 0 N 0 -200 0 200
+P 2 1 0 0 0 200 -100 200
+P 2 1 0 0 -100 200 -100 -200
+P 2 1 0 0 -100 -200 0 -200
+X A 1 -300 100 200 R 40 40 1 1 B 
+X B 2 -300 -100 200 R 40 40 1 1 B 
+X Q 4 400 0 200 L 40 40 1 1 B 
+# Gate Name: P
+# Symbol Name: PWR
+T 1 65 105 70 0 2 0 VDD
+T 1 65 -395 70 0 2 0 VSS
+X VDD 5 0 300 300 D 40 40 2 1 B 
+X VSS 3 0 -600 300 U 40 40 2 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1G14
+# Package Name: SOT23-5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF 1G14 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: SNOT
+DRAW
+P 2 1 0 0 -100 200 -100 -200
+P 2 1 0 0 -100 200 200 0
+P 2 1 0 0 200 0 -100 -200
+P 2 1 0 0 10 40 -20 40
+P 2 1 0 0 -20 40 -40 40
+P 2 1 0 0 10 40 30 -40
+P 2 1 0 0 -20 40 0 -40
+P 2 1 0 0 0 -40 30 -40
+P 2 1 0 0 30 -40 50 -40
+X A 2 -300 0 200 R 40 40 1 1 B 
+X Q 4 400 0 200 L 40 40 1 1 B I
+# Gate Name: P
+# Symbol Name: PWR
+T 1 65 105 70 0 2 0 VDD
+T 1 65 -395 70 0 2 0 VSS
+X VDD 5 0 300 300 D 40 40 2 1 B 
+X VSS 3 0 -600 300 U 40 40 2 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1G17
+# Package Name: SOT23-5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF 1G17 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: BUFFER
+DRAW
+P 2 1 0 0 -100 200 -100 -200
+P 2 1 0 0 -100 -200 200 0
+P 2 1 0 0 200 0 -100 200
+P 2 1 0 0 10 40 -20 40
+P 2 1 0 0 -40 40 -20 40
+P 2 1 0 0 -20 40 0 -40
+P 2 1 0 0 10 40 30 -40
+P 2 1 0 0 30 -40 50 -40
+P 2 1 0 0 30 -40 0 -40
+X A 2 -300 0 200 R 40 40 1 1 B 
+X Q 4 400 0 200 L 40 40 1 1 B 
+# Gate Name: P
+# Symbol Name: PWR
+T 1 65 105 70 0 2 0 VDD
+T 1 65 -395 70 0 2 0 VSS
+X VDD 5 0 300 300 D 40 40 2 1 B 
+X VSS 3 0 -600 300 U 40 40 2 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1G32
+# Package Name: SOT23-5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF 1G32 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: OR
+DRAW
+A -200 0 200 -899 899 1 1 0 N -200 -200 -200 200
+P 2 1 0 0 -200 200 100 200
+P 2 1 0 0 -200 -200 100 -200
+A 100 0 200 -899 899 1 1 0 N 100 -200 100 200
+X A 1 -400 200 200 R 40 40 1 1 B 
+X B 2 -400 -200 200 R 40 40 1 1 B 
+X Q 4 600 0 300 L 40 40 1 1 B 
+# Gate Name: P
+# Symbol Name: PWR
+T 1 65 105 70 0 2 0 VDD
+T 1 65 -395 70 0 2 0 VSS
+X VDD 5 0 300 300 D 40 40 2 1 B 
+X VSS 3 0 -600 300 U 40 40 2 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 1G86
+# Package Name: SOT23-5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 2
+#
+DEF 1G86 ?? 0 40 Y Y 2 L N
+# Gate Name: G$1
+# Symbol Name: XOR
+DRAW
+P 2 1 0 0 -200 200 100 200
+P 2 1 0 0 -200 -200 100 -200
+A -300 0 200 -899 899 1 1 0 N -300 -200 -300 200
+A -200 0 200 -899 899 1 1 0 N -200 -200 -200 200
+A 100 0 200 -899 899 1 1 0 N 100 -200 100 200
+X A 1 -500 200 200 R 40 40 1 1 B 
+X B 2 -500 -200 200 R 40 40 1 1 B 
+X Q 4 500 0 200 L 40 40 1 1 B 
+# Gate Name: P
+# Symbol Name: PWR
+T 1 65 105 70 0 2 0 VDD
+T 1 65 -395 70 0 2 0 VSS
+X VDD 5 0 300 300 D 40 40 2 1 B 
+X VSS 3 0 -600 300 U 40 40 2 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

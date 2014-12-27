@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:27
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: L5973D
+# Package Name: HSOP8
+# Dev Tech: ''
+# Dev Prefix: U
+# Gate count = 2
+#
+DEF L5973D U 0 40 Y Y 2 L N
+# Gate Name: A
+# Symbol Name: L5973D
+F0 "U" -500 400 50 H V L B
+F1 "L5973D" 0 400 50 H V L B
+F2 "l5973d-HSOP8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -500 300 500 300
+P 2 1 0 0 500 300 500 -200
+P 2 1 0 0 500 -200 -500 -200
+P 2 1 0 0 -500 -200 -500 300
+X COMP 4 -600 -100 100 R 40 40 1 1 O 
+X FB 5 600 -100 100 L 40 40 1 1 I 
+X GND 7 100 -300 100 U 40 40 1 1 W 
+X INH 3 -100 -300 100 U 40 40 1 1 I 
+X OUT 1 600 200 100 L 40 40 1 1 w 
+X SYNC 2 -600 0 100 R 40 40 1 1 B 
+X VCC 8 -600 100 100 R 40 40 1 1 w 
+X VREF 6 -600 200 100 R 40 40 1 1 O 
+# Gate Name: P
+# Symbol Name: GND
+T 1 75 75 50 0 2 0 GND
+X GND 9 0 -100 200 U 40 40 2 1 W 
+ENDDRAW
+ENDDEF
+
+#End Library

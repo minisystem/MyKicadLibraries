@@ -1,0 +1,2910 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:58
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 51
+#
+# Dev Name: IMC2
+# Package Name: IMC2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF IMC2 X 0 40 Y Y 2 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMC2" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMC2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMC3
+# Package Name: IMC3
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF IMC3 X 0 40 Y Y 3 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMC3" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMC3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMC4
+# Package Name: IMC4
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 4
+#
+DEF IMC4 ?? 0 40 Y Y 4 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMC5
+# Package Name: IMC5
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 5
+#
+DEF IMC5 ?? 0 40 Y Y 5 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMC6
+# Package Name: IMC6
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF IMC6 X 0 40 Y Y 6 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMC6" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMC6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMC7
+# Package Name: IMC7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF IMC7 X 0 40 Y Y 7 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMC7" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMC7" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCBU
+P 2 7 0 0 100 0 150 0
+A 200 0 50 -2699 -901 7 1 0 N 200 50 200 -50
+P 2 7 0 0 0 0 100 0
+X S O7 0 0 0 R 40 40 7 1 P 
+X SK U7 100 0 0 R 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMC8
+# Package Name: IMC8
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF IMC8 X 0 40 Y Y 8 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMC8" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMC8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCBU
+P 2 7 0 0 100 0 150 0
+A 200 0 50 -2699 -901 7 1 0 N 200 50 200 -50
+P 2 7 0 0 0 0 100 0
+X S O7 0 0 0 R 40 40 7 1 P 
+X SK U7 100 0 0 R 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCBU
+P 2 8 0 0 100 0 150 0
+A 200 0 50 -2699 -901 8 1 0 N 200 50 200 -50
+P 2 8 0 0 0 0 100 0
+X S O8 0 0 0 R 40 40 8 1 P 
+X SK U8 100 0 0 R 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMC9
+# Package Name: IMC9
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF IMC9 X 0 40 Y Y 9 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMC9" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMC9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCBU
+P 2 7 0 0 100 0 150 0
+A 200 0 50 -2699 -901 7 1 0 N 200 50 200 -50
+P 2 7 0 0 0 0 100 0
+X S O7 0 0 0 R 40 40 7 1 P 
+X SK U7 100 0 0 R 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCBU
+P 2 8 0 0 100 0 150 0
+A 200 0 50 -2699 -901 8 1 0 N 200 50 200 -50
+P 2 8 0 0 0 0 100 0
+X S O8 0 0 0 R 40 40 8 1 P 
+X SK U8 100 0 0 R 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCBU
+P 2 9 0 0 100 0 150 0
+A 200 0 50 -2699 -901 9 1 0 N 200 50 200 -50
+P 2 9 0 0 0 0 100 0
+X S O9 0 0 0 R 40 40 9 1 P 
+X SK U9 100 0 0 R 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMC10
+# Package Name: IMC10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF IMC10 X 0 40 Y Y 10 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMC10" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMC10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCBU
+P 2 7 0 0 100 0 150 0
+A 200 0 50 -2699 -901 7 1 0 N 200 50 200 -50
+P 2 7 0 0 0 0 100 0
+X S O7 0 0 0 R 40 40 7 1 P 
+X SK U7 100 0 0 R 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCBU
+P 2 8 0 0 100 0 150 0
+A 200 0 50 -2699 -901 8 1 0 N 200 50 200 -50
+P 2 8 0 0 0 0 100 0
+X S O8 0 0 0 R 40 40 8 1 P 
+X SK U8 100 0 0 R 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCBU
+P 2 9 0 0 100 0 150 0
+A 200 0 50 -2699 -901 9 1 0 N 200 50 200 -50
+P 2 9 0 0 0 0 100 0
+X S O9 0 0 0 R 40 40 9 1 P 
+X SK U9 100 0 0 R 40 40 9 1 P 
+# Gate Name: .10
+# Symbol Name: MCBU
+P 2 10 0 0 100 0 150 0
+A 200 0 50 -2699 -901 10 1 0 N 200 50 200 -50
+P 2 10 0 0 0 0 100 0
+X S O10 0 0 0 R 40 40 10 1 P 
+X SK U10 100 0 0 R 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMC11
+# Package Name: IMC11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF IMC11 X 0 40 Y Y 11 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMC11" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMC11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCBU
+P 2 7 0 0 100 0 150 0
+A 200 0 50 -2699 -901 7 1 0 N 200 50 200 -50
+P 2 7 0 0 0 0 100 0
+X S O7 0 0 0 R 40 40 7 1 P 
+X SK U7 100 0 0 R 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCBU
+P 2 8 0 0 100 0 150 0
+A 200 0 50 -2699 -901 8 1 0 N 200 50 200 -50
+P 2 8 0 0 0 0 100 0
+X S O8 0 0 0 R 40 40 8 1 P 
+X SK U8 100 0 0 R 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCBU
+P 2 9 0 0 100 0 150 0
+A 200 0 50 -2699 -901 9 1 0 N 200 50 200 -50
+P 2 9 0 0 0 0 100 0
+X S O9 0 0 0 R 40 40 9 1 P 
+X SK U9 100 0 0 R 40 40 9 1 P 
+# Gate Name: .10
+# Symbol Name: MCBU
+P 2 10 0 0 100 0 150 0
+A 200 0 50 -2699 -901 10 1 0 N 200 50 200 -50
+P 2 10 0 0 0 0 100 0
+X S O10 0 0 0 R 40 40 10 1 P 
+X SK U10 100 0 0 R 40 40 10 1 P 
+# Gate Name: .11
+# Symbol Name: MCBU
+P 2 11 0 0 100 0 150 0
+A 200 0 50 -2699 -901 11 1 0 N 200 50 200 -50
+P 2 11 0 0 0 0 100 0
+X S O11 0 0 0 R 40 40 11 1 P 
+X SK U11 100 0 0 R 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMCV2
+# Package Name: IMCV2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF IMCV2 X 0 40 Y Y 2 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMCV2" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMCV2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMCV3
+# Package Name: IMCV3
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF IMCV3 X 0 40 Y Y 3 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMCV3" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMCV3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMCV4
+# Package Name: IMCV4
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF IMCV4 X 0 40 Y Y 4 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMCV4" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMCV4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMCV5
+# Package Name: IMCV5
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF IMCV5 X 0 40 Y Y 5 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMCV5" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMCV5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMCV6
+# Package Name: IMCV6
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF IMCV6 X 0 40 Y Y 6 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMCV6" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMCV6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMCV7
+# Package Name: IMCV7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF IMCV7 X 0 40 Y Y 7 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMCV7" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMCV7" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCBU
+P 2 7 0 0 100 0 150 0
+A 200 0 50 -2699 -901 7 1 0 N 200 50 200 -50
+P 2 7 0 0 0 0 100 0
+X S O7 0 0 0 R 40 40 7 1 P 
+X SK U7 100 0 0 R 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMCV8
+# Package Name: IMCV8
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF IMCV8 X 0 40 Y Y 8 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMCV8" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMCV8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCBU
+P 2 7 0 0 100 0 150 0
+A 200 0 50 -2699 -901 7 1 0 N 200 50 200 -50
+P 2 7 0 0 0 0 100 0
+X S O7 0 0 0 R 40 40 7 1 P 
+X SK U7 100 0 0 R 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCBU
+P 2 8 0 0 100 0 150 0
+A 200 0 50 -2699 -901 8 1 0 N 200 50 200 -50
+P 2 8 0 0 0 0 100 0
+X S O8 0 0 0 R 40 40 8 1 P 
+X SK U8 100 0 0 R 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMCV9
+# Package Name: IMCV9
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF IMCV9 X 0 40 Y Y 9 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMCV9" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMCV9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCBU
+P 2 7 0 0 100 0 150 0
+A 200 0 50 -2699 -901 7 1 0 N 200 50 200 -50
+P 2 7 0 0 0 0 100 0
+X S O7 0 0 0 R 40 40 7 1 P 
+X SK U7 100 0 0 R 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCBU
+P 2 8 0 0 100 0 150 0
+A 200 0 50 -2699 -901 8 1 0 N 200 50 200 -50
+P 2 8 0 0 0 0 100 0
+X S O8 0 0 0 R 40 40 8 1 P 
+X SK U8 100 0 0 R 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCBU
+P 2 9 0 0 100 0 150 0
+A 200 0 50 -2699 -901 9 1 0 N 200 50 200 -50
+P 2 9 0 0 0 0 100 0
+X S O9 0 0 0 R 40 40 9 1 P 
+X SK U9 100 0 0 R 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMCV10
+# Package Name: IMCV10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF IMCV10 X 0 40 Y Y 10 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMCV10" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMCV10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCBU
+P 2 7 0 0 100 0 150 0
+A 200 0 50 -2699 -901 7 1 0 N 200 50 200 -50
+P 2 7 0 0 0 0 100 0
+X S O7 0 0 0 R 40 40 7 1 P 
+X SK U7 100 0 0 R 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCBU
+P 2 8 0 0 100 0 150 0
+A 200 0 50 -2699 -901 8 1 0 N 200 50 200 -50
+P 2 8 0 0 0 0 100 0
+X S O8 0 0 0 R 40 40 8 1 P 
+X SK U8 100 0 0 R 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCBU
+P 2 9 0 0 100 0 150 0
+A 200 0 50 -2699 -901 9 1 0 N 200 50 200 -50
+P 2 9 0 0 0 0 100 0
+X S O9 0 0 0 R 40 40 9 1 P 
+X SK U9 100 0 0 R 40 40 9 1 P 
+# Gate Name: .10
+# Symbol Name: MCBU
+P 2 10 0 0 100 0 150 0
+A 200 0 50 -2699 -901 10 1 0 N 200 50 200 -50
+P 2 10 0 0 0 0 100 0
+X S O10 0 0 0 R 40 40 10 1 P 
+X SK U10 100 0 0 R 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: IMCV11
+# Package Name: IMCV11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF IMCV11 X 0 40 Y Y 11 L N
+# Gate Name: .1
+# Symbol Name: MCBU
+F0 "X" -50 75 50 H V L B
+F1 "IMCV11" 0 0 50 H V L B
+F2 "con-phoenix-381_l-IMCV11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 100 0 150 0
+A 200 0 50 -2699 -901 1 1 0 N 200 50 200 -50
+P 2 1 0 0 0 0 100 0
+X S O1 0 0 0 R 40 40 1 1 P 
+X SK U1 100 0 0 R 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCBU
+P 2 2 0 0 100 0 150 0
+A 200 0 50 -2699 -901 2 1 0 N 200 50 200 -50
+P 2 2 0 0 0 0 100 0
+X S O2 0 0 0 R 40 40 2 1 P 
+X SK U2 100 0 0 R 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCBU
+P 2 3 0 0 100 0 150 0
+A 200 0 50 -2699 -901 3 1 0 N 200 50 200 -50
+P 2 3 0 0 0 0 100 0
+X S O3 0 0 0 R 40 40 3 1 P 
+X SK U3 100 0 0 R 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCBU
+P 2 4 0 0 100 0 150 0
+A 200 0 50 -2699 -901 4 1 0 N 200 50 200 -50
+P 2 4 0 0 0 0 100 0
+X S O4 0 0 0 R 40 40 4 1 P 
+X SK U4 100 0 0 R 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCBU
+P 2 5 0 0 100 0 150 0
+A 200 0 50 -2699 -901 5 1 0 N 200 50 200 -50
+P 2 5 0 0 0 0 100 0
+X S O5 0 0 0 R 40 40 5 1 P 
+X SK U5 100 0 0 R 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCBU
+P 2 6 0 0 100 0 150 0
+A 200 0 50 -2699 -901 6 1 0 N 200 50 200 -50
+P 2 6 0 0 0 0 100 0
+X S O6 0 0 0 R 40 40 6 1 P 
+X SK U6 100 0 0 R 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCBU
+P 2 7 0 0 100 0 150 0
+A 200 0 50 -2699 -901 7 1 0 N 200 50 200 -50
+P 2 7 0 0 0 0 100 0
+X S O7 0 0 0 R 40 40 7 1 P 
+X SK U7 100 0 0 R 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCBU
+P 2 8 0 0 100 0 150 0
+A 200 0 50 -2699 -901 8 1 0 N 200 50 200 -50
+P 2 8 0 0 0 0 100 0
+X S O8 0 0 0 R 40 40 8 1 P 
+X SK U8 100 0 0 R 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCBU
+P 2 9 0 0 100 0 150 0
+A 200 0 50 -2699 -901 9 1 0 N 200 50 200 -50
+P 2 9 0 0 0 0 100 0
+X S O9 0 0 0 R 40 40 9 1 P 
+X SK U9 100 0 0 R 40 40 9 1 P 
+# Gate Name: .10
+# Symbol Name: MCBU
+P 2 10 0 0 100 0 150 0
+A 200 0 50 -2699 -901 10 1 0 N 200 50 200 -50
+P 2 10 0 0 0 0 100 0
+X S O10 0 0 0 R 40 40 10 1 P 
+X SK U10 100 0 0 R 40 40 10 1 P 
+# Gate Name: .11
+# Symbol Name: MCBU
+P 2 11 0 0 100 0 150 0
+A 200 0 50 -2699 -901 11 1 0 N 200 50 200 -50
+P 2 11 0 0 0 0 100 0
+X S O11 0 0 0 R 40 40 11 1 P 
+X SK U11 100 0 0 R 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC2
+# Package Name: MC2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF MC2 X 0 40 Y Y 2 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MC2" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MC2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC2-G
+# Package Name: MC2-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF MC2-G X 0 40 Y Y 2 L N
+# Gate Name: .1
+# Symbol Name: SK+V
+F0 "X" -550 -25 50 H V L B
+F1 "MC2-G" -200 -129 50 H V L B
+F2 "con-phoenix-381_l-MC2-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK 1 300 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: SK+V
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK 2 300 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3
+# Package Name: MC3
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF MC3 X 0 40 Y Y 3 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MC3" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MC3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC3-G
+# Package Name: MC3-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF MC3-G X 0 40 Y Y 3 L N
+# Gate Name: .1
+# Symbol Name: SK+V
+F0 "X" -550 -25 50 H V L B
+F1 "MC3-G" -200 -129 50 H V L B
+F2 "con-phoenix-381_l-MC3-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK 1 300 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: SK+V
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK 2 300 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: SK+V
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+X SK 3 300 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC4
+# Package Name: MC4
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF MC4 X 0 40 Y Y 4 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MC4" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MC4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC4-G
+# Package Name: MC4-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF MC4-G X 0 40 Y Y 4 L N
+# Gate Name: .1
+# Symbol Name: SK+V
+F0 "X" -550 -25 50 H V L B
+F1 "MC4-G" -200 -129 50 H V L B
+F2 "con-phoenix-381_l-MC4-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK 1 300 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: SK+V
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK 2 300 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: SK+V
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+X SK 3 300 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: SK+V
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+P 2 4 0 0 100 0 200 0
+C -200 0 50 4 1 0 N
+X SK 4 300 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC5
+# Package Name: MC5
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF MC5 X 0 40 Y Y 5 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MC5" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MC5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC5-G
+# Package Name: MC5-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF MC5-G X 0 40 Y Y 5 L N
+# Gate Name: .1
+# Symbol Name: SK+V
+F0 "X" -550 -25 50 H V L B
+F1 "MC5-G" -200 -129 50 H V L B
+F2 "con-phoenix-381_l-MC5-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK 1 300 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: SK+V
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK 2 300 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: SK+V
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+X SK 3 300 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: SK+V
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+P 2 4 0 0 100 0 200 0
+C -200 0 50 4 1 0 N
+X SK 4 300 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: SK+V
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+P 2 5 0 0 100 0 200 0
+C -200 0 50 5 1 0 N
+X SK 5 300 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC6
+# Package Name: MC6
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF MC6 X 0 40 Y Y 6 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MC6" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MC6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC6-G
+# Package Name: MC6-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF MC6-G X 0 40 Y Y 6 L N
+# Gate Name: .1
+# Symbol Name: SK+V
+F0 "X" -550 -25 50 H V L B
+F1 "MC6-G" -200 -129 50 H V L B
+F2 "con-phoenix-381_l-MC6-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK 1 300 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: SK+V
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK 2 300 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: SK+V
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+X SK 3 300 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: SK+V
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+P 2 4 0 0 100 0 200 0
+C -200 0 50 4 1 0 N
+X SK 4 300 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: SK+V
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+P 2 5 0 0 100 0 200 0
+C -200 0 50 5 1 0 N
+X SK 5 300 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: SK+V
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+P 2 6 0 0 100 0 200 0
+C -200 0 50 6 1 0 N
+X SK 6 300 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC7
+# Package Name: MC7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF MC7 X 0 40 Y Y 7 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MC7" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MC7" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC7-G
+# Package Name: MC7-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF MC7-G X 0 40 Y Y 7 L N
+# Gate Name: .1
+# Symbol Name: SK+V
+F0 "X" -550 -25 50 H V L B
+F1 "MC7-G" -200 -129 50 H V L B
+F2 "con-phoenix-381_l-MC7-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK ~ 300 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: SK+V
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK ~ 300 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: SK+V
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+X SK ~ 300 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: SK+V
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+P 2 4 0 0 100 0 200 0
+C -200 0 50 4 1 0 N
+X SK ~ 300 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: SK+V
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+P 2 5 0 0 100 0 200 0
+C -200 0 50 5 1 0 N
+X SK ~ 300 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: SK+V
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+P 2 6 0 0 100 0 200 0
+C -200 0 50 6 1 0 N
+X SK ~ 300 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: SK+V
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+P 2 7 0 0 100 0 200 0
+C -200 0 50 7 1 0 N
+X SK ~ 300 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC8
+# Package Name: MC8
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 8
+#
+DEF MC8 ?? 0 40 Y Y 8 L N
+# Gate Name: .1
+# Symbol Name: MCST
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC8-G
+# Package Name: MC8-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF MC8-G X 0 40 Y Y 8 L N
+# Gate Name: .1
+# Symbol Name: SK+V
+F0 "X" -550 -25 50 H V L B
+F1 "MC8-G" -200 -129 50 H V L B
+F2 "con-phoenix-381_l-MC8-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK 1 300 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: SK+V
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK 2 300 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: SK+V
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+X SK 3 300 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: SK+V
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+P 2 4 0 0 100 0 200 0
+C -200 0 50 4 1 0 N
+X SK 4 300 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: SK+V
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+P 2 5 0 0 100 0 200 0
+C -200 0 50 5 1 0 N
+X SK 5 300 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: SK+V
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+P 2 6 0 0 100 0 200 0
+C -200 0 50 6 1 0 N
+X SK 6 300 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: SK+V
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+P 2 7 0 0 100 0 200 0
+C -200 0 50 7 1 0 N
+X SK 7 300 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: SK+V
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+P 2 8 0 0 100 0 200 0
+C -200 0 50 8 1 0 N
+X SK 8 300 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC9
+# Package Name: MC9
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF MC9 X 0 40 Y Y 9 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MC9" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MC9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC9-G
+# Package Name: MC9-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF MC9-G X 0 40 Y Y 9 L N
+# Gate Name: .1
+# Symbol Name: SK+V
+F0 "X" -550 -25 50 H V L B
+F1 "MC9-G" -200 -129 50 H V L B
+F2 "con-phoenix-381_l-MC9-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK 1 300 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: SK+V
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK 2 300 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: SK+V
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+X SK 3 300 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: SK+V
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+P 2 4 0 0 100 0 200 0
+C -200 0 50 4 1 0 N
+X SK 4 300 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: SK+V
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+P 2 5 0 0 100 0 200 0
+C -200 0 50 5 1 0 N
+X SK 5 300 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: SK+V
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+P 2 6 0 0 100 0 200 0
+C -200 0 50 6 1 0 N
+X SK 6 300 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: SK+V
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+P 2 7 0 0 100 0 200 0
+C -200 0 50 7 1 0 N
+X SK 7 300 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: SK+V
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+P 2 8 0 0 100 0 200 0
+C -200 0 50 8 1 0 N
+X SK 8 300 0 100 L 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: SK+V
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+P 2 9 0 0 100 0 200 0
+C -200 0 50 9 1 0 N
+X SK 9 300 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC10
+# Package Name: MC10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF MC10 X 0 40 Y Y 10 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MC10" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MC10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: .10
+# Symbol Name: MCST
+P 2 10 0 0 -200 0 -100 0
+X SK 10 0 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC10-G
+# Package Name: MC10-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF MC10-G X 0 40 Y Y 10 L N
+# Gate Name: .1
+# Symbol Name: SK+V
+F0 "X" -550 -25 50 H V L B
+F1 "MC10-G" -200 -129 50 H V L B
+F2 "con-phoenix-381_l-MC10-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK 1 300 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: SK+V
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK 2 300 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: SK+V
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+X SK 3 300 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: SK+V
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+P 2 4 0 0 100 0 200 0
+C -200 0 50 4 1 0 N
+X SK 4 300 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: SK+V
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+P 2 5 0 0 100 0 200 0
+C -200 0 50 5 1 0 N
+X SK 5 300 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: SK+V
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+P 2 6 0 0 100 0 200 0
+C -200 0 50 6 1 0 N
+X SK 6 300 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: SK+V
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+P 2 7 0 0 100 0 200 0
+C -200 0 50 7 1 0 N
+X SK 7 300 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: SK+V
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+P 2 8 0 0 100 0 200 0
+C -200 0 50 8 1 0 N
+X SK 8 300 0 100 L 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: SK+V
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+P 2 9 0 0 100 0 200 0
+C -200 0 50 9 1 0 N
+X SK 9 300 0 100 L 40 40 9 1 P 
+# Gate Name: .10
+# Symbol Name: SK+V
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+P 2 10 0 0 100 0 200 0
+C -200 0 50 10 1 0 N
+X SK 10 300 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC11
+# Package Name: MC11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF MC11 X 0 40 Y Y 11 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MC11" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MC11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: .10
+# Symbol Name: MCST
+P 2 10 0 0 -200 0 -100 0
+X SK 10 0 0 100 L 40 40 10 1 P 
+# Gate Name: .11
+# Symbol Name: MCST
+P 2 11 0 0 -200 0 -100 0
+X SK 11 0 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MC11-G
+# Package Name: MC11-G
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF MC11-G X 0 40 Y Y 11 L N
+# Gate Name: .1
+# Symbol Name: SK+V
+F0 "X" -550 -25 50 H V L B
+F1 "MC11-G" -200 -129 50 H V L B
+F2 "con-phoenix-381_l-MC11-G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+X SK 1 300 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: SK+V
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+X SK 2 300 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: SK+V
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+X SK 3 300 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: SK+V
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+P 2 4 0 0 100 0 200 0
+C -200 0 50 4 1 0 N
+X SK 4 300 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: SK+V
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+P 2 5 0 0 100 0 200 0
+C -200 0 50 5 1 0 N
+X SK 5 300 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: SK+V
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+P 2 6 0 0 100 0 200 0
+C -200 0 50 6 1 0 N
+X SK 6 300 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: SK+V
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+P 2 7 0 0 100 0 200 0
+C -200 0 50 7 1 0 N
+X SK 7 300 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: SK+V
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+P 2 8 0 0 100 0 200 0
+C -200 0 50 8 1 0 N
+X SK 8 300 0 100 L 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: SK+V
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+P 2 9 0 0 100 0 200 0
+C -200 0 50 9 1 0 N
+X SK 9 300 0 100 L 40 40 9 1 P 
+# Gate Name: .10
+# Symbol Name: SK+V
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+P 2 10 0 0 100 0 200 0
+C -200 0 50 10 1 0 N
+X SK 10 300 0 100 L 40 40 10 1 P 
+# Gate Name: .11
+# Symbol Name: SK+V
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+P 2 11 0 0 100 0 200 0
+C -200 0 50 11 1 0 N
+X SK 11 300 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCDV101
+# Package Name: MCDV10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 20
+#
+DEF MCDV101 X 0 40 Y Y 20 L N
+# Gate Name: O1
+# Symbol Name: SK
+F0 "X" -550 -25 50 H V L B
+F1 "MCDV101" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCDV10" 0 150 50 H I C C
+DRAW
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 1 1 0 N 0 50 0 -50
+P 2 1 0 0 0 0 100 0
+P 2 1 0 0 100 0 200 0
+C -200 0 50 1 1 0 N
+C -200 0 50 1 1 0 N
+X 1 O1 200 0 100 L 40 40 1 1 P 
+# Gate Name: O2
+# Symbol Name: SK
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 2 1 0 N 0 50 0 -50
+P 2 2 0 0 0 0 100 0
+P 2 2 0 0 100 0 200 0
+C -200 0 50 2 1 0 N
+C -200 0 50 2 1 0 N
+X 1 O2 200 0 100 L 40 40 2 1 P 
+# Gate Name: O3
+# Symbol Name: SK
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 3 1 0 N 0 50 0 -50
+P 2 3 0 0 0 0 100 0
+P 2 3 0 0 100 0 200 0
+C -200 0 50 3 1 0 N
+C -200 0 50 3 1 0 N
+X 1 O3 200 0 100 L 40 40 3 1 P 
+# Gate Name: O4
+# Symbol Name: SK
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 4 1 0 N 0 50 0 -50
+P 2 4 0 0 0 0 100 0
+P 2 4 0 0 100 0 200 0
+C -200 0 50 4 1 0 N
+C -200 0 50 4 1 0 N
+X 1 O4 200 0 100 L 40 40 4 1 P 
+# Gate Name: O5
+# Symbol Name: SK
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 5 1 0 N 0 50 0 -50
+P 2 5 0 0 0 0 100 0
+P 2 5 0 0 100 0 200 0
+C -200 0 50 5 1 0 N
+C -200 0 50 5 1 0 N
+X 1 O5 200 0 100 L 40 40 5 1 P 
+# Gate Name: O6
+# Symbol Name: SK
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 6 1 0 N 0 50 0 -50
+P 2 6 0 0 0 0 100 0
+P 2 6 0 0 100 0 200 0
+C -200 0 50 6 1 0 N
+C -200 0 50 6 1 0 N
+X 1 O6 200 0 100 L 40 40 6 1 P 
+# Gate Name: O7
+# Symbol Name: SK
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 7 1 0 N 0 50 0 -50
+P 2 7 0 0 0 0 100 0
+P 2 7 0 0 100 0 200 0
+C -200 0 50 7 1 0 N
+C -200 0 50 7 1 0 N
+X 1 O7 200 0 100 L 40 40 7 1 P 
+# Gate Name: O8
+# Symbol Name: SK
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 8 1 0 N 0 50 0 -50
+P 2 8 0 0 0 0 100 0
+P 2 8 0 0 100 0 200 0
+C -200 0 50 8 1 0 N
+C -200 0 50 8 1 0 N
+X 1 O8 200 0 100 L 40 40 8 1 P 
+# Gate Name: O9
+# Symbol Name: SK
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 9 1 0 N 0 50 0 -50
+P 2 9 0 0 0 0 100 0
+P 2 9 0 0 100 0 200 0
+C -200 0 50 9 1 0 N
+C -200 0 50 9 1 0 N
+X 1 O9 200 0 100 L 40 40 9 1 P 
+# Gate Name: O10
+# Symbol Name: SK
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 10 1 0 N 0 50 0 -50
+P 2 10 0 0 0 0 100 0
+P 2 10 0 0 100 0 200 0
+C -200 0 50 10 1 0 N
+C -200 0 50 10 1 0 N
+X 1 O10 200 0 100 L 40 40 10 1 P 
+# Gate Name: U1
+# Symbol Name: SK
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 11 1 0 N 0 50 0 -50
+P 2 11 0 0 0 0 100 0
+P 2 11 0 0 100 0 200 0
+C -200 0 50 11 1 0 N
+C -200 0 50 11 1 0 N
+X 1 U1 200 0 100 L 40 40 11 1 P 
+# Gate Name: U2
+# Symbol Name: SK
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 12 1 0 N 0 50 0 -50
+P 2 12 0 0 0 0 100 0
+P 2 12 0 0 100 0 200 0
+C -200 0 50 12 1 0 N
+C -200 0 50 12 1 0 N
+X 1 U2 200 0 100 L 40 40 12 1 P 
+# Gate Name: U3
+# Symbol Name: SK
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 13 1 0 N 0 50 0 -50
+P 2 13 0 0 0 0 100 0
+P 2 13 0 0 100 0 200 0
+C -200 0 50 13 1 0 N
+C -200 0 50 13 1 0 N
+X 1 U3 200 0 100 L 40 40 13 1 P 
+# Gate Name: U4
+# Symbol Name: SK
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 14 1 0 N 0 50 0 -50
+P 2 14 0 0 0 0 100 0
+P 2 14 0 0 100 0 200 0
+C -200 0 50 14 1 0 N
+C -200 0 50 14 1 0 N
+X 1 U4 200 0 100 L 40 40 14 1 P 
+# Gate Name: U5
+# Symbol Name: SK
+A 0 0 50 -2699 -901 15 1 0 N 0 50 0 -50
+P 2 15 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 15 1 0 N 0 50 0 -50
+P 2 15 0 0 0 0 100 0
+P 2 15 0 0 100 0 200 0
+C -200 0 50 15 1 0 N
+C -200 0 50 15 1 0 N
+X 1 U5 200 0 100 L 40 40 15 1 P 
+# Gate Name: U6
+# Symbol Name: SK
+A 0 0 50 -2699 -901 16 1 0 N 0 50 0 -50
+P 2 16 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 16 1 0 N 0 50 0 -50
+P 2 16 0 0 0 0 100 0
+P 2 16 0 0 100 0 200 0
+C -200 0 50 16 1 0 N
+C -200 0 50 16 1 0 N
+X 1 U6 200 0 100 L 40 40 16 1 P 
+# Gate Name: U7
+# Symbol Name: SK
+A 0 0 50 -2699 -901 17 1 0 N 0 50 0 -50
+P 2 17 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 17 1 0 N 0 50 0 -50
+P 2 17 0 0 0 0 100 0
+P 2 17 0 0 100 0 200 0
+C -200 0 50 17 1 0 N
+C -200 0 50 17 1 0 N
+X 1 U7 200 0 100 L 40 40 17 1 P 
+# Gate Name: U8
+# Symbol Name: SK
+A 0 0 50 -2699 -901 18 1 0 N 0 50 0 -50
+P 2 18 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 18 1 0 N 0 50 0 -50
+P 2 18 0 0 0 0 100 0
+P 2 18 0 0 100 0 200 0
+C -200 0 50 18 1 0 N
+C -200 0 50 18 1 0 N
+X 1 U8 200 0 100 L 40 40 18 1 P 
+# Gate Name: U9
+# Symbol Name: SK
+A 0 0 50 -2699 -901 19 1 0 N 0 50 0 -50
+P 2 19 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 19 1 0 N 0 50 0 -50
+P 2 19 0 0 0 0 100 0
+P 2 19 0 0 100 0 200 0
+C -200 0 50 19 1 0 N
+C -200 0 50 19 1 0 N
+X 1 U9 200 0 100 L 40 40 19 1 P 
+# Gate Name: U10
+# Symbol Name: SK
+A 0 0 50 -2699 -901 20 1 0 N 0 50 0 -50
+P 2 20 0 0 -150 0 -50 0
+A 0 0 50 -2699 -901 20 1 0 N 0 50 0 -50
+P 2 20 0 0 0 0 100 0
+P 2 20 0 0 100 0 200 0
+C -200 0 50 20 1 0 N
+C -200 0 50 20 1 0 N
+X 1 U10 200 0 100 L 40 40 20 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV2
+# Package Name: MCV2
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 2
+#
+DEF MCV2 X 0 40 Y Y 2 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MCV2" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCV2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV3
+# Package Name: MCV3
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 3
+#
+DEF MCV3 X 0 40 Y Y 3 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MCV3" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCV3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV4
+# Package Name: MCV4
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 4
+#
+DEF MCV4 X 0 40 Y Y 4 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MCV4" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCV4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV5
+# Package Name: MCV5
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 5
+#
+DEF MCV5 X 0 40 Y Y 5 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MCV5" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCV5" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV6
+# Package Name: MCV6
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 6
+#
+DEF MCV6 X 0 40 Y Y 6 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MCV6" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCV6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV7
+# Package Name: MCV7
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 7
+#
+DEF MCV7 X 0 40 Y Y 7 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MCV7" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCV7" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV8
+# Package Name: MCV8
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 8
+#
+DEF MCV8 X 0 40 Y Y 8 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MCV8" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCV8" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV9
+# Package Name: MCV9
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 9
+#
+DEF MCV9 X 0 40 Y Y 9 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MCV9" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCV9" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV10
+# Package Name: MCV10
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 10
+#
+DEF MCV10 X 0 40 Y Y 10 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MCV10" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCV10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: .10
+# Symbol Name: MCST
+P 2 10 0 0 -200 0 -100 0
+X SK 10 0 0 100 L 40 40 10 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MCV11
+# Package Name: MCV11
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 11
+#
+DEF MCV11 X 0 40 Y Y 11 L N
+# Gate Name: .1
+# Symbol Name: MCST
+F0 "X" -300 75 50 H V L B
+F1 "MCV11" 0 0 50 H V L B
+F2 "con-phoenix-381_l-MCV11" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 0 -100 0
+X SK 1 0 0 100 L 40 40 1 1 P 
+# Gate Name: .2
+# Symbol Name: MCST
+P 2 2 0 0 -200 0 -100 0
+X SK 2 0 0 100 L 40 40 2 1 P 
+# Gate Name: .3
+# Symbol Name: MCST
+P 2 3 0 0 -200 0 -100 0
+X SK 3 0 0 100 L 40 40 3 1 P 
+# Gate Name: .4
+# Symbol Name: MCST
+P 2 4 0 0 -200 0 -100 0
+X SK 4 0 0 100 L 40 40 4 1 P 
+# Gate Name: .5
+# Symbol Name: MCST
+P 2 5 0 0 -200 0 -100 0
+X SK 5 0 0 100 L 40 40 5 1 P 
+# Gate Name: .6
+# Symbol Name: MCST
+P 2 6 0 0 -200 0 -100 0
+X SK 6 0 0 100 L 40 40 6 1 P 
+# Gate Name: .7
+# Symbol Name: MCST
+P 2 7 0 0 -200 0 -100 0
+X SK 7 0 0 100 L 40 40 7 1 P 
+# Gate Name: .8
+# Symbol Name: MCST
+P 2 8 0 0 -200 0 -100 0
+X SK 8 0 0 100 L 40 40 8 1 P 
+# Gate Name: .9
+# Symbol Name: MCST
+P 2 9 0 0 -200 0 -100 0
+X SK 9 0 0 100 L 40 40 9 1 P 
+# Gate Name: .10
+# Symbol Name: MCST
+P 2 10 0 0 -200 0 -100 0
+X SK 10 0 0 100 L 40 40 10 1 P 
+# Gate Name: .11
+# Symbol Name: MCST
+P 2 11 0 0 -200 0 -100 0
+X SK 11 0 0 100 L 40 40 11 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,167 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:21:50
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 8
+#
+# Dev Name: PIN2F061.040
+# Package Name: F061.040
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 1
+#
+DEF PIN2F061.040 J 0 40 Y Y 1 L N
+# Gate Name: -1
+# Symbol Name: PIN2
+F0 "J" -100 50 50 H V L B
+F1 "PIN2F061.040" -100 -100 50 H V L B
+F2 "con-faston-F061.040" 0 150 50 H I C C
+DRAW
+S 0 -20 100 20 1 1 0 F
+X P$1 A1 -200 0 100 R 40 40 1 1 P 
+X P$2 A2 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PIN2F061.060
+# Package Name: F061.060
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 1
+#
+DEF PIN2F061.060 J 0 40 Y Y 1 L N
+# Gate Name: -1
+# Symbol Name: PIN2
+F0 "J" -100 50 50 H V L B
+F1 "PIN2F061.060" -100 -100 50 H V L B
+F2 "con-faston-F061.060" 0 150 50 H I C C
+DRAW
+S 0 -20 100 20 1 1 0 F
+X P$1 A1 -200 0 100 R 40 40 1 1 P 
+X P$2 A2 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PIN2F061.080
+# Package Name: F061.080
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 1
+#
+DEF PIN2F061.080 J 0 40 Y Y 1 L N
+# Gate Name: -1
+# Symbol Name: PIN2
+F0 "J" -100 50 50 H V L B
+F1 "PIN2F061.080" -100 -100 50 H V L B
+F2 "con-faston-F061.080" 0 150 50 H I C C
+DRAW
+S 0 -20 100 20 1 1 0 F
+X P$1 1A -200 0 100 R 40 40 1 1 P 
+X P$2 1B -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PIN2F061.100
+# Package Name: F061.100
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 1
+#
+DEF PIN2F061.100 J 0 40 Y Y 1 L N
+# Gate Name: -1
+# Symbol Name: PIN2
+F0 "J" -100 50 50 H V L B
+F1 "PIN2F061.100" -100 -100 50 H V L B
+F2 "con-faston-F061.100" 0 150 50 H I C C
+DRAW
+S 0 -20 100 20 1 1 0 F
+X P$1 A1 -200 0 100 R 40 40 1 1 P 
+X P$2 A2 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PIN2F061.200
+# Package Name: F061.200
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 1
+#
+DEF PIN2F061.200 J 0 40 Y Y 1 L N
+# Gate Name: -1
+# Symbol Name: PIN2
+F0 "J" -100 50 50 H V L B
+F1 "PIN2F061.200" -100 -100 50 H V L B
+F2 "con-faston-F061.200" 0 150 50 H I C C
+DRAW
+S 0 -20 100 20 1 1 0 F
+X P$1 1A -200 0 100 R 40 40 1 1 P 
+X P$2 1B -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PIN2F061.220
+# Package Name: F061.220
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 1
+#
+DEF PIN2F061.220 J 0 40 Y Y 1 L N
+# Gate Name: -1
+# Symbol Name: PIN2
+F0 "J" -100 50 50 H V L B
+F1 "PIN2F061.220" -100 -100 50 H V L B
+F2 "con-faston-F061.220" 0 150 50 H I C C
+DRAW
+S 0 -20 100 20 1 1 0 F
+X P$1 1A -200 0 100 R 40 40 1 1 P 
+X P$2 1B -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PIN3F061.120
+# Package Name: F061.120
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 1
+#
+DEF PIN3F061.120 J 0 40 Y Y 1 L N
+# Gate Name: -1
+# Symbol Name: PIN3
+F0 "J" -100 50 50 H V L B
+F1 "PIN3F061.120" -100 -100 50 H V L B
+F2 "con-faston-F061.120" 0 150 50 H I C C
+DRAW
+S 0 -20 100 20 1 1 0 F
+X P$1 1A -300 0 100 R 40 40 1 1 P 
+X P$2 1B -200 0 100 R 40 40 1 1 P 
+X P$3 1C -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PIN4F061.250
+# Package Name: F061.250
+# Dev Tech: ''
+# Dev Prefix: J
+# Gate count = 1
+#
+DEF PIN4F061.250 J 0 40 Y Y 1 L N
+# Gate Name: -1
+# Symbol Name: PIN4
+F0 "J" -100 50 50 H V L B
+F1 "PIN4F061.250" -100 -100 50 H V L B
+F2 "con-faston-F061.250" 0 150 50 H I C C
+DRAW
+S 0 -20 100 20 1 1 0 F
+X P$1 1A -400 0 100 R 40 40 1 1 P 
+X P$2 1B -300 0 100 R 40 40 1 1 P 
+X P$3 1C -200 0 100 R 40 40 1 1 P 
+X P$4 1D -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

@@ -1,0 +1,79 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:22:26
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 3
+#
+# Dev Name: JST-PH2
+# Package Name: JST-PH2
+# Dev Tech: ''
+# Dev Prefix: P
+# Gate count = 1
+#
+DEF JST-PH2 P 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: CON02
+F0 "P" -100 130 50 H V L B
+F1 "JST-PH2" -100 -290 50 H V L B
+F2 "jst-ph-JST-PH2" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 100 -100 -200
+P 2 1 0 0 -100 -200 200 -200
+P 2 1 0 0 200 -200 200 100
+P 2 1 0 0 200 100 -100 100
+X 1 1 300 0 100 L 40 40 1 1 P 
+X 2 2 300 -100 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: JST-PH4
+# Package Name: JST-PH4
+# Dev Tech: ''
+# Dev Prefix: P
+# Gate count = 1
+#
+DEF JST-PH4 P 0 40 Y Y 1 L N
+# Gate Name: A
+# Symbol Name: CON04
+F0 "P" -100 230 50 H V L B
+F1 "JST-PH4" -100 -390 50 H V L B
+F2 "jst-ph-JST-PH4" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 200 -100 -300
+P 2 1 0 0 -100 -300 200 -300
+P 2 1 0 0 200 -300 200 200
+P 2 1 0 0 200 200 -100 200
+X 1 1 300 100 100 L 40 40 1 1 P 
+X 2 2 300 0 100 L 40 40 1 1 P 
+X 3 3 300 -100 100 L 40 40 1 1 P 
+X 4 4 300 -200 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: JST-PH6
+# Package Name: JST-PH6
+# Dev Tech: ''
+# Dev Prefix: P
+# Gate count = 1
+#
+DEF JST-PH6 P 0 40 Y Y 1 L N
+# Gate Name: A
+# Symbol Name: CON06
+F0 "P" -100 330 50 H V L B
+F1 "JST-PH6" -100 -490 50 H V L B
+F2 "jst-ph-JST-PH6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -100 300 -100 -400
+P 2 1 0 0 -100 -400 200 -400
+P 2 1 0 0 200 -400 200 300
+P 2 1 0 0 200 300 -100 300
+X 1 1 300 200 100 L 40 40 1 1 P 
+X 2 2 300 100 100 L 40 40 1 1 P 
+X 3 3 300 0 100 L 40 40 1 1 P 
+X 4 4 300 -100 100 L 40 40 1 1 P 
+X 5 5 300 -200 100 L 40 40 1 1 P 
+X 6 6 300 -300 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

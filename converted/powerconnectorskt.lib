@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:28
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: PW_CON1
+# Package Name: PW_CON1
+# Dev Tech: ''
+# Dev Prefix: PCON
+# Gate count = 1
+#
+DEF PW_CON1 PCON 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: PW_CON1
+F0 "PCON" -500 300 50 H V L B
+F1 "PW_CON1" -400 -200 50 H V L B
+F2 "powerconnectorskt-PW_CON1" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -200 300 -200 -100
+P 2 1 0 0 -200 -100 -400 -100
+P 2 1 0 0 -400 -100 -400 300
+P 2 1 0 0 -400 300 -200 300
+X 1 P$1 -500 200 100 R 40 40 1 1 P 
+X 2 P$2 -500 100 100 R 40 40 1 1 P 
+X 3 P$3 -500 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

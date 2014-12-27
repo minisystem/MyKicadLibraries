@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3  29/04/2008-12:23:15
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: LM3480IM3-5.0
+# Package Name: SOT23
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF LM3480IM3-5.0 ?? 0 40 Y Y 1 L N
+# Gate Name: G$1
+# Symbol Name: LM3480
+DRAW
+P 2 1 0 0 -200 -200 200 -200
+P 2 1 0 0 200 -200 200 100
+P 2 1 0 0 200 100 -200 100
+P 2 1 0 0 -200 100 -200 -200
+T 0 10 -140 60 0 1 0 GND
+T 0 -115 5 60 0 1 0 IN
+T 0 115 5 60 0 1 0 OUT
+X GND 3 0 -300 100 U 40 40 1 1 I 
+X IN 2 -300 0 100 R 40 40 1 1 I 
+X OUT 1 300 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library
