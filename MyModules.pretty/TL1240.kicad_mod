@@ -1,8 +1,8 @@
-(module TL1240 (layer F.Cu) (tedit 5494C3B6)
-  (fp_text reference TL1240 (at 0 -6.5) (layer F.SilkS)
+(module TL1240 (layer F.Cu) (tedit 54A21AE3)
+  (fp_text reference TL2140 (at 0 -5) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 6) (layer F.SilkS) hide
+  (fp_text value TACT_SWITCH (at 0 5.5) (layer F.SilkS) hide
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_line (start 0 1) (end 0 1.5) (layer F.SilkS) (width 0.15))
