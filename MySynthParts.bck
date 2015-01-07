@@ -6,6 +6,22 @@ K AmpliOp
 F AmpliOp.sch
 $ENDCMP
 #
+$CMP 74AC273
+D 8 bits D FlipFlop, reset
+K TTL DFF DFF8
+$ENDCMP
+#
+$CMP 74AC595
+D 8 bits serial in // out Shift Register 3 State Out
+K HCMOS SR 3State
+F 74xx/74HC595.pdf
+$ENDCMP
+#
+$CMP 74HC165
+D Shift Register 8 bits, parallel load
+K TTL SR SR8
+$ENDCMP
+#
 $CMP 74HC4067
 D Decoder 4 to 16
 K TTL DECOD16 DECOD
