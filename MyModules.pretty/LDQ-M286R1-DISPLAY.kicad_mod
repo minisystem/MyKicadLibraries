@@ -25,4 +25,9 @@
   (pad 10 thru_hole circle (at -1.27 -3.81) (size 1.2 1.2) (drill 0.65) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole circle (at -3.81 -3.81) (size 1.2 1.2) (drill 0.65) (layers *.Cu *.Mask F.SilkS))
   (pad 12 thru_hole circle (at -6.35 -3.81) (size 1.2 1.2) (drill 0.65) (layers *.Cu *.Mask F.SilkS))
+  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/LDQ-M286RI.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3968 0.3968 0.3968))
+    (rotate (xyz 0 0 0))
+  )
 )

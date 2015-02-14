@@ -1,0 +1,13 @@
+#.gitignore MyKicadLibraries
+
+#ignore Misioto libraries
+MyModules/3D\ models/Misioto\ Models/
+
+#ignore zilog files
+*zilog*
+
+#ignore converted eagle libraries
+egl_libs4/
+
+#ignore atmel libs
+atmel.*

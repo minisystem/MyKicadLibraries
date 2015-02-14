@@ -1,0 +1,10 @@
+(module HOLE-0.125-INCH (layer F.Cu) (tedit 54C7BF5D)
+  (fp_text reference HOLE-0.125-INCH (at 0 -5) (layer F.SilkS) hide
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 5) (layer F.SilkS) hide
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+  (pad "" thru_hole circle (at 0 0) (size 3.302 3.302) (drill 3.175) (layers *.Cu *.Mask F.SilkS)
+    (clearance 1.905))
+)
