@@ -71,6 +71,12 @@ K REGUL POWER
 F regulator/lp3963.pdf
 $ENDCMP
 #
+$CMP AT90USB1286
+D AT90USB1286
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/doc7593.pdf
+$ENDCMP
+#
 $CMP BCM857BS
 F transistors/bipolar/*.*
 $ENDCMP
@@ -134,6 +140,11 @@ $ENDCMP
 #
 $CMP NE555
 F ns/lm555.pdf
+$ENDCMP
+#
+$CMP PC900V
+D OPIC Photocoupler
+F http://www.sharpsma.com/webfm_send/1119
 $ENDCMP
 #
 $CMP R-78E5.0-1.0
