@@ -81,10 +81,21 @@ $CMP BCM857BS
 F transistors/bipolar/*.*
 $ENDCMP
 #
+$CMP BU4S584G2
+D Singe Schmitt Trigger Inverter
+K Schmitt Inverter
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/logic_switch/standard_logic/bu4s01g2-e.pdf
+$ENDCMP
+#
 $CMP CD4016
 D Op amp.
 K AmpliOp
 F AmpliOp.sch
+$ENDCMP
+#
+$CMP CD4027
+D Dual JK FlipFlop, set & reset
+K CMOS JK JKFF
 $ENDCMP
 #
 $CMP CD4052
@@ -105,6 +116,12 @@ F http://www.vishay.com/docs/70040/70040.pdf
 $ENDCMP
 #
 $CMP DG408
+D Analog Multiplexer 8:1
+K CMOS MUX MUX8
+F http://www.vishay.com/docs/70062/dg408.pdf
+$ENDCMP
+#
+$CMP DG409
 D Analog Multiplexer 8:1
 K CMOS MUX MUX8
 F http://www.vishay.com/docs/70062/dg408.pdf

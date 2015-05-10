@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-27022013-122547";"";
+"REFERENCE";"3296W-1-104";"";
+"TraceParts.PartTitle";"3296W top adj cermet trimmer,100K 10mm";"";
+"TraceParts.InstanceId";"10-27022013-122547KQKWULH1XJ246RSSZRVDHK0R";"";
+"DESIGN";"3296W top adj cermet trimmer,100K 10mm";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"BOURNS";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BOURNS:/F_BOURNS/10-27022013-122547";"";

@@ -2,6 +2,9 @@
 
 #ignore Misioto libraries
 MyModules/3D\ models/Misioto\ Models/
+mod_conn_pc/
+mod_smd_dil/
+mod_smd_trans
 
 #ignore zilog files
 *zilog*
@@ -11,3 +14,6 @@ egl_libs4/
 
 #ignore atmel libs
 atmel.*
+
+#ignore
+KiCAD_teensypp2/
