@@ -1,5 +1,29 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +12V
+K POWER, PWR
+$ENDCMP
+#
+$CMP -12V
+K POWER, PWR
+$ENDCMP
+#
+$CMP 2N7002
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP 2P3T
+D 3 position switch, SP3T
+K switch SP3T
+$ENDCMP
+#
+$CMP 4013
+D Dual D  FlipFlop, Set & reset
+K CMOS DFF
+F http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF
+$ENDCMP
+#
 $CMP 4016
 D Op amp.
 K AmpliOp
@@ -27,6 +51,11 @@ D Decoder 4 to 16
 K TTL DECOD16 DECOD
 $ENDCMP
 #
+$CMP 74HC75
+D 4 bits Latch
+K TTL DFF Latch
+$ENDCMP
+#
 $CMP 74LS237
 D Decoder 3 to 8, addr latches.
 K TTL DECOD8 DECOD
@@ -45,6 +74,12 @@ $ENDCMP
 $CMP 74LVC2G04
 D Dual Inverter Gate
 K Inverter Gate
+$ENDCMP
+#
+$CMP 7812
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
 $ENDCMP
 #
 $CMP 78L05
@@ -103,6 +138,11 @@ D Dual Analog Multiplexer 4 to 1 line
 K CMOS MUX MUX4
 $ENDCMP
 #
+$CMP CD4072
+D Dual 4 input OR gate
+K CMOS OR4
+$ENDCMP
+#
 $CMP DG212
 D Quad CMOS Analog Switch
 K switch
@@ -150,6 +190,12 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP MAX9945
+D Op amp.
+K AmpliOp
+F op_amps/tl071.pdf
+$ENDCMP
+#
 $CMP MIDI_DIN
 D Connecteur Din 5 broches
 K CONN DIN
@@ -162,6 +208,11 @@ $ENDCMP
 $CMP PC900V
 D OPIC Photocoupler
 F http://www.sharpsma.com/webfm_send/1119
+$ENDCMP
+#
+$CMP PCI_11_49
+D Connecteur BUS PCI
+K PCI
 $ENDCMP
 #
 $CMP R-78E5.0-1.0
@@ -190,6 +241,10 @@ $CMP TL074-
 D Quad Op amp.
 K AmpliOp
 F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP TL081
+F op_amps/tl081.pdf
 $ENDCMP
 #
 $CMP TL1240
