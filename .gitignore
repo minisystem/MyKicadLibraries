@@ -17,3 +17,6 @@ atmel.*
 
 #ignore
 KiCAD_teensypp2/
+
+#ignore other junk
+*.exe
