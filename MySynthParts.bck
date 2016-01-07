@@ -218,6 +218,12 @@ K AmpliOp
 F op_amps/tl071.pdf
 $ENDCMP
 #
+$CMP MC14584
+D Hex Schmitt Trigger Inverter
+K Schmitt Inverter
+F http://www.onsemi.com/pub_link/Collateral/MC14584B-D.PDF
+$ENDCMP
+#
 $CMP MIDI_DIN
 D Connecteur Din 5 broches
 K CONN DIN
