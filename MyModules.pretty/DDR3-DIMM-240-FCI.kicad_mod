@@ -1,9 +1,10 @@
-(module DDR3-DIMM-240-FCI (layer F.Cu) (tedit 5668A501)
+(module DDR3-DIMM-240-FCI (layer F.Cu) (tedit 5668A958)
   (descr http://www.mouser.com/ds/2/154/10081530-15446.pdf)
+  (tags "DDR3 DIMM")
   (fp_text reference REF** (at 0 6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DDR3-DIMM-240-FCI (at 0 -6) (layer F.Fab)
+  (fp_text value DDR3-DIMM-240-FCI (at 0 -6) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -59 -4) (end -59 4) (layer F.SilkS) (width 0.15))

@@ -1,0 +1,6 @@
+Apparently by SGI, it will convert VRML 1.0 to VRML 2.0. The executable, part of Cosmo Player, 
+was a Windows command line program called vrml1tovrml2.exe and required a dynamic linked library 
+called cp_vrml1to2.dll. The program is now distributed about the web as this pair of files. 
+Unzip the two files, which must remain together, into a directory which is in your path. 
+
+See: http://www.interocitors.com/polyhedra/vr1tovr2/

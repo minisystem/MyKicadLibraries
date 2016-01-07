@@ -1,0 +1,12 @@
+This is a wrapper which I have written to give vrml1tovrml2.exe above stdin and stdout support. 
+That is, you can now used named pipes for data flow through vrml1tovrml2. Unzip the program into 
+a directory in your path. Source code included. 
+
+Author: Roger Kaufman polyhedra@bigfoot.com 
+
+See: http://www.interocitors.com/polyhedra/vr1tovr2/
+
+Release History
+
+Mar 07, 2007	Initial Release
+Mar 03, 2007    Slight rewrite of vr1tovr2

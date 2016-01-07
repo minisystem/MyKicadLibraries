@@ -18,6 +18,11 @@ D 3 position switch, SP3T
 K switch SP3T
 $ENDCMP
 #
+$CMP 3PDT
+D 3PDT
+K switch
+$ENDCMP
+#
 $CMP 4013
 D Dual D  FlipFlop, Set & reset
 K CMOS DFF
@@ -167,9 +172,26 @@ K CMOS MUX MUX8
 F http://www.vishay.com/docs/70062/dg408.pdf
 $ENDCMP
 #
+$CMP DMMT3904W
+D 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-23
+K MMBT3904 NPN Transistor
+F http://www.diodes.com/_files/datasheets/ds30311.pdf
+$ENDCMP
+#
+$CMP DPDT
+D 3PDT
+K switch
+$ENDCMP
+#
 $CMP LDQ-M286R1
 D Lumex 4 digit 7 segment common anode display
 K 7 segment LED
+$ENDCMP
+#
+$CMP LM339-
+D Quad comparator.
+K Comp
+F op_amps/lm139.pdf
 $ENDCMP
 #
 $CMP LM3900
@@ -194,6 +216,12 @@ $CMP MAX9945
 D Op amp.
 K AmpliOp
 F op_amps/tl071.pdf
+$ENDCMP
+#
+$CMP MC14584
+D Hex Schmitt Trigger Inverter
+K Schmitt Inverter
+F http://www.onsemi.com/pub_link/Collateral/MC14584B-D.PDF
 $ENDCMP
 #
 $CMP MIDI_DIN

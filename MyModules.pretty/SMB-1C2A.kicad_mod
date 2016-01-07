@@ -1,4 +1,4 @@
-(module SMB (layer F.Cu) (tedit 5491A5F0)
+(module SMB-1C2A (layer F.Cu) (tedit 5676D40B)
   (descr DIODE)
   (tags DIODE)
   (attr smd)
@@ -19,8 +19,8 @@
   (fp_line (start 0.3905 -0.99822) (end -0.62804 0) (layer F.SilkS) (width 0.2032))
   (fp_line (start -0.62804 0) (end 0.3905 0.99822) (layer F.SilkS) (width 0.2032))
   (fp_line (start 0.3905 0.99822) (end 0.3905 -0.99822) (layer F.SilkS) (width 0.2032))
-  (pad 1 smd rect (at 2.19964 0) (size 2.39776 2.39776) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at -2.19964 0) (size 2.39776 2.39776) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 2.19964 0) (size 2.39776 2.39776) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at -2.19964 0) (size 2.39776 2.39776) (layers F.Cu F.Paste F.Mask))
   (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/SMB.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
