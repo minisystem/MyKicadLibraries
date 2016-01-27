@@ -1,6 +1,6 @@
-(module SOD323-C1A2 (layer F.Cu) (tedit 554B779C)
+(module SOD323-C1A2 (layer F.Cu) (tedit 56A44E48)
   (fp_text reference SOD323-JRL (at 0 -1.524) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
   )
   (fp_text value VAL** (at 0 1.905) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))

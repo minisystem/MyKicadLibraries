@@ -1,7 +1,7 @@
-(module SOT23-132-JRL (layer F.Cu) (tedit 56782352)
+(module SOT23-132-JRL (layer F.Cu) (tedit 56A44E60)
   (tags SOT23)
   (fp_text reference SOT23 (at 1.99898 -0.09906 90) (layer F.SilkS)
-    (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
+    (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
   )
   (fp_text value VAL (at 0.0635 0) (layer F.SilkS) hide
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))

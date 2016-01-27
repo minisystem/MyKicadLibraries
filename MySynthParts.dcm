@@ -4,7 +4,23 @@ $CMP +12V
 K POWER, PWR
 $ENDCMP
 #
+$CMP +5V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +5VR
+K POWER, PWR
+$ENDCMP
+#
+$CMP +V
+K POWER, PWR
+$ENDCMP
+#
 $CMP -12V
+K POWER, PWR
+$ENDCMP
+#
+$CMP -V
 K POWER, PWR
 $ENDCMP
 #
@@ -23,6 +39,11 @@ D 3PDT
 K switch
 $ENDCMP
 #
+$CMP 4011
+D Quad Nand 2 inputs
+K CMOS Nand2
+$ENDCMP
+#
 $CMP 4013
 D Dual D  FlipFlop, Set & reset
 K CMOS DFF
@@ -33,6 +54,10 @@ $CMP 4016
 D Op amp.
 K AmpliOp
 F AmpliOp.sch
+$ENDCMP
+#
+$CMP 5V
+K POWER, PWR
 $ENDCMP
 #
 $CMP 74AC273
@@ -117,6 +142,54 @@ K AVR 8bit Microcontroller MegaAVR
 F http://www.atmel.com/images/doc7593.pdf
 $ENDCMP
 #
+$CMP ATMEGA168PA-A
+D TQFP32, 16k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA328-A
+D TQFP32, 32k Flash, 2kB SRAM, 1kB EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA328P-A
+D TQFP32, 32k Flash, 2kB SRAM, 1kB EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA328PB
+D TQFP32, 16k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA48A-A
+D TQFP32, 4k Flash, 512B SRAM, 256B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA48PA-A
+D TQFP32, 4k Flash, 512B SRAM, 256B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA88A-A
+D TQFP32, 8k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA88PA-A
+D TQFP32, 8k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
 $CMP BCM857BS
 F transistors/bipolar/*.*
 $ENDCMP
@@ -125,6 +198,11 @@ $CMP BU4S584G2
 D Singe Schmitt Trigger Inverter
 K Schmitt Inverter
 F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/logic_switch/standard_logic/bu4s01g2-e.pdf
+$ENDCMP
+#
+$CMP CD4011
+D Quad Nand 2 inputs
+K CMOS Nand2
 $ENDCMP
 #
 $CMP CD4016
@@ -141,6 +219,11 @@ $ENDCMP
 $CMP CD4052
 D Dual Analog Multiplexer 4 to 1 line
 K CMOS MUX MUX4
+$ENDCMP
+#
+$CMP CD4053
+D SPDT CMOS ANALOG SWITCH
+K switch
 $ENDCMP
 #
 $CMP CD4072
