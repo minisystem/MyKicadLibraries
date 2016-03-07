@@ -16,9 +16,9 @@
   (pad 3 thru_hole circle (at 2.5 7.5) (size 1.75 1.75) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 7.5) (size 1.75 1.75) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -2.5 7.5) (size 1.75 1.75) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/THONK-SONG-HUEI-R0904N-L-25-KQ.wrl"
+  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/ALPHA-9MM-RV09AF-40.wrl"
     (at (xyz 0 0 0))
-    (scale (xyz 0.3968 0.3968 0.3968))
-    (rotate (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 180 0))
   )
 )

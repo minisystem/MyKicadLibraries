@@ -16,9 +16,9 @@
   (fp_circle (center 0 0) (end 0 -1.5) (layer F.SilkS) (width 0.15))
   (pad 2 thru_hole rect (at -1.27 0) (size 1.2 1.2) (drill 0.65) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 1.27 0) (size 1.2 1.2) (drill 0.65) (layers *.Cu *.Mask F.SilkS))
-  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/WP424SRDT.wrl"
+  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/WP710A10ID-3MMLED.wrl"
     (at (xyz 0 0 0.254))
-    (scale (xyz 0.3968 0.3968 0.3968))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )

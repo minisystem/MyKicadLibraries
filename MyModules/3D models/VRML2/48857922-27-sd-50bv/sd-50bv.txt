@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"60-13102015-102814";"";
+"REFERENCE";"SD-50BV";"";
+"TraceParts.PartTitle";"SD-XXBV Series - 3~8 Positions, Receptacle, Vertical, Through Hole, Shielded, Standard Circular DIN Connector";"";
+"TraceParts.InstanceId";"60-13102015-10281460VF4F05VQDP5QLRG3OEZ4GW7";"";
+"DESIGN";"Din Receptacle, Vertical, PCB  5P";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:60-13102015-102814";"";

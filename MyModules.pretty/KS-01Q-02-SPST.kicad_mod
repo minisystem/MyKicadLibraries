@@ -15,4 +15,9 @@
   (pad 1 thru_hole circle (at -2.5 2.5) (size 2.25 2.25) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -2.5 -2.5) (size 2.25 2.25) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.5 -2.5) (size 2.25 2.25) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
+  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/KS-01Q.wrl"
+    (at (xyz 0 0 0.2874))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
 )

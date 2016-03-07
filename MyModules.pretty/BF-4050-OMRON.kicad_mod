@@ -1,6 +1,6 @@
-(module BF-4050-OMRON (layer F.Cu) (tedit 56A13631)
-  (fp_text reference REF** (at 0.5 7.25) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+(module BF-4050-OMRON (layer F.Cu) (tedit 56D08173)
+  (fp_text reference REF** (at 0 0 90) (layer F.SilkS)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value BF-4050-OMRON (at 0 -7) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
@@ -20,4 +20,9 @@
   (pad 1 thru_hole oval (at 6.25 -2.5) (size 3 2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 0 -4.5) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 0 4.5) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
+  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_4050-RED.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz -90 0 0))
+  )
 )
