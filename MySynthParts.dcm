@@ -16,11 +16,19 @@ $CMP +V
 K POWER, PWR
 $ENDCMP
 #
+$CMP +Vn
+K POWER, PWR
+$ENDCMP
+#
 $CMP -12V
 K POWER, PWR
 $ENDCMP
 #
 $CMP -V
+K POWER, PWR
+$ENDCMP
+#
+$CMP -Vn
 K POWER, PWR
 $ENDCMP
 #
@@ -299,6 +307,12 @@ $CMP MAX9945
 D Op amp.
 K AmpliOp
 F op_amps/tl071.pdf
+$ENDCMP
+#
+$CMP MBT3946DW
+D Complementary NPN, PNP transistor
+K 3946  NPN  PNP dual transistor
+F http://www.onsemi.com/pub_link/Collateral/MBT3946DW1T1-D.PDF
 $ENDCMP
 #
 $CMP MC14584

@@ -20,7 +20,7 @@
   (pad 2 thru_hole circle (at 0 16) (size 1.99898 1.99898) (drill 1.30048) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 5 16) (size 1.99898 1.99898) (drill 1.30048) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -5 16) (size 1.99898 1.99898) (drill 1.30048) (layers *.Cu *.Mask F.SilkS))
-  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/3RP-1610N.wrl"
+  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/ALPHA-3RP-1610N.wrl"
     (at (xyz 0 0 0.35))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
