@@ -340,6 +340,12 @@ D Connecteur BUS PCI
 K PCI
 $ENDCMP
 #
+$CMP PMP5201
+D 40V Vce, 0.2A Ic, PNP, Small Signal Transistor, SOT-23
+K MMBT3904 PNP Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3906.pdf
+$ENDCMP
+#
 $CMP R-78E5.0-1.0
 D Switching Regulator +5V
 K Recom SMPS
