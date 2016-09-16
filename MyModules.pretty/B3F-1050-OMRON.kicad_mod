@@ -18,7 +18,7 @@
   (pad 2 thru_hole oval (at -3.25 2.25) (size 2.2 1.4) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole oval (at 3.25 -2.25) (size 2.25 1.4) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 3.25 2.25) (size 2.25 1.4) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_1050-RED.wrl"
+  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/B3F_1050-black-round-cap.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 0))

@@ -198,6 +198,11 @@ K AVR 8bit Microcontroller MegaAVR PicoPower
 F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
 $ENDCMP
 #
+$CMP BAT54SL
+D Diode Schottky Array
+F http://www.onsemi.com/pub_link/Collateral/BAT54SLT1-D.PDF
+$ENDCMP
+#
 $CMP BCM857BS
 F transistors/bipolar/*.*
 $ENDCMP
