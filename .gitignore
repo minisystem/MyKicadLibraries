@@ -2,9 +2,8 @@
 
 #ignore Misioto libraries
 MyModules/3D\ models/Misioto\ Models/
-mod_conn_pc/
-mod_smd_dil/
-mod_smd_trans
+MyModules/3D\ models/walter/
+mod_*
 
 #ignore zilog files
 *zilog*

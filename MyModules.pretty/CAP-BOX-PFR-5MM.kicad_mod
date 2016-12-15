@@ -12,7 +12,7 @@
   (fp_line (start -3.75 2.25) (end -3.75 0) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at -2.5 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.5 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
-  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/7.2mm x 4.5mm box cap.wrl"
+  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/7.2mm x 4.5mm box cap.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

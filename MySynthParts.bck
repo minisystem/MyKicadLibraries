@@ -126,6 +126,12 @@ K POWER REGUL
 F regulator\lm78lxx.pdf
 $ENDCMP
 #
+$CMP A733
+D 40V Vce, 0.2A Ic, PNP, Small Signal Transistor, SOT-23
+K MMBT3904 PNP Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3906.pdf
+$ENDCMP
+#
 $CMP AD8065AR
 D Dual Op amp (low power)
 K ampliop
@@ -211,6 +217,12 @@ $CMP BU4S584G2
 D Singe Schmitt Trigger Inverter
 K Schmitt Inverter
 F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/logic_switch/standard_logic/bu4s01g2-e.pdf
+$ENDCMP
+#
+$CMP C945
+D 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-23
+K MMBT3904 NPN Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3904.pdf
 $ENDCMP
 #
 $CMP CD4011
@@ -351,6 +363,12 @@ K MMBT3904 NPN Transistor
 F http://www.diodes.com/_files/datasheets/ds30311.pdf
 $ENDCMP
 #
+$CMP PMP4201G
+D 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-23
+K MMBT3904 NPN Transistor
+F http://www.diodes.com/_files/datasheets/ds30311.pdf
+$ENDCMP
+#
 $CMP PMP5201
 D 40V Vce, 0.2A Ic, PNP, Small Signal Transistor, SOT-23
 K MMBT3904 PNP Transistor
@@ -362,10 +380,20 @@ D Switching Regulator +5V
 K Recom SMPS
 $ENDCMP
 #
+$CMP SPDT
+D Double Single Pole Double Throw (SPDT) switch
+$ENDCMP
+#
 $CMP SUM
 D Op amp.
 K AmpliOp
 F AmpliOp.sch
+$ENDCMP
+#
+$CMP TA75S558F
+D Dual Op amp (low power)
+K ampliop
+F ns/lm158.pdf
 $ENDCMP
 #
 $CMP TACT_SWITCH
@@ -392,6 +420,12 @@ $ENDCMP
 $CMP TL1240
 D Illuminated Tact Switch
 K LED SWITCH
+$ENDCMP
+#
+$CMP TS321
+D Dual Op amp (low power)
+K ampliop
+F ns/lm158.pdf
 $ENDCMP
 #
 $CMP VCA
