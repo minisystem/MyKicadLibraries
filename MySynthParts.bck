@@ -42,9 +42,32 @@ D 3 position switch, SP3T
 K switch SP3T
 $ENDCMP
 #
+$CMP 2SA1618
+D 40V Vce, 0.2A Ic, PNP, Small Signal Transistor, SOT-23
+K MMBT3904 PNP Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3906.pdf
+$ENDCMP
+#
+$CMP 2SA1832
+D 40V Vce, 0.2A Ic, PNP, Small Signal Transistor, SOT-23
+K MMBT3904 PNP Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3906.pdf
+$ENDCMP
+#
+$CMP 2SC4738
+D 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-23
+K MMBT3904 NPN Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3904.pdf
+$ENDCMP
+#
 $CMP 3PDT
 D 3PDT
 K switch
+$ENDCMP
+#
+$CMP 4-SMD-XTAL
+D Two pin crystal
+K Quartz, Ceramic, Filter, Resonator
 $ENDCMP
 #
 $CMP 4011
@@ -241,6 +264,11 @@ D Dual JK FlipFlop, set & reset
 K CMOS JK JKFF
 $ENDCMP
 #
+$CMP CD4051
+D Analog Multiplexer 8 to 1 lins
+K CMOS MUX MUX8
+$ENDCMP
+#
 $CMP CD4052
 D Dual Analog Multiplexer 4 to 1 line
 K CMOS MUX MUX4
@@ -286,6 +314,16 @@ K MMBT3904 NPN Transistor
 F http://www.diodes.com/_files/datasheets/ds30311.pdf
 $ENDCMP
 #
+$CMP DMMT3906W
+F transistors/bipolar/*.*
+$ENDCMP
+#
+$CMP DMMT3906W-K4B
+D 40V Vce, 0.2A Ic, PNP, Small Signal Transistor, SOT-23
+K MMBT3904 PNP Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3906.pdf
+$ENDCMP
+#
 $CMP DPDT
 D 3PDT
 K switch
@@ -294,6 +332,12 @@ $ENDCMP
 $CMP LDQ-M286R1
 D Lumex 4 digit 7 segment common anode display
 K 7 segment LED
+$ENDCMP
+#
+$CMP LM1117
+D 0.5A 35V Adjustable Linear Regulator, LCC-20
+K Adjustable Voltage Regulator 0.5A Positive
+F http://www.national.com/ds/LM/LM117.pdf
 $ENDCMP
 #
 $CMP LM339-
@@ -320,6 +364,12 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP MAX5134
+D Micropower 12-bit 4 Channel ADC, Serial IO, SOIC-16
+K 12bit ADC 4 Channel
+F http://cds.linear.com/docs/en/datasheet/15948fb.pdf
+$ENDCMP
+#
 $CMP MAX9945
 D Op amp.
 K AmpliOp
@@ -338,6 +388,12 @@ K Schmitt Inverter
 F http://www.onsemi.com/pub_link/Collateral/MC14584B-D.PDF
 $ENDCMP
 #
+$CMP MCP1703
+D 0.5A 35V Adjustable Linear Regulator, LCC-20
+K Adjustable Voltage Regulator 0.5A Positive
+F http://www.national.com/ds/LM/LM117.pdf
+$ENDCMP
+#
 $CMP MIDI_DIN
 D Connecteur Din 5 broches
 K CONN DIN
@@ -345,6 +401,12 @@ $ENDCMP
 #
 $CMP NE555
 F ns/lm555.pdf
+$ENDCMP
+#
+$CMP OPA171
+D Dual Op amp (low power)
+K ampliop
+F ns/lm158.pdf
 $ENDCMP
 #
 $CMP PC900V
@@ -366,7 +428,7 @@ $ENDCMP
 $CMP PMP4201G
 D 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-23
 K MMBT3904 NPN Transistor
-F http://www.diodes.com/_files/datasheets/ds30311.pdf
+F http://www.nxp.com/documents/data_sheet/MMBT3904.pdf
 $ENDCMP
 #
 $CMP PMP5201
@@ -375,9 +437,20 @@ K MMBT3904 PNP Transistor
 F http://www.nxp.com/documents/data_sheet/MMBT3906.pdf
 $ENDCMP
 #
+$CMP PMP5201G
+D 40V Vce, 0.2A Ic, PNP, Small Signal Transistor, SOT-23
+K MMBT3904 PNP Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3906.pdf
+$ENDCMP
+#
 $CMP R-78E5.0-1.0
 D Switching Regulator +5V
 K Recom SMPS
+$ENDCMP
+#
+$CMP SN7407
+D Hex Inverseur
+K TTL not inv
 $ENDCMP
 #
 $CMP SPDT
