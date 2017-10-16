@@ -340,10 +340,21 @@ D Lumex 4 digit 7 segment common anode display
 K 7 segment LED
 $ENDCMP
 #
+$CMP LED_BICOLOR
+D DOUBLE type Bicolore
+K LED
+$ENDCMP
+#
 $CMP LM1117
 D 0.5A 35V Adjustable Linear Regulator, LCC-20
 K Adjustable Voltage Regulator 0.5A Positive
 F http://www.national.com/ds/LM/LM117.pdf
+$ENDCMP
+#
+$CMP LM301
+D Op amp.
+K AmpliOp
+F op_amps/tl071.pdf
 $ENDCMP
 #
 $CMP LM339-
@@ -452,6 +463,12 @@ $ENDCMP
 $CMP R-78E5.0-1.0
 D Switching Regulator +5V
 K Recom SMPS
+$ENDCMP
+#
+$CMP RC4558
+D Dual Op amp (low power)
+K ampliop
+F ns/lm158.pdf
 $ENDCMP
 #
 $CMP SN7407
