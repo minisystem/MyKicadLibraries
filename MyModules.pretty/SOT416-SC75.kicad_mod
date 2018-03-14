@@ -12,4 +12,9 @@
   (pad 3 smd rect (at -0.65 0) (size 0.6 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0.65 0.5) (size 0.6 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.65 -0.5) (size 0.6 0.5) (layers F.Cu F.Paste F.Mask))
+  (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/VRML2/SOT416.wrl"
+    (at (xyz 0 0 0.0175))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz -90 0 0))
+  )
 )

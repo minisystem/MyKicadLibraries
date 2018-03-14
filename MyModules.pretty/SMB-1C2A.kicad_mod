@@ -1,12 +1,12 @@
-(module SMB-1C2A (layer F.Cu) (tedit 5676D40B)
+(module SMB-1C2A (layer F.Cu) (tedit 5A1AE5A0)
   (descr DIODE)
   (tags DIODE)
   (attr smd)
-  (fp_text reference >NAME (at 1.016 -2.794) (layer B.SilkS)
-    (effects (font (size 1.27 1.27) (thickness 0.0889)))
+  (fp_text reference >NAME (at -0.25 -2.5) (layer F.SilkS)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value >VALUE (at 1.651 2.794) (layer B.SilkS) hide
-    (effects (font (size 1.27 1.27) (thickness 0.0889)))
+  (fp_text value >VALUE (at 0 2.75) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -2.2606 1.08966) (end -2.2606 -1.08966) (layer F.SilkS) (width 0.06604))
   (fp_line (start 2.2606 1.08966) (end 2.2606 -1.08966) (layer F.SilkS) (width 0.06604))
