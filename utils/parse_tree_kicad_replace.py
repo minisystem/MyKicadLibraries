@@ -1,8 +1,17 @@
+# NOTE: you need to install parsimonious, a Python library, for this to work.
+# You can use pip or your favourite installer, or go here:
+# https://github.com/erikrose/parsimonious
+# and download and run python setup.py install from the parsimonious-master folder
+#
+# To generate the example_replaced.kicad_pcb file in this directory, run
+# python parse_tree_kicad_replace.py example_old.kicad_pcb MyModules:SM0603-R-JRL example_new.module > example_replaced.kicad_pcb
+
+
 from parsimonious.grammar import Grammar
 from parsimonious.nodes import NodeVisitor
 import sys
 
-# OMG the KICAD setup allows parens inside quotes, ay ya, hence the more complicated "text" expressions
+# OMG KICAD file format allows parens inside quotes, ay ya, hence the more complicated "text" expressions
 grammar = """\
 entry = opt_ws left_paren id ws item right_paren opt_ws
 item = (text (entry / text)+) / text
@@ -15,19 +24,11 @@ right_paren = ")"
 """
 
 class EntryParser(NodeVisitor):
-    #def __init__(self, grammar, text):
-        #self.final_entry = self.visit(ast)
-    
-    #def visit_entry(self, n, vc):
-      #if vc[2] == "fp_line":
-      #  print vc
-      #return n.text
-    
-    #def visit_entry(self, n, vc):
-    #  print vc
-    
-    def visit_id(self, n, vc):
-      sys.stdout.write(n.text)
+    # NOTE: you can't actually really edit parse trees, at least not easily, because
+    # they all refer to the one string of text that was parsed
+    # So instead, for what I'm doing, I make changes at the base most level (the individual elements, like
+    # "text" above. And then to print out the tree, I spit out the base level elements, which I've edited
+    # in my replace functions below
     
     def visit_text(self, n, vc):
       sys.stdout.write(n.text)
@@ -38,78 +39,19 @@ class EntryParser(NodeVisitor):
     def visit_ws(self, n, vc):
       sys.stdout.write(n.text)
    
+    def visit_id(self, n, vc):
+      sys.stdout.write(n.text)
+   
     def visit_left_paren(self, n, vc):
       sys.stdout.write(n.text)
     
     def visit_right_paren(self, n, vc):
       sys.stdout.write(n.text)
-    
-    
-      
+         
     def generic_visit(self, n, vc):
+      # with all other element visits (eg entry, item) we do nothing
       pass
         
-
-#text_one_line = "(module SM0603-R-YAGEO (layer Bob))"
-text_one_line = "(module SM0603-R-YAGEO (layer F.Cu) (tedit 5AA54555))"
-text_multi_line = """
-(module SM0603-R-YAGEO (layer F.Cu) (tedit 5AA54555)
-  (attr smd)
-  (fp_text value Val** (at 0 0) (layer F.SilkS) hide
-    (effects (font (size 0.508 0.4572) (thickness 0.1143)))
-  )
-  )
-"""
-
-text_old = """\
-(module SM0603-R-BAGEO (layer F.Cu) (tedit 5AA54555)
-  (attr smd)
-  (fp_text reference OmarOmar (at 0 -1.4) (layer Bobby)
-    (effects (font (size 1.1111 1.1111) (thickness 1.1111)))
-  )
-  (fp_text value Val** (at 0 0) (layer Bobby) hide
-    (effects (font (size 2.222 2.2222) (thickness 2.2222)))
-  )
-  (fp_line (start -1.5 -0.7) (end -0.5 -0.7) (layer Bobby) (width 0.2))
-  (fp_line (start 1.5 0.7) (end 1.5 -0.7) (layer Bobby) (width 0.2))
-  (fp_line (start -1.5 -0.7) (end -1.5 0.7) (layer Bobby) (width 0.2))
-  (fp_line (start -1.5 0.7) (end -0.5 0.7) (layer Bobby) (width 0.2))
-  (fp_line (start 0.5 -0.7) (end 1.5 -0.7) (layer Bobby) (width 0.2))
-  (fp_line (start 0.5 0.7) (end 1.5 0.7) (layer Bobby) (width 0.2))
-  (pad 1 smd rect (at -0.8125 0) (size 0.8125 0.8125) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 0.8125 0) (size 0.8125 0.8125) (layers F.Cu F.Paste F.Mask))
-  (model Resistors_SMD.3dshapes/R_0603.wrl
-    (at (xyz 0 0 0.001))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-)
-"""
-
-text_new = """\
-(module MyModules:SM0603-R-YAGEO (layer F.Cu) (tedit 5AA54555)
-  (attr smd)
-  (fp_text reference SM0603 (at 0 -1.4) (layer F.SilkS)
-    (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
-  )
-  (fp_text value Val** (at 0 0) (layer F.SilkS) hide
-    (effects (font (size 0.508 0.4572) (thickness 0.1143)))
-  )
-  (fp_line (start -1.5 -0.7) (end -0.5 -0.7) (layer F.SilkS) (width 0.2))
-  (fp_line (start 1.5 0.7) (end 1.5 -0.7) (layer F.SilkS) (width 0.2))
-  (fp_line (start -1.5 -0.7) (end -1.5 0.7) (layer F.SilkS) (width 0.2))
-  (fp_line (start -1.5 0.7) (end -0.5 0.7) (layer F.SilkS) (width 0.2))
-  (fp_line (start 0.5 -0.7) (end 1.5 -0.7) (layer F.SilkS) (width 0.2))
-  (fp_line (start 0.5 0.7) (end 1.5 0.7) (layer F.SilkS) (width 0.2))
-  (pad 1 smd rect (at -0.8125 0) (size 0.8125 0.8125) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 0.8125 0) (size 0.8125 0.8125) (layers F.Cu F.Paste F.Mask))
-  (model Resistors_SMD.3dshapes/R_0603.wrl
-    (at (xyz 0 0 0.001))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-)
-"""
 
 def removeChildrenAndWalk(node, to_remove):
     bad = []
@@ -124,12 +66,6 @@ def removeChildrenAndWalk(node, to_remove):
       removeChildrenAndWalk(c, to_remove)
 
 def replaceElementText(node, parent_name, parent_match, node_match, new_text):
-  #if node.expr_name == "entry":
-  #  print "--", parent_name
-  #  for c in node.children:
-  #    print c.expr_name,
-  #  print node.children[2].text, len(node.children[2].text)
-  
   if parent_name == parent_match:
     #print parent_name
     if node.expr_name == "entry" and node.children[2].text == node_match:
@@ -145,8 +81,7 @@ def replaceElementText(node, parent_name, parent_match, node_match, new_text):
   if node.expr_name == "entry":
     parent_name = node.children[2].text
     # print parent_name
-  
-  
+    
   for c in node.children:
     replaceElementText(c, parent_name, parent_match, node_match, new_text)
 
@@ -178,16 +113,29 @@ def replaceNodes(node, rep_map):
       node.children[node.children.index(c)] = rep_map[c]
     else:
       replaceNodes(c, rep_map)
-  
 
-f = open('C:\\Users\\Omar\\Downloads\\750 LFO S&H NOISE SLEW.kicad_pcb', 'r')
+# right now this code does module replace, and assumes you want to preserve the 
+# fp_text elements of the old modules, as well as the position and nets of the pads. 
+# It won't work if you're adding pads, or the pad ordering has changed. And it will barf
+# and fail in those situations
+# Outputs to standard out  
+
+old_file = sys.argv[1]
+old_module_name = sys.argv[2]
+new_module_file = sys.argv[3]
+
+f = open(old_file, 'r')
 pcb = f.read()
+f.close()
 pcb = getModule(pcb)
-modules_to_update = getAllEntries(pcb, "module", "MyModules:SM0603-R-JRL")
+f = open(new_module_file, 'r')
+new_module_text = f.read()
+f.close()
+modules_to_update = getAllEntries(pcb, "module", old_module_name)
 replacement_map = {}
 for old in modules_to_update:
   # get the new module and delete the fp_texts in it
-  new_module = getModule(text_new)
+  new_module = getModule(new_module_text)
   removeChildrenAndWalk(new_module, "fp_text")
   
   # add in all the key elements from the old module
