@@ -238,6 +238,18 @@ D Diode Schottky Array
 F http://www.onsemi.com/pub_link/Collateral/BAT54SLT1-D.PDF
 $ENDCMP
 #
+$CMP BCM847
+D 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-23
+K MMBT3904 NPN Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3904.pdf
+$ENDCMP
+#
+$CMP BCM857
+D 40V Vce, 0.2A Ic, PNP, Small Signal Transistor, SOT-23
+K MMBT3904 PNP Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3906.pdf
+$ENDCMP
+#
 $CMP BCM857BS
 F transistors/bipolar/*.*
 $ENDCMP
@@ -268,6 +280,11 @@ $ENDCMP
 $CMP CD4027
 D Dual JK FlipFlop, set & reset
 K CMOS JK JKFF
+$ENDCMP
+#
+$CMP CD4048B
+D Dual Analog Multiplexer 4 to 1 line
+K CMOS MUX MUX4
 $ENDCMP
 #
 $CMP CD4051
@@ -349,6 +366,18 @@ $CMP LM1117
 D 0.5A 35V Adjustable Linear Regulator, LCC-20
 K Adjustable Voltage Regulator 0.5A Positive
 F http://www.national.com/ds/LM/LM117.pdf
+$ENDCMP
+#
+$CMP LM2940
+D Linear Regulator -12V
+K POWER REGUL
+F http://www.ti.com/lit/ds/symlink/lm2990.pdf
+$ENDCMP
+#
+$CMP LM2990
+D Linear Regulator -12V
+K POWER REGUL
+F http://www.ti.com/lit/ds/symlink/lm2990.pdf
 $ENDCMP
 #
 $CMP LM301
